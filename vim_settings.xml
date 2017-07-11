@@ -32,11 +32,11 @@
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" timestamp="1499782922762">
         <mark key="'" line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/ItchFileSource.java" timestamp="1499796821722">
-        <mark key="[" line="65" column="66" />
-        <mark key="]" line="65" column="65" />
-        <mark key="^" line="65" column="65" />
-        <mark key="." line="65" column="65" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/ItchFileSource.java" timestamp="1499797423164">
+        <mark key="[" line="90" column="48" />
+        <mark key="]" line="90" column="48" />
+        <mark key="^" line="90" column="48" />
+        <mark key="." line="90" column="48" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/people/will/src/main/kotlin/com/sandiacap/scratch/will/ResearchBasics.kt" timestamp="1499382101384">
         <mark key="'" line="229" column="0" />
@@ -300,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>done/failure.</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>done/failure.</text>
       </register>
       <register name="/" type="4">
         <text>getnan</text>
@@ -312,34 +312,34 @@
         <text encoding="base64">IGJ5dGVbXSBoZWFkZXIgPSBuZXcgYnl0ZVtTbmFwcHlDb2RlYy5IRUFERVJfU0laRV07CiAgICBpbnQgcmVhZCA9IGlzLnJlYWQoaGVhZGVyKTsKICAgIGlmIChyZWFkICE9IGhlYWRlci5sZW5ndGggfHwgIVNuYXBweUNvZGVjLmhhc01hZ2ljSGVhZGVyUHJlZml4KGhlYWRlcikpIHsKICAgICAgaXMucmVzZXQoKTsKICAgICAgdGhyb3cgbmV3IElPRXhjZXB0aW9uKCk7CiAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBUaGlzIG1ldGhvZCBzaW1wbHkgcGVyZm9ybXMgPGNvZGU+aW4ubWFyayhyZWFkbGltaXQpPC9jb2RlPi4K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIERPTkU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiA8cD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBpbnZhbGlkYXRlZC4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiBhbGxvdyB0aGF0IG1hbnkgYnl0ZXMgdG8gYmUgcmVhZCBiZWZvcmUgdGhlIG1hcmsgcG9zaXRpb24gZ2V0cwo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgRXhjZXB0aW9uVXRpbHMudG9SdW50aW1lKGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBUaGUgPGNvZGU+cmVhZGxpbWl0PC9jb2RlPiBhcmd1bWVudCB0ZWxscyB0aGlzIGlucHV0IHN0cmVhbSB0bwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMubmFub3NBdE1pZG5pZ2h0TmV3WW9yawo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMuRGF0ZVRpbWVVdGlscwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmsgPSAwOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgKiBUaGlzIG1ldGhvZCBzaW1wbHkgcGVyZm9ybXMgPGNvZGU+aW4ubWFyayhyZWFkbGltaXQpPC9jb2RlPi4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgKiA8cD4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgKiBpbnZhbGlkYXRlZC4K</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -393,8 +393,8 @@
         <entry>W</entry>
         <entry>Wa</entry>
         <entry>aw</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
