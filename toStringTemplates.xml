@@ -1,0 +1,13 @@
+<application>
+  <component name="ToStringTemplates">
+    <option name="defaultTempalteName" value="Guava toString helper" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="Guava toString helper" />
+          <option name="template" value="public String toString() {&#10;#set ($autoImportPackages = &quot;com.google.common.base.MoreObjects&quot;)&#10;    return MoreObjects.toStringHelper(this)&#10;#foreach ($member in $members)&#10;    .add(&quot;$member.name&quot;, $member.accessor)&#10;#end&#10;    .toString();&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>
