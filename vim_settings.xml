@@ -215,11 +215,11 @@
         <mark key="^" line="180" column="54" />
         <mark key="." line="180" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/ToStringer.java" timestamp="1499887579307">
-        <mark key="[" line="104" column="41" />
-        <mark key="]" line="104" column="48" />
-        <mark key="^" line="104" column="48" />
-        <mark key="." line="104" column="48" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/ToStringer.java" timestamp="1499888662528">
+        <mark key="[" line="104" column="43" />
+        <mark key="]" line="104" column="44" />
+        <mark key="^" line="104" column="44" />
+        <mark key="." line="104" column="44" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/offheap_classes/MyOffHeapAbstractClass.java" timestamp="1499804959278">
         <mark key="[" line="22" column="15" />
@@ -359,10 +359,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">ICsgIiAtLSAiKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">ICsgIiAtLSAiKTs=</text>
       </register>
       <register name="/" type="4">
         <text>stockdirectory</text>
@@ -398,7 +398,7 @@
         <text encoding="base64">ICAgICAgICBjCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -452,8 +452,8 @@
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
