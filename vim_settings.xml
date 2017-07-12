@@ -234,6 +234,9 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
+      <file name="/fragment.java" timestamp="1499884590794">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="139" column="10" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
