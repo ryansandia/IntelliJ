@@ -57,6 +57,12 @@
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Striper.java" timestamp="1499985886610">
+        <mark key="[" line="58" column="36" />
+        <mark key="]" line="59" column="24" />
+        <mark key="^" line="59" column="24" />
+        <mark key="." line="59" column="24" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/OffHeapMemory.java" timestamp="1499804732503">
         <mark key="'" line="12" column="22" />
         <mark key="[" line="60" column="0" />
@@ -242,7 +248,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1499982542044">
+      <file name="/fragment.java" timestamp="1499985807692">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -350,10 +356,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.getStock() + &quot;@&quot; + event.getTimestamp() + &quot; -- &quot; + event);</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="-" type="4">
-        <text>.getStock() + &quot;@&quot; + event.getTimestamp() + &quot; -- &quot; + event);</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRGb2xkZXJcPg==</text>
@@ -362,34 +368,34 @@
         <text encoding="base64">IEl0Y2hTdHJpcGVSZXN1bHQgcmVzdWx0ID0gbmV3IEl0Y2hTdHJpcGVSZXN1bHQoKTsKICAgIHJlc3VsdC51cGxvYWRlZENvdW50ID0gd3JpdGVyLmdldFVwbG9hZGVkRmlsZXMoKTsKICAgIHJlc3VsdC5leHBlY3RlZEZpbGVzID0gd3JpdGVyLmdldEV4cGVjdGVkRmlsZXMoKTsKICAgIHJlc3VsdC5tZXNzYWdlQ291bnQgPSB0b3RhbE1zZ3M7CiAgICByZXN1bHQuZXhjZXB0aW9uID0gbnVsbDsKICAgIHJlc3VsdC5kYXRlID0gZGF0ZTsKICAgIHJlc3VsdC5zdGF0dXMgPSBTdGF0dXMuQ29tcGxldGVkOwogICAgcmV0dXJuIHJlc3VsdDs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyB2ZXJzaW9uID0gSXRjaEZ0cExvYWRlci5nZXRWZXJzaW9uKGRhdGUpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIC0tIHVzZSBsb2dpYyB0byBzd2l0Y2ggb2ZmIHRyYW5zbGF0b3JzLi4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNyYy5zZXRsb2NhCg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIC0tIHVzZSBsb2dpYyB0byBzd2l0Y2ggb2ZmIHRyYW5zbGF0b3JzLi4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBpdGNobWVzc2FnZS5ub2lpOgo=</text>
+        <text encoding="base64">ICAgIHNyYy5zZXRsb2NhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJyb2tlblRyYWRlLnNldFRyYWNraW5nTnVtYmVyKChzaG9ydCkgMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBpdGNobWVzc2FnZS5ub2lpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGJyb2tlblRyYWRlLnNldFRyYWNraW5nTnVtYmVyKChzaG9ydCkgMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhcmRlLnNldHNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhcmRlLnNldAo=</text>
+        <text encoding="base64">ICAgIHRhcmRlLnNldHNoCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -443,8 +449,8 @@
         <entry>Wa</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
