@@ -108,12 +108,12 @@
         <mark key="." line="11" column="72" />
         <mark key="^" line="11" column="72" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventHandler.java" timestamp="1499975913504">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="10" />
-        <mark key="^" line="23" column="10" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventHandler.java" timestamp="1499980870859">
+        <mark key="'" line="89" column="37" />
+        <mark key="[" line="136" column="27" />
+        <mark key="]" line="136" column="28" />
+        <mark key="^" line="139" column="65" />
+        <mark key="." line="136" column="28" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/generator/ClassParserTest.java" timestamp="1499965846711">
         <mark key="[" line="54" column="8" />
@@ -134,12 +134,12 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/ItchMessage.java" timestamp="1499973499386">
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/ItchMessage.java" timestamp="1499980852003">
         <mark key="'" line="8" column="17" />
-        <mark key="[" line="41" column="33" />
-        <mark key="]" line="43" column="12" />
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="10" />
         <mark key="^" line="43" column="12" />
-        <mark key="." line="43" column="12" />
+        <mark key="." line="24" column="10" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" timestamp="1499975069493">
         <mark key="'" line="219" column="4" />
@@ -277,14 +277,14 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" timestamp="1499976526149">
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" timestamp="1499980894070">
         <mark key="a" line="172" column="4" />
-        <mark key="'" line="201" column="44" />
+        <mark key="'" line="42" column="0" />
         <mark key="j" line="2" column="0" />
-        <mark key="[" line="108" column="2" />
-        <mark key="]" line="108" column="8" />
-        <mark key="^" line="108" column="8" />
-        <mark key="." line="108" column="8" />
+        <mark key="[" line="172" column="31" />
+        <mark key="]" line="172" column="32" />
+        <mark key="^" line="468" column="70" />
+        <mark key="." line="172" column="32" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/OffHeapMemory.java" timestamp="1499804732503">
         <mark key="'" line="12" column="22" />
@@ -395,12 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="55" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
-      <jump line="108" column="2" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
-      <jump line="135" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
-      <jump line="212" column="26" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
-      <jump line="51" column="33" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
-      <jump line="105" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
       <jump line="297" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
       <jump line="54" column="33" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
       <jump line="115" column="2" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
@@ -495,46 +489,52 @@
       <jump line="200" column="44" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
       <jump line="34" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventHandler.java" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/ItchFileSource.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
+      <jump line="60" column="7" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventHandler.java" />
+      <jump line="27" column="68" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventHandler.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
+      <jump line="49" column="88" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventHandler.java" />
+      <jump line="89" column="37" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1024</text>
+        <text>itchMessage</text>
       </register>
       <register name="-" type="4">
-        <text>1024</text>
+        <text>itchMessage</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGJ1ZmZlcmVkU3RyZWFtOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgY2FzZSBJdGNoTWVzc2FnZS5TWVNURU1fRVZFTlQ6CiAgICAgICAgbGlzdGVuZXIub25FdmVudChjb252ZXJ0KHNyY1N5c3RlbUV2ZW50KSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgSXRjaE1lc3NhZ2UuU1RPQ0tfRElSRUNUT1JZOgogICAgICAgIGxpc3RlbmVyLm9uRXZlbnQoY29udmVydChzcmNTdG9ja0RpcmVjdG9yeSkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlIEl0Y2hNZXNzYWdlLlNUT0NLX1RSQURJTkdfQUNUSU9OOgogICAgICAgIGxpc3RlbmVyLm9uRXZlbnQoY29udmVydChzcmNTdG9ja1RyYWRpbmdBY3Rpb24pKTsKICAgICAgICBicmVhazsKICAgICAgY2FzZSBJdGNoTWVzc2FnZS5NQVJLRVRfUEFSVElDSVBBTlRfUE9TSVRJT046CiAgICAgICAgbGlzdGVuZXIub25FdmVudChjb252ZXJ0KHNyY01hcmtldFBQKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgSXRjaE1lc3NhZ2UuQUREX09SREVSOgogICAgICAgIGxpc3RlbmVyLm9uRXZlbnQoY29udmVydChzcmNBZGRPcmRlcikpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlIEl0Y2hNZXNzYWdlLkFERF9PUkRFUl9XSVRIX01QSUQ6CiAgICAgICAgbGlzdGVuZXIub25FdmVudChjb252ZXJ0KHNyY0FkZE9yZGVyV2l0aE1QSUQpKTsKICAgICAgICBicmVhazsKICAgICAgY2FzZSBJdGNoTWVzc2FnZS5PUkRFUl9FWEVDVVRFRDoKICAgICAgICBsaXN0ZW5lci5vbkV2ZW50KGNvbnZlcnQoc3JjT3JkZXJFeGVjdXRlZCkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlIEl0Y2hNZXNzYWdlLk9SREVSX0VYRUNVVEVEX1dJVEhfUFJJQ0U6CiAgICAgICAgbGlzdGVuZXIub25FdmVudChjb252ZXJ0KHNyY09yZGVyRXhlY3V0ZWRXaXRoUHJpY2UpKTsKICAgICAgICBicmVhazsKICAgICAgY2FzZSBJdGNoTWVzc2FnZS5PUkRFUl9DQU5DRUw6CiAgICAgICAgbGlzdGVuZXIub25FdmVudChjb252ZXJ0KHNyY09yZGVyQ2FuY2VsKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgSXRjaE1lc3NhZ2UuT1JERVJfREVMRVRFOgogICAgICAgIGxpc3RlbmVyLm9uRXZlbnQoY29udmVydChzcmNPcmRlckRlbGV0ZSkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlIEl0Y2hNZXNzYWdlLk9SREVSX1JFUExBQ0U6CiAgICAgICAgbGlzdGVuZXIub25FdmVudChjb252ZXJ0KHNyY09yZGVyUmVwbGFjZSkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlIEl0Y2hNZXNzYWdlLlRSQURFOgogICAgICAgIGxpc3RlbmVyLm9uRXZlbnQoY29udmVydChzcmNUcmFkZSkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlIEl0Y2hNZXNzYWdlLkNST1NTX1RSQURFOgogICAgICAgIGxpc3RlbmVyLm9uRXZlbnQoY29udmVydChzcmNDcm9zc1RyYWRlKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgSXRjaE1lc3NhZ2UuQlJPS0VOX1RSQURFOgogICAgICAgIGxpc3RlbmVyLm9uRXZlbnQoY29udmVydChzcmNCcm9rZW5UcmFkZSkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlIEl0Y2hNZXNzYWdlLk5PSUk6CiAgICAgICAgbGlzdGVuZXIub25FdmVudChjb252ZXJ0KHNyY05PSUkpKTsKICAgICAgICBicmVhazsKICAgICAgY2FzZSBJdGNoTWVzc2FnZS5SUFBJOgogICAgICAgIGxpc3RlbmVyLm9uRXZlbnQoY29udmVydChzcmNSUElJKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGRlZmF1bHQ6CiAgICAgICAgbG9nZ2VyLmVycm9yKCJVbmtub3duIGV2ZW50IHR5cGUge30iLCAoY2hhcikgaXRjaE1lc3NhZ2UuZ2V0VHlwZSgpKTsKIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gLS0gcmVmYWN0b3IgdGhlIGNsb3NpbmcvdXBsb2FkIHByb2Nlc3M/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RyZWFtTWFwID0gbmV3IFNob3J0T2JqZWN0SGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGlzOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaW50IHRvdGFsTXNncyA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ZW5lci5vbkV2ZW50KG1lc3NhZ2VIZWFkZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5tZXNzYWdlQ291bnQgPSB0b3RhbE1zZ3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0Lm1lc3NhZ2VDb3VudCA9IHRvdGFsTXNnczsK</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ZW5lci5vbkV2ZW50KHN0b2NrRGlyZWN0b3J5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -588,10 +588,10 @@
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Wa</entry>
-        <entry>q</entry>
         <entry>wa</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVkL2c=</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
