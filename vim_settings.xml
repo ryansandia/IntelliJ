@@ -20,12 +20,6 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventHandler.java" timestamp="1499725460525">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="46" />
-        <mark key="." line="28" column="46" />
-        <mark key="^" line="28" column="46" />
-      </file>
       <file name="/a.dummy" timestamp="1499810755977">
         <mark key="'" line="0" column="23" />
         <mark key="[" line="0" column="0" />
@@ -46,12 +40,10 @@
         <mark key="^" line="40" column="1" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" timestamp="1499899003765">
-        <mark key="'" line="71" column="10" />
         <mark key="j" line="2" column="0" />
-        <mark key="[" line="456" column="62" />
-        <mark key="]" line="457" column="70" />
-        <mark key="^" line="457" column="70" />
-        <mark key="." line="457" column="70" />
+        <mark key="]" line="21" column="70" />
+        <mark key="^" line="21" column="70" />
+        <mark key="." line="21" column="70" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MarkableFileInputStream.java" timestamp="1499796083888">
         <mark key="[" line="28" column="22" />
@@ -232,7 +224,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1499898926133">
+      <file name="/fragment.java" timestamp="1499978375265">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
