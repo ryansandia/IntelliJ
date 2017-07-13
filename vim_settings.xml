@@ -117,21 +117,20 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/StockDirectory.java" timestamp="1499961594108">
-        <mark key="'" line="96" column="24" />
-        <mark key="[" line="105" column="30" />
-        <mark key="]" line="104" column="61" />
-        <mark key="." line="104" column="61" />
-        <mark key="^" line="104" column="61" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/StockDirectory.java" timestamp="1499963613084">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="223" column="39" />
+        <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" timestamp="1499961443847">
-        <mark key="a" line="167" column="4" />
-        <mark key="'" line="43" column="19" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" timestamp="1499963792139">
+        <mark key="a" line="171" column="4" />
+        <mark key="'" line="426" column="56" />
         <mark key="j" line="2" column="0" />
-        <mark key="[" line="369" column="0" />
-        <mark key="]" line="369" column="0" />
-        <mark key="^" line="370" column="60" />
-        <mark key="." line="369" column="0" />
+        <mark key="[" line="420" column="57" />
+        <mark key="]" line="420" column="57" />
+        <mark key="^" line="38" column="48" />
+        <mark key="." line="420" column="57" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/OffHeapMemory.java" timestamp="1499804732503">
         <mark key="'" line="12" column="22" />
@@ -198,12 +197,12 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" timestamp="1499806377562">
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" timestamp="1499964232945">
         <mark key="'" line="223" column="23" />
-        <mark key="[" line="184" column="89" />
-        <mark key="]" line="184" column="96" />
+        <mark key="[" line="116" column="81" />
+        <mark key="]" line="116" column="81" />
         <mark key="^" line="184" column="96" />
-        <mark key="." line="184" column="96" />
+        <mark key="." line="116" column="81" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Main.java" timestamp="1499895048017">
         <mark key="[" line="16" column="0" />
@@ -259,16 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="32" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
-      <jump line="82" column="15" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
-      <jump line="17" column="25" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
-      <jump line="147" column="32" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
-      <jump line="198" column="18" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
-      <jump line="79" column="27" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
-      <jump line="39" column="15" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
-      <jump line="45" column="26" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
-      <jump line="47" column="8" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
-      <jump line="49" column="21" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
       <jump line="50" column="9" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
       <jump line="51" column="6" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
       <jump line="37" column="33" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFileSource.java" />
@@ -359,63 +348,72 @@
       <jump line="6" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/StockDirectory.java" />
       <jump line="66" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/StockDirectory.java" />
       <jump line="96" column="24" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/StockDirectory.java" />
+      <jump line="375" column="53" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
+      <jump line="384" column="52" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
+      <jump line="38" column="48" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
+      <jump line="116" column="69" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
+      <jump line="307" column="50" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
+      <jump line="323" column="42" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
+      <jump line="338" column="59" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
+      <jump line="351" column="45" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
+      <jump line="360" column="48" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
+      <jump line="426" column="56" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nCg==</text>
+      <register name="&quot;" type="4">
+        <text>final Class klass) {</text>
       </register>
       <register name="-" type="4">
-        <text>COMMODITY</text>
+        <text>final Class klass) {</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdHJpbmdcPg==</text>
+        <text>todo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZmluYWwgQ2xhc3M8PyBleHRlbmRzIE9mZkhlYXBTdHJ1Y3Q+IGtsYXNzKSB7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0b2NrRGlyZWN0b3J5LnNldElzc3VlQ2xhc3NpZmljYXRpb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGlzc3VlIHN1YnR5cGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGlzc3VlIGNsYXNzaWZpY2F0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgYnl0ZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGludmVyc2UgaW5kaWNhdG9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGV0cCBsZXZlcmFnZSBmYWN0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGV0cCBmbGFnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGx1bGQgcmVmZXJlbmNlIHByaWNlIHRpZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGlwbyBmbGFnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdHJpbmdcPg==</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdHJpbmdcPg==</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-replace>Value</last-replace>
       <last-substitute>_internal</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getdatefo</entry>
         <entry>getdate</entry>
         <entry encoding="base64">XDxnZXRPdXRwdXRTdHJlYW1cPg==</entry>
         <entry>itchftplo</entry>
@@ -435,6 +433,7 @@
         <entry>classi</entry>
         <entry>issuesub</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry>todo</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
