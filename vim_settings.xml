@@ -206,11 +206,12 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/ItchFileSource.java" timestamp="1499977834324">
-        <mark key="[" line="26" column="57" />
-        <mark key="]" line="26" column="63" />
-        <mark key="." line="26" column="63" />
-        <mark key="^" line="26" column="63" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/ItchFileSource.java" timestamp="1499978534370">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="34" />
+        <mark key="." line="45" column="34" />
+        <mark key="^" line="45" column="34" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/MWCBDeclineLevel.java" timestamp="1499973972117">
         <mark key="'" line="4" column="17" />
@@ -394,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="37" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
       <jump line="224" column="55" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
       <jump line="108" column="2" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
       <jump line="135" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
@@ -494,16 +494,17 @@
       <jump line="220" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
       <jump line="200" column="44" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch41EventHandler.java" />
       <jump line="34" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventHandler.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/ItchFileSource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">MTYg</text>
+        <text>1024</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MTYg</text>
+        <text>1024</text>
       </register>
       <register name="/" type="4">
-        <text>process</text>
+        <text>private</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIGJ1ZmZlcmVkU3RyZWFtOwo=</text>
@@ -540,17 +541,16 @@
       </register>
     </registers>
     <search>
-      <last-search>process</last-search>
+      <last-search>private</last-search>
       <last-offset />
-      <last-pattern>process</last-pattern>
-      <last-replace>Value</last-replace>
-      <last-substitute>_internal</last-substitute>
+      <last-pattern>private</last-pattern>
+      <last-replace>protected</last-replace>
+      <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>down</entry>
         <entry>getnan</entry>
         <entry encoding="base64">XDx1c2VOYXRpdmVCeXRlT3JkZXJcPg==</entry>
         <entry>objecte</entry>
@@ -570,9 +570,9 @@
         <entry>tostring</entry>
         <entry>equals</entry>
         <entry>process</entry>
+        <entry>private</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/fs.getBuffer()/unsafeBuffer/gc</entry>
         <entry>%s/private//g</entry>
         <entry>%s/publish/onEvent/g</entry>
         <entry encoding="base64">JzwsJz5zL3B1Ymxpc2gvbGlzdGVuZXIub25FdmVudC9n</entry>
@@ -591,6 +591,7 @@
         <entry>q</entry>
         <entry>wa</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVkL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
