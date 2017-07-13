@@ -267,11 +267,11 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50Writer.java" timestamp="1499982883145">
-        <mark key="[" line="98" column="54" />
-        <mark key="]" line="99" column="70" />
-        <mark key="." line="99" column="70" />
-        <mark key="^" line="99" column="70" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50Writer.java" timestamp="1499983900894">
+        <mark key="[" line="95" column="6" />
+        <mark key="]" line="95" column="37" />
+        <mark key="." line="95" column="37" />
+        <mark key="^" line="95" column="37" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/RegShoPriceTestRestricted.java" timestamp="1499811464966">
         <mark key="[" line="10" column="4" />
@@ -499,17 +499,17 @@
       <jump line="141" column="13" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdyaXRlTGVuZ3RoUGx1c01lc3NhZ2Uoc3RyZWFtTWFwLmdldChsb2NhdGUpLCBldmVudCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBwcml2YXRlIElQT1F1b3RpbmdQZXJpb2RVcGRhdGUgaXBvUXVvdGluZ1BlcmlvZFVwZGF0ZTsKICBwcml2YXRlIE1XQ0JTdGF0dXMgbXdjYlN0YXR1czsKICBwcml2YXRlIE1XQ0JEZWNsaW5lTGV2ZWwgbXdjYkRlY2xpbmVMZXZlbDsKICBwcml2YXRlIFJlZ1Nob1ByaWNlVGVzdFJlc3RyaWN0ZWQgcmVnU2hvUHJpY2VUZXN0UmVzdHJpY3RlZDs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdyaXRlTGVuZ3RoUGx1c01lc3NhZ2Uoc3RyZWFtTWFwLmdldChsb2NhdGUpLCBldmVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmtyZWE7Cg==</text>
