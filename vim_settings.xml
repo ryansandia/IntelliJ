@@ -108,6 +108,12 @@
         <mark key="[" line="9" column="4" />
         <mark key="." line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/ToStringer.java" timestamp="1499982805752">
+        <mark key="[" line="103" column="28" />
+        <mark key="]" line="103" column="29" />
+        <mark key="." line="103" column="29" />
+        <mark key="^" line="103" column="29" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/people/will/src/main/kotlin/com/sandiacap/scratch/will/ResearchBasics.kt" timestamp="1499382101384">
         <mark key="'" line="229" column="0" />
         <mark key="[" line="145" column="19" />
@@ -224,10 +230,10 @@
         <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50Writer.java" timestamp="1499980151436">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="117" column="28" />
-        <mark key="." line="117" column="28" />
-        <mark key="^" line="117" column="28" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="118" column="28" />
+        <mark key="." line="118" column="28" />
+        <mark key="^" line="118" column="28" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridDebug.kt" timestamp="1499381882296">
         <mark key="'" line="14" column="40" />
@@ -236,7 +242,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1499978375265">
+      <file name="/fragment.java" timestamp="1499982542044">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -343,11 +349,11 @@
       <jump line="43" column="24" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.getStock() + &quot;@&quot; + event.getTimestamp() + &quot; -- &quot; + event);</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.getStock() + &quot;@&quot; + event.getTimestamp() + &quot; -- &quot; + event);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRGb2xkZXJcPg==</text>
@@ -383,7 +389,7 @@
         <text encoding="base64">ICAgIHRhcmRlLnNldAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -437,8 +443,8 @@
         <entry>Wa</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
