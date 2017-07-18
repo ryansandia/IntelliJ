@@ -156,6 +156,12 @@
         <mark key="." line="30" column="21" />
         <mark key="^" line="30" column="21" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/DeleteOrder.java" timestamp="1500410857247">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/AddOrder.java" timestamp="1499973829653">
         <mark key="[" line="32" column="33" />
         <mark key="]" line="32" column="12" />
@@ -319,11 +325,11 @@
         <mark key="^" line="5" column="47" />
         <mark key="." line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" timestamp="1500409848110">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="11" column="35" />
-        <mark key="^" line="11" column="35" />
-        <mark key="." line="11" column="35" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" timestamp="1500411348644">
+        <mark key="[" line="134" column="7" />
+        <mark key="]" line="136" column="51" />
+        <mark key="." line="136" column="51" />
+        <mark key="^" line="136" column="51" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/offheap/StructOrder.java" timestamp="1498573462129">
         <mark key="[" line="12" column="24" />
@@ -463,11 +469,12 @@
         <mark key="." line="48" column="12" />
         <mark key="^" line="48" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/Striper.java" timestamp="1500409713049">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/Striper.java" timestamp="1500411606354">
         <mark key="'" line="12" column="22" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="49" column="37" />
+        <mark key="." line="49" column="37" />
+        <mark key="^" line="49" column="37" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Main.java" timestamp="1498757894292">
         <mark key="'" line="65" column="1" />
@@ -585,12 +592,12 @@
         <mark key="." line="144" column="44" />
         <mark key="^" line="144" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchFileSource.java" timestamp="1500407849203">
-        <mark key="'" line="54" column="36" />
-        <mark key="[" line="66" column="3" />
-        <mark key="]" line="69" column="30" />
-        <mark key="^" line="69" column="30" />
-        <mark key="." line="69" column="30" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchFileSource.java" timestamp="1500411574594">
+        <mark key="'" line="57" column="36" />
+        <mark key="[" line="60" column="13" />
+        <mark key="]" line="60" column="17" />
+        <mark key="." line="60" column="17" />
+        <mark key="^" line="60" column="17" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/offheap_classes/MyOffHeapAbstractClass.java" timestamp="1499804959278">
         <mark key="[" line="22" column="15" />
@@ -975,44 +982,44 @@
       <jump line="50" column="36" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchFileSource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bXNnIA==</text>
       </register>
       <register name="-" type="4">
-        <text>UnsatisfiedLinkError)</text>
+        <text encoding="base64">bXNnIA==</text>
       </register>
       <register name="/" type="4">
         <text>ItchFtpLoader</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgUGl0Y2hNZXNzYWdlLlRSQURFX0xPTkc6Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBmcy5udW1NZXNzYWdlcygpOyBpKyspIHsKICAgICAgICBtc2cuc2V0SW5kZXgoaSk7CiAgICAgICAgc3dpdGNoIChtc2cuZ2V0VHlwZSgpKSB7CiAgICAgICAgICBjYXNlIFBpdGNoTWVzc2FnZS5BRERfT1JERVJfTE9ORzoKICAgICAgICAgIGNhc2UgUGl0Y2hNZXNzYWdlLkFERF9PUkRFUl9TSE9SVDoKICAgICAgICAgIGNhc2UgUGl0Y2hNZXNzYWdlLkFERF9PUkRFUl9FWFBBTkRFRDoKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICBjYXNlIFBpdGNoTWVzc2FnZS5PUkRFUl9FWEVDVVRFRDoKICAgICAgICAgIGNhc2UgUGl0Y2hNZXNzYWdlLk9SREVSX0VYRUNVVEVEX1dJVEhfUFJJQ0U6CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgY2FzZSBQaXRjaE1lc3NhZ2UuUkVEVUNFX1NJWkVfU0hPUlQ6CiAgICAgICAgICBjYXNlIFBpdGNoTWVzc2FnZS5SRURVQ0VfU0laRV9MT05HOgogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGNhc2UgUGl0Y2hNZXNzYWdlLk1PRElGWV9TSE9SVDoKICAgICAgICAgIGNhc2UgUGl0Y2hNZXNzYWdlLk1PRElGWV9MT05HOgogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGNhc2UgUGl0Y2hNZXNzYWdlLkRFTEVURToKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICBjYXNlIFBpdGNoTWVzc2FnZS5UUkFERV9MT05HOgogICAgICAgICAgY2FzZSBQaXRjaE1lc3NhZ2UuVFJBREVfU0hPUlQ6CiAgICAgICAgICBjYXNlIFBpdGNoTWVzc2FnZS5UUkFERV9FWFBBTkRFRDoKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICBjYXNlIFBpdGNoTWVzc2FnZS5UUkFERV9CUkVBSzoKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICBjYXNlIFBpdGNoTWVzc2FnZS5USU1FOgogICAgICAgICAgY2FzZSBQaXRjaE1lc3NhZ2UuVU5JVF9DTEVBUjoKICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFBpdGNoTWVzc2FnZSBtc2c7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN5bWJvbCA9IG1zZy5nZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwaXRjaE1lc3NhZ2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgIHBpdGNoTWVzc2FnZS5zZXRJbmRleCgwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRoaXMucGl0Y2hNZXNzYWdlID0gQWxsb2NhdG9yLm9mKFBpdGNoTWVzc2FnZS5jbGFzcykuYXR0YWNoKG5ldyBVbnNhZmVCdWZmZXIocGF5bG9hZEJ1ZmZlcikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHQ6Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFBpdGNoTWVzc2FnZSBwaXRjaE1lc3NhZ2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgUGl0Y2hNZXNzYWdlLlRJTUU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgcGl0Y2htZXNzYWdlLnRpbWUK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgUGl0Y2hNZXNzYWdlLkFERF9PUkRFUl9MT05HOgogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdvdCBsb25nIGFkZCBvcmRlciIpOwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGNhc2UgUGl0Y2hNZXNzYWdlLlRSQURFX1NIT1JUOgogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdvdCBzaG9ydCB0cmFkZSIpOwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGNhc2UgUGl0Y2hNZXNzYWdlLlRSQURFX0xPTkc6CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZ290IGxvbmcgdHJhZGUiKTsKICAgICAgICAgICAgYnJlYWs7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBoZWFkZXIuZ2V0SGRyVW5pdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1067,8 +1074,8 @@
         <entry>vsplit</entry>
         <entry>W</entry>
         <entry>s</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
