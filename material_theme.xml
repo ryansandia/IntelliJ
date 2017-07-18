@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="wallpaperSet" value="false" />
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
