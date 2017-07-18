@@ -458,12 +458,12 @@
         <mark key="." line="48" column="12" />
         <mark key="^" line="48" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/Striper.java" timestamp="1500405442624">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/Striper.java" timestamp="1500407990090">
         <mark key="'" line="10" column="22" />
-        <mark key="[" line="44" column="48" />
-        <mark key="]" line="45" column="44" />
-        <mark key="." line="45" column="44" />
-        <mark key="^" line="45" column="44" />
+        <mark key="[" line="53" column="49" />
+        <mark key="]" line="54" column="17" />
+        <mark key="." line="54" column="17" />
+        <mark key="^" line="54" column="17" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Main.java" timestamp="1498757894292">
         <mark key="'" line="65" column="1" />
@@ -581,12 +581,12 @@
         <mark key="." line="144" column="44" />
         <mark key="^" line="144" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchFileSource.java" timestamp="1500406635461">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchFileSource.java" timestamp="1500407849203">
         <mark key="'" line="54" column="36" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="54" column="59" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="66" column="3" />
+        <mark key="]" line="69" column="30" />
+        <mark key="^" line="69" column="30" />
+        <mark key="." line="69" column="30" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/offheap_classes/MyOffHeapAbstractClass.java" timestamp="1499804959278">
         <mark key="[" line="22" column="15" />
@@ -972,11 +972,11 @@
       <jump line="50" column="36" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchFileSource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbnQgbWF4TGVuZ3RoID0gMDsK</text>
+      <register name="&quot;" type="4">
+        <text>SIDE_BUY:</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>SIDE_BUY:</text>
       </register>
       <register name="/" type="4">
         <text>ItchFtpLoader</text>
@@ -985,31 +985,31 @@
         <text encoding="base64">ICAgIFBpdGNoRmlsZVNvdXJjZSBmcyA9IG5ldyBQaXRjaEZpbGVTb3VyY2UoIi9Vc2Vycy9ybG9uZy9maWxlLmRhdC5neiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbnQgbWF4TGVuZ3RoID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgUGl0Y2hGaWxlU291cmNlIGZzID0gbmV3IFBpdGNoRmlsZVNvdXJjZSgiL1VzZXJzL3Jsb25nL2ZpbGUuZGF0Lmd6Iik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInByb2Nlc3NlZCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgaW5wdXRTdHJlYW0uc2tpcChoZWFkZXIuZ2V0SGRyTGVuZ3RoKCkgLSBoZWFkZXIuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKChjaGFyKSBtc2cuZ2V0VHlwZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKChpbnQpIG1zZy5nZXRMZW5ndGgoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKGhlYWRlci5nZXRIZHJTZXF1ZW5jZSgpKTsK</text>
+        <text encoding="base64">ICBpbnQgbWF4TGVuZ3RoID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKChpbnQpIGhlYWRlci5nZXRIZHJVbml0KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKChpbnQpIGhlYWRlci5nZXRIZHJDb3VudCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKGhlYWRlci5nZXRIZHJMZW5ndGgoKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgaW5wdXRTdHJlYW0uc2tpcChoZWFkZXIuZ2V0SGRyTGVuZ3RoKCkgLSBoZWFkZXIuc2l6ZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
