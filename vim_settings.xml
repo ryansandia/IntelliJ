@@ -940,11 +940,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/Source/cbceval/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>com.sandiacap.striper.bats</text>
       </register>
       <register name="-" type="4">
-        <text>// may not needed on 1.8</text>
+        <text>com.sandiacap.striper.bats</text>
       </register>
       <register name="/" type="4">
         <text>kotlin</text>
