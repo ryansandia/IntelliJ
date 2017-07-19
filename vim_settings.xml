@@ -345,7 +345,7 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" timestamp="1500481135710">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" timestamp="1500481738022">
         <mark key="'" line="129" column="64" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -915,7 +915,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/PitchMessage.java" timestamp="1500481235650" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/PitchMessage.java" timestamp="1500482654566" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/TradeBreak.java" timestamp="1500307346061">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="12" column="33" />
