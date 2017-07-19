@@ -74,7 +74,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/build.gradle" timestamp="1500499271118" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/SystemEvent.java" timestamp="1499973738209">
         <mark key="'" line="4" column="17" />
         <mark key="[" line="16" column="32" />
@@ -94,11 +93,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1500499887003">
-        <mark key="'" line="74" column="2" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1500506912908">
+        <mark key="'" line="75" column="2" />
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="2" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/AuctionUpdate.java" timestamp="1500308192771">
         <mark key="[" line="35" column="38" />
@@ -550,12 +549,12 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1500498886109">
-        <mark key="'" line="12" column="66" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="63" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1500507116128">
+        <mark key="'" line="16" column="41" />
+        <mark key="[" line="31" column="40" />
+        <mark key="]" line="31" column="40" />
+        <mark key="^" line="31" column="13" />
+        <mark key="." line="31" column="40" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/MessageHeader.java" timestamp="1500303762071">
         <mark key="'" line="5" column="17" />
@@ -781,6 +780,7 @@
         <mark key="." line="95" column="37" />
         <mark key="^" line="95" column="37" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/aws/EC2InstanceType.java" timestamp="1500506802060" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/offheap/MyDuplicateRankInterface.java" timestamp="1498147340159">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="10" column="27" />
@@ -956,8 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="15" filename="$USER_HOME$/Source/cbceval/realtime/pom.xml" />
-      <jump line="177" column="16" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
       <jump line="194" column="0" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
       <jump line="94" column="4" filename="$USER_HOME$/Source/cbceval/nrt/pom.xml" />
@@ -1056,55 +1054,57 @@
       <jump line="24" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/gauntlet/Gauntlet.kt" />
       <jump line="182" column="23" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/gauntlet/Gauntlet.kt" />
       <jump line="12" column="66" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
+      <jump line="31" column="23" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
+      <jump line="16" column="41" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS51dGlscy5TdHJpbmdVdGlsczsK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>com.foo.HelloWorld'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>sleepy</text>
+        <text>immu</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGRlZmF1bHQgdm9pZCBzZXRTdG9ja1ZhbHVlKGxvbmcgdmFsdWUpIHsKICAgIGludCBmb3VyQnl0ZSA9IEludGVnZXIucmV2ZXJzZUJ5dGVzKChpbnQpIHZhbHVlKTsKICAgIHNob3J0IHR3b0J5dGUgPSBTaG9ydC5yZXZlcnNlQnl0ZXMoKHNob3J0KSAodmFsdWUgPj4gMzIpKTsKICAgIHNldFN0b2NrQm90dG9tNEJ5dGVzKGZvdXJCeXRlKTsKICAgIHNldFN0b2NrVG9wMkJ5dGVzKHR3b0J5dGUpOwogIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBhcHQgZ3JvdXA6ICdvcmcuaW1tdXRhYmxlcycsIG5hbWU6ICd2YWx1ZScsIHZlcnNpb246ICcyLjQuMCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS51dGlscy5TdHJpbmdVdGlsczsK</text>
+        <text encoding="base64">ICB9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS5vZmZoZWFwLkZpZWxkT3JkZXI7Cg==</text>
+        <text encoding="base64">ICBwbHVnaW5zIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS51dGlscy5TdHJpbmdVdGlsczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICd1cy5raXJjaG1laWVyLmNhcHN1bGUnCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS5vZmZoZWFwLkZpZWxkT3JkZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdjYXBzdWxlJwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICd1cy5raXJjaG1laWVyLmNhcHN1bGUnCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdjYXBzdWxlJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZXMgJ01haW4tQ2xhc3MnOiAnY29tLnNhbmRpYWNhcC5ucnQuc3RyaXBlci5iYXRzLlN0cmlwZXInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYW5pZmVzdCB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sleepy</last-search>
+      <last-search>immu</last-search>
       <last-offset />
-      <last-pattern>sleepy</last-pattern>
+      <last-pattern>immu</last-pattern>
       <last-replace />
       <last-substitute>.trim()</last-substitute>
       <last-dir>1</last-dir>
@@ -1112,7 +1112,6 @@
     </search>
     <history>
       <history-search>
-        <entry>append</entry>
         <entry>public String</entry>
         <entry>toSt</entry>
         <entry>tostring</entry>
@@ -1132,6 +1131,7 @@
         <entry>anno</entry>
         <entry>zoned</entry>
         <entry>sleepy</entry>
+        <entry>immu</entry>
       </history-search>
       <history-cmd>
         <entry>tabdo %s/rank = //g</entry>
@@ -1152,8 +1152,8 @@
         <entry>q</entry>
         <entry>aw</entry>
         <entry>wqa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
