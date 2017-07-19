@@ -22,12 +22,11 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureDataInfo.java" timestamp="1500486929444">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureDataInfo.java" timestamp="1500488056059">
         <mark key="'" line="69" column="0" />
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="9" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1500477942612">
         <mark key="'" line="60" column="2" />
@@ -463,10 +462,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBJbXBvcnRhbnQgc28gd2UgdW5kZXJzdGFuZCBob3cgdG8K</text>
+        <text encoding="base64">ICAgIE1BVENILCAvLyB3aGVyZSBldmVyIG1hdGNoIGxvY2F0aW9uIGlzIGZvciB0aGlzIHNvdXJjZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>thinking</text>
+        <text>COLO,</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
@@ -475,31 +474,31 @@
         <text encoding="base64">IGRlZmF1bHQgdm9pZCBzZXRTdG9ja1ZhbHVlKGxvbmcgdmFsdWUpIHsKICAgIGludCBmb3VyQnl0ZSA9IEludGVnZXIucmV2ZXJzZUJ5dGVzKChpbnQpIHZhbHVlKTsKICAgIHNob3J0IHR3b0J5dGUgPSBTaG9ydC5yZXZlcnNlQnl0ZXMoKHNob3J0KSAodmFsdWUgPj4gMzIpKTsKICAgIHNldFN0b2NrQm90dG9tNEJ5dGVzKGZvdXJCeXRlKTsKICAgIHNldFN0b2NrVG9wMkJ5dGVzKHR3b0J5dGUpOwogIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBJbXBvcnRhbnQgc28gd2UgdW5kZXJzdGFuZCBob3cgdG8K</text>
+        <text encoding="base64">ICAgIE1BVENILCAvLyB3aGVyZSBldmVyIG1hdGNoIGxvY2F0aW9uIGlzIGZvciB0aGlzIHNvdXJjZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEZvciBub3cgdGhpcyBjb3VsZCBqdXN0IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEltcG9ydGFudCBzbyB3ZSB1bmRlcnN0YW5kIGhvdyB0bwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLy8gSWYgc28gc2hvdWxkIHRoZXkgYmUgYXBwbGllZCB0byBwdXJjaGFzZWQgZGF0YSBpZiBkb2VzIG5vdCBleGlzdD8K</text>
+        <text encoding="base64">ICAvLyBJbXBvcnRhbnQgc28gd2UgdW5kZXJzdGFuZCBob3cgdG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIGRhdGUK</text>
+        <text encoding="base64">ICAgIC8vIEZvciBub3cgdGhpcyBjb3VsZCBqdXN0IAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLy8gSWYgc28gc2hvdWxkIHRoZXkgYmUgYXBwbGllZCB0byBwdXJjaGFzZWQgZGF0YSBpZiBkb2VzIG5vdCBleGlzdD8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8qKgogKiBjYXB0dXJlUm9vdAogKiAgICB2ZW51ZQogKiAgICAgIHNvdXJjZQogKiAgICAgICAgIGRhdGUKICogICAgICAgICAgIENhcHR1cmVEYXRhSW5mb0ZpbGUKICogICAgICAgICAgIFtBbGxEYXRhRmlsZXNdCiAqLwo=</text>
+        <text encoding="base64">ICogICAgICAgICAgIGRhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE5BCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
