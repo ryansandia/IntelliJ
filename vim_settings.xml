@@ -368,10 +368,7 @@
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/gauntlet/Gauntlet.kt" timestamp="1500498011995">
         <mark key="'" line="182" column="23" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
         <mark key="^" line="175" column="54" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/NOII.java" timestamp="1499974081404">
         <mark key="'" line="12" column="17" />
@@ -773,7 +770,6 @@
         <mark key="." line="95" column="37" />
         <mark key="^" line="95" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/aws/EC2InstanceType.java" timestamp="1500506802060" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/offheap/MyDuplicateRankInterface.java" timestamp="1498147340159">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="10" column="27" />
