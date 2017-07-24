@@ -336,6 +336,11 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/md/ResearchLevelBook.kt" timestamp="1500906565656">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Main.java" timestamp="1499975425506">
         <mark key="[" line="92" column="32" />
         <mark key="]" line="92" column="32" />
@@ -366,9 +371,17 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/gauntlet/Gauntlet.kt" timestamp="1500498011995">
-        <mark key="'" line="182" column="23" />
-        <mark key="^" line="175" column="54" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/Trigger.kt" timestamp="1500906545619">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/gauntlet/Gauntlet.kt" timestamp="1500906559219">
+        <mark key="'" line="181" column="23" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/NOII.java" timestamp="1499974081404">
         <mark key="'" line="12" column="17" />
@@ -456,6 +469,11 @@
         <mark key="]" line="18" column="46" />
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/refdata/sandia/SandiaSymbolDataInterface.kt" timestamp="1500906277005">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/UnitClear.java" timestamp="1500303311578">
         <mark key="[" line="7" column="22" />
@@ -840,8 +858,8 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="68" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/matrix/DoubleVector.kt" timestamp="1500906124338">
-        <mark key="'" line="322" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/matrix/DoubleVector.kt" timestamp="1500906216600">
+        <mark key="'" line="29" column="25" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -954,7 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="4" filename="$USER_HOME$/Source/cbceval/nrt/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridResourceCore.kt" />
       <jump line="29" column="2" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridResourceCore.kt" />
       <jump line="61" column="20" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridResourceCore.kt" />
@@ -1054,49 +1071,50 @@
       <jump line="16" column="41" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
       <jump line="27" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/matrix/DoubleVector.kt" />
       <jump line="323" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/matrix/DoubleVector.kt" />
+      <jump line="29" column="25" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/matrix/DoubleVector.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMucHJpbnRsbk15c2VsZgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMudG9JbW11dGFibGVNYXAK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>ZonedLocalTime</text>
       </register>
       <register name="/" type="4">
         <text>printlnmy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhcHQgZ3JvdXA6ICdvcmcuaW1tdXRhYmxlcycsIG5hbWU6ICd2YWx1ZScsIHZlcnNpb246ICcyLjQuMCcK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS50aW1lLlpvbmVkTG9jYWxUaW1lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMucHJpbnRsbk15c2VsZgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMudG9JbW11dGFibGVNYXAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE5vdEVxdWFsczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMucGx1c1RyYWRpbmdEYXlzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9IAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMubmFub3NBdE1pZG5pZ2h0TmV3WW9yawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwbHVnaW5zIHsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudGltZS5EdXJhdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS51dGlscy5TdHJpbmdVdGlsczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMudG9JbW11dGFibGVNYXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS5vZmZoZWFwLkZpZWxkT3JkZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMucHJpbnRsbk15c2VsZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE5vdEVxdWFsczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICd1cy5raXJjaG1laWVyLmNhcHN1bGUnCg==</text>
+        <text encoding="base64">ICB9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdjYXBzdWxlJwo=</text>
+        <text encoding="base64">ICBwbHVnaW5zIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1147,11 +1165,11 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/.trim()//g</entry>
         <entry>s</entry>
-        <entry>q</entry>
         <entry>aw</entry>
         <entry>wqa</entry>
-        <entry>wa</entry>
+        <entry>q</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
