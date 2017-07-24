@@ -92,6 +92,12 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureDataInfo.java" timestamp="1500912834376">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1500506912908">
         <mark key="'" line="75" column="2" />
         <mark key="[" line="19" column="5" />
@@ -1138,7 +1144,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMubWFwSW1tdXRhYmxlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1192,8 +1198,8 @@
         <entry>aw</entry>
         <entry>wqa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
