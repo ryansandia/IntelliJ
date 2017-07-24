@@ -840,6 +840,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="68" column="21" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/matrix/DoubleVector.kt" timestamp="1500906124338">
+        <mark key="'" line="322" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/utils/BufferUtils.java" timestamp="1498585800121">
         <mark key="[" line="8" column="59" />
         <mark key="]" line="9" column="96" />
@@ -948,8 +954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="0" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
       <jump line="94" column="4" filename="$USER_HOME$/Source/cbceval/nrt/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridResourceCore.kt" />
       <jump line="29" column="2" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridResourceCore.kt" />
@@ -1048,55 +1052,57 @@
       <jump line="12" column="66" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
       <jump line="31" column="23" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
       <jump line="16" column="41" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
+      <jump line="27" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/matrix/DoubleVector.kt" />
+      <jump line="323" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/matrix/DoubleVector.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE5vdEVxdWFsczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMucHJpbnRsbk15c2VsZgo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>immu</text>
+        <text>printlnmy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhcHQgZ3JvdXA6ICdvcmcuaW1tdXRhYmxlcycsIG5hbWU6ICd2YWx1ZScsIHZlcnNpb246ICcyLjQuMCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE5vdEVxdWFsczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAudXRpbHMucHJpbnRsbk15c2VsZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9IAo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE5vdEVxdWFsczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwbHVnaW5zIHsK</text>
+        <text encoding="base64">ICB9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS51dGlscy5TdHJpbmdVdGlsczsK</text>
+        <text encoding="base64">ICBwbHVnaW5zIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS5vZmZoZWFwLkZpZWxkT3JkZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS51dGlscy5TdHJpbmdVdGlsczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS5vZmZoZWFwLkZpZWxkT3JkZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICd1cy5raXJjaG1laWVyLmNhcHN1bGUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdjYXBzdWxlJwo=</text>
+        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICd1cy5raXJjaG1laWVyLmNhcHN1bGUnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdjYXBzdWxlJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>immu</last-search>
+      <last-search>printlnmy</last-search>
       <last-offset />
-      <last-pattern>immu</last-pattern>
+      <last-pattern>printlnmy</last-pattern>
       <last-replace />
       <last-substitute>.trim()</last-substitute>
       <last-dir>1</last-dir>
@@ -1104,7 +1110,6 @@
     </search>
     <history>
       <history-search>
-        <entry>public String</entry>
         <entry>toSt</entry>
         <entry>tostring</entry>
         <entry>getnextti</entry>
@@ -1124,6 +1129,7 @@
         <entry>zoned</entry>
         <entry>sleepy</entry>
         <entry>immu</entry>
+        <entry>printlnmy</entry>
       </history-search>
       <history-cmd>
         <entry>tabdo %s/rank = //g</entry>
