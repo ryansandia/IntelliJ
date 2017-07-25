@@ -437,11 +437,11 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/PcapWriter.java" timestamp="1501019631990">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/PcapWriter.java" timestamp="1501021534514">
+        <mark key="'" line="32" column="17" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/people/ryan/src/test/java/com/sandiacap/scratch/ryan/md/BookLevelTest.java" timestamp="1500507606416">
         <mark key="[" line="4" column="0" />
@@ -714,8 +714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridResourceCore.kt" />
-      <jump line="29" column="2" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridResourceCore.kt" />
       <jump line="61" column="20" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridResourceCore.kt" />
       <jump line="3" column="38" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridResourceCore.kt" />
       <jump line="74" column="2" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchFtpShim.java" />
@@ -814,43 +812,45 @@
       <jump line="27" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/matrix/DoubleVector.kt" />
       <jump line="323" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/matrix/DoubleVector.kt" />
       <jump line="29" column="25" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/matrix/DoubleVector.kt" />
+      <jump line="18" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/PcapWriter.java" />
+      <jump line="15" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/PcapWriter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLndyaXRlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>, long timebb)</text>
       </register>
       <register name="/" type="4">
-        <text>printlnmy</text>
+        <text>network</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS50aW1lLlpvbmVkTG9jYWxUaW1lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLndyaXRlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBjYXBfcGt0aGRyCg==</text>
+        <text encoding="base64">ICAgIGhlYWRlci4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBhY2tldEhlYWRlciAK</text>
+        <text encoding="base64">ICAgIG9zLndyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJlY29yZEhlYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBheWxvYWQgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFVkcFBhY2tldCBwYWNrZXQgPSBuZXcgVWRwUGFja2V0LkJ1aWxkZXIoKS4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5saW5rVHlwZSA9IExJTktUWVBFX0VUSEVSTkVUOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS08a290bGluLWphY2tzb24udmVyc2lvbj4yLjcuNTwva290bGluLWphY2tzb24udmVyc2lvbj4tLT4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy50eiA9IHpvbmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBGaWxlSGVhZGVyKGludCB6b25lKSB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -860,18 +860,16 @@
       </register>
     </registers>
     <search>
-      <last-search>printlnmy</last-search>
+      <last-search>network</last-search>
       <last-offset />
-      <last-pattern>printlnmy</last-pattern>
-      <last-replace />
-      <last-substitute>.trim()</last-substitute>
+      <last-pattern>network</last-pattern>
+      <last-replace>linkType</last-replace>
+      <last-substitute>network</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>toSt</entry>
-        <entry>tostring</entry>
         <entry>getnextti</entry>
         <entry encoding="base64">XDx0aW1lT2Zmc2V0XD4=</entry>
         <entry>inputstream</entry>
@@ -890,10 +888,10 @@
         <entry>sleepy</entry>
         <entry>immu</entry>
         <entry>printlnmy</entry>
+        <entry>thisZone</entry>
+        <entry>network</entry>
       </history-search>
       <history-cmd>
-        <entry>tabdo %s/rank = //g</entry>
-        <entry>%s/rank = //g</entry>
         <entry>Wa</entry>
         <entry>Lw</entry>
         <entry>a</entry>
@@ -910,6 +908,8 @@
         <entry>aw</entry>
         <entry>wqa</entry>
         <entry>q</entry>
+        <entry>%s/thisZone/tz/g</entry>
+        <entry>%s/network/linkType/g</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
