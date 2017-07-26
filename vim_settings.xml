@@ -431,6 +431,12 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/StripeWriter.java" timestamp="1501077461062">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="65" />
+        <mark key="." line="15" column="65" />
+        <mark key="^" line="15" column="65" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/md/itch50/MessageHeader.java" timestamp="1498141606502">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="30" />
@@ -453,6 +459,12 @@
         <mark key="]" line="4" column="15" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3FileOutputStream.java" timestamp="1501077368902">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="68" column="11" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/TradingMessage.java" timestamp="1498515348088">
         <mark key="[" line="2" column="32" />
@@ -712,6 +724,12 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CheckedS3FileOutputStream.java" timestamp="1501076777203">
+        <mark key="[" line="7" column="66" />
+        <mark key="]" line="7" column="66" />
+        <mark key="^" line="7" column="82" />
+        <mark key="." line="7" column="66" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="61" column="20" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridResourceCore.kt" />
@@ -816,11 +834,11 @@
       <jump line="15" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/PcapWriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9zLndyaXRlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false);</text>
       </register>
       <register name="-" type="4">
-        <text>, long timebb)</text>
+        <text>false);</text>
       </register>
       <register name="/" type="4">
         <text>network</text>
@@ -829,31 +847,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS50aW1lLlpvbmVkTG9jYWxUaW1lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9zLndyaXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG9zOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlYWRlci4K</text>
+        <text encoding="base64">ICAgIG91dHB1dFN0cmVhbSA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9zLndyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgb3Mud3JpdGVsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5saW5rVHlwZSA9IExJTktUWVBFX0VUSEVSTkVUOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE91dHB1dFN0cmVhbSBvczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50eiA9IHpvbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgb3Mud3JpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGaWxlSGVhZGVyKGludCB6b25lKSB7Cg==</text>
+        <text encoding="base64">ICAgIHNob3J0IG1zZ2xlbiA9IChzaG9ydCkgZXZlbnQuc2l6ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIE9mZkhlYXBNZW1vcnkgb2htID0gKE9mZkhlYXBNZW1vcnkpIGV2ZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -900,7 +918,6 @@
         <entry>%s/int offset/long offset/gc</entry>
         <entry>ws</entry>
         <entry>split</entry>
-        <entry>vsplit</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/.trim()//g</entry>
@@ -910,6 +927,7 @@
         <entry>q</entry>
         <entry>%s/thisZone/tz/g</entry>
         <entry>%s/network/linkType/g</entry>
+        <entry>vsplit</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
@@ -949,6 +967,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
