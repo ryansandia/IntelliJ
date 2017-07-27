@@ -21,7 +21,7 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1501187688928">
+      <file name="/a.dummy" timestamp="1501188258808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -393,12 +393,13 @@
         <mark key="." line="26" column="12" />
         <mark key="^" line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" timestamp="1501187009163">
-        <mark key="'" line="492" column="3" />
-        <mark key="[" line="491" column="3" />
-        <mark key="]" line="492" column="3" />
-        <mark key="^" line="492" column="3" />
-        <mark key="." line="492" column="3" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" timestamp="1501188796868">
+        <mark key="a" line="125" column="49" />
+        <mark key="'" line="348" column="33" />
+        <mark key="[" line="108" column="45" />
+        <mark key="]" line="108" column="45" />
+        <mark key="^" line="143" column="109" />
+        <mark key="." line="108" column="45" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/UnitClear.java" timestamp="1500303311578">
         <mark key="[" line="7" column="22" />
@@ -745,22 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="18" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="203" column="17" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="206" column="29" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="207" column="18" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="208" column="17" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="54" column="16" filename="$USER_HOME$/Source/cbceval/nrt/pom.xml" />
-      <jump line="249" column="0" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="250" column="29" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="251" column="18" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="252" column="17" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="261" column="0" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="262" column="29" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="263" column="18" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="264" column="17" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="332" column="33" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
-      <jump line="340" column="31" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
       <jump line="341" column="20" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
       <jump line="342" column="19" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
       <jump line="353" column="33" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
@@ -845,68 +830,78 @@
       <jump line="427" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="44" column="3" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="522" column="3" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="10" column="14" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="449" column="59" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="149" column="3" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="93" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="91" column="6" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="417" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="112" column="28" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="40" column="31" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="447" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="134" column="79" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="382" column="40" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="139" column="85" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="142" column="87" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="348" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>getstocklo</text>
+        <text>SystemEvent</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihldmVudC5nZXRTdG9jaygpICsgIkAiICsgZXZlbnQuZ2V0VGltZXN0YW1wKCkgKyAiIC0tICIgKyBldmVudCk7Cg==</text>
+      <register name="0" type="4">
+        <text>getLocate(event.getOrderRefNumber())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRMb2NhdGUoZXZlbnQuZ2V0T3JkZXJSZWZOdW1iZXIoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNob3J0IGxvY2F0ZSA9IGV2ZW50LmdldFN0b2NrTG9jYXRlKCk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvcHlMZW5ndGhBbmRQYXlsb2FkVG9CdWZmZXIoZXZlbnQpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXJrZXRQYXJ0aWNpcGFudFBvc2l0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmtldFBhcnRpY2lwYW50UG9zaXRpb24uc2V0TWFya2V0UGFydGljaXBhbnRTdGF0ZShldmVudC5nZXRNYXJrZXRQYXJ0aWNpcGFudFN0YXRlKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmtldFBhcnRpY2lwYW50UG9zaXRpb24uc2V0TWFya2V0TWFrZXJNb2RlKGV2ZW50LmdldE1hcmtldE1ha2VyTW9kZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2b2lkIG9uRXZlbnQobG9uZyB0aW1lc3RhbXAsIGZpbmFsIEl0Y2hNZXNzYWdlIGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgIG1hcmtldFBhcnRpY2lwYW50UG9zaXRpb24uc2V0UHJpbWFyeU1hcmtldE1ha2VyVmFsdWUoZXZlbnQuZ2V0UHJpbWFyeU1hcmtldE1ha2VyVmFsdWUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmtldFBhcnRpY2lwYW50UG9zaXRpb24uc2V0U3RvY2soZXZlbnQuZ2V0U3RvY2soKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKHRpbWVzdGFtcCArICItLSIgKyBtc2dsZW4pOwo=</text>
+        <text encoding="base64">ICAgIG1hcmtldFBhcnRpY2lwYW50UG9zaXRpb24uc2V0TVBJRChldmVudC5nZXRNUElEKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getstocklo</last-search>
+      <last-search>SystemEvent</last-search>
       <last-offset />
-      <last-pattern>getstocklo</last-pattern>
-      <last-replace>BitUtils.SIZE_OF_LONG</last-replace>
-      <last-substitute>0</last-substitute>
+      <last-pattern>SystemEvent</last-pattern>
+      <last-replace>systemEvent</last-replace>
+      <last-substitute>SystemEvent</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.trim()</entry>
-        <entry>generated</entry>
-        <entry>kotli</entry>
-        <entry>anno</entry>
-        <entry>zoned</entry>
-        <entry>sleepy</entry>
         <entry>immu</entry>
         <entry>printlnmy</entry>
         <entry>thisZone</entry>
@@ -921,13 +916,14 @@
         <entry>onevent</entry>
         <entry encoding="base64">XDxJTlZBTElEX0xPQ0FURVw+</entry>
         <entry>getstocklo</entry>
+        <entry>processE</entry>
+        <entry>convert</entry>
+        <entry>g</entry>
+        <entry>src</entry>
+        <entry>buffer</entry>
+        <entry>SystemEvent</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzUwLzQxL2c=</entry>
-        <entry>%s/int offset/long offset/gc</entry>
-        <entry>ws</entry>
-        <entry>split</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/.trim()//g</entry>
         <entry>s</entry>
         <entry>aw</entry>
@@ -942,6 +938,11 @@
         <entry>W</entry>
         <entry>vsp</entry>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz5zL2NvbnZlcnQvL2c=</entry>
+        <entry encoding="base64">JzwsJz4vc3JjLy9n</entry>
+        <entry>%s/src//gc</entry>
+        <entry encoding="base64">JzwsJz5zL2J1ZmZlci91bnNhZmVCdWZmZXIvZw==</entry>
+        <entry>%s/SystemEvent/systemEvent/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
