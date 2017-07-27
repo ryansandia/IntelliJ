@@ -393,13 +393,13 @@
         <mark key="." line="26" column="12" />
         <mark key="^" line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" timestamp="1501188796868">
-        <mark key="a" line="125" column="49" />
-        <mark key="'" line="348" column="33" />
-        <mark key="[" line="108" column="45" />
-        <mark key="]" line="108" column="45" />
-        <mark key="^" line="143" column="109" />
-        <mark key="." line="108" column="45" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" timestamp="1501190641180">
+        <mark key="a" line="126" column="49" />
+        <mark key="'" line="177" column="49" />
+        <mark key="[" line="160" column="39" />
+        <mark key="]" line="160" column="50" />
+        <mark key="^" line="160" column="50" />
+        <mark key="." line="160" column="50" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/UnitClear.java" timestamp="1500303311578">
         <mark key="[" line="7" column="22" />
@@ -581,6 +581,12 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/resources/log4j.properties" timestamp="1501191399616">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50Writer.java" timestamp="1499983900894">
         <mark key="[" line="95" column="6" />
         <mark key="]" line="95" column="37" />
@@ -632,12 +638,12 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Striper.java" timestamp="1501187070057">
-        <mark key="'" line="84" column="38" />
-        <mark key="[" line="77" column="60" />
-        <mark key="]" line="78" column="14" />
-        <mark key="^" line="78" column="14" />
-        <mark key="." line="78" column="14" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Striper.java" timestamp="1501191383426">
+        <mark key="'" line="83" column="38" />
+        <mark key="[" line="77" column="15" />
+        <mark key="]" line="77" column="18" />
+        <mark key="." line="77" column="18" />
+        <mark key="^" line="77" column="18" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/MarkableFileInputStream.java" timestamp="1499791967878">
         <mark key="[" line="16" column="0" />
@@ -726,7 +732,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1501186939252">
+      <file name="/fragment.java" timestamp="1501191250345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -746,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="20" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
       <jump line="342" column="19" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
       <jump line="353" column="33" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
       <jump line="24" column="5" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
@@ -846,22 +851,23 @@
       <jump line="139" column="85" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="142" column="87" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="348" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="177" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>INFO</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>SystemEvent</text>
       </register>
-      <register name="0" type="4">
-        <text>getLocate(event.getOrderRefNumber())</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1hdGNoTWFwLnB1dChldmVudC5nZXRNYXRjaE51bWJlcigpLCBjcm9zc1RyYWRlLmdldFN0b2NrTG9jYXRlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRMb2NhdGUoZXZlbnQuZ2V0T3JkZXJSZWZOdW1iZXIoKSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -870,22 +876,22 @@
         <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXJrZXRQYXJ0aWNpcGFudFBvc2l0aW9uOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBub2lpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hcmtldFBhcnRpY2lwYW50UG9zaXRpb24uc2V0TWFya2V0UGFydGljaXBhbnRTdGF0ZShldmVudC5nZXRNYXJrZXRQYXJ0aWNpcGFudFN0YXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgIG5vaWkuc2V0UHJpY2VWYXJpYXRpb25JbmRpY2F0b3IoZXZlbnQuZ2V0UHJpY2VWYXJpYXRpb25JbmRpY2F0b3IoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmtldFBhcnRpY2lwYW50UG9zaXRpb24uc2V0TWFya2V0TWFrZXJNb2RlKGV2ZW50LmdldE1hcmtldE1ha2VyTW9kZSgpKTsK</text>
+        <text encoding="base64">ICAgIG5vaWkuc2V0Q3Jvc3NUeXBlKGV2ZW50LmdldENyb3NzVHlwZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmtldFBhcnRpY2lwYW50UG9zaXRpb24uc2V0UHJpbWFyeU1hcmtldE1ha2VyVmFsdWUoZXZlbnQuZ2V0UHJpbWFyeU1hcmtldE1ha2VyVmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIG5vaWkuc2V0Q3VycmVudFJlZmVyZW5jZVByaWNlKGV2ZW50LmdldEN1cnJlbnRSZWZQcmljZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmtldFBhcnRpY2lwYW50UG9zaXRpb24uc2V0U3RvY2soZXZlbnQuZ2V0U3RvY2soKSk7Cg==</text>
+        <text encoding="base64">ICAgIG5vaWkuc2V0TmVhclByaWNlKGV2ZW50LmdldE5lYXJQcmljZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmtldFBhcnRpY2lwYW50UG9zaXRpb24uc2V0TVBJRChldmVudC5nZXRNUElEKCkpOwo=</text>
+        <text encoding="base64">ICAgIG5vaWkuc2V0RmFyUHJpY2UoZXZlbnQuZ2V0RmFyUHJpY2UoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -924,7 +930,6 @@
         <entry>SystemEvent</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/.trim()//g</entry>
         <entry>s</entry>
         <entry>aw</entry>
         <entry>wqa</entry>
@@ -936,13 +941,14 @@
         <entry>Wa</entry>
         <entry encoding="base64">JzwsJz5zLzAvQml0VXRpbHMuU0laRV9PRl9MT05HL2c=</entry>
         <entry>W</entry>
-        <entry>vsp</entry>
-        <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zL2NvbnZlcnQvL2c=</entry>
         <entry encoding="base64">JzwsJz4vc3JjLy9n</entry>
         <entry>%s/src//gc</entry>
         <entry encoding="base64">JzwsJz5zL2J1ZmZlci91bnNhZmVCdWZmZXIvZw==</entry>
         <entry>%s/SystemEvent/systemEvent/g</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>wa</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
