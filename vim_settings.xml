@@ -976,7 +976,7 @@
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -1022,7 +1022,6 @@
         <entry encoding="base64">JzwsJz5zL2J1ZmZlci91bnNhZmVCdWZmZXIvZw==</entry>
         <entry>%s/SystemEvent/systemEvent/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>vsp</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>wqa</entry>
@@ -1032,6 +1031,7 @@
         <entry>Wa</entry>
         <entry>qa</entry>
         <entry>wa</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
