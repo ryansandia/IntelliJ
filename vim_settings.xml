@@ -177,6 +177,9 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" timestamp="1501533904638">
+        <mark key="'" line="110" column="22" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripePlayer.java" timestamp="1501517519594">
         <mark key="[" line="23" column="3" />
         <mark key="]" line="25" column="74" />
@@ -1100,7 +1103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="177" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="12" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/AddOrder.java" />
       <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/NOII.java" />
@@ -1200,6 +1202,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/StockDirectory.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Source/cbceval/pom.xml" />
       <jump line="45" column="0" filename="$USER_HOME$/Source/cbceval/pom.xml" />
+      <jump line="110" column="22" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1209,7 +1212,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>accept_ca</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihldmVudC5nZXRTdG9jaygpICsgIkAiICsgdGltZXN0YW1wICsgIiAtLSAiICsgZXZlbnQpOwo=</text>
@@ -1246,9 +1249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>accept_ca</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>accept_ca</last-pattern>
       <last-replace>Upper</last-replace>
       <last-substitute>Bottom</last-substitute>
       <last-dir>1</last-dir>
@@ -1256,8 +1259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getstocklo</entry>
-        <entry>processE</entry>
         <entry>convert</entry>
         <entry>g</entry>
         <entry>src</entry>
@@ -1276,6 +1277,8 @@
         <entry>protoc</entry>
         <entry>Bottom</entry>
         <entry>main</entry>
+        <entry encoding="base64">XDxuYW1lRmlsdGVyXD4=</entry>
+        <entry>accept_ca</entry>
       </history-search>
       <history-cmd>
         <entry>%s/src//gc</entry>
