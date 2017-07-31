@@ -92,6 +92,12 @@
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/gradle/people/ryan/build.gradle" timestamp="1501541976207">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/AddOrderWithMPID.java" timestamp="1501529556068">
         <mark key="'" line="6" column="15" />
         <mark key="[" line="11" column="94" />
@@ -297,6 +303,13 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="26" />
       </file>
+      <file name="$USER_HOME$/Source/gradle/other/build.gradle" timestamp="1501542065333">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/md/ItchMessage.java" timestamp="1498140139157">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="22" />
@@ -326,6 +339,12 @@
         <mark key="]" line="4" column="49" />
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/Source/gradle/nrt/build.gradle" timestamp="1501541597146">
+        <mark key="[" line="8" column="66" />
+        <mark key="]" line="8" column="80" />
+        <mark key="^" line="6" column="86" />
+        <mark key="." line="8" column="66" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/StockTradingAction.java" timestamp="1499973990705">
         <mark key="[" line="38" column="92" />
@@ -409,13 +428,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" timestamp="1501529797373">
-        <mark key="a" line="72" column="31" />
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/MarketParticipantPosition.java" timestamp="1501530409422">
         <mark key="'" line="22" column="0" />
@@ -565,6 +577,12 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/gradle/people/austin/build.gradle" timestamp="1501541742251">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/grp/AddOrder.java" timestamp="1500304419728">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="46" />
@@ -644,6 +662,13 @@
         <mark key="]" line="17" column="1" />
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
+      </file>
+      <file name="$USER_HOME$/Source/gradle/build.gradle" timestamp="1501541533380">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/Timestamp.java" timestamp="1501191968920">
         <mark key="'" line="5" column="17" />
@@ -743,6 +768,12 @@
         <mark key="]" line="44" column="1" />
         <mark key="^" line="44" column="1" />
         <mark key="." line="44" column="1" />
+      </file>
+      <file name="$USER_HOME$/Source/gradle/people/mark/build.gradle" timestamp="1501541739430">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/refdata/itch/TickerHelpers.kt" timestamp="1500042671136">
         <mark key="[" line="2" column="25" />
@@ -845,6 +876,12 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/gradle/people/will/build.gradle" timestamp="1501541970371">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/Trade.java" timestamp="1501262403147">
         <mark key="'" line="5" column="17" />
         <mark key="[" line="6" column="0" />
@@ -939,6 +976,9 @@
         <mark key="]" line="28" column="28" />
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501541847571">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/md/itch50/Message.java" timestamp="1498140620108">
         <mark key="[" line="2" column="7" />
@@ -1076,7 +1116,7 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1501530197269">
+      <file name="/fragment.java" timestamp="1501541858784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1103,9 +1143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
-      <jump line="12" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/AddOrder.java" />
-      <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/NOII.java" />
       <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/MarketParticipantPosition.java" />
       <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/CrossTrade.java" />
       <jump line="156" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ToStringer.java" />
@@ -1203,63 +1240,65 @@
       <jump line="21" column="0" filename="$USER_HOME$/Source/cbceval/pom.xml" />
       <jump line="45" column="0" filename="$USER_HOME$/Source/cbceval/pom.xml" />
       <jump line="110" column="22" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/Source/gradle/build.gradle" />
+      <jump line="12" column="0" filename="$USER_HOME$/Source/gradle/other/build.gradle" />
+      <jump line="29" column="0" filename="$USER_HOME$/Source/gradle/other/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLmltbXV0YWJsZXMnLCBuYW1lOiAndmFsdWUnLCB2ZXJzaW9uOiAnMi40LjAnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICcyLjguNyc=</text>
       </register>
       <register name="/" type="4">
-        <text>accept_ca</text>
+        <text>version:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihldmVudC5nZXRTdG9jaygpICsgIkAiICsgdGltZXN0YW1wICsgIiAtLSAiICsgZXZlbnQpOwo=</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICBjb21waWxlIHByb2plY3QoJzpvdGhlcicpCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLmltbXV0YWJsZXMnLCBuYW1lOiAndmFsdWUnLCB2ZXJzaW9uOiAnMi40LjAnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLm93Mi5hc20nLCBuYW1lOiAnYXNtLWFsbCcsIHZlcnNpb246ICc1LjInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8bWFpbi5jbGFzcz54eXouY29uc3RhbnRiZXRhLkRlZmF1bHRNYWluPC9tYWluLmNsYXNzPgo=</text>
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnY29tLmZhc3RlcnhtbC5qYWNrc29uLm1vZHVsZScsIG5hbWU6ICdqYWNrc29uLW1vZHVsZS1rb3RsaW4nLCB2ZXJzaW9uOiAnMi44LjcnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2FyY2hpdmU+Cg==</text>
+        <text encoding="base64">ICBjb21waWxlICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpyZTg6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9tYW5pZmVzdD4K</text>
+        <text encoding="base64">ICBjb21waWxlICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpyZTg6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtYWluQ2xhc3M+JHttYWluLmNsYXNzfTwvbWFpbkNsYXNzPgo=</text>
+        <text encoding="base64">YnVpbGRzY3JpcHQgewogIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjEuMy0yJwogIHJlcG9zaXRvcmllcyB7CiAgICBtYXZlbkNlbnRyYWwoKQogIH0KICBkZXBlbmRlbmNpZXMgewogICAgY2xhc3NwYXRoICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tZ3JhZGxlLXBsdWdpbjoka290bGluX3ZlcnNpb24iCiAgfQp9CmFwcGx5IHBsdWdpbjogJ2tvdGxpbicKcmVwb3NpdG9yaWVzIHsKICBtYXZlbkNlbnRyYWwoKQp9CmNvbXBpbGVLb3RsaW4gewogIGtvdGxpbk9wdGlvbnMgewogICAganZtVGFyZ2V0ID0gIjEuOCIKICB9Cn0KY29tcGlsZVRlc3RLb3RsaW4gewogIGtvdGxpbk9wdGlvbnMgewogICAganZtVGFyZ2V0ID0gIjEuOCIKICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG1hbmlmZXN0Pgo=</text>
+        <text encoding="base64">YnVpbGRzY3JpcHQgewogIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjEuMy0yJwogIHJlcG9zaXRvcmllcyB7CiAgICBtYXZlbkNlbnRyYWwoKQogIH0KICBkZXBlbmRlbmNpZXMgewogICAgY2xhc3NwYXRoICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tZ3JhZGxlLXBsdWdpbjoka290bGluX3ZlcnNpb24iCiAgfQp9CmFwcGx5IHBsdWdpbjogJ2tvdGxpbicKcmVwb3NpdG9yaWVzIHsKICBtYXZlbkNlbnRyYWwoKQp9CmNvbXBpbGVLb3RsaW4gewogIGtvdGxpbk9wdGlvbnMgewogICAganZtVGFyZ2V0ID0gIjEuOCIKICB9Cn0KY29tcGlsZVRlc3RLb3RsaW4gewogIGtvdGxpbk9wdGlvbnMgewogICAganZtVGFyZ2V0ID0gIjEuOCIKICB9Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJjaGl2ZT4K</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICBjb21waWxlIHByb2plY3QoJzpvdGhlcicpCiAgY29tcGlsZSAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLXN0ZGxpYi1qcmU4OiRrb3RsaW5fdmVyc2lvbiIKfQpidWlsZHNjcmlwdCB7CiAgZXh0LmtvdGxpbl92ZXJzaW9uID0gJzEuMS4zLTInCiAgcmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCiAgfQogIGRlcGVuZGVuY2llcyB7CiAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOiRrb3RsaW5fdmVyc2lvbiIKICB9Cn0KYXBwbHkgcGx1Z2luOiAna290bGluJwpyZXBvc2l0b3JpZXMgewogIG1hdmVuQ2VudHJhbCgpCn0KY29tcGlsZUtvdGxpbiB7CiAga290bGluT3B0aW9ucyB7CiAgICBqdm1UYXJnZXQgPSAiMS44IgogIH0KfQpjb21waWxlVGVzdEtvdGxpbiB7CiAga290bGluT3B0aW9ucyB7CiAgICBqdm1UYXJnZXQgPSAiMS44IgogIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>accept_ca</last-search>
+      <last-search>version:</last-search>
       <last-offset />
-      <last-pattern>accept_ca</last-pattern>
-      <last-replace>Upper</last-replace>
-      <last-substitute>Bottom</last-substitute>
+      <last-pattern>version:</last-pattern>
+      <last-replace>version: &quot;$jackson_version&quot;</last-replace>
+      <last-substitute>version:</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>convert</entry>
         <entry>g</entry>
         <entry>src</entry>
         <entry>SystemEvent</entry>
@@ -1279,9 +1318,9 @@
         <entry>main</entry>
         <entry encoding="base64">XDxuYW1lRmlsdGVyXD4=</entry>
         <entry>accept_ca</entry>
+        <entry>version:</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/src//gc</entry>
         <entry encoding="base64">JzwsJz5zL2J1ZmZlci91bnNhZmVCdWZmZXIvZw==</entry>
         <entry>%s/SystemEvent/systemEvent/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1289,7 +1328,6 @@
         <entry>wqa</entry>
         <entry>wea</entry>
         <entry>Wa</entry>
-        <entry>qa</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>%s/messageHeader.getTimestamp()/timestamp/g</entry>
         <entry encoding="base64">JzwsJz5zL2J1ZmZlci9mcy5nZXRCdWZmZXIoKS9n</entry>
@@ -1299,6 +1337,8 @@
         <entry>W</entry>
         <entry>Q</entry>
         <entry>q</entry>
+        <entry>qa</entry>
+        <entry encoding="base64">JzwsJz5zL3ZlcnNpb246L3ZlcnNpb246ICIkamFja3Nvbl92ZXJzaW9uIi9n</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
