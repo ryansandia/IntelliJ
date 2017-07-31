@@ -228,6 +228,7 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/gradle/other/src/main/java/com/sandiacap/aws/EC2InstanceType.java" timestamp="1501543082439" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/OrderCancel.java" timestamp="1501191915482">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="13" />
@@ -303,12 +304,12 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/other/build.gradle" timestamp="1501542065333">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="5" column="1" />
+      <file name="$USER_HOME$/Source/gradle/other/build.gradle" timestamp="1501542740475">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="13" column="60" />
+        <mark key="]" line="13" column="65" />
+        <mark key="." line="13" column="65" />
+        <mark key="^" line="13" column="65" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/md/ItchMessage.java" timestamp="1498140139157">
         <mark key="[" line="3" column="0" />
@@ -504,12 +505,6 @@
         <mark key="^" line="41" column="1" />
         <mark key="." line="41" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ToStringer.java" timestamp="1501529827184">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" timestamp="1501274443756">
         <mark key="'" line="272" column="21" />
         <mark key="[" line="188" column="51" />
@@ -663,12 +658,12 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/build.gradle" timestamp="1501541533380">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="2" column="5" />
+      <file name="$USER_HOME$/Source/gradle/build.gradle" timestamp="1501543829793">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="44" column="61" />
+        <mark key="." line="44" column="61" />
+        <mark key="^" line="44" column="61" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/Timestamp.java" timestamp="1501191968920">
         <mark key="'" line="5" column="17" />
@@ -1246,10 +1241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLmltbXV0YWJsZXMnLCBuYW1lOiAndmFsdWUnLCB2ZXJzaW9uOiAnMi40LjAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICcyLjguNyc=</text>
+        <text>&quot;1.8&quot;</text>
       </register>
       <register name="/" type="4">
         <text>version:</text>
@@ -1258,31 +1253,31 @@
         <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICBjb21waWxlIHByb2plY3QoJzpvdGhlcicpCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLmltbXV0YWJsZXMnLCBuYW1lOiAndmFsdWUnLCB2ZXJzaW9uOiAnMi40LjAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLm93Mi5hc20nLCBuYW1lOiAnYXNtLWFsbCcsIHZlcnNpb246ICc1LjInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnY29tLmZhc3RlcnhtbC5qYWNrc29uLm1vZHVsZScsIG5hbWU6ICdqYWNrc29uLW1vZHVsZS1rb3RsaW4nLCB2ZXJzaW9uOiAnMi44LjcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb21waWxlICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpyZTg6JGtvdGxpbl92ZXJzaW9uIgo=</text>
+        <text encoding="base64">ICBzb3VyY2VDb21wYXRpYmlsaXR5ID0gMS44CiAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb21waWxlICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpyZTg6JGtvdGxpbl92ZXJzaW9uIgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IC8vIGlnbm9yZSB1bnNhZmUgd2FybmluZ3MKICB0YXNrcy53aXRoVHlwZShKYXZhQ29tcGlsZSkgewogICAgb3B0aW9ucy5lbmNvZGluZyA9ICdVVEYtOCcKICAgIG9wdGlvbnMuZGVwcmVjYXRpb24gPSBmYWxzZQogICAgb3B0aW9ucy5jb21waWxlckFyZ3MgPDwgJy1YRGlnbm9yZS5zeW1ib2wuZmlsZScKICAgIG9wdGlvbnMuZm9yayA9IHRydWUKICAgIG9wdGlvbnMuZm9ya09wdGlvbnMuZXhlY3V0YWJsZSA9ICdqYXZhYycKICB9CgogIHRhc2tzLndpdGhUeXBlKG9yZy5qZXRicmFpbnMua290bGluLmdyYWRsZS50YXNrcy5Lb3RsaW5Db21waWxlKSB7CiAgICBrb3RsaW5PcHRpb25zIHsKICAgICAganZtVGFyZ2V0ID0gIiR0YXJnZXRDb21wYXRpYmlsaXR5IgogICAgfQogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjEuMy0yJwogIHJlcG9zaXRvcmllcyB7CiAgICBtYXZlbkNlbnRyYWwoKQogIH0KICBkZXBlbmRlbmNpZXMgewogICAgY2xhc3NwYXRoICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tZ3JhZGxlLXBsdWdpbjoka290bGluX3ZlcnNpb24iCiAgfQp9CmFwcGx5IHBsdWdpbjogJ2tvdGxpbicKcmVwb3NpdG9yaWVzIHsKICBtYXZlbkNlbnRyYWwoKQp9CmNvbXBpbGVLb3RsaW4gewogIGtvdGxpbk9wdGlvbnMgewogICAganZtVGFyZ2V0ID0gIjEuOCIKICB9Cn0KY29tcGlsZVRlc3RLb3RsaW4gewogIGtvdGxpbk9wdGlvbnMgewogICAganZtVGFyZ2V0ID0gIjEuOCIKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjEuMy0yJwogIHJlcG9zaXRvcmllcyB7CiAgICBtYXZlbkNlbnRyYWwoKQogIH0KICBkZXBlbmRlbmNpZXMgewogICAgY2xhc3NwYXRoICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tZ3JhZGxlLXBsdWdpbjoka290bGluX3ZlcnNpb24iCiAgfQp9CmFwcGx5IHBsdWdpbjogJ2tvdGxpbicKcmVwb3NpdG9yaWVzIHsKICBtYXZlbkNlbnRyYWwoKQp9CmNvbXBpbGVLb3RsaW4gewogIGtvdGxpbk9wdGlvbnMgewogICAganZtVGFyZ2V0ID0gIjEuOCIKICB9Cn0KY29tcGlsZVRlc3RLb3RsaW4gewogIGtvdGxpbk9wdGlvbnMgewogICAganZtVGFyZ2V0ID0gIjEuOCIKICB9Cn0K</text>
+        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdpZGVhJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICBjb21waWxlIHByb2plY3QoJzpvdGhlcicpCiAgY29tcGlsZSAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLXN0ZGxpYi1qcmU4OiRrb3RsaW5fdmVyc2lvbiIKfQpidWlsZHNjcmlwdCB7CiAgZXh0LmtvdGxpbl92ZXJzaW9uID0gJzEuMS4zLTInCiAgcmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCiAgfQogIGRlcGVuZGVuY2llcyB7CiAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOiRrb3RsaW5fdmVyc2lvbiIKICB9Cn0KYXBwbHkgcGx1Z2luOiAna290bGluJwpyZXBvc2l0b3JpZXMgewogIG1hdmVuQ2VudHJhbCgpCn0KY29tcGlsZUtvdGxpbiB7CiAga290bGluT3B0aW9ucyB7CiAgICBqdm1UYXJnZXQgPSAiMS44IgogIH0KfQpjb21waWxlVGVzdEtvdGxpbiB7CiAga290bGluT3B0aW9ucyB7CiAgICBqdm1UYXJnZXQgPSAiMS44IgogIH0KfQo=</text>
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLmltbScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLmltbXV0YWJsZXMnLCBuYW1lOiAndmFsdWUnLCB2ZXJzaW9uOiAnMi40LjAnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
