@@ -656,6 +656,11 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/pom.xml" timestamp="1501531779354">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/CheckedS3FileOutputStream.java" timestamp="1499796120557">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="21" column="8" />
@@ -1095,8 +1100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="85" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
-      <jump line="142" column="87" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="348" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="177" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="12" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/AddOrder.java" />
@@ -1195,55 +1198,57 @@
       <jump line="5" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/Timestamp.java" />
       <jump line="19" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/StockTradingAction.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/StockDirectory.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Source/cbceval/pom.xml" />
+      <jump line="45" column="0" filename="$USER_HOME$/Source/cbceval/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Bottom</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihldmVudC5nZXRTdG9jaygpICsgIkAiICsgdGltZXN0YW1wICsgIiAtLSAiICsgZXZlbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U3RyaW5nVXRpbHMuZnJvbSh2YWx1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWFpbi5jbGFzcz54eXouY29uc3RhbnRiZXRhLkRlZmF1bHRNYWluPC9tYWluLmNsYXNzPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2FyY2hpdmU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9tYW5pZmVzdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtYWluQ2xhc3M+JHttYWluLmNsYXNzfTwvbWFpbkNsYXNzPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBodHRwOi8vbmV3YXRsYXMuY29tL2Rlc2t0b3AtbWV0YWwtM2QtcHJpbnRpbmcvNTA2NTQvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG1hbmlmZXN0Pgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgb25FdmVudChsb25nIHRpbWVzdGFtcCwgc2hvcnQgbG9jYXRlLCBJdGNoTWVzc2FnZSBldmVudCkgewoKICAgIGNvcHlMZW5ndGhBbmRQYXlsb2FkVG9CdWZmZXIoZXZlbnQpOwoKICAgIFN0cmlwZUZpbGVTdHJlYW0gb3MgPSBzdHJlYW1NYXAuZ2V0KGxvY2F0ZSk7CiAgICBpZiAob3MgIT0gbnVsbCkgewogICAgICAvLyBtZXNzYWdlIGZvciBrbm93biBzeW1ib2wKICAgICAgb3Mud3JpdGVQYWNrZXQodGltZXN0YW1wLCBiYWNraW5nQnVmZmVyLCBldmVudC5zaXplKCkgKyBCaXRVdGlscy5TSVpFX09GX1NIT1JUKTsKICAgIH0gZWxzZSB7CiAgICAgIC8vIHN5c3RlbS91bmtub3duIG1lc3NhZ2UKICAgICAgdW5rbm93blN0cmVhbS53cml0ZVBhY2tldCh0aW1lc3RhbXAsIGJhY2tpbmdCdWZmZXIsIGV2ZW50LnNpemUoKSArIEJpdFV0aWxzLlNJWkVfT0ZfU0hPUlQpOwogICAgfQogIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJjaGl2ZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Bottom</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>Bottom</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>Upper</last-replace>
       <last-substitute>Bottom</last-substitute>
       <last-dir>1</last-dir>
@@ -1251,7 +1256,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTlZBTElEX0xPQ0FURVw+</entry>
         <entry>getstocklo</entry>
         <entry>processE</entry>
         <entry>convert</entry>
@@ -1271,6 +1275,7 @@
         <entry>localdate</entry>
         <entry>protoc</entry>
         <entry>Bottom</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>%s/src//gc</entry>
@@ -1289,9 +1294,9 @@
         <entry>%s/cacheFolder/cacheDir/g</entry>
         <entry encoding="base64">JzwsJz5zL0JvdHRvbS9VcHBlci9n</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>Q</entry>
         <entry>q</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
