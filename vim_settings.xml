@@ -410,10 +410,10 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/AddOrderShort.java" timestamp="1501193413659">
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/AddOrderShort.java" timestamp="1501524103337">
         <mark key="'" line="5" column="17" />
-        <mark key="[" line="40" column="31" />
-        <mark key="]" line="41" column="1" />
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="58" />
         <mark key="^" line="41" column="1" />
         <mark key="." line="41" column="1" />
       </file>
@@ -781,11 +781,18 @@
         <mark key="." line="78" column="1" />
         <mark key="^" line="78" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/StockDirectory.java" timestamp="1501192045510">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="13" />
-        <mark key="^" line="56" column="12" />
-        <mark key="." line="56" column="12" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/StockDirectory.java" timestamp="1501524208115">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="40" />
+        <mark key="^" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/StockDirectory.java" timestamp="1501524086336">
+        <mark key="'" line="6" column="17" />
+        <mark key="[" line="54" column="1" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/resources/log4j.properties" timestamp="1501191399616">
         <mark key="[" line="2" column="27" />
@@ -977,7 +984,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="449" column="59" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="149" column="3" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="93" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
@@ -1077,19 +1083,20 @@
       <jump line="73" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
       <jump line="121" column="87" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
+      <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/StockDirectory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>srcFile</text>
+        <text encoding="base64">KSA=</text>
       </register>
       <register name="-" type="4">
-        <text>srcFile</text>
+        <text encoding="base64">KSA=</text>
       </register>
       <register name="/" type="4">
         <text>protoc</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgQllaOgogICAgICAgICAgICBzdHJpcGVyLnN0cmlwZUJBVFMobmV3IFBpdGNoRGV0YWlsKGRhdGUsIFZlbnVlLkJZWiksIGNhY2hlRGlyKTsKICAgICAgICAgICAgYnJlYWs7</text>
+        <text>FFFFFFFFL</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8U3RyaW5nPihuZXcgRmlsZShmaWxlbmFtZSkpOwo=</text>
@@ -1119,7 +1126,7 @@
         <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1173,8 +1180,8 @@
         <entry>%s/cacheFolder/cacheDir/g</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
