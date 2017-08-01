@@ -59,9 +59,6 @@
         <mark key="^" line="84" column="7" />
         <mark key="." line="84" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" timestamp="1501255297821">
-        <mark key="'" line="155" column="14" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/PrimitiveMapper.java" timestamp="1501260601095">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -194,8 +191,12 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" timestamp="1501533904638">
-        <mark key="'" line="110" column="22" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" timestamp="1501624045341">
+        <mark key="'" line="193" column="6" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="131" column="73" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripePlayer.java" timestamp="1501517519594">
         <mark key="[" line="23" column="3" />
@@ -416,9 +417,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/Timestamp.java" timestamp="1501529591961">
-        <mark key="'" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/cpp/Device.cpp" timestamp="1501008542392">
         <mark key="[" line="3" column="0" />
@@ -1172,21 +1170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/MarketParticipantPosition.java" />
-      <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/CrossTrade.java" />
-      <jump line="156" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ToStringer.java" />
-      <jump line="5" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/OrderReplace.java" />
-      <jump line="4" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/OrderExecutedWithPrice.java" />
-      <jump line="5" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/OrderExecuted.java" />
-      <jump line="5" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/OrderDelete.java" />
-      <jump line="173" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ToStringer.java" />
-      <jump line="5" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/Timestamp.java" />
-      <jump line="5" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/SystemEvent.java" />
-      <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/StockTradingAction.java" />
-      <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/RPII.java" />
-      <jump line="227" column="2" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
-      <jump line="5" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/AddOrderExpanded.java" />
-      <jump line="5" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/AddOrderLong.java" />
       <jump line="5" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/AddOrderShort.java" />
       <jump line="7" column="15" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/AuctionSummary.java" />
       <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/AuctionUpdate.java" />
@@ -1272,55 +1255,70 @@
       <jump line="43" column="0" filename="$USER_HOME$/Source/gradle/build.gradle" />
       <jump line="12" column="0" filename="$USER_HOME$/Source/gradle/other/build.gradle" />
       <jump line="29" column="0" filename="$USER_HOME$/Source/gradle/other/build.gradle" />
+      <jump line="25" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="107" column="104" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="120" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="131" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="136" column="11" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="139" column="12" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="146" column="13" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="151" column="6" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="156" column="6" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="169" column="8" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="180" column="20" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="183" column="16" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="187" column="14" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
+      <jump line="193" column="6" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGVzdENvbXBpbGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5pbmZvKCJEb3dubG9hZGluZyB7fSB0byB0bXAgZmlsZSB7fSIsIGZpbGVOYW1lLCB0ZW1wRmlsZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVzdENvbXBpbGUg</text>
+        <text>{} and filter {}&quot;, directories, containsFilter);</text>
       </register>
       <register name="/" type="4">
-        <text>version:</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBydW50aW1lIGdyb3VwOiAnb3JnLnNsZjRqJywgbmFtZTogJ3NsZjRqLWxvZzRqMTInLCB2ZXJzaW9uOiAnMS43LjI1Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBydW50aW1lIGdyb3VwOiAnb3JnLnNsZjRqJywgbmFtZTogJ3NsZjRqLWxvZzRqMTInLCB2ZXJzaW9uOiAnMS43LjI1Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5pbmZvKCJEb3dubG9hZGluZyB7fSB0byB0bXAgZmlsZSB7fSIsIGZpbGVOYW1lLCB0ZW1wRmlsZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdqYXZhJwogIGFwcGx5IHBsdWdpbjogJ29yZy5qZXRicmFpbnMua290bGluLmp2bScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBjb21waWxlS290bGluIHsKICAgIHNvdXJjZUNvbXBhdGliaWxpdHkgPSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CgogICAga290bGluT3B0aW9ucyB7CiAgICAgIGp2bVRhcmdldCA9ICIkdGFyZ2V0Q29tcGF0aWJpbGl0eSIKICAgIH0KICB9CgogIGNvbXBpbGVUZXN0S290bGluIHsKICAgIHNvdXJjZUNvbXBhdGliaWxpdHkgPSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CgogICAga290bGluT3B0aW9ucyB7CiAgICAgIGp2bVRhcmdldCA9ICIkdGFyZ2V0Q29tcGF0aWJpbGl0eSIKICAgIH0KICB9Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIkZvdW5kIHt9IGZpbGVzIGluIGRpcmVjdG9yeSB7fSIsIGZpbGVzLmxlbmd0aCwgZGlyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBydW50aW1lIGdyb3VwOiAnb3JnLnNsZjRqJywgbmFtZTogJ3NsZjRqLWxvZzRqMTInLCB2ZXJzaW9uOiAnMS43LjI1Jwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAvLyBpZ25vcmUgdW5zYWZlIHdhcm5pbmdzCiAgdGFza3Mud2l0aFR5cGUoSmF2YUNvbXBpbGUpIHsKICAgIG9wdGlvbnMuZW5jb2RpbmcgPSAnVVRGLTgnCiAgICBvcHRpb25zLmRlcHJlY2F0aW9uID0gZmFsc2UKICAgIG9wdGlvbnMuY29tcGlsZXJBcmdzIDw8ICctWERpZ25vcmUuc3ltYm9sLmZpbGUnCiAgICBvcHRpb25zLmZvcmsgPSB0cnVlCiAgICBvcHRpb25zLmZvcmtPcHRpb25zLmV4ZWN1dGFibGUgPSAnamF2YWMnCiAgICBvcHRpb25zLmluY3JlbWVudGFsID0gdHJ1ZQogIH0K</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdqYXZhJwogIGFwcGx5IHBsdWdpbjogJ29yZy5qZXRicmFpbnMua290bGluLmp2bScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgbWF4UGFyYWxsZWxGb3JrcyA9IFJ1bnRpbWUucnVudGltZS5hdmFpbGFibGVQcm9jZXNzb3JzKCkgLyAyCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICBjb21waWxlS290bGluIHsKICAgIHNvdXJjZUNvbXBhdGliaWxpdHkgPSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CgogICAga290bGluT3B0aW9ucyB7CiAgICAgIGp2bVRhcmdldCA9ICIkdGFyZ2V0Q29tcGF0aWJpbGl0eSIKICAgIH0KICB9CgogIGNvbXBpbGVUZXN0S290bGluIHsKICAgIHNvdXJjZUNvbXBhdGliaWxpdHkgPSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CgogICAga290bGluT3B0aW9ucyB7CiAgICAgIGp2bVRhcmdldCA9ICIkdGFyZ2V0Q29tcGF0aWJpbGl0eSIKICAgIH0KICB9Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>version:</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>version:</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>version: &quot;$jackson_version&quot;</last-replace>
       <last-substitute>version:</last-substitute>
       <last-dir>1</last-dir>
@@ -1328,7 +1326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>g</entry>
         <entry>src</entry>
         <entry>SystemEvent</entry>
         <entry>tot</entry>
@@ -1348,6 +1345,7 @@
         <entry encoding="base64">XDxuYW1lRmlsdGVyXD4=</entry>
         <entry>accept_ca</entry>
         <entry>version:</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SystemEvent/systemEvent/g</entry>
@@ -1368,8 +1366,8 @@
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL3ZlcnNpb246L3ZlcnNpb246ICIkamFja3Nvbl92ZXJzaW9uIi9n</entry>
         <entry>a</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
