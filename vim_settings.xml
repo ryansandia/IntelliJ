@@ -421,11 +421,11 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/pom.xml" timestamp="1501018422583">
-        <mark key="[" line="185" column="17" />
-        <mark key="]" line="186" column="16" />
-        <mark key="^" line="186" column="16" />
-        <mark key="." line="186" column="16" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/pom.xml" timestamp="1501600427577">
+        <mark key="[" line="182" column="15" />
+        <mark key="]" line="182" column="28" />
+        <mark key="^" line="182" column="28" />
+        <mark key="." line="182" column="28" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1500500172282">
         <mark key="[" line="12" column="37" />
@@ -617,7 +617,7 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/VenueDetail.java" timestamp="1501519299604">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/VenueDetail.java" timestamp="1501600384230">
         <mark key="[" line="26" column="29" />
         <mark key="]" line="26" column="29" />
         <mark key="^" line="26" column="29" />
@@ -1247,11 +1247,11 @@
       <jump line="29" column="0" filename="$USER_HOME$/Source/gradle/other/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>version:</text>
