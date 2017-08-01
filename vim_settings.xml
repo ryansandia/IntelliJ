@@ -375,6 +375,11 @@
         <mark key="." line="41" column="1" />
         <mark key="^" line="41" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/g2/nrt/src/main/java/com/sandiacap/nrt/Venue.java" timestamp="1501616822321">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/AddOrder.java" timestamp="1501530429425">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="36" column="18" />
@@ -995,7 +1000,7 @@
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501541847571">
+      <file name="/Dummy.txt" timestamp="1501616742162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/md/itch50/Message.java" timestamp="1498140620108">
@@ -1055,10 +1060,11 @@
         <mark key="^" line="141" column="8" />
         <mark key="." line="153" column="8" />
       </file>
-      <file name="$USER_HOME$/Source/g2/build.gradle" timestamp="1501615922720">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Source/g2/build.gradle" timestamp="1501617216127">
+        <mark key="[" line="71" column="50" />
+        <mark key="]" line="72" column="3" />
+        <mark key="." line="72" column="3" />
+        <mark key="^" line="72" column="3" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/offheap/generator/OffHeapMemory.java" timestamp="1498684457932">
         <mark key="[" line="166" column="0" />
@@ -1139,7 +1145,7 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1501541858784">
+      <file name="/fragment.java" timestamp="1501616744758">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1269,10 +1275,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5IGdyb3VwOiAnb3JnLmltbXV0YWJsZXMnLCBuYW1lOiAndmFsdWUnLCB2ZXJzaW9uOiAiJGltbXV0YWJsZXNfdmVyc2lvbiIK</text>
+        <text encoding="base64">ICAgIC8vIGp1bml0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'5.2'</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>version:</text>
@@ -1281,45 +1287,31 @@
         <text encoding="base64">ICBydW50aW1lIGdyb3VwOiAnb3JnLnNsZjRqJywgbmFtZTogJ3NsZjRqLWxvZzRqMTInLCB2ZXJzaW9uOiAnMS43LjI1Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5IGdyb3VwOiAnb3JnLmltbXV0YWJsZXMnLCBuYW1lOiAndmFsdWUnLCB2ZXJzaW9uOiAiJGltbXV0YWJsZXNfdmVyc2lvbiIK</text>
+        <text encoding="base64">ICAgIC8vIGp1bml0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIENoYW5nZSB0aGUgb3V0cHV0IGRpcmVjdG9yeSBmb3IgdGhlIG1haW4gYW5kIHRlc3Qgc291cmNlIHNldHMgYmFjayB0byB0aGUgb2xkIHBhdGgK</text>
+        <text encoding="base64">ICAgIC8vIEltbXV0YWJsZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGtvdGwK</text>
+        <text encoding="base64">ICAgIC8vIGtvdGxpbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGd1YXZhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEFTTQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>//  idea {
-//    module {
-//      outputDir file('build/classes/main')
-//      testOutputDir file('build/classes/test')
-//    }
-//  }
-
-  // make intellij and gradle share build directories
-//  if (project.convention.findPlugin(JavaPluginConvention)) {
-//    sourceSets.main.output.classesDir = new File(buildDir, &quot;classes/main&quot;)
-//    sourceSets.test.output.classesDir = new File(buildDir, &quot;classes/test&quot;)
-//  }
-
- // group = 'com.sandiacap'
-  //version = '1.0-SNAPSHOT'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnb3JnLmpldGJyYWlucy5rb3RsaW4nLCBuYW1lOiAna290bGluLXRlc3QnLCB2ZXJzaW9uOiAiJGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1zdGRsaWI6JGtvdGxpbl92ZXJzaW9uIgo=</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnb3JnLmpldGJyYWlucy5rb3RsaW4nLCBuYW1lOiAna290bGluLXRlc3QtanVuaXQnLCB2ZXJzaW9uOiAiJGtvdGxpbl92ZXJzaW9uIgogICAgdGVzdENvbXBpbGUgZ3JvdXA6ICdvcmcuamV0YnJhaW5zLmtvdGxpbicsIG5hbWU6ICdrb3RsaW4tdGVzdCcsIHZlcnNpb246ICIka290bGluX3ZlcnNpb24iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuamV0YnJhaW5zLmtvdGxpbicsIG5hbWU6ICdrb3RsaW4tc3RkbGliJywgdmVyc2lvbjoK</text>
+        <text encoding="base64">Ly8gICAgdGVzdENvbXBpbGUgZ3JvdXA6ICdvcmcuaGFtY3Jlc3QnLCBuYW1lOiAnaGFtY3Jlc3QtY29yZScsIHZlcnNpb246ICcxLjMnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5IGdyb3VwOiAnb3JnLmltbXV0YWJsZXMnLCBuYW1lOiAndmFsdWUnLCB2ZXJzaW9uOiAiJGltbXV0YWJsZXNfdmVyc2lvbiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
