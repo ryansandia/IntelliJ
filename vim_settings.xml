@@ -658,12 +658,12 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/build.gradle" timestamp="1501543829793">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="61" />
-        <mark key="." line="44" column="61" />
-        <mark key="^" line="44" column="61" />
+      <file name="$USER_HOME$/Source/gradle/build.gradle" timestamp="1501595470322">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/Timestamp.java" timestamp="1501191968920">
         <mark key="'" line="5" column="17" />
@@ -922,6 +922,9 @@
         <mark key="]" line="54" column="0" />
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/gradle/core/build.gradle" timestamp="1501595233844">
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/resources/log4j.properties" timestamp="1501191399616">
         <mark key="[" line="2" column="27" />
@@ -1250,7 +1253,7 @@
         <text>version:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICBjb21waWxlIHByb2plY3QoJzpvdGhlcicpCn0K</text>
+        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdqYXZhJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1258,26 +1261,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAvLyBpZ25vcmUgdW5zYWZlIHdhcm5pbmdzCiAgdGFza3Mud2l0aFR5cGUoSmF2YUNvbXBpbGUpIHsKICAgIG9wdGlvbnMuZW5jb2RpbmcgPSAnVVRGLTgnCiAgICBvcHRpb25zLmRlcHJlY2F0aW9uID0gZmFsc2UKICAgIG9wdGlvbnMuY29tcGlsZXJBcmdzIDw8ICctWERpZ25vcmUuc3ltYm9sLmZpbGUnCiAgICBvcHRpb25zLmZvcmsgPSB0cnVlCiAgICBvcHRpb25zLmZvcmtPcHRpb25zLmV4ZWN1dGFibGUgPSAnamF2YWMnCiAgfQoKICB0YXNrcy53aXRoVHlwZShvcmcuamV0YnJhaW5zLmtvdGxpbi5ncmFkbGUudGFza3MuS290bGluQ29tcGlsZSkgewogICAga290bGluT3B0aW9ucyB7CiAgICAgIGp2bVRhcmdldCA9ICIkdGFyZ2V0Q29tcGF0aWJpbGl0eSIKICAgIH0KICB9Cgog</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzb3VyY2VDb21wYXRpYmlsaXR5ID0gMS44CiAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIC0tIHNob3VsZCB0aGlzIGJlIGhlcmUgb3IgaW4gY29yZT8gcmVzZWFyY2ggb24gdGhlIGluaGVyaXRhbmNlIG9mIGRlcGVuZGVuY2llcwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IC8vIGlnbm9yZSB1bnNhZmUgd2FybmluZ3MKICB0YXNrcy53aXRoVHlwZShKYXZhQ29tcGlsZSkgewogICAgb3B0aW9ucy5lbmNvZGluZyA9ICdVVEYtOCcKICAgIG9wdGlvbnMuZGVwcmVjYXRpb24gPSBmYWxzZQogICAgb3B0aW9ucy5jb21waWxlckFyZ3MgPDwgJy1YRGlnbm9yZS5zeW1ib2wuZmlsZScKICAgIG9wdGlvbnMuZm9yayA9IHRydWUKICAgIG9wdGlvbnMuZm9ya09wdGlvbnMuZXhlY3V0YWJsZSA9ICdqYXZhYycKICB9CgogIHRhc2tzLndpdGhUeXBlKG9yZy5qZXRicmFpbnMua290bGluLmdyYWRsZS50YXNrcy5Lb3RsaW5Db21waWxlKSB7CiAgICBrb3RsaW5PcHRpb25zIHsKICAgICAganZtVGFyZ2V0ID0gIiR0YXJnZXRDb21wYXRpYmlsaXR5IgogICAgfQogIH0K</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdpZGVhJwo=</text>
+        <text encoding="base64">ICBkZXBlbmRlbmNpZXMgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLmltbScK</text>
+        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICduZXQubHRndC5hcHQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLmltbXV0YWJsZXMnLCBuYW1lOiAndmFsdWUnLCB2ZXJzaW9uOiAnMi40LjAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
