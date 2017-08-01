@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="LIGHTER" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
