@@ -92,11 +92,10 @@
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/people/ryan/build.gradle" timestamp="1501595676166">
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Source/gradle/people/ryan/build.gradle" timestamp="1501596874387">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/AddOrderWithMPID.java" timestamp="1501529556068">
         <mark key="'" line="6" column="15" />
@@ -303,11 +302,11 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/other/build.gradle" timestamp="1501542740475">
+      <file name="$USER_HOME$/Source/gradle/other/build.gradle" timestamp="1501596804228">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="13" column="60" />
-        <mark key="]" line="13" column="65" />
-        <mark key="." line="13" column="65" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
         <mark key="^" line="13" column="65" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/md/ItchMessage.java" timestamp="1498140139157">
@@ -328,6 +327,11 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/Source/gradle/realtime/build.gradle" timestamp="1501596774025">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/Ticker.java" timestamp="1501517759985">
         <mark key="[" line="10" column="63" />
         <mark key="]" line="10" column="63" />
@@ -340,11 +344,11 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/nrt/build.gradle" timestamp="1501541597146">
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="8" column="80" />
-        <mark key="^" line="6" column="86" />
-        <mark key="." line="8" column="66" />
+      <file name="$USER_HOME$/Source/gradle/nrt/build.gradle" timestamp="1501596792058">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/StockTradingAction.java" timestamp="1499973990705">
         <mark key="[" line="38" column="92" />
@@ -571,11 +575,10 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/people/austin/build.gradle" timestamp="1501595684758">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/Source/gradle/people/austin/build.gradle" timestamp="1501596797212">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/grp/AddOrder.java" timestamp="1500304419728">
         <mark key="[" line="5" column="34" />
@@ -657,11 +660,11 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/build.gradle" timestamp="1501595729603">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="47" column="26" />
-        <mark key="^" line="47" column="26" />
-        <mark key="." line="47" column="26" />
+      <file name="$USER_HOME$/Source/gradle/build.gradle" timestamp="1501597167159">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="61" column="1" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/Timestamp.java" timestamp="1501191968920">
         <mark key="'" line="5" column="17" />
@@ -762,11 +765,11 @@
         <mark key="^" line="44" column="1" />
         <mark key="." line="44" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/people/mark/build.gradle" timestamp="1501541739430">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Source/gradle/people/mark/build.gradle" timestamp="1501596801452">
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/refdata/itch/TickerHelpers.kt" timestamp="1500042671136">
         <mark key="[" line="2" column="25" />
@@ -869,11 +872,11 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/people/will/build.gradle" timestamp="1501541970371">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
+      <file name="$USER_HOME$/Source/gradle/people/will/build.gradle" timestamp="1501596782826">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/Trade.java" timestamp="1501262403147">
         <mark key="'" line="5" column="17" />
@@ -921,8 +924,10 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/core/build.gradle" timestamp="1501595233844">
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Source/gradle/core/build.gradle" timestamp="1501596787602">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/resources/log4j.properties" timestamp="1501191399616">
         <mark key="[" line="2" column="27" />
@@ -1242,43 +1247,67 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICBtYXZlbkNlbnRyYWwoKQp9CmRlcGVuZGVuY2llcyB7CiAgY29tcGlsZSAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLXN0ZGxpYi1qcmU4OiRrb3RsaW5fdmVyc2lvbiIKfQpjb21waWxlS290bGluIHsKICBrb3RsaW5PcHRpb25zIHsKICAgIGp2bVRhcmdldCA9ICIxLjgiCiAgfQp9CmNvbXBpbGVUZXN0S290bGluIHsKICBrb3RsaW5PcHRpb25zIHsKICAgIGp2bVRhcmdldCA9ICIxLjgiCiAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>version:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdqYXZhJwo=</text>
+      <register name="0" type="4">
+        <text>//  compileKotlin {
+//    kotlinOptions {
+//      jvmTarget = &quot;$targetCompatibility&quot;
+//    }
+//  }
+//  compileTestKotlin {
+//    kotlinOptions {
+//      jvmTarget = &quot;$targetCompatibility&quot;
+//    }
+//  }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICBtYXZlbkNlbnRyYWwoKQp9CmRlcGVuZGVuY2llcyB7CiAgY29tcGlsZSAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLXN0ZGxpYi1qcmU4OiRrb3RsaW5fdmVyc2lvbiIKfQpjb21waWxlS290bGluIHsKICBrb3RsaW5PcHRpb25zIHsKICAgIGp2bVRhcmdldCA9ICIxLjgiCiAgfQp9CmNvbXBpbGVUZXN0S290bGluIHsKICBrb3RsaW5PcHRpb25zIHsKICAgIGp2bVRhcmdldCA9ICIxLjgiCiAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBleHQua290bGluX3ZlcnNpb24gPSAnMS4xLjMtMicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBleHQua290bGluX3ZlcnNpb24gPSAnMS4xLjMtMicK</text>
+      <register name="3" type="4">
+        <text>//  tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile) {
+//    kotlinOptions {
+//      jvmTarget = &quot;$targetCompatibility&quot;
+//    }
+//  }
+
+//  compileKotlin {
+//    kotlinOptions {
+//      jvmTarget = &quot;$targetCompatibility&quot;
+//    }
+//  }
+//  compileTestKotlin {
+//    kotlinOptions {
+//      jvmTarget = &quot;$targetCompatibility&quot;
+//    }
+//  }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0nCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgLy8gaWdub3JlIHVuc2FmZSB3YXJuaW5ncwogIHRhc2tzLndpdGhUeXBlKEphdmFDb21waWxlKSB7CiAgICBvcHRpb25zLmVuY29kaW5nID0gJ1VURi04JwogICAgb3B0aW9ucy5kZXByZWNhdGlvbiA9IGZhbHNlCiAgICBvcHRpb25zLmNvbXBpbGVyQXJncyA8PCAnLVhEaWdub3JlLnN5bWJvbC5maWxlJwogICAgb3B0aW9ucy5mb3JrID0gdHJ1ZQogICAgb3B0aW9ucy5mb3JrT3B0aW9ucy5leGVjdXRhYmxlID0gJ2phdmFjJwogIH0KCiAgc291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAogIHRhcmdldENvbXBhdGliaWxpdHkgPSAxLjg=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YXJnZXRDb21wYXRpbGliaXR5ID0gMS44Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzb3VyY2VDb21wYXRpYmlsaXR5ID0gMS44CiAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzb3VyY2VDb21wYXRpYmlsaXR5ID0gMS44CiAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAoKICAvLyBUT0RPIC0tIHRyeSBhbmQgYnVpbGQgYW4gZXhlY3V0YWJsZSBqYXIgb3V0IG9mIHRoaXMgdGhpbmcKICBkZXBlbmRlbmNpZXMgewogICAgY29tcGlsZSBncm91cDogJ29yZy5qZXRicmFpbnMnLCBuYW1lOiAnYW5ub3RhdGlvbnMnLCB2ZXJzaW9uOicxNS4wJwogICAgLy8ga290bGluCiAgICBjb21waWxlIGdyb3VwOiAnb3JnLmpldGJyYWlucy5rb3RsaW4nLCBuYW1lOiAna290bGluLXJ1bnRpbWUnLCB2ZXJzaW9uOiIka290bGluX3ZlcnNpb24iCiAgICBjb21waWxlIGdyb3VwOiAnb3JnLmpldGJyYWlucy5rb3RsaW4nLCBuYW1lOiAna290bGluLXN0ZGxpYi1qcmU4JywgdmVyc2lvbjoiJGtvdGxpbl92ZXJzaW9uIgogICAgY29tcGlsZSBncm91cDogJ29yZy5qZXRicmFpbnMua290bGluJywgbmFtZTogJ2tvdGxpbi1yZWZsZWN0JywgdmVyc2lvbjoiJGtvdGxpbl92ZXJzaW9uIgogICAgdGVzdENvbXBpbGUgZ3JvdXA6ICdvcmcuamV0YnJhaW5zLmtvdGxpbicsIG5hbWU6ICdrb3RsaW4tdGVzdC1qdW5pdCcsIHZlcnNpb246IiRrb3RsaW5fdmVyc2lvbiIKICAgIHRlc3RDb21waWxlIGdyb3VwOiAnb3JnLmpldGJyYWlucy5rb3RsaW4nLCBuYW1lOiAna290bGluLXRlc3QnLCB2ZXJzaW9uOiIka290bGluX3ZlcnNpb24iCiAgICAvLyBndWF2YQogICAgY29tcGlsZSBncm91cDogJ2NvbS5nb29nbGUuZ3VhdmEnLCBuYW1lOiAnZ3VhdmEnLCB2ZXJzaW9uOicyMi4wJwogICAgLy8gQVNNCiAgICBjb21waWxlIGdyb3VwOiAnb3JnLm93Mi5hc20nLCBuYW1lOiAnYXNtLWFsbCcsIHZlcnNpb246JzUuMicKICAgIC8vIEltbXV0YWJsZXMKICAgIGNvbXBpbGVPbmx5ICJvcmcuaW1tdXRhYmxlczp2YWx1ZTokaW1tdXRhYmxlc192ZXJzaW9uOmFubm90YXRpb25zIgogICAgYXB0ICAgICAgICAgIm9yZy5pbW11dGFibGVzOnZhbHVlOiRpbW11dGFibGVzX3ZlcnNpb24iCiAgICAvLyBqdW5pdAogICAgdGVzdENvbXBpbGUgZ3JvdXA6ICdqdW5pdCcsIG5hbWU6ICdqdW5pdCcsIHZlcnNpb246JzQuMTInCiAgICB0ZXN0Q29tcGlsZSBncm91cDogJ29yZy5oYW1jcmVzdCcsIG5hbWU6ICdoYW1jcmVzdC1jb3JlJywgdmVyc2lvbjonMS4zJwogIH0KCiByZXBvc2l0b3JpZXMgewogICAgbWF2ZW5Mb2NhbCgpCiAgICBtYXZlbkNlbnRyYWwoKQogICAgamNlbnRlcigpCiAgfQp9Cg==</text>
+        <text encoding="base64">ICBjb21waWxlICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpyZTg6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmJ1aWxkc2NyaXB0IHsKICByZXBvc2l0b3JpZXMgewogICAgbWF2ZW5DZW50cmFsKCkKICB9CiAgZGVwZW5kZW5jaWVzIHsKICAgIGNsYXNzcGF0aCAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLWdyYWRsZS1wbHVnaW46JGtvdGxpbl92ZXJzaW9uIgogIH0KfQoKYXBwbHkgcGx1Z2luOiAna290bGluJwoKcmVwb3NpdG9yaWVzIHsKICBtYXZlbkNlbnRyYWwoKQp9CgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1317,7 +1346,6 @@
         <entry>version:</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2J1ZmZlci91bnNhZmVCdWZmZXIvZw==</entry>
         <entry>%s/SystemEvent/systemEvent/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
@@ -1335,6 +1363,7 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL3ZlcnNpb246L3ZlcnNpb246ICIkamFja3Nvbl92ZXJzaW9uIi9n</entry>
+        <entry>a</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
