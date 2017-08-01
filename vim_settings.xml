@@ -92,11 +92,11 @@
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/people/ryan/build.gradle" timestamp="1501541976207">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Source/gradle/people/ryan/build.gradle" timestamp="1501595676166">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/AddOrderWithMPID.java" timestamp="1501529556068">
         <mark key="'" line="6" column="15" />
@@ -228,7 +228,6 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/other/src/main/java/com/sandiacap/aws/EC2InstanceType.java" timestamp="1501543082439" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/OrderCancel.java" timestamp="1501191915482">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="13" />
@@ -572,11 +571,11 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/people/austin/build.gradle" timestamp="1501541742251">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="0" column="28" />
+      <file name="$USER_HOME$/Source/gradle/people/austin/build.gradle" timestamp="1501595684758">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/grp/AddOrder.java" timestamp="1500304419728">
         <mark key="[" line="5" column="34" />
@@ -658,12 +657,11 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/gradle/build.gradle" timestamp="1501595470322">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="27" column="52" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Source/gradle/build.gradle" timestamp="1501595729603">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="47" column="26" />
+        <mark key="^" line="47" column="26" />
+        <mark key="." line="47" column="26" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/Timestamp.java" timestamp="1501191968920">
         <mark key="'" line="5" column="17" />
@@ -1244,10 +1242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICBtYXZlbkNlbnRyYWwoKQp9CmRlcGVuZGVuY2llcyB7CiAgY29tcGlsZSAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLXN0ZGxpYi1qcmU4OiRrb3RsaW5fdmVyc2lvbiIKfQpjb21waWxlS290bGluIHsKICBrb3RsaW5PcHRpb25zIHsKICAgIGp2bVRhcmdldCA9ICIxLjgiCiAgfQp9CmNvbXBpbGVUZXN0S290bGluIHsKICBrb3RsaW5PcHRpb25zIHsKICAgIGp2bVRhcmdldCA9ICIxLjgiCiAgfQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;1.8&quot;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>version:</text>
@@ -1256,28 +1254,28 @@
         <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdqYXZhJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICBtYXZlbkNlbnRyYWwoKQp9CmRlcGVuZGVuY2llcyB7CiAgY29tcGlsZSAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLXN0ZGxpYi1qcmU4OiRrb3RsaW5fdmVyc2lvbiIKfQpjb21waWxlS290bGluIHsKICBrb3RsaW5PcHRpb25zIHsKICAgIGp2bVRhcmdldCA9ICIxLjgiCiAgfQp9CmNvbXBpbGVUZXN0S290bGluIHsKICBrb3RsaW5PcHRpb25zIHsKICAgIGp2bVRhcmdldCA9ICIxLjgiCiAgfQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBleHQua290bGluX3ZlcnNpb24gPSAnMS4xLjMtMicK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAvLyBpZ25vcmUgdW5zYWZlIHdhcm5pbmdzCiAgdGFza3Mud2l0aFR5cGUoSmF2YUNvbXBpbGUpIHsKICAgIG9wdGlvbnMuZW5jb2RpbmcgPSAnVVRGLTgnCiAgICBvcHRpb25zLmRlcHJlY2F0aW9uID0gZmFsc2UKICAgIG9wdGlvbnMuY29tcGlsZXJBcmdzIDw8ICctWERpZ25vcmUuc3ltYm9sLmZpbGUnCiAgICBvcHRpb25zLmZvcmsgPSB0cnVlCiAgICBvcHRpb25zLmZvcmtPcHRpb25zLmV4ZWN1dGFibGUgPSAnamF2YWMnCiAgfQoKICB0YXNrcy53aXRoVHlwZShvcmcuamV0YnJhaW5zLmtvdGxpbi5ncmFkbGUudGFza3MuS290bGluQ29tcGlsZSkgewogICAga290bGluT3B0aW9ucyB7CiAgICAgIGp2bVRhcmdldCA9ICIkdGFyZ2V0Q29tcGF0aWJpbGl0eSIKICAgIH0KICB9Cgog</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBleHQua290bGluX3ZlcnNpb24gPSAnMS4xLjMtMicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIC0tIHNob3VsZCB0aGlzIGJlIGhlcmUgb3IgaW4gY29yZT8gcmVzZWFyY2ggb24gdGhlIGluaGVyaXRhbmNlIG9mIGRlcGVuZGVuY2llcwo=</text>
+        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0nCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZXBlbmRlbmNpZXMgewo=</text>
+        <text encoding="base64">ICBzb3VyY2VDb21wYXRpYmlsaXR5ID0gMS44CiAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICduZXQubHRndC5hcHQnCg==</text>
+        <text encoding="base64">ICBzb3VyY2VDb21wYXRpYmlsaXR5ID0gMS44CiAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAoKICAvLyBUT0RPIC0tIHRyeSBhbmQgYnVpbGQgYW4gZXhlY3V0YWJsZSBqYXIgb3V0IG9mIHRoaXMgdGhpbmcKICBkZXBlbmRlbmNpZXMgewogICAgY29tcGlsZSBncm91cDogJ29yZy5qZXRicmFpbnMnLCBuYW1lOiAnYW5ub3RhdGlvbnMnLCB2ZXJzaW9uOicxNS4wJwogICAgLy8ga290bGluCiAgICBjb21waWxlIGdyb3VwOiAnb3JnLmpldGJyYWlucy5rb3RsaW4nLCBuYW1lOiAna290bGluLXJ1bnRpbWUnLCB2ZXJzaW9uOiIka290bGluX3ZlcnNpb24iCiAgICBjb21waWxlIGdyb3VwOiAnb3JnLmpldGJyYWlucy5rb3RsaW4nLCBuYW1lOiAna290bGluLXN0ZGxpYi1qcmU4JywgdmVyc2lvbjoiJGtvdGxpbl92ZXJzaW9uIgogICAgY29tcGlsZSBncm91cDogJ29yZy5qZXRicmFpbnMua290bGluJywgbmFtZTogJ2tvdGxpbi1yZWZsZWN0JywgdmVyc2lvbjoiJGtvdGxpbl92ZXJzaW9uIgogICAgdGVzdENvbXBpbGUgZ3JvdXA6ICdvcmcuamV0YnJhaW5zLmtvdGxpbicsIG5hbWU6ICdrb3RsaW4tdGVzdC1qdW5pdCcsIHZlcnNpb246IiRrb3RsaW5fdmVyc2lvbiIKICAgIHRlc3RDb21waWxlIGdyb3VwOiAnb3JnLmpldGJyYWlucy5rb3RsaW4nLCBuYW1lOiAna290bGluLXRlc3QnLCB2ZXJzaW9uOiIka290bGluX3ZlcnNpb24iCiAgICAvLyBndWF2YQogICAgY29tcGlsZSBncm91cDogJ2NvbS5nb29nbGUuZ3VhdmEnLCBuYW1lOiAnZ3VhdmEnLCB2ZXJzaW9uOicyMi4wJwogICAgLy8gQVNNCiAgICBjb21waWxlIGdyb3VwOiAnb3JnLm93Mi5hc20nLCBuYW1lOiAnYXNtLWFsbCcsIHZlcnNpb246JzUuMicKICAgIC8vIEltbXV0YWJsZXMKICAgIGNvbXBpbGVPbmx5ICJvcmcuaW1tdXRhYmxlczp2YWx1ZTokaW1tdXRhYmxlc192ZXJzaW9uOmFubm90YXRpb25zIgogICAgYXB0ICAgICAgICAgIm9yZy5pbW11dGFibGVzOnZhbHVlOiRpbW11dGFibGVzX3ZlcnNpb24iCiAgICAvLyBqdW5pdAogICAgdGVzdENvbXBpbGUgZ3JvdXA6ICdqdW5pdCcsIG5hbWU6ICdqdW5pdCcsIHZlcnNpb246JzQuMTInCiAgICB0ZXN0Q29tcGlsZSBncm91cDogJ29yZy5oYW1jcmVzdCcsIG5hbWU6ICdoYW1jcmVzdC1jb3JlJywgdmVyc2lvbjonMS4zJwogIH0KCiByZXBvc2l0b3JpZXMgewogICAgbWF2ZW5Mb2NhbCgpCiAgICBtYXZlbkNlbnRyYWwoKQogICAgamNlbnRlcigpCiAgfQp9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
