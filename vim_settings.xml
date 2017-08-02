@@ -1085,11 +1085,11 @@
         <mark key="^" line="39" column="1" />
         <mark key="." line="39" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/refdata/reuters/fileparsers/ReutersReturnTypes.kt" timestamp="1500388414014">
-        <mark key="[" line="142" column="7" />
-        <mark key="]" line="142" column="18" />
-        <mark key="^" line="142" column="18" />
-        <mark key="." line="142" column="18" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/refdata/reuters/fileparsers/ReutersReturnTypes.kt" timestamp="1501714440242">
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/OrderExecutedAtPrice.java" timestamp="1501262356095">
         <mark key="'" line="5" column="17" />
@@ -1316,8 +1316,8 @@
       <jump line="108" column="8" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1024;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS51dGlscy55eXl5bW1kZAo=</text>
       </register>
       <register name="-" type="4">
         <text>1024;</text>
@@ -1329,31 +1329,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGVUaW1lRm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5bW1kZCIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29yZS51dGlscy55eXl5bW1kZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGVUaW1lRm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5bW1kZCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIERhdGVUaW1lRm9ybWF0dGVyIGRhdGVUaW1lRm9ybWF0dGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIERhdGVUaW1lRm9ybWF0dGVyIGRhdGVUaW1lRm9ybWF0dGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIHZlbnVlICsgIi9GVFAvIjsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIHZlbnVlICsgIi9GVFAvIjsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlc3VsdC5zdGF0dXMgPT0gU3RhdHVzLkNvbXBsZXRlZCkgewo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
