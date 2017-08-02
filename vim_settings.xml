@@ -1348,7 +1348,7 @@
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEZpbGUgdG1wRGlyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -1391,7 +1391,6 @@
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>%s/messageHeader.getTimestamp()/timestamp/g</entry>
         <entry encoding="base64">JzwsJz5zL2J1ZmZlci9mcy5nZXRCdWZmZXIoKS9n</entry>
-        <entry>vsp</entry>
         <entry>%s/cacheFolder/cacheDir/g</entry>
         <entry encoding="base64">JzwsJz5zL0JvdHRvbS9VcHBlci9n</entry>
         <entry>W</entry>
@@ -1404,6 +1403,7 @@
         <entry>q</entry>
         <entry>s</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
