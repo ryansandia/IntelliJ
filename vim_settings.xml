@@ -103,11 +103,12 @@
         <mark key="^" line="13" column="75" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1501773995138">
+      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1501774933531">
         <mark key="a" line="1" column="2" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/Time.java" timestamp="1501262155253">
         <mark key="[" line="15" column="14" />
@@ -1318,11 +1319,11 @@
       <jump line="190" column="18" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>force gradle and intellij to use same output directories</text>
       </register>
       <register name="-" type="4">
-        <text>, version: &quot;$aws_version&quot;</text>
+        <text>force gradle and intellij to use same output directories</text>
       </register>
       <register name="/" type="4">
         <text>aws</text>
@@ -1358,7 +1359,7 @@
         <text encoding="base64">ICBkZXBlbmRlbmNpZXMgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1412,8 +1413,8 @@
         <entry>q</entry>
         <entry>s</entry>
         <entry>vsp</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
