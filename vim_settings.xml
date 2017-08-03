@@ -661,13 +661,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1501713051664">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1501794588215">
         <mark key="a" line="100" column="25" />
         <mark key="'" line="25" column="13" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="33" />
-        <mark key="^" line="157" column="28" />
-        <mark key="." line="151" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="3" />
+        <mark key="^" line="46" column="3" />
+        <mark key="." line="46" column="3" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch41FileStream.java" timestamp="1498747848967">
         <mark key="[" line="14" column="0" />
