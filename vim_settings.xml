@@ -361,11 +361,13 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1501779869169">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="67" column="37" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1501781274435">
+        <mark key="a" line="69" column="26" />
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/offheap/FieldOrder.java" timestamp="1498604564257">
         <mark key="[" line="14" column="13" />
@@ -831,10 +833,11 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1501776576705">
+      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1501781218636">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="47" />
         <mark key="^" line="4" column="57" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" timestamp="1501708974723">
         <mark key="a" line="139" column="47" />
@@ -1219,7 +1222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="40" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
       <jump line="118" column="72" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
       <jump line="20" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
       <jump line="65" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
@@ -1319,43 +1321,44 @@
       <jump line="75" column="24" filename="$USER_HOME$/Source/cbceval/build.gradle" />
       <jump line="112" column="16" filename="$USER_HOME$/Source/cbceval/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/build.gradle" />
+      <jump line="4" column="13" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, version: '1.11.81'</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>, version: '1.11.81'</text>
       </register>
       <register name="/" type="4">
         <text>aws</text>
       </register>
-      <register name="0" type="4">
-        <text>'http://download.oracle.com/maven'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb21waWxlICdjb20uYW1hem9uYXdzOmF3cy1qYXZhLXNkay1keW5hbW9kYicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlICdjb20uYW1hem9uYXdzOmF3cy1qYXZhLXNkay1keW5hbW9kYicK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+      <register name="2" type="8">
+        <text encoding="base64">Z3JvdXA6IApncm91cDogCmdyb3VwOiA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgJ2h0dHA6Ly9kb3dubG9hZC5vcmFjbGUuY29tL21hdmVuJwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGNvbXBpbGUgZ3JvdXA6ICdjb20uYW1hem9uYXdzJywgbmFtZTogJ2F3cy1qYXZhLXNkay1lYzInLCB2ZXJzaW9uOiAnMS4xMS44MScKICBjb21waWxlIGdyb3VwOiAnY29tLmFtYXpvbmF3cycsIG5hbWU6ICdhd3MtamF2YS1zZGstczMnLCB2ZXJzaW9uOiAnMS4xMS44MScKICBjb21waWxlIGdyb3VwOiAnY29tLmFtYXpvbmF3cycsIG5hbWU6ICdhd3MtamF2YS1zZGstcm91dGU1MycsIHZlcnNpb246ICcxLjExLjgxJw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgamNlbnRlcgo=</text>
+        <text encoding="base64">ICBjb21waWxlICdjb20uYW1hem9uYXdzOmF3cy1qYXZhLXNkay1jb3JlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgbG9jYWwK</text>
+        <text encoding="base64">ICBjb21waWxlICdjb20uYW1hem9uYXdzOmF3cy1qYXZhLXNkay1keW5hbW9kYicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gIHJlcG9zaXRvcmllcyB7Cg==</text>
+        <text encoding="base64">ICAgIGRlcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsK</text>
+        <text encoding="base64">ICAgIHJlcG9zCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1406,7 +1409,6 @@
         <entry encoding="base64">JzwsJz5zL2J1ZmZlci9mcy5nZXRCdWZmZXIoKS9n</entry>
         <entry>%s/cacheFolder/cacheDir/g</entry>
         <entry encoding="base64">JzwsJz5zL0JvdHRvbS9VcHBlci9n</entry>
-        <entry>W</entry>
         <entry>Q</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL3ZlcnNpb246L3ZlcnNpb246ICIkamFja3Nvbl92ZXJzaW9uIi9n</entry>
@@ -1417,6 +1419,7 @@
         <entry>vsp</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
