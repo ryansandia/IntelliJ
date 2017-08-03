@@ -103,13 +103,12 @@
         <mark key="^" line="13" column="75" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1501788036448">
-        <mark key="a" line="89" column="57" />
-        <mark key="'" line="89" column="57" />
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
+      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1501790929721">
+        <mark key="'" line="92" column="57" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="39" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/Time.java" timestamp="1501262155253">
         <mark key="[" line="15" column="14" />
@@ -366,12 +365,11 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1501788448248">
-        <mark key="'" line="35" column="21" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="64" column="78" />
+      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1501790922826">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/offheap/FieldOrder.java" timestamp="1498604564257">
         <mark key="[" line="14" column="13" />
@@ -849,10 +847,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1501787414658">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1501790388333">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" timestamp="1501708974723">
         <mark key="a" line="139" column="47" />
@@ -1237,9 +1236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="14" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
-      <jump line="105" column="66" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="190" column="3" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="120" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="183" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="32" column="79" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
@@ -1337,55 +1333,58 @@
       <jump line="86" column="57" filename="$USER_HOME$/Source/cbceval/build.gradle" />
       <jump line="26" column="47" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
       <jump line="36" column="21" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
+      <jump line="8" column="26" filename="$USER_HOME$/Source/cbceval/build.gradle" />
+      <jump line="44" column="36" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
+      <jump line="90" column="57" filename="$USER_HOME$/Source/cbceval/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAndXMua2lyY2htZWllci5jYXBzdWxlJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>9.0'</text>
+        <text>, version: '1.7.25'</text>
       </register>
       <register name="/" type="4">
-        <text>swing</text>
+        <text>spark</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBjYXBzdWxlTWFuaWZlc3QgewogICAgYWxsb3dTbmFwc2hvdHMgPSB0cnVlCiAgICByZXBvc2l0b3JpZXMgPSBbJ2xvY2FsJywgJ2pjZW50ZXInLCAnaHR0cDovL2Rvd25sb2FkLm9yYWNsZS5jb20vbWF2ZW4nXQogIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb21waWxlICdvcmcuc2xmNGo6c2xmNGotYXBpJwogIHJ1bnRpbWUgJ29yZy5zbGY0ajpzbGY0ai1sb2c0ajEyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAndXMua2lyY2htZWllci5jYXBzdWxlJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hdmVuQm9tICJjb20uYW1hem9uYXdzOmF3cy1qYXZhLXNkay1ib206JGF3c192ZXJzaW9uIgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICByZXBvc2l0b3JpZXMgewogICAgbWF2ZW4gewogICAgICB1cmwgJ2h0dHA6Ly9kb3dubG9hZC5vcmFjbGUuY29tL21hdmVuJwogICAgfQogIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnRzIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jeU1hbmFnZW1lbnQgewo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIG1hdmVuIHsKICAgICAgdXJsICdodHRwOi8vZG93bmxvYWQub3JhY2xlLmNvbS9tYXZlbicKICAgIH0=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBydW50aW1lIGdyb3VwOiAnb3JnLnNsZjRqJywgbmFtZTogJ3NsZjRqLWxvZzRqMTInLCB2ZXJzaW9uOiAnMS43LjI1Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLnNsZjRqJywgbmFtZTogJ3NsZjRqLWFwaScsIHZlcnNpb246ICcxLjcuMjUnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>swing</last-search>
+      <last-search>spark</last-search>
       <last-offset />
-      <last-pattern>swing</last-pattern>
+      <last-pattern>spark</last-pattern>
       <last-replace>version: &quot;$jackson_version&quot;</last-replace>
       <last-substitute>version:</last-substitute>
       <last-dir>1</last-dir>
@@ -1393,8 +1392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>buffer</entry>
-        <entry>localda</entry>
         <entry>totalfiles</entry>
         <entry>null</entry>
         <entry>cacheFolder</entry>
@@ -1413,6 +1410,8 @@
         <entry>aws</entry>
         <entry>guava</entry>
         <entry>swing</entry>
+        <entry>hadoop</entry>
+        <entry>spark</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -1432,9 +1431,9 @@
         <entry>q</entry>
         <entry>s</entry>
         <entry>vsp</entry>
+        <entry>wa</entry>
         <entry>W</entry>
         <entry>w</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
