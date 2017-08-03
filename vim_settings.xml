@@ -360,11 +360,11 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1501772605431">
-        <mark key="[" line="60" column="19" />
-        <mark key="]" line="60" column="20" />
-        <mark key="." line="60" column="20" />
-        <mark key="^" line="60" column="20" />
+      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1501776579030">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="47" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/offheap/FieldOrder.java" timestamp="1498604564257">
         <mark key="[" line="14" column="13" />
@@ -834,11 +834,10 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1501776337477">
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="52" />
-        <mark key="^" line="4" column="52" />
-        <mark key="." line="4" column="52" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1501776576705">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="47" />
+        <mark key="^" line="4" column="57" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" timestamp="1501708974723">
         <mark key="a" line="139" column="47" />
@@ -1325,11 +1324,11 @@
       <jump line="190" column="18" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb21waWxlICdjb20uYW1hem9uYXdzOmF3cy1qYXZhLXNkay1keW5hbW9kYicK</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>1.11.163'</text>
       </register>
       <register name="/" type="4">
         <text>aws</text>
@@ -1338,31 +1337,31 @@
         <text encoding="base64">ICBjb21waWxlICdjb20uYW1hem9uYXdzOmF3cy1qYXZhLXNkay1keW5hbW9kYicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIGNvbXBpbGUgZ3JvdXA6ICdjb20uYW1hem9uYXdzJywgbmFtZTogJ2ptZXNwYXRoLWphdmEnLCB2ZXJzaW9uOiAiJGF3c192ZXJzaW9uIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnY29tLmFtYXpvbmF3cycsIG5hbWU6ICdhd3MtamF2YS1zZGstZHluYW1vZGInLCB2ZXJzaW9uOiAnMS4xMS44MScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICJpby5zcHJpbmcuZGVwZW5kZW5jeS1tYW5hZ2VtZW50IiAvLyBBV1MK</text>
+        <text encoding="base64">Ly8gIGNvbXBpbGUgZ3JvdXA6ICdjb20uYW1hem9uYXdzJywgbmFtZTogJ2ptZXNwYXRoLWphdmEnLCB2ZXJzaW9uOiAiJGF3c192ZXJzaW9uIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIGNvbXBpbGUgZ3JvdXA6ICdjb20uYW1hem9uYXdzJywgbmFtZTogJ2F3cy1qYXZhLXNkay1jb3JlJywgdmVyc2lvbjogIiRhd3NfdmVyc2lvbiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Ly8gIGNvbXBpbGUgZ3JvdXA6ICdjb20uYW1hem9uYXdzJywgbmFtZTogJ2F3cy1qYXZhLXNkay1keW5hbW9kYicsIHZlcnNpb246ICIkYXdzX3ZlcnNpb24iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWF2ZW5DZW50cmFsKCkK</text>
+        <text encoding="base64">Ly8gIGNvbXBpbGUgZ3JvdXA6ICdjb20uYW1hem9uYXdzJywgbmFtZTogJ2F3cy1qYXZhLXNkay1zMycsIHZlcnNpb246ICIkYXdzX3ZlcnNpb24iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXBvc2l0b3JpZXMgewo=</text>
+        <text encoding="base64">Ly8gIGRlZiBhd3NfdmVyc2lvbiA9ICcxLjExLjE2MycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2xhc3NwYXRoICJpby5zcHJpbmcuZ3JhZGxlOmRlcGVuZGVuY3ktbWFuYWdlbWVudC1wbHVnaW46MS4wLjAuUkMyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
