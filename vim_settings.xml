@@ -360,10 +360,11 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1501768329809">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1501771266287">
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="53" column="27" />
+        <mark key="." line="53" column="27" />
+        <mark key="^" line="53" column="27" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/offheap/FieldOrder.java" timestamp="1498604564257">
         <mark key="[" line="14" column="13" />
@@ -698,8 +699,8 @@
         <mark key="^" line="36" column="1" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/pom.xml" timestamp="1501696680696">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/other/pom.xml" timestamp="1501770841567">
+        <mark key="'" line="190" column="18" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/utils/BitUtils.java" timestamp="1498683014771">
         <mark key="[" line="27" column="70" />
@@ -833,7 +834,7 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1501696354236">
+      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1501770857606">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="67" />
         <mark key="." line="10" column="0" />
@@ -1222,15 +1223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
-      <jump line="130" column="7" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
-      <jump line="154" column="10" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
-      <jump line="36" column="14" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
-      <jump line="54" column="9" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
-      <jump line="76" column="69" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
-      <jump line="151" column="21" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
       <jump line="155" column="14" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchStriper.java" />
       <jump line="110" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventHandler.java" />
       <jump line="130" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ToStringer.java" />
@@ -1322,16 +1314,25 @@
       <jump line="107" column="36" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="108" column="8" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="47" column="0" filename="$USER_HOME$/Source/cbceval/build.gradle" />
+      <jump line="95" column="25" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
+      <jump line="194" column="18" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
+      <jump line="39" column="27" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
+      <jump line="96" column="25" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
+      <jump line="185" column="25" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
+      <jump line="186" column="18" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
+      <jump line="189" column="25" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
+      <jump line="193" column="25" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
+      <jump line="190" column="18" filename="$USER_HOME$/Source/cbceval/other/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>1024;</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>fs</text>
+        <text>aws</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAndXMua2lyY2htZWllci5jYXBzdWxlJwo=</text>
@@ -1368,9 +1369,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fs</last-search>
+      <last-search>aws</last-search>
       <last-offset />
-      <last-pattern>fs</last-pattern>
+      <last-pattern>aws</last-pattern>
       <last-replace>version: &quot;$jackson_version&quot;</last-replace>
       <last-substitute>version:</last-substitute>
       <last-dir>1</last-dir>
@@ -1378,7 +1379,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRPdXRwdXRTdHJlYW1cPg==</entry>
         <entry>messageHeader.getTimestamp()</entry>
         <entry>rever</entry>
         <entry>buffer</entry>
@@ -1398,6 +1398,7 @@
         <entry>version:</entry>
         <entry>venue</entry>
         <entry>fs</entry>
+        <entry>aws</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
