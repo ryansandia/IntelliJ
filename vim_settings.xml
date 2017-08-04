@@ -442,7 +442,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1501873131519">
+      <file name="/fragment.java" timestamp="1501875575905">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -565,13 +565,13 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1501873517747">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1501875680742">
         <mark key="a" line="185" column="16" />
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="^" line="171" column="21" />
-        <mark key="." line="142" column="0" />
+        <mark key="'" line="232" column="17" />
+        <mark key="[" line="224" column="30" />
+        <mark key="]" line="224" column="30" />
+        <mark key="^" line="224" column="30" />
+        <mark key="." line="224" column="30" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/DeleteOrder.java" timestamp="1501262285643">
         <mark key="[" line="6" column="0" />
@@ -646,11 +646,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1501873492645">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="20" column="22" />
-        <mark key="." line="20" column="22" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1501876005541">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Venue.java" timestamp="1501516252727">
         <mark key="[" line="3" column="0" />
@@ -901,12 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/MarketParticipantPosition.java" />
-      <jump line="27" column="3" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/Trade.java" />
-      <jump line="42" column="4" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/Trade.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/XNASDetail.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/XNASDetail.java" />
-      <jump line="6" column="15" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/AddOrderWithMPID.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/AddOrder.java" />
       <jump line="5" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/Timestamp.java" />
       <jump line="19" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/StockTradingAction.java" />
@@ -998,19 +991,25 @@
       <jump line="185" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="199" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
-      <jump line="183" column="53" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="213" column="31" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="142" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="57" column="9" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="215" column="30" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="58" column="86" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="173" column="27" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="183" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="202" column="21" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="232" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1pcnJvclNvdXJjZSBibGFoID0gTWlycm9yU291cmNlLlRFU1RJTkc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">WE5BUyA=</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>blah</text>
+        <text>sanitizepa</text>
       </register>
       <register name="0" type="4">
         <text>ask itchSync(type: FatCapsule) {
@@ -1021,40 +1020,40 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1pcnJvclNvdXJjZSBibGFoID0gTWlycm9yU291cmNlLlRFU1RJTkc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlIHByb2plY3QoJzpucnQnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghZHJ5cnVuKSB7IHRtcERpci5kZWxldGUoKTsgfQo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgT3V0cHV0U3RyZWFtIG9zID0gbmV3IEJ1ZmZlcmVkT3V0cHV0U3RyZWFtKG5ldyBGaWxlT3V0cHV0U3RyZWFtKGZkKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRtcERpci5kZWxldGVPbkV4aXQoKTsK</text>
+        <text encoding="base64">ICAgIGNoYW5uZWwuZGlzY29ubmVjdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoYW5uZWxTZnRwLmV4aXQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKytpZ25vcmVDb3VudDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJDb25uZWN0aW5nIHRvOiB7fSIsIG1pcnJvclNvdXJjZS5ob3N0bmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMudmVudWUgKyAiL0ZUUCIgKyBpbmZvLnBhdGggKyAiLyIgKyBpbmZvLmZpbGVuYW1lOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>blah</last-search>
+      <last-search>sanitizepa</last-search>
       <last-offset />
-      <last-pattern>blah</last-pattern>
+      <last-pattern>sanitizepa</last-pattern>
       <last-replace>mirrorSource</last-replace>
       <last-substitute>blah</last-substitute>
       <last-dir>1</last-dir>
@@ -1062,8 +1061,6 @@
     </search>
     <history>
       <history-search>
-        <entry>localdate</entry>
-        <entry>protoc</entry>
         <entry>Bottom</entry>
         <entry>main</entry>
         <entry encoding="base64">XDxuYW1lRmlsdGVyXD4=</entry>
@@ -1082,6 +1079,8 @@
         <entry>connect</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry>blah</entry>
+        <entry>destinationfile</entry>
+        <entry>sanitizepa</entry>
       </history-search>
       <history-cmd>
         <entry>wea</entry>
@@ -1100,9 +1099,9 @@
         <entry>W</entry>
         <entry>vsp</entry>
         <entry>&quot;w</entry>
-        <entry>wa</entry>
         <entry>q</entry>
         <entry>%s/blah/mirrorSource/gc</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
