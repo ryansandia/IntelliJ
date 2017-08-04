@@ -16,10 +16,10 @@
         <mark key="." line="25" column="1" />
         <mark key="^" line="25" column="1" />
       </file>
-      <file name="/a.dummy" timestamp="1501711750291">
+      <file name="/a.dummy" timestamp="1501856690583">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/StripeFileStream.java" timestamp="1501255833066">
         <mark key="[" line="77" column="24" />
@@ -617,19 +617,11 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1501791959905">
+      <file name="/fragment.java" timestamp="1501858516776">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" timestamp="1501712815925">
-        <mark key="a" line="44" column="33" />
-        <mark key="'" line="41" column="83" />
-        <mark key="[" line="41" column="39" />
-        <mark key="]" line="41" column="59" />
-        <mark key="." line="41" column="59" />
-        <mark key="^" line="41" column="59" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CheckedS3FileOutputStream.java" timestamp="1501078173116">
         <mark key="[" line="18" column="0" />
@@ -763,6 +755,14 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1501858571473">
+        <mark key="a" line="100" column="3" />
+        <mark key="'" line="113" column="12" />
+        <mark key="[" line="119" column="37" />
+        <mark key="]" line="119" column="37" />
+        <mark key="^" line="134" column="12" />
+        <mark key="." line="119" column="37" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/DeleteOrder.java" timestamp="1501262285643">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -855,14 +855,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="61" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" timestamp="1501708974723">
-        <mark key="a" line="139" column="47" />
-        <mark key="'" line="80" column="11" />
-        <mark key="[" line="141" column="48" />
-        <mark key="]" line="141" column="49" />
-        <mark key="." line="141" column="49" />
-        <mark key="^" line="141" column="49" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Venue.java" timestamp="1501516252727">
         <mark key="[" line="3" column="0" />
@@ -1239,10 +1231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="183" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="32" column="79" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="206" column="3" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="215" column="22" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="31" column="36" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
@@ -1339,55 +1327,59 @@
       <jump line="8" column="26" filename="$USER_HOME$/Source/cbceval/build.gradle" />
       <jump line="44" column="36" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
       <jump line="90" column="57" filename="$USER_HOME$/Source/cbceval/build.gradle" />
+      <jump line="126" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="125" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="115" column="12" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="113" column="12" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbS5qY3JhZnQvanNjaAo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>Maven</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>spark</text>
+        <text>connect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb21waWxlICdvcmcuc2xmNGo6c2xmNGotYXBpJwogIHJ1bnRpbWUgJ29yZy5zbGY0ajpzbGY0ai1sb2c0ajEyJwo=</text>
+        <text encoding="base64">ICAgIFZlY3RvcjxDaGFubmVsU2Z0cC5Mc0VudHJ5PiBmaWxlTGlzdCA9IGNoYW5uZWxTZnRwLmxzKCIqIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbS5qY3JhZnQvanNjaAo=</text>
+        <text encoding="base64">Ly8gICAgVmVjdG9yPENoYW5uZWxTZnRwLkxzRW50cnk+IGZpbGVMaXN0ID0gY2hhbm5lbFNmdHAubHMoIioiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmV0cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNsaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBJbnRlbGxpSiBzZXR1cAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBDb21waWxhdGlvbgo=</text>
+        <text encoding="base64">ICAgYyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAndXMua2lyY2htZWllci5jYXBzdWxlJwo=</text>
+        <text encoding="base64">ICAgIGNoYW5uZWxTZnRwLmNsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoYW5uZWwuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICByZXBvc2l0b3JpZXMgewogICAgbWF2ZW4gewogICAgICB1cmwgJ2h0dHA6Ly9kb3dubG9hZC5vcmFjbGUuY29tL21hdmVuJwogICAgfQogIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVMaXN0Lgo=</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spark</last-search>
+      <last-search>connect</last-search>
       <last-offset />
-      <last-pattern>spark</last-pattern>
+      <last-pattern>connect</last-pattern>
       <last-replace>version: &quot;$jackson_version&quot;</last-replace>
       <last-substitute>version:</last-substitute>
       <last-dir>1</last-dir>
@@ -1395,7 +1387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>totalfiles</entry>
         <entry>null</entry>
         <entry>cacheFolder</entry>
         <entry>localdate</entry>
@@ -1415,6 +1406,7 @@
         <entry>swing</entry>
         <entry>hadoop</entry>
         <entry>spark</entry>
+        <entry>connect</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -1434,9 +1426,9 @@
         <entry>q</entry>
         <entry>s</entry>
         <entry>W</entry>
+        <entry>vsp</entry>
         <entry>wa</entry>
         <entry>w</entry>
-        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
