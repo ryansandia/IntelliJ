@@ -565,13 +565,13 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1501880197210">
-        <mark key="a" line="182" column="26" />
-        <mark key="'" line="216" column="53" />
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="289" column="0" />
-        <mark key="^" line="216" column="53" />
-        <mark key="." line="289" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1501881881482">
+        <mark key="a" line="126" column="23" />
+        <mark key="'" line="339" column="0" />
+        <mark key="[" line="132" column="81" />
+        <mark key="]" line="132" column="98" />
+        <mark key="^" line="132" column="98" />
+        <mark key="." line="132" column="98" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/DeleteOrder.java" timestamp="1501262285643">
         <mark key="[" line="6" column="0" />
@@ -900,11 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="8" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
-      <jump line="180" column="20" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
-      <jump line="183" column="16" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
-      <jump line="187" column="14" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
-      <jump line="193" column="6" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
       <jump line="46" column="18" filename="$USER_HOME$/Source/cbceval/build.gradle" />
       <jump line="48" column="4" filename="$USER_HOME$/Source/cbceval/build.gradle" />
       <jump line="11" column="0" filename="$USER_HOME$/Source/cbceval/binaries.gradle" />
@@ -956,7 +951,6 @@
       <jump line="8" column="26" filename="$USER_HOME$/Source/cbceval/build.gradle" />
       <jump line="44" column="36" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
       <jump line="90" column="57" filename="$USER_HOME$/Source/cbceval/build.gradle" />
-      <jump line="126" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="125" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="115" column="12" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="113" column="12" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
@@ -987,7 +981,6 @@
       <jump line="69" column="11" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="179" column="10" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="253" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
-      <jump line="254" column="10" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="264" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="257" column="32" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="62" column="10" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
@@ -1000,46 +993,53 @@
       <jump line="290" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="291" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="216" column="53" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="188" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="309" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="126" column="23" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="254" column="47" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="181" column="48" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="339" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QWxsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>src.toString();</text>
+        <text encoding="base64">QWxsIA==</text>
       </register>
       <register name="/" type="4">
         <text>tostring</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cyAtPiAhcy5zdGFydHNXaXRoKCIuIikgJiYgcy5jb250YWlucyhmaWx0ZXIpOw==</text>
+        <text encoding="base64">ICAvKioKICAgKiBSZWN1cnNpdmVseSBzZWFyY2hlcyByZW1vdGUgZm9yIGZpbGVzL2RpcmVjdG9yaWVzIG9mIGludGVyZXN0CiAgICov</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXRoICsgIi8iICsgZmlsZW5hbWU7Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gaW5wdXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewo=</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gaW5mbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gYWxsRmlsZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gY3VycmVudERpcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTdHJpbmcgcXVhbGlmeSgpIHsK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gZnRwQ2xpZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBxdWFsaWZ5KCk7Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gYXJncwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
