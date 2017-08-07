@@ -312,6 +312,12 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Source/blah/build.gradle" timestamp="1502145473942">
+        <mark key="[" line="58" column="29" />
+        <mark key="]" line="59" column="26" />
+        <mark key="^" line="59" column="26" />
+        <mark key="." line="59" column="26" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/ProtocolMapper.java" timestamp="1498516342968">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="55" />
