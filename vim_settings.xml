@@ -67,7 +67,6 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/austin/pom.xml" timestamp="1502119822576" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/offheap/offheap_classes/MyOffHeapInterface.java" timestamp="1498604593118">
         <mark key="[" line="39" column="14" />
         <mark key="]" line="39" column="15" />
@@ -209,13 +208,13 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1502117922398">
-        <mark key="a" line="126" column="23" />
-        <mark key="'" line="318" column="55" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
-        <mark key="^" line="136" column="35" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1502124325759">
+        <mark key="a" line="130" column="23" />
+        <mark key="'" line="322" column="55" />
+        <mark key="[" line="44" column="100" />
+        <mark key="]" line="45" column="1" />
+        <mark key="." line="45" column="1" />
+        <mark key="^" line="45" column="1" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/DeleteOrder.java" timestamp="1501262285643">
         <mark key="[" line="6" column="0" />
@@ -597,7 +596,6 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/test/java/com/sandiacap/scratch/ryan/md/BookLevelTest.java" timestamp="1502120732246" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/EventHandler.java" timestamp="1498486403395">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="15" />
