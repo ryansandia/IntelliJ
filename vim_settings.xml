@@ -283,11 +283,11 @@
         <mark key="." line="10" column="63" />
         <mark key="^" line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1502135349815">
-        <mark key="[" line="37" column="22" />
+      <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1502136321495">
+        <mark key="[" line="37" column="74" />
         <mark key="]" line="37" column="74" />
-        <mark key="." line="37" column="22" />
-        <mark key="^" line="37" column="21" />
+        <mark key="." line="37" column="74" />
+        <mark key="^" line="37" column="74" />
       </file>
       <file name="$USER_HOME$/Source/gradle/nrt/build.gradle" timestamp="1501596792058">
         <mark key="[" line="3" column="30" />
@@ -598,11 +598,11 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1502135348982">
-        <mark key="[" line="21" column="10" />
-        <mark key="]" line="21" column="61" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1502136332863">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="20" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/EventHandler.java" timestamp="1498486403395">
         <mark key="[" line="4" column="7" />
@@ -1019,8 +1019,8 @@
       <jump line="44" column="63" filename="$USER_HOME$/Source/cbceval/people/austin/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'com.fasterxml.jackson.module:jackson-module-kotlin'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLnhlcmlhbC5zbmFwcHknLCBuYW1lOiAnc25hcHB5LWphdmEnLCB2ZXJzaW9uOiAnMS4xLjIuNicK</text>
       </register>
       <register name="-" type="4">
         <text>'com.amazonaws:aws-java-sdk-route53'</text>
@@ -1028,35 +1028,35 @@
       <register name="/" type="4">
         <text>OSInfo.</text>
       </register>
-      <register name="0" type="4">
-        <text>'com.fasterxml.jackson.module:jackson-module-kotlin'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb21waWxlIGxpYnMuamFja3NvbkRhdGF0eXBlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBydW50aW1lICdvcmcuc2xmNGo6c2xmNGotbG9nNGoxMicK</text>
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLnhlcmlhbC5zbmFwcHknLCBuYW1lOiAnc25hcHB5LWphdmEnLCB2ZXJzaW9uOiAnMS4xLjIuNicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21waWxlICdvcmcuc2xmNGo6c2xmNGotYXBpJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLmltbXV0YWJsZXMnLCBuYW1lOiAnc2VyaWFsJywgdmVyc2lvbjogIiRpbW11dGFibGVzX3ZlcnNpb24iCg==</text>
+        <text encoding="base64">ICBjb21waWxlICdjb20uZmFzdGVyeG1sLmphY2tzb24ubW9kdWxlOmphY2tzb24tbW9kdWxlLWtvdGxpbicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2xmNGoK</text>
+        <text encoding="base64">ICBjb21waWxlICdjb20uZmFzdGVyeG1sLmphY2tzb24uZGF0YXR5cGU6amFja3Nvbi1kYXRhdHlwZS1qc3IzMTAnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgXSwK</text>
+        <text encoding="base64">ICBjb21waWxlICdjb20uZmFzdGVyeG1sLmphY2tzb24uZGF0YXR5cGU6amFja3Nvbi1kYXRhdHlwZS1qZGs4Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXdzID0gWwo=</text>
+        <text encoding="base64">ICBjb21waWxlICdjb20uZmFzdGVyeG1sLmphY2tzb24ubW9kdWxlOmphY2tzb24tbW9kdWxlLXBhcmFtZXRlci1uYW1lcycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsaWJzID0gWwo=</text>
+        <text encoding="base64">ICBjb21waWxlICdjb20uZmFzdGVyeG1sLmphY2tzb24uY29yZTpqYWNrc29uLWNvcmUnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXdzCg==</text>
+        <text encoding="base64">ICBydW50aW1lICdvcmcuc2xmNGo6c2xmNGotbG9nNGoxMicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlICdvcmcuc2xmNGo6c2xmNGotYXBpJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
