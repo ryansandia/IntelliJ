@@ -20,9 +20,9 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/build.gradle" timestamp="1502120443584">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="3" column="1" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/build.gradle" timestamp="1502126829848">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="72" />
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
@@ -853,10 +853,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/build.gradle" timestamp="1502120704873">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/build.gradle" timestamp="1502126832790">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="72" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/md/itch50/SystemEventTest.java" timestamp="1498142256080">
@@ -1011,8 +1011,8 @@
       <jump line="75" column="15" filename="$USER_HOME$/Source/cbceval/people/austin/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnY29tLmdpdGh1Yi52c29ubmllcicsIG5hbWU6ICdocHBjcnQnLCB2ZXJzaW9uOiAnMC43LjQnCg==</text>
       </register>
       <register name="-" type="4">
         <text>w</text>
@@ -1021,7 +1021,7 @@
         <text>OSInfo.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLmpjdWRhJywgbmFtZTogJ2pjdWRhLW5hdGl2ZXMnLCBjbGFzc2lmaWVyOiBjbGFzc2lmaWVyLCB2ZXJzaW9uOiAnMC44LjAnCg==</text>
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnY29tLmdpdGh1Yi52c29ubmllcicsIG5hbWU6ICdocHBjcnQnLCB2ZXJzaW9uOiAnMC43LjQnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmVudW0gQXJjaFR5cGUgewogIFg4NiwKICBYODZfNjQsCiAgQVJNNjQsCiAgUFBDLAogIFBQQ182NCwKICBTUEFSQywKICBNSVBTNjQsCiAgTUlQUywKICBSSVNDLAogIFVOS05PV04KfQo=</text>
@@ -1051,7 +1051,7 @@
         <text encoding="base64">CiAgcmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuIHsKICAgICAgdXJsICdodHRwczovL29zcy5zb25hdHlwZS5vcmcvY29udGVudC9yZXBvc2l0b3JpZXMvc25hcHNob3RzJwogICAgfQogIH0=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1101,12 +1101,12 @@
         <entry>%s/blah/mirrorSource/gc</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wa</entry>
         <entry>s</entry>
         <entry>W</entry>
         <entry>vsp</entry>
         <entry>%s/OSInfo.//g</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
