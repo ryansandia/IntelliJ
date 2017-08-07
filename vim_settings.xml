@@ -108,12 +108,12 @@
         <mark key="^" line="13" column="75" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1502132539701">
-        <mark key="'" line="89" column="57" />
-        <mark key="[" line="63" column="24" />
-        <mark key="]" line="64" column="27" />
-        <mark key="^" line="64" column="27" />
-        <mark key="." line="64" column="27" />
+      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1502134801265">
+        <mark key="'" line="92" column="57" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="112" column="35" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/Venue.java" timestamp="1501870394957">
         <mark key="[" line="7" column="7" />
@@ -240,8 +240,8 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/austin/build.gradle" timestamp="1502120763376">
-        <mark key="'" line="72" column="15" />
+      <file name="$USER_HOME$/Source/cbceval/people/austin/build.gradle" timestamp="1502133765035">
+        <mark key="'" line="44" column="63" />
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="11" />
         <mark key="^" line="19" column="5" />
@@ -271,6 +271,7 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/settings.gradle" timestamp="1502133677096" />
       <file name="$USER_HOME$/Source/gradle/realtime/build.gradle" timestamp="1501596774025">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -281,6 +282,12 @@
         <mark key="]" line="10" column="63" />
         <mark key="." line="10" column="63" />
         <mark key="^" line="10" column="63" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1502135349815">
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="37" column="74" />
+        <mark key="." line="37" column="22" />
+        <mark key="^" line="37" column="21" />
       </file>
       <file name="$USER_HOME$/Source/gradle/nrt/build.gradle" timestamp="1501596792058">
         <mark key="[" line="3" column="30" />
@@ -363,10 +370,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1501876005541">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1502134968308">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/NOII.java" timestamp="1501530417969">
         <mark key="[" line="64" column="18" />
@@ -589,6 +597,12 @@
         <mark key="]" line="17" column="31" />
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1502135348982">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="61" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/EventHandler.java" timestamp="1498486403395">
         <mark key="[" line="4" column="7" />
@@ -903,7 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
       <jump line="68" column="23" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
       <jump line="65" column="24" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchFtpLoader.java" />
       <jump line="28" column="41" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPSync.java" />
@@ -1003,46 +1016,47 @@
       <jump line="93" column="11" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="318" column="55" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="75" column="15" filename="$USER_HOME$/Source/cbceval/people/austin/build.gradle" />
+      <jump line="44" column="63" filename="$USER_HOME$/Source/cbceval/people/austin/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'com.fasterxml.jackson.module:jackson-module-kotlin'</text>
       </register>
       <register name="-" type="4">
-        <text>KotlinComp)</text>
+        <text>'com.amazonaws:aws-java-sdk-route53'</text>
       </register>
       <register name="/" type="4">
         <text>OSInfo.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZmluZEFsbFJlbW90ZUZpbGVzKGNoYW5uZWxTZnRwLCAoKENoYW5uZWxTZnRwKSBjaGFubmVsKS5nZXRIb21lKCksIGZpbGVMaXN0KTsK</text>
+      <register name="0" type="4">
+        <text>'com.fasterxml.jackson.module:jackson-module-kotlin'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBydW50aW1lICdvcmcuc2xmNGo6c2xmNGotbG9nNGoxMicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBjb21waWxlICdvcmcuc2xmNGo6c2xmNGotYXBpJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLmltbXV0YWJsZXMnLCBuYW1lOiAnc2VyaWFsJywgdmVyc2lvbjogIiRpbW11dGFibGVzX3ZlcnNpb24iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAganZtVGFyZ2V0ID0gIiR0YXJnZXRDb21wYXRpYmlsaXR5Igo=</text>
+        <text encoding="base64">ICAgICAgc2xmNGoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtvdGxpbk9wdGlvbnMgewo=</text>
+        <text encoding="base64">ICAgICAgXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXdzID0gWwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhcmdldENvbXBhdGliaWxpdHkgPSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAo=</text>
+        <text encoding="base64">ICBsaWJzID0gWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZUNvbXBhdGliaWxpdHkgPSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAo=</text>
+        <text encoding="base64">ICAgICAgYXdzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb21waWxlVGVzdEtvdGxpbiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1096,10 +1110,10 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
-        <entry>vsp</entry>
         <entry>%s/OSInfo.//g</entry>
-        <entry>wa</entry>
         <entry>W</entry>
+        <entry>vsp</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
