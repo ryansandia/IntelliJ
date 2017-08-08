@@ -59,14 +59,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1501794588215">
-        <mark key="a" line="100" column="25" />
-        <mark key="'" line="25" column="13" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="3" />
-        <mark key="^" line="46" column="3" />
-        <mark key="." line="46" column="3" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch41FileStream.java" timestamp="1498747848967">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="44" />
@@ -217,13 +209,13 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1502129751765">
-        <mark key="a" line="136" column="23" />
-        <mark key="'" line="337" column="55" />
-        <mark key="[" line="45" column="20" />
-        <mark key="]" line="46" column="53" />
-        <mark key="." line="46" column="53" />
-        <mark key="^" line="46" column="53" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1502218552362">
+        <mark key="a" line="138" column="23" />
+        <mark key="'" line="362" column="0" />
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="44" column="115" />
+        <mark key="." line="44" column="115" />
+        <mark key="^" line="44" column="115" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/DeleteOrder.java" timestamp="1501262285643">
         <mark key="[" line="6" column="0" />
@@ -965,8 +957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="43" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="59" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="107" column="36" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="108" column="8" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="47" column="0" filename="$USER_HOME$/Source/cbceval/build.gradle" />
@@ -1065,6 +1055,8 @@
       <jump line="89" column="22" filename="$USER_HOME$/Source/cbceval/realtime/src/jmh/java/offheap/AllocatorBenchmark.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Source/cbceval/realtime/build.gradle" />
       <jump line="3" column="0" filename="$USER_HOME$/Source/cbceval/realtime/build.gradle" />
+      <jump line="40" column="48" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="362" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
