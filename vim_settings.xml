@@ -26,11 +26,16 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/build.gradle" timestamp="1502159388914">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-        <mark key="." line="7" column="34" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/build.gradle" timestamp="1502204607686">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/jmh/java/offheap/PerfMain.java" timestamp="1502204002052">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1502117039351">
         <mark key="[" line="0" column="0" />
@@ -114,12 +119,12 @@
         <mark key="^" line="13" column="75" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1502159338856">
-        <mark key="'" line="89" column="1" />
-        <mark key="[" line="105" column="4" />
-        <mark key="]" line="105" column="18" />
-        <mark key="^" line="105" column="18" />
-        <mark key="." line="105" column="18" />
+      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1502204295184">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="32" column="51" />
+        <mark key="]" line="32" column="79" />
+        <mark key="^" line="32" column="79" />
+        <mark key="." line="32" column="79" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/Venue.java" timestamp="1501870394957">
         <mark key="[" line="7" column="7" />
@@ -246,12 +251,12 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/austin/build.gradle" timestamp="1502142295284">
-        <mark key="'" line="27" column="2" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/Source/cbceval/people/austin/build.gradle" timestamp="1502202618037">
+        <mark key="'" line="32" column="2" />
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/offheap/generator/OffHeapAbstractClassMethodOrder.java" timestamp="1498601807382">
         <mark key="[" line="10" column="25" />
@@ -382,11 +387,15 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1502159615892">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="9" />
-        <mark key="^" line="18" column="9" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1502202266962">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="24" column="13" />
+        <mark key="." line="24" column="13" />
+      </file>
+      <file name="/build.gradle" timestamp="1502204597981">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="88" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/NOII.java" timestamp="1501530417969">
         <mark key="[" line="64" column="18" />
@@ -405,6 +414,12 @@
         <mark key="]" line="23" column="64" />
         <mark key="^" line="23" column="64" />
         <mark key="." line="23" column="64" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/Blah.java" timestamp="1502201173492">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventListener.java" timestamp="1499975102103">
         <mark key="[" line="8" column="41" />
@@ -575,6 +590,13 @@
         <mark key="^" line="61" column="1" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/jmh/java/offheap/AllocatorBenchmark.java" timestamp="1502204083716">
+        <mark key="'" line="69" column="8" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/pom.xml" timestamp="1501531779354">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -610,11 +632,11 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1502148337576">
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="36" column="22" />
-        <mark key="^" line="36" column="22" />
-        <mark key="." line="36" column="22" />
+      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1502202437994">
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="38" column="17" />
+        <mark key="^" line="38" column="17" />
+        <mark key="." line="38" column="17" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/EventHandler.java" timestamp="1498486403395">
         <mark key="[" line="4" column="7" />
@@ -651,6 +673,11 @@
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/jmh/java/offheap/TradeEvent.java" timestamp="1502203008989">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Source/gradle/people/mark/build.gradle" timestamp="1501596801452">
         <mark key="[" line="4" column="0" />
@@ -774,11 +801,11 @@
         <mark key="^" line="24" column="1" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/build.gradle" timestamp="1502142854858">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="2" column="2" />
+      <file name="$USER_HOME$/Source/cbceval/core/build.gradle" timestamp="1502202612435">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/RegShoPriceTestRestricted.java" timestamp="1501191936876">
         <mark key="[" line="25" column="35" />
@@ -935,14 +962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
-      <jump line="139" column="47" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
-      <jump line="88" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
-      <jump line="80" column="11" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
-      <jump line="46" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="51" column="88" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="52" column="81" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="63" column="32" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
       <jump line="9" column="42" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
       <jump line="23" column="22" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
       <jump line="41" column="83" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
@@ -970,7 +989,6 @@
       <jump line="69" column="62" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
       <jump line="4" column="28" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
       <jump line="21" column="30" filename="$USER_HOME$/Source/cbceval/build.gradle" />
-      <jump line="86" column="57" filename="$USER_HOME$/Source/cbceval/build.gradle" />
       <jump line="26" column="47" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
       <jump line="36" column="21" filename="$USER_HOME$/Source/cbceval/other/build.gradle" />
       <jump line="8" column="26" filename="$USER_HOME$/Source/cbceval/build.gradle" />
@@ -1035,65 +1053,71 @@
       <jump line="8" column="18" filename="$USER_HOME$/Source/cbceval/people/austin/build.gradle" />
       <jump line="27" column="2" filename="$USER_HOME$/Source/cbceval/people/austin/build.gradle" />
       <jump line="89" column="1" filename="$USER_HOME$/Source/cbceval/build.gradle" />
+      <jump line="6" column="0" filename="$USER_HOME$/Source/cbceval/realtime/build.gradle" />
+      <jump line="6" column="1" filename="$USER_HOME$/Source/cbceval/build.gradle" />
+      <jump line="15" column="0" filename="$USER_HOME$/Source/cbceval/realtime/build.gradle" />
+      <jump line="5" column="15" filename="$USER_HOME$/Source/cbceval/realtime/src/jmh/java/offheap/AllocatorBenchmark.java" />
+      <jump line="30" column="16" filename="$USER_HOME$/Source/cbceval/realtime/src/jmh/java/offheap/AllocatorBenchmark.java" />
+      <jump line="51" column="10" filename="$USER_HOME$/Source/cbceval/realtime/src/jmh/java/offheap/AllocatorBenchmark.java" />
+      <jump line="70" column="8" filename="$USER_HOME$/Source/cbceval/realtime/src/jmh/java/offheap/AllocatorBenchmark.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Source/cbceval/build.gradle" />
+      <jump line="86" column="0" filename="$USER_HOME$/Source/cbceval/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW1wbGVtZW50YXRpb24g</text>
+        <text>'org.openjdk.jmh', name: 'jmh-generator-annprocess', version: '1.19'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1wbGVtZW50YXRpb24g</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>OSInfo.</text>
+        <text>\*\*</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aW1wbGVtZW50YXRpb24g</text>
+        <text>'org.openjdk.jmh', name: 'jmh-generator-annprocess', version: '1.19'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGxpYnMua290bGluU3RkbGliCg==</text>
+        <text encoding="base64">ICAvLyBpZ25vcmUgdW5zYWZlIHdhcm5pbmdzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiBsaWJzLmpjb21tYW5kZXIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9mZmhlYXAuVHJhZGVFdmVudDsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgamNvbW1hbmRlciAgICAgICAgICAgICAgICAgOiAnY29tLmJldXN0Lmpjb21tYW5kZXI6MS43MicsCg==</text>
+        <text encoding="base64">ICAgIFRyYWRlRXZlbnQgYmxhaDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgam1oIDogJ29yZy5vcGVuamRrLmptaDpqbWgtY29yZTonCg==</text>
+        <text encoding="base64">Ly8gIGNvbXBpbGVPbmx5IGdyb3VwOiAnb3JnLm9wZW5qZGsuam1oJywgbmFtZTogJ2ptaC1nZW5lcmF0b3ItYW5ucHJvY2VzcycsIHZlcnNpb246ICcxLjE5Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gIGltcGxlbWVudGF0aW9uIGdyb3VwOiAnb3JnLm9wZW5qZGsuam1oJywgbmFtZTogJ2ptaC1jb3JlJywgdmVyc2lvbjogJzEuMTknCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb21waWxlIGdyb3VwOiAnb3JnLnNsZjRqJywgbmFtZTogJ3NsZjRqLWFwaScsIHZlcnNpb246ICcxLjcuMjInCg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIC0tIGJldHRlciBqbWggaW50ZWdyYXRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>OSInfo.</last-search>
+      <last-search>\*\*</last-search>
       <last-offset />
-      <last-pattern>OSInfo.</last-pattern>
-      <last-replace />
-      <last-substitute>OSInfo.</last-substitute>
+      <last-pattern>\*\*</last-pattern>
+      <last-replace>\*</last-replace>
+      <last-substitute>\*\*</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fs</entry>
-        <entry>aws</entry>
-        <entry>guava</entry>
         <entry>swing</entry>
         <entry>hadoop</entry>
         <entry>spark</entry>
@@ -1111,16 +1135,16 @@
         <entry>dryrun</entry>
         <entry>cuda</entry>
         <entry>OSInfo.</entry>
+        <entry>tradeeve</entry>
+        <entry>**</entry>
+        <entry>\*\*</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/messageHeader.getTimestamp()/timestamp/g</entry>
-        <entry encoding="base64">JzwsJz5zL2J1ZmZlci9mcy5nZXRCdWZmZXIoKS9n</entry>
         <entry>%s/cacheFolder/cacheDir/g</entry>
         <entry encoding="base64">JzwsJz5zL0JvdHRvbS9VcHBlci9n</entry>
         <entry>Q</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL3ZlcnNpb246L3ZlcnNpb246ICIkamFja3Nvbl92ZXJzaW9uIi9n</entry>
-        <entry>a</entry>
         <entry>vsplit</entry>
         <entry>&quot;w</entry>
         <entry>%s/blah/mirrorSource/gc</entry>
@@ -1129,10 +1153,13 @@
         <entry>%s/OSInfo.//g</entry>
         <entry>vsp</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>Wa</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>a</entry>
+        <entry>%s/**/*/g</entry>
+        <entry>%s/\*\*/\*/g</entry>
+        <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
