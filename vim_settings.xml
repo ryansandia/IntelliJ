@@ -209,13 +209,13 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1502223498878">
-        <mark key="a" line="138" column="23" />
-        <mark key="'" line="160" column="19" />
-        <mark key="[" line="94" column="32" />
-        <mark key="]" line="94" column="39" />
-        <mark key="." line="94" column="39" />
-        <mark key="^" line="94" column="39" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1502223621667">
+        <mark key="a" line="129" column="23" />
+        <mark key="'" line="152" column="19" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="151" column="91" />
+        <mark key="^" line="151" column="91" />
+        <mark key="." line="151" column="91" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/DeleteOrder.java" timestamp="1501262285643">
         <mark key="[" line="6" column="0" />
@@ -1059,8 +1059,8 @@
       <jump line="160" column="19" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>equals</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>equals</text>
@@ -1075,25 +1075,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">am1oIHsKLy8gIGR1cGxpY2F0ZUNsYXNzZXNTdHJhdGVneSA9ICd3YXJuJwogIGptaFZlcnNpb24gPSAnMS4xOScKfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CmptaCB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb21waWxlIHByb2plY3QoJ3JlYWx0aW1lJykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cGx1Z2lucyB7CiAgaWQgIm1lLmNoYW1wZWF1LmdyYWRsZS5qbWgiIHZlcnNpb24gIjAuNC40IiAvLyBodHRwczovL2dpdGh1Yi5jb20vbWVsaXgvam1oLWdyYWRsZS1wbHVnaW4KfQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAiLmd6IiwgVmVudWUuTllTRSksCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAiRVFZX1VTX0FMTF9BRE1JTl9DVFMiLCAiRVFZX1VTX0FMTF9BRE1JTl9VVFAiKSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICBBcnJheXMuYXNMaXN0KCJFUVlfVVNfQUxMX1JFRl9NQVNURVIiLCAiRVFZX1VTX0FMTF9UUkFERSIsICJTUExJVFNfVVNfQUxMX0JCTyIsICJFUVlfVVNfQUxMX05CQk8iLCAiRVFZX1VTX0FMTF9CQk9fQURNSU4iLCAiRVFZX1VTX0FMTF9UUkFERV9BRE1JTiIsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gIE5ZU0VISVNUT1JJQ0FMKCJjaGFybGllIiwgImNoYXI2NTU5IiwgImZ0cDIubnl4ZGF0YS5jb20iLCAyMiwgIiIsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
