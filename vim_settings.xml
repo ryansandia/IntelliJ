@@ -623,12 +623,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1502465202803">
-        <mark key="a" line="143" column="60" />
-        <mark key="'" line="269" column="41" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1502466543263">
+        <mark key="a" line="140" column="60" />
+        <mark key="'" line="263" column="41" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="193" column="38" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch41FileStream.java" timestamp="1498747848967">
         <mark key="[" line="14" column="0" />
@@ -1259,43 +1260,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gLSByZW1vdmUgZW1wdHkgZm9sZGVyIGNvbnRhaW5pbmcgc3RyaXBlIHJlc3VsdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text encoding="base64">U3RyaXBpbmcg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVPcmRlcklkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGVsZXRlRmlsZSA9IGRlbGV0ZUZpbGU7Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8RmlsZT4gc3JjRmlsZXMgPSByZXNvbHZlSW5wdXRGaWxlcyh2ZW51ZSwgY2FjaGVEaXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gLSByZW1vdmUgZW1wdHkgZm9sZGVyIGNvbnRhaW5pbmcgc3RyaXBlIHJlc3VsdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgJiYgZGlyLmxpc3QoKS5sZW5ndGggPT0gMCkgewo=</text>
+        <text encoding="base64">ICAgIExpc3Q8RmlsZT4gc3JjRmlsZXMgPSByZXNvbHZlSW5wdXRGaWxlcyh2ZW51ZSwgY2FjaGVEaXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8RmlsZT4gc3JjRmlsZXMgPSByZXNvbHZlSW5wdXRGaWxlcyh2ZW51ZSwgY2FjaGVEaXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmlsZS5kZWxldGUoKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIChyZXN1bHQgIT0gbnVsbCkgewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxLZXlzID0ga2V5czsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChmaWxlRXhpc3RzID09IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1351,8 +1352,8 @@
         <entry>%s/delteLocalSourceFile\(\)/\!dryrun/g</entry>
         <entry>vsp</entry>
         <entry>%s/payloadBytes/payloadSize/g</entry>
-        <entry>wa</entry>
         <entry>q</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
