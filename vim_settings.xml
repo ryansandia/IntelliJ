@@ -20,11 +20,11 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1502462968361">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
+      <file name="/a.dummy" timestamp="1502741875015">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/StripeFileStream.java" timestamp="1502464988156">
         <mark key="[" line="74" column="21" />
@@ -396,11 +396,6 @@
         <mark key="]" line="275" column="0" />
         <mark key="^" line="274" column="97" />
         <mark key="." line="275" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchFileSource.java" timestamp="1502724108455">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="97" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/XNASDetail.java" timestamp="1502739293777">
         <mark key="[" line="52" column="50" />
@@ -909,9 +904,9 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" timestamp="1502736211808">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" timestamp="1502741115661">
         <mark key="a" line="147" column="68" />
-        <mark key="'" line="185" column="51" />
+        <mark key="'" line="262" column="58" />
         <mark key="[" line="150" column="65" />
         <mark key="]" line="151" column="44" />
         <mark key="." line="151" column="44" />
@@ -1195,7 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="89" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="12" column="39" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="54" column="28" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="100" column="31" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
@@ -1295,6 +1289,7 @@
       <jump line="148" column="8" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="170" column="8" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="174" column="8" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="262" column="58" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
