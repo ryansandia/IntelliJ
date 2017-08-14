@@ -20,11 +20,11 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1502749883057">
+      <file name="/a.dummy" timestamp="1502753122742">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/StripeFileStream.java" timestamp="1502464988156">
         <mark key="[" line="74" column="21" />
@@ -311,12 +311,12 @@
         <mark key="." line="13" column="5" />
         <mark key="^" line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" timestamp="1502738006683">
-        <mark key="'" line="174" column="8" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="^" line="163" column="112" />
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" timestamp="1502752388877">
+        <mark key="'" line="218" column="16" />
+        <mark key="[" line="201" column="37" />
+        <mark key="]" line="201" column="37" />
+        <mark key="^" line="201" column="37" />
+        <mark key="." line="201" column="37" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/ModifyOrder.java" timestamp="1502379082697">
         <mark key="[" line="5" column="50" />
@@ -1196,7 +1196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="31" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="101" column="4" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="172" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="249" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
@@ -1284,8 +1283,6 @@
       <jump line="183" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="109" column="20" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="187" column="69" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
-      <jump line="178" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
-      <jump line="217" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="218" column="19" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="65" column="27" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="73" column="4" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
@@ -1296,16 +1293,19 @@
       <jump line="262" column="58" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="219" column="4" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="376" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
+      <jump line="82" column="84" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="178" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="217" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5lcnJvcihyZXN1bHQudG9TdHJpbmcoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.trim())) {</text>
       </register>
       <register name="-" type="4">
-        <text>Arrays.asList(&quot;itchfiles_v5&quot;), &quot;.gz&quot;, Venue.XNAS),</text>
+        <text>.trim())) {</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXRjaE1hcFw+</text>
+        <text encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5lcnJvcihyZXN1bHQudG9TdHJpbmcoKSk7Cg==</text>
@@ -1342,9 +1342,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXRjaE1hcFw+</last-search>
+      <last-search encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXRjaE1hcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</last-pattern>
       <last-replace>payloadSize</last-replace>
       <last-substitute>payloadBytes</last-substitute>
       <last-dir>1</last-dir>
@@ -1352,9 +1352,6 @@
     </search>
     <history>
       <history-search>
-        <entry>chunk</entry>
-        <entry>uploadto</entry>
-        <entry>outputdir</entry>
         <entry>dryrun</entry>
         <entry>pushtoS3()</entry>
         <entry>pushtoS3\(\)</entry>
@@ -1370,8 +1367,11 @@
         <entry>tradebreak</entry>
         <entry>orderexecuted</entry>
         <entry encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</entry>
-        <entry encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</entry>
         <entry encoding="base64">XDxtYXRjaE1hcFw+</entry>
+        <entry>missing match value</entry>
+        <entry>missing</entry>
+        <entry>missing m</entry>
+        <entry encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Wa</entry>
