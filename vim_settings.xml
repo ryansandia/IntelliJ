@@ -20,11 +20,11 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1502741875015">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1502749883057">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/StripeFileStream.java" timestamp="1502464988156">
         <mark key="[" line="74" column="21" />
@@ -635,13 +635,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1502734223027">
-        <mark key="a" line="111" column="60" />
-        <mark key="'" line="243" column="41" />
-        <mark key="[" line="108" column="64" />
-        <mark key="]" line="109" column="5" />
-        <mark key="^" line="109" column="5" />
-        <mark key="." line="109" column="5" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1502749165256">
+        <mark key="a" line="108" column="60" />
+        <mark key="'" line="242" column="41" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="42" />
+        <mark key="^" line="136" column="39" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch41FileStream.java" timestamp="1498747848967">
         <mark key="[" line="14" column="0" />
@@ -1299,7 +1299,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5lcnJvcihyZXN1bHQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Arrays.asList(&quot;itchfiles_v5&quot;), &quot;.gz&quot;, Venue.XNAS),</text>
@@ -1308,7 +1308,7 @@
         <text encoding="base64">XDxtYXRjaE1hcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBCWVgoIm1hcmtldGRhdGFAc2FuZGlhY2FwLmNvbSIsICJHb29zZTIwMTgiLCAiZnRwLmJhdHN0cmFkaW5nLmNvbSIsIDIzLCAiZGF0YS1wcm9kdWN0cyIsIEFycmF5cy5hc0xpc3QoKSwgIi5neiIsIFZlbnVlLkJZWCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5lcnJvcihyZXN1bHQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1338,7 +1338,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1391,9 +1391,9 @@
         <entry>vsp</entry>
         <entry>%s/payloadBytes/payloadSize/g</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
