@@ -763,13 +763,13 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1502747399836">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" timestamp="1502803223969">
         <mark key="a" line="133" column="23" />
         <mark key="'" line="376" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="39" column="80" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="43" column="140" />
+        <mark key="]" line="43" column="140" />
+        <mark key="^" line="266" column="54" />
+        <mark key="." line="43" column="140" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/DeleteOrder.java" timestamp="1501262285643">
         <mark key="[" line="6" column="0" />
@@ -1298,11 +1298,11 @@
       <jump line="239" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaE1hcC5wdXQoY3Jvc3NUcmFkZU1zZy5nZXRNYXRjaE51bWJlcigpLCBnZXRMb2NhdGUoY3Jvc3NUcmFkZU1zZy5nZXRTdG9jaygpKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.trim())) {</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</text>
