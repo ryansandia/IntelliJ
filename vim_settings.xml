@@ -105,7 +105,6 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchFileSource.java" timestamp="1502816318191" />
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/HistoricalItchData.java" timestamp="1502459668352">
         <mark key="[" line="11" column="47" />
         <mark key="]" line="11" column="52" />
@@ -272,7 +271,6 @@
         <mark key="." line="25" column="91" />
         <mark key="^" line="25" column="91" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ToStringer.java" timestamp="1502815680247" />
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/Trigger.kt" timestamp="1500906545619">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="38" />
@@ -922,13 +920,13 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" timestamp="1502755102096">
-        <mark key="a" line="147" column="68" />
-        <mark key="'" line="239" column="17" />
-        <mark key="[" line="244" column="83" />
-        <mark key="]" line="244" column="105" />
-        <mark key="." line="244" column="105" />
-        <mark key="^" line="244" column="105" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" timestamp="1502891675078">
+        <mark key="a" line="148" column="68" />
+        <mark key="'" line="186" column="51" />
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="257" column="0" />
+        <mark key="." line="257" column="0" />
+        <mark key="^" line="268" column="59" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" timestamp="1501529871574">
         <mark key="[" line="175" column="0" />
@@ -1214,12 +1212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="74" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="63" column="39" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="127" column="4" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="75" column="84" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="31" column="59" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureFileSource.java" />
-      <jump line="14" column="52" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchFileSource.java" />
       <jump line="12" column="52" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchFileSource.java" />
       <jump line="45" column="3" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchDetail.java" />
       <jump line="188" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
@@ -1306,35 +1298,44 @@
       <jump line="29" column="60" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="251" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="262" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
+      <jump line="213" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventHandler.java" />
+      <jump line="25" column="31" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchEventListener2.java" />
+      <jump line="197" column="122" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
+      <jump line="244" column="20" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
+      <jump line="245" column="34" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
+      <jump line="279" column="34" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
+      <jump line="239" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
+      <jump line="252" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
+      <jump line="263" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="146" column="10" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="151" column="10" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="177" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="181" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="185" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="239" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="213" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventHandler.java" />
-      <jump line="25" column="31" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchEventListener2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TXNnIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChleGVjSWQgPT0gbnVsbCB8fCBzdG9jayA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TXNnIA==</text>
+        <text encoding="base64">fHwg</text>
       </register>
       <register name="/" type="4">
-        <text>header</text>
+        <text encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5lcnJvcihyZXN1bHQudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChPYmplY3RzLmVxdWFscyhzdG9jaywgUGl0Y2hEZXRhaWwuTlVMTF9TVE9DSykpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChleGVjSWQgPT0gbnVsbCB8fCBzdG9jayA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>import com.sandiacap.realtime.md.protocol.itch50.CrossTrade;
 import com.sandiacap.realtime.md.protocol.itch50.OrderCancel;
 import com.sandiacap.realtime.md.protocol.itch50.OrderDelete;
@@ -1344,32 +1345,29 @@ import com.sandiacap.realtime.md.protocol.itch50.OrderReplace;
 import com.sandiacap.realtime.md.protocol.itch50.SystemEvent;
 import com.sandiacap.realtime.md.protocol.itch50.Trade;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAucmVhbHRpbWUubWQucHJvdG9jb2wuaXRjaDUwLkFkZE9yZGVyOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZUhlYWRlci5zZXRJbmRleChjdXJyZW50SW5kZXgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNob3J0IGN1cnJlbnRJbmRleCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZUhlYWRlci5zZXRJbmRleChjdXJyZW50SW5kZXgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNob3J0IGN1cnJlbnRJbmRleCA9IDA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChjb3VudCA9PSAwKSB7IGlucHV0U3RyZWFtLnJlYWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>header</last-search>
+      <last-search encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</last-search>
       <last-offset />
-      <last-pattern>header</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</last-pattern>
       <last-replace>messageHeader</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -1394,9 +1392,9 @@ import com.sandiacap.realtime.md.protocol.itch50.Trade;</text>
         <entry>missing</entry>
         <entry>missing m</entry>
         <entry encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</entry>
+        <entry>header</entry>
         <entry>duplicate</entry>
         <entry encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</entry>
-        <entry>header</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -1417,8 +1415,8 @@ import com.sandiacap.realtime.md.protocol.itch50.Trade;</text>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2hlYWRlci9tZXNzYWdlSGVhZGVyL2c=</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
