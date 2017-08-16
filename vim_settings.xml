@@ -700,11 +700,11 @@
         <mark key="." line="42" column="1" />
         <mark key="^" line="42" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/Venue.java" timestamp="1502291607447">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="4" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/Venue.java" timestamp="1502910435946">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
         <mark key="^" line="4" column="4" />
-        <mark key="." line="4" column="4" />
+        <mark key="." line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Source/g2/nrt/build.gradle" timestamp="1501601867575">
         <mark key="[" line="12" column="0" />
@@ -1314,11 +1314,11 @@
       <jump line="185" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChleGVjSWQgPT0gbnVsbCB8fCBzdG9jayA9PSBudWxsKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fHwg</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</text>
