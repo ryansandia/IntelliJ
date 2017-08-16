@@ -311,12 +311,12 @@
         <mark key="." line="13" column="5" />
         <mark key="^" line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" timestamp="1502754339124">
-        <mark key="'" line="217" column="16" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="^" line="200" column="37" />
-        <mark key="." line="174" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" timestamp="1502916846545">
+        <mark key="'" line="177" column="49" />
+        <mark key="[" line="219" column="25" />
+        <mark key="]" line="220" column="27" />
+        <mark key="^" line="220" column="27" />
+        <mark key="." line="220" column="27" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/ModifyOrder.java" timestamp="1502379082697">
         <mark key="[" line="5" column="50" />
@@ -635,8 +635,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventHandler.java" timestamp="1502816420144">
-        <mark key="'" line="174" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventHandler.java" timestamp="1502916807496">
+        <mark key="'" line="61" column="68" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventListener.java" timestamp="1501185256158">
         <mark key="[" line="6" column="0" />
@@ -928,10 +928,12 @@
         <mark key="." line="257" column="0" />
         <mark key="^" line="268" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" timestamp="1501529871574">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" timestamp="1502917383743">
+        <mark key="'" line="170" column="49" />
+        <mark key="[" line="206" column="25" />
+        <mark key="]" line="207" column="27" />
+        <mark key="." line="207" column="27" />
+        <mark key="^" line="207" column="27" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/offheap/StructOrder.java" timestamp="1498573462129">
         <mark key="[" line="12" column="24" />
@@ -1212,11 +1214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="52" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchFileSource.java" />
-      <jump line="45" column="3" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchDetail.java" />
-      <jump line="188" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
-      <jump line="95" column="94" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
-      <jump line="183" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
       <jump line="98" column="62" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
       <jump line="122" column="80" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
       <jump line="123" column="81" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
@@ -1294,7 +1291,6 @@
       <jump line="376" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="82" column="84" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="178" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
-      <jump line="217" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="29" column="60" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="251" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="262" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
@@ -1312,6 +1308,12 @@
       <jump line="177" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="181" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="185" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
+      <jump line="61" column="68" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventHandler.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="217" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="177" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="170" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1321,7 +1323,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</text>
+        <text encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChPYmplY3RzLmVxdWFscyhzdG9jaywgUGl0Y2hEZXRhaWwuTlVMTF9TVE9DSykpIHsK</text>
@@ -1361,13 +1363,13 @@ import com.sandiacap.realtime.md.protocol.itch50.Trade;</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</last-search>
+      <last-search encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</last-pattern>
       <last-replace>messageHeader</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -1375,9 +1377,6 @@ import com.sandiacap.realtime.md.protocol.itch50.Trade;</text>
     </search>
     <history>
       <history-search>
-        <entry>pushtoS3\(\)</entry>
-        <entry>pushToS3\()</entry>
-        <entry>pushToS3\(\)</entry>
         <entry>delteLocalSourceFile\(\)</entry>
         <entry>deletelo</entry>
         <entry>size</entry>
@@ -1391,10 +1390,13 @@ import com.sandiacap.realtime.md.protocol.itch50.Trade;</text>
         <entry>missing match value</entry>
         <entry>missing</entry>
         <entry>missing m</entry>
-        <entry encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</entry>
         <entry>header</entry>
         <entry>duplicate</entry>
         <entry encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</entry>
+        <entry>missing match</entry>
+        <entry>missing mat</entry>
+        <entry>getlocateby</entry>
+        <entry encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -1414,9 +1416,9 @@ import com.sandiacap.realtime.md.protocol.itch50.Trade;</text>
         <entry>%s/payloadBytes/payloadSize/g</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2hlYWRlci9tZXNzYWdlSGVhZGVyL2c=</entry>
-        <entry>wa</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
