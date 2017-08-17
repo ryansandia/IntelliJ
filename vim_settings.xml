@@ -9,11 +9,11 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/Trade.java" timestamp="1502925304122">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="10" column="29" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/Trade.java" timestamp="1502985397981">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="34" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/generator/offheap_classes/DerivedInterface.java" timestamp="1499965601885">
         <mark key="[" line="17" column="22" />
@@ -1326,10 +1326,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text encoding="base64">IGZvciB0aGlzIGV2ZW50</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJpYWxWZXJzaW9uVUlEXD4=</text>
@@ -1338,38 +1338,31 @@
         <text encoding="base64">ICAgIGlmIChPYmplY3RzLmVxdWFscyhzdG9jaywgUGl0Y2hEZXRhaWwuTlVMTF9TVE9DSykpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIGxvbmcgZ2V0U3RvY2tBc0xvbmcoKTsKLy8gIFN0cmluZyBnZXRTdG9jaygpOwo=</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbnQgZwo=</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChleGVjSWQgPT0gbnVsbCB8fCBzdG9jayA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>import com.sandiacap.realtime.md.protocol.itch50.CrossTrade;
-import com.sandiacap.realtime.md.protocol.itch50.OrderCancel;
-import com.sandiacap.realtime.md.protocol.itch50.OrderDelete;
-import com.sandiacap.realtime.md.protocol.itch50.OrderExecuted;
-import com.sandiacap.realtime.md.protocol.itch50.OrderExecutedWithPrice;
-import com.sandiacap.realtime.md.protocol.itch50.OrderReplace;
-import com.sandiacap.realtime.md.protocol.itch50.SystemEvent;
-import com.sandiacap.realtime.md.protocol.itch50.Trade;</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gIGxvbmcgZ2V0U3RvY2tBc0xvbmcoKTsKLy8gIFN0cmluZyBnZXRTdG9jaygpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAucmVhbHRpbWUubWQucHJvdG9jb2wuaXRjaDUwLkFkZE9yZGVyOwo=</text>
+        <text encoding="base64">ICBpbnQgZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
