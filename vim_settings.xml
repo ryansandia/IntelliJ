@@ -554,12 +554,13 @@
         <mark key="." line="283" column="34" />
         <mark key="^" line="283" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" timestamp="1502991039847">
-        <mark key="'" line="170" column="49" />
-        <mark key="[" line="207" column="64" />
-        <mark key="]" line="208" column="27" />
-        <mark key="." line="208" column="27" />
-        <mark key="^" line="208" column="27" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" timestamp="1503421971030">
+        <mark key="a" line="195" column="3" />
+        <mark key="'" line="214" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="195" column="66" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/Trigger.kt" timestamp="1500906545619">
         <mark key="[" line="5" column="31" />
@@ -1127,7 +1128,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1502919938372">
+      <file name="/fragment.java" timestamp="1503421786692">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1155,14 +1156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="84" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="39" column="35" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="41" column="21" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="42" column="28" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="44" column="48" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="65" column="25" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="54" column="23" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/ItchMessageWriter.java" />
-      <jump line="97" column="53" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
       <jump line="184" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
       <jump line="120" column="52" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
       <jump line="121" column="73" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
@@ -1241,7 +1234,6 @@
       <jump line="217" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="177" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="32" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
-      <jump line="170" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
       <jump line="17" column="28" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/refdata/sandia/SandiaSymbol.java" />
       <jump line="181" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="221" column="27" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
@@ -1255,55 +1247,64 @@
       <jump line="631" column="20" filename="$USER_HOME$/Source/exanic-2.0.0/libs/exasock/socket/recv.c" />
       <jump line="86" column="71" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="146" column="60" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
+      <jump line="206" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="170" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="200" column="41" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="61" column="12" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="198" column="3" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="179" column="2" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="189" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="215" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oImNhbm5vdCBmaW5kIGV4ZWN1dGlvbklkIGZvciBUcmFkZUJyZWFrTXNnICIgKyBleGVjSWQpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgb3JkZXJSZWZNYXAucmVtb3ZlKG9yZGVyUmVwbGFjZU1zZy5nZXRPcmlnT3JkZXJSZWZOdW1iZXIoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>execId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>duplicate</text>
+        <text>remove</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKCJVbmtub3duIHN0b2NrOiB7fSAtLSBldmVudDoge30iLCBzdG9jaywgZXZlbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oImNhbm5vdCBmaW5kIGV4ZWN1dGlvbklkIGZvciBUcmFkZUJyZWFrTXNnICIgKyBleGVjSWQpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgb3JkZXJSZWZNYXAucmVtb3ZlKG9yZGVyUmVwbGFjZU1zZy5nZXRPcmlnT3JkZXJSZWZOdW1iZXIoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oInVua25vd24gb3JkZXJJZCAiICsgb3JkZXJJZCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG9yZGVyUmVmTWFwLnJlbW92ZShvcmRlckRlbGV0ZU1zZy5nZXRPcmRlclJlZk51bWJlcigpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oImR1cGxpY2F0ZSBvcmRlcklkICIgKyBldmVudC5nZXRPcmRlcklkKCkpOwo=</text>
+        <text encoding="base64">ICAgIGdldExvY2F0ZShzdG9jayk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlVuYWJsZSB0byByZXNvbHZlIE9yZGVyRXhlY3V0ZWRNc2c6ICIgKyBldmVudCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFBpdGNoRGV0YWlsLk5VTExfU1RPQ0s7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlVuYWJsZSB0byByZXNvbHZlIE9yZGVyRXhlY3V0ZWRNc2c6ICIgKyBldmVudCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oImR1cGxpY2F0ZSBleGVjdXRpb25JZCAiICsgZXhlY0lkKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvcmRlclJlZk1hcC5wdXQoYWRkT3JkZXJXaXRoTVBJRC5nZXRPcmRlclJlZk51bWJlcigpLCBnZXRMb2NhdGUoYWRkT3JkZXJXaXRoTVBJRC5nZXRTdG9jaygpKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBvcmRlclJlZk1hcC5wdXQoYWRkT3JkZXJNc2cuZ2V0T3JkZXJSZWZOdW1iZXIoKSwgZ2V0TG9jYXRlKGFkZE9yZGVyTXNnLmdldFN0b2NrKCkpKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtYXRjaE1hcC5wdXQob3JkZXJFeGVjdXRlZE1zZy5nZXRNYXRjaE51bWJlcigpLCBnZXRMb2NhdGUob3JkZXJFeGVjdXRlZE1zZy5nZXRPcmRlclJlZk51bWJlcigpKSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb25nIAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaE1hcC5wdXQob3JkZXJFeGVjdXRlZFdpdGhQcmljZS5nZXRNYXRjaE51bWJlcigpLCBnZXRMb2NhdGUob3JkZXJFeGVjdXRlZFdpdGhQcmljZS5nZXRPcmRlclJlZk51bWJlcigpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>duplicate</last-search>
+      <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>duplicate</last-pattern>
+      <last-pattern>remove</last-pattern>
       <last-replace>messageHeader</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -1311,7 +1312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>payloadBytes</entry>
         <entry encoding="base64">XDxyZW1vdmVPcmRlcklkXD4=</entry>
         <entry encoding="base64">XDxmc1w+</entry>
         <entry>tradebreak</entry>
@@ -1325,12 +1325,13 @@
         <entry>missing match</entry>
         <entry>missing mat</entry>
         <entry>getlocateby</entry>
-        <entry encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</entry>
         <entry encoding="base64">XDxzZXJpYWxWZXJzaW9uVUlEXD4=</entry>
         <entry>throw new</entry>
         <entry encoding="base64">XDxyZWFkdl91ZHBcPg==</entry>
         <entry encoding="base64">XDxjb3B5X3RvX2lvdmVjXD4=</entry>
         <entry>duplicate</entry>
+        <entry encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</entry>
+        <entry>remove</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
