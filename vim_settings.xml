@@ -170,7 +170,8 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" timestamp="1502816743871">
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" timestamp="1503429141737">
+        <mark key="'" line="253" column="20" />
         <mark key="[" line="175" column="84" />
         <mark key="]" line="175" column="86" />
         <mark key="." line="175" column="86" />
@@ -1156,7 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
       <jump line="120" column="52" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
       <jump line="121" column="73" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
       <jump line="81" column="74" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
@@ -1256,6 +1256,7 @@
       <jump line="189" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
       <jump line="215" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="253" column="20" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1265,7 +1266,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>void add</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKCJVbmtub3duIHN0b2NrOiB7fSAtLSBldmVudDoge30iLCBzdG9jaywgZXZlbnQpOwo=</text>
@@ -1302,9 +1303,9 @@
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search>void add</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>void add</last-pattern>
       <last-replace>messageHeader</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -1312,7 +1313,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdmVPcmRlcklkXD4=</entry>
         <entry encoding="base64">XDxmc1w+</entry>
         <entry>tradebreak</entry>
         <entry>orderexecuted</entry>
@@ -1332,6 +1332,7 @@
         <entry>duplicate</entry>
         <entry encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</entry>
         <entry>remove</entry>
+        <entry>void add</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
