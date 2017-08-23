@@ -22,7 +22,7 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1503515093988">
+      <file name="/a.dummy" timestamp="1503531422409">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -843,13 +843,13 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" timestamp="1503528320009">
-        <mark key="a" line="316" column="119" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="315" column="0" />
-        <mark key="]" line="315" column="0" />
-        <mark key="^" line="316" column="119" />
-        <mark key="." line="315" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" timestamp="1503531244054">
+        <mark key="a" line="318" column="119" />
+        <mark key="'" line="194" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="336" column="65" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/SequencedUnitHeader.java" timestamp="1500402684601">
         <mark key="[" line="20" column="33" />
@@ -1049,14 +1049,14 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" timestamp="1503529452392">
-        <mark key="a" line="274" column="78" />
-        <mark key="q" line="274" column="78" />
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" timestamp="1503531569350">
+        <mark key="a" line="292" column="78" />
+        <mark key="q" line="292" column="78" />
         <mark key="'" line="77" column="20" />
-        <mark key="[" line="96" column="22" />
-        <mark key="]" line="96" column="31" />
-        <mark key="." line="96" column="31" />
-        <mark key="^" line="96" column="31" />
+        <mark key="[" line="276" column="19" />
+        <mark key="]" line="276" column="79" />
+        <mark key="^" line="276" column="79" />
+        <mark key="." line="276" column="79" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/StripedFileSource.java" timestamp="1501269382366">
         <mark key="[" line="7" column="0" />
@@ -1188,9 +1188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="8" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
-      <jump line="219" column="4" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
-      <jump line="376" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPMirror.java" />
       <jump line="82" column="84" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="178" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="29" column="60" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
@@ -1288,13 +1285,16 @@
       <jump line="125" column="8" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
       <jump line="272" column="78" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
       <jump line="77" column="20" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
+      <jump line="271" column="94" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
+      <jump line="343" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
+      <jump line="196" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hasSizeGetter</text>
+        <text>ignored methods are implemented</text>
       </register>
       <register name="-" type="4">
-        <text>hasSizeGetter</text>
+        <text>ignored methods are implemented</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kRGVlcENvcHlcPg==</text>
@@ -1303,31 +1303,31 @@
         <text encoding="base64">ICAgIFR5cGVTZXQgaW50ZXJmYWNlcyA9IFR5cGVUb2tlbi5vZihrbGFzcykuZ2V0VHlwZXMoKS5pbnRlcmZhY2VzKCk7CiAgICBUeXBlU2V0IGJhc2VDbGFzc2VzID0gVHlwZVRva2VuLm9mKGtsYXNzKS5nZXRUeXBlcygpLmNsYXNzZXMoKTsKCiAgICAvLyBPcmRlciB0aGUgY2xhc3NlcyBieSBpbmhlcml0YW5jZQogICAgTGlzdDxDbGFzczw/Pj4ga2xhc3NIaWVyYXJjaHkgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGtsYXNzSGllcmFyY2h5LmFkZEFsbChvcmRlckNsYXNzZXMoaW50ZXJmYWNlcy5yYXdUeXBlcygpKSk7CiAgICBrbGFzc0hpZXJhcmNoeS5hZGRBbGwob3JkZXJDbGFzc2VzKGJhc2VDbGFzc2VzLnJhd1R5cGVzKCkpKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygiVW51c2VkQXNzaWdubWVudCIpCg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ga2xhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRyYWRlIG5vdHdvcmsgPSBBbGxvY2F0b3Iub2YoVHJhZGVNc2cuY2xhc3MpLmFsbG9jYXRlKDMyKTsK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ga2xhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5vdHdvcmsuY29weShvdGhlcik7Cg==</text>
+        <text encoding="base64">ICAgKiBPcmRlciBjbGFzc2VzIGJ5IHBsYWNlIGluIGhlaXJhcmNoeQogICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmxhaC5nZXRCdXlTZWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gc3JjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih0cmFkZSk7Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhvdGhlci5nZXRQcmljZSgpLCB0cmFkZS5nZXRQcmljZSgpKTsK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ga2xhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGV4aXN0aW5nTWV0aG9kID0gcmV0dmFsLmdldENsYXNzKCkuZ2V0TmFtZSgpOwo=</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1379,12 +1379,12 @@
         <entry>%s/payloadBytes/payloadSize/g</entry>
         <entry encoding="base64">JzwsJz5zL2hlYWRlci9tZXNzYWdlSGVhZGVyL2c=</entry>
         <entry>q</entry>
-        <entry>vsp</entry>
         <entry>W</entry>
         <entry>Wa</entry>
         <entry>%s/XNAS/Venue.XNAS/g</entry>
         <entry>%s/ItchFileSource/ItchFileSourceNewFormat/g</entry>
         <entry>wa</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
