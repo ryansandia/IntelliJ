@@ -504,6 +504,9 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
+      <file name="/Dummy.txt" timestamp="1503513828791">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/md/itch50/Message.java" timestamp="1498140620108">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="7" />
@@ -731,11 +734,11 @@
         <mark key="." line="23" column="52" />
         <mark key="^" line="23" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchDetail.java" timestamp="1502723443542">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="41" column="44" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchDetail.java" timestamp="1503513847228">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="91" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventListener.java" timestamp="1499696531292">
         <mark key="[" line="11" column="0" />
@@ -1245,10 +1248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGZpbGVQcmVmaXggPSBTdHJpbmcuZm9ybWF0KCIlMDRkLSUwMmQtJTAyZCIsIGRhdGUuZ2V0WWVhcigpLCBkYXRlLmdldE1vbnRoVmFsdWUoKSwgZGF0ZS5nZXREYXlPZk1vbnRoKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>// just to avoid renaming world... alias the method</text>
+        <text>BASIC_ISO_DATE</text>
       </register>
       <register name="/" type="4">
         <text>XNAS</text>
@@ -1257,34 +1260,34 @@
         <text encoding="base64">ICBkZWZhdWx0IEluc3RydW1lbnQgZ2V0SW5zdHJ1bWVudCgpIHsgcmV0dXJuIEluc3RydW1lbnRDYWNoZS5nZXRJbnN0YW5jZSgpLmZpbmQoZ2V0VGlja2VyKCksIHZlbnVlKCkpOyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGZpbGVQcmVmaXggPSBTdHJpbmcuZm9ybWF0KCIlMDRkLSUwMmQtJTAyZCIsIGRhdGUuZ2V0WWVhcigpLCBkYXRlLmdldE1vbnRoVmFsdWUoKSwgZGF0ZS5nZXREYXlPZk1vbnRoKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZU1lc3NhZ2UoMSwgVU0iKTsK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHVuaXQgPSBTdHJpbmcuZm9ybWF0KCIlMDJkIiwgaWR4KTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZU1lc3NhZ2UoMSwgIllVTSIpOwogICAgY3JlYXRlTWVzc2FnZSgxLCAiQUFQTCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZU1lc3NhZ2UoMSwgVU0iKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEluc3RydW1lbnRDYWNoZS5nZXRJbnN0YW5jZSgpLmFkZCgiWVVNIiwgVmVudWUuQVJDQSwgNCwgMC4wMSk7Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZU1lc3NhZ2UoMSwgIllVTSIpOwogICAgY3JlYXRlTWVzc2FnZSgxLCAiQUFQTCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEluc3RydW1lbnRDYWNoZS5nZXRJbnN0YW5jZSgpLmFkZCgiWVVNIiwgTllTRSwgNCwgMC4wMSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1338,8 +1341,8 @@
         <entry>W</entry>
         <entry>Wa</entry>
         <entry>%s/XNAS/Venue.XNAS/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
