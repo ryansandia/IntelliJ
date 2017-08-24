@@ -519,7 +519,7 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503529110134">
+      <file name="/Dummy.txt" timestamp="1503532324188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -584,6 +584,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" timestamp="1503532911787" />
       <file name="$USER_HOME$/Source/cbceval/people/ryan/build.gradle" timestamp="1502126832790">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="72" />
@@ -608,7 +609,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1503522354525">
+      <file name="/fragment.java" timestamp="1503532324217">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1106,12 +1107,12 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/DummyTradeTest.java" timestamp="1503528932066">
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/DummyTradeTest.java" timestamp="1503532253041">
         <mark key="a" line="89" column="0" />
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+        <mark key="[" line="85" column="52" />
+        <mark key="]" line="85" column="52" />
+        <mark key="." line="85" column="52" />
         <mark key="^" line="100" column="21" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/build.gradle" timestamp="1502468130394">
@@ -1291,10 +1292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ignored methods are implemented</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ignored methods are implemented</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kRGVlcENvcHlcPg==</text>
