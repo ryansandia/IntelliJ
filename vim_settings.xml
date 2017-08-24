@@ -74,11 +74,10 @@
         <mark key="." line="175" column="86" />
         <mark key="^" line="175" column="86" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/generator/offheap_classes/MultipleCopyMethods.java" timestamp="1503528642407">
-        <mark key="[" line="2" column="60" />
-        <mark key="]" line="4" column="38" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="4" column="38" />
+      <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/generator/offheap_classes/MultipleCopyMethods.java" timestamp="1503583978347">
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/Time.java" timestamp="1501262155253">
         <mark key="[" line="15" column="14" />
@@ -843,8 +842,9 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" timestamp="1503583077289">
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" timestamp="1503584070668">
         <mark key="a" line="317" column="119" />
+        <mark key="'" line="108" column="37" />
         <mark key="[" line="105" column="0" />
         <mark key="]" line="106" column="22" />
         <mark key="." line="106" column="22" />
@@ -922,11 +922,11 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/generator/offheap_classes/BaseInterface.java" timestamp="1503528600668">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="17" column="32" />
-        <mark key="^" line="17" column="32" />
-        <mark key="." line="17" column="32" />
+      <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/generator/offheap_classes/BaseInterface.java" timestamp="1503583875222">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="12" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/offheap/generator/GeneratedClassLoader.java" timestamp="1498239187737">
         <mark key="[" line="16" column="38" />
@@ -1048,14 +1048,14 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" timestamp="1503531569350">
-        <mark key="a" line="292" column="78" />
-        <mark key="q" line="292" column="78" />
-        <mark key="'" line="77" column="20" />
-        <mark key="[" line="276" column="19" />
-        <mark key="]" line="276" column="79" />
-        <mark key="^" line="276" column="79" />
-        <mark key="." line="276" column="79" />
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" timestamp="1503584123252">
+        <mark key="a" line="290" column="78" />
+        <mark key="q" line="290" column="78" />
+        <mark key="'" line="307" column="18" />
+        <mark key="[" line="77" column="38" />
+        <mark key="]" line="77" column="38" />
+        <mark key="^" line="274" column="79" />
+        <mark key="." line="77" column="38" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/StripedFileSource.java" timestamp="1501269382366">
         <mark key="[" line="7" column="0" />
@@ -1187,8 +1187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="60" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="251" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="262" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
       <jump line="213" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventHandler.java" />
       <jump line="25" column="31" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/ItchEventListener2.java" />
@@ -1287,55 +1285,59 @@
       <jump line="196" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="297" column="20" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="112" column="7" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
+      <jump line="108" column="37" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
+      <jump line="309" column="18" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>hasSizeGetter</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hasSizeGetter</text>
       </register>
       <register name="/" type="4">
-        <text>todo</text>
+        <text>requires</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIFR5cGVTZXQgaW50ZXJmYWNlcyA9IFR5cGVUb2tlbi5vZihrbGFzcykuZ2V0VHlwZXMoKS5pbnRlcmZhY2VzKCk7CiAgICBUeXBlU2V0IGJhc2VDbGFzc2VzID0gVHlwZVRva2VuLm9mKGtsYXNzKS5nZXRUeXBlcygpLmNsYXNzZXMoKTsKCiAgICAvLyBPcmRlciB0aGUgY2xhc3NlcyBieSBpbmhlcml0YW5jZQogICAgTGlzdDxDbGFzczw/Pj4ga2xhc3NIaWVyYXJjaHkgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGtsYXNzSGllcmFyY2h5LmFkZEFsbChvcmRlckNsYXNzZXMoaW50ZXJmYWNlcy5yYXdUeXBlcygpKSk7CiAgICBrbGFzc0hpZXJhcmNoeS5hZGRBbGwob3JkZXJDbGFzc2VzKGJhc2VDbGFzc2VzLnJhd1R5cGVzKCkpKTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>else if (!sizeGetter) {
+            throw new InvalidInterfaceException(&quot;Using copy() method requires size() -- &quot; + method.toString());
+          }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gLS0gZ2VuZXJhdGUgaGFzaGNvZGUgYW5kL29yIGVxdWFscz8gbWF5IG5lZWQgYW5ub3RhdGlvbiB0byBkZWNpZGUgd2hhdCB0byBpbmNsdWRlPwo=</text>
+        <text encoding="base64">ICB2b2lkIGNvcHkoTXVsdGlwbGVDb3B5TWV0aG9kcyBvdGhlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gLS0gc2hvdWxkIHRoaXMgdXNlIHRoZSB2aXJ0dWFsICJzaXplKCkiIGNhbGwgaW5zdGVhZD8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ga2xhc3MK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gLS0gZ2VuZXJhdGUgaGFzaGNvZGUgYW5kL29yIGVxdWFscz8gbWF5IG5lZWQgYW5ub3RhdGlvbiB0byBkZWNpZGUgd2hhdCB0byBpbmNsdWRlPwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gLS0gc2hvdWxkIHRoaXMgdXNlIHRoZSB2aXJ0dWFsICJzaXplKCkiIGNhbGwgaW5zdGVhZD8K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgKiBAcGFyYW0ga2xhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBPcmRlciBjbGFzc2VzIGJ5IHBsYWNlIGluIGhlaXJhcmNoeQogICAqLwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgKiBAcGFyYW0ga2xhc3MK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gc3JjCg==</text>
+        <text encoding="base64">ICAgKiBPcmRlciBjbGFzc2VzIGJ5IHBsYWNlIGluIGhlaXJhcmNoeQogICAqLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>todo</last-search>
+      <last-search>requires</last-search>
       <last-offset />
-      <last-pattern>todo</last-pattern>
+      <last-pattern>requires</last-pattern>
       <last-replace>ItchFileSourceNewFormat</last-replace>
       <last-substitute>ItchFileSource</last-substitute>
       <last-dir>1</last-dir>
@@ -1343,7 +1345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>duplicate</entry>
         <entry encoding="base64">XDxnZXRMb2NhdGVCeU1hdGNoXD4=</entry>
         <entry>remove</entry>
         <entry>void add</entry>
@@ -1353,7 +1354,6 @@
         <entry>ItchFileSource</entry>
         <entry encoding="base64">XDxpc0NvcHlHZXR0ZXJcPg==</entry>
         <entry>hassi</entry>
-        <entry encoding="base64">XDxkZWNsYXJlRGVlcENvcHlcPg==</entry>
         <entry encoding="base64">XDxjaGVja0hhc1NpemVHZXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxpc1NpemVHZXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxkZWNsYXJlVG9TdHJpbmdcPg==</entry>
@@ -1363,6 +1363,8 @@
         <entry encoding="base64">XDxmbHl3ZWlnaHREZXNjcmlwdG9yXD4=</entry>
         <entry encoding="base64">XDxmaW5kRGVlcENvcHlcPg==</entry>
         <entry>todo</entry>
+        <entry encoding="base64">XDxkZWNsYXJlRGVlcENvcHlcPg==</entry>
+        <entry>requires</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dryrun/deleteFileOnExit/g</entry>
@@ -1382,9 +1384,9 @@
         <entry>Wa</entry>
         <entry>%s/XNAS/Venue.XNAS/g</entry>
         <entry>%s/ItchFileSource/ItchFileSourceNewFormat/g</entry>
-        <entry>wa</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
