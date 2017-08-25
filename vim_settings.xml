@@ -25,7 +25,7 @@
       <file name="$USER_HOME$/Source/cbceval/realtime/src/jmh/java/offheap/PerfMain.java" timestamp="1503671650269">
         <mark key="[" line="160" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1503689518446">
+      <file name="/a.dummy" timestamp="1503690607222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -284,6 +284,12 @@
         <mark key="^" line="61" column="57" />
         <mark key="." line="61" column="57" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/MessageHeader.java" timestamp="1503690883396">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="57" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/VenueDetail.java" timestamp="1501600384230">
         <mark key="[" line="26" column="29" />
         <mark key="]" line="26" column="29" />
@@ -444,10 +450,10 @@
         <mark key="^" line="66" column="17" />
         <mark key="." line="66" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/channel/Envelope.java" timestamp="1503689270089">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/channel/Envelope.java" timestamp="1503690195085">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/offheap_classes/MyOffHeapAbstractClass.java" timestamp="1499804959278">
         <mark key="[" line="22" column="15" />
@@ -644,7 +650,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1503689449230">
+      <file name="/fragment.java" timestamp="1503690763803">
         <mark key="'" line="0" column="20" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -915,12 +921,12 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripeFileSource.java" timestamp="1503689325895">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripeFileSource.java" timestamp="1503689694283">
         <mark key="a" line="71" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="52" column="81" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="76" column="76" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Venue.java" timestamp="1501516252727">
         <mark key="[" line="3" column="0" />
@@ -1376,10 +1382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldFRpbWVzdGFtcFZhbHVlVG9wMkJ5dGVzX2ludGVybmFsKChzaG9ydCkgKHZhbHVlID4+IDMyKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>If not app</text>
       </register>
       <register name="/" type="4">
         <text>lastch</text>
@@ -1388,31 +1394,31 @@
         <text>channel.getEnvelope().getTimestamp(), unsafeBuffer, byteBuffer.position(), channel.getEnvelope().getMsgSize());</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldFRpbWVzdGFtcFZhbHVlVG9wMkJ5dGVzX2ludGVybmFsKChzaG9ydCkgKHZhbHVlID4+IDMyKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIElucHV0U3RyZWFtIHN0cmVhbSA9IAo=</text>
+        <text encoding="base64">ICAgIHNldFRpbWVzdGFtcFZhbHVlQm90dG9tNEJ5dGVzX2ludGVybmFsKChpbnQpIHZhbHVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW5wdXRTdHJlYW0gPSB3cmFwKHN0cmVhbSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoKGxvbmcpIHR3b0J5dGUgPDwgMzIpIHwgKGZvdXJCeXRlICYgMHhGRkZGRkZGRkwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIGludCBmb3VyQnl0ZSA9IGdldFRpbWVzdGFtcFZhbHVlQm90dG9tNEJ5dGVzX2ludGVybmFsKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIHNob3J0IHR3b0J5dGUgPSBnZXRUaW1lc3RhbXBWYWx1ZVRvcDJCeXRlc19pbnRlcm5hbCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIElOVkFMSUQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBJVENILAo=</text>
+        <text encoding="base64">ICBsb25nIE1BWF9USU1FU1RBTVAgPSAweDEwMDAwMDAwMDAwMDBMOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIElUQ0g0MCwK</text>
+        <text encoding="base64">ICAgKiBIYXJkd2FyZSB0aW1lc3RhbXAgZm9yIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElUQ0g0MSwK</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1465,11 +1471,11 @@
         <entry>%s/XNAS/Venue.XNAS/g</entry>
         <entry>%s/ItchFileSource/ItchFileSourceNewFormat/g</entry>
         <entry encoding="base64">JzwsJz52c3A=</entry>
-        <entry>vsp</entry>
         <entry>%s/CaptureFileSource/StripedFileSource/g</entry>
-        <entry>q</entry>
-        <entry>W</entry>
         <entry>wa</entry>
+        <entry>W</entry>
+        <entry>q</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
