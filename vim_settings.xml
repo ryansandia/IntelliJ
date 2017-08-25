@@ -652,7 +652,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1503670917735">
+      <file name="/fragment.java" timestamp="1503678475392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -928,13 +928,13 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripeFileSource.java" timestamp="1503675755624">
-        <mark key="a" line="93" column="19" />
-        <mark key="'" line="93" column="19" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="79" column="37" />
-        <mark key="." line="79" column="37" />
-        <mark key="^" line="79" column="37" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripeFileSource.java" timestamp="1503678417421">
+        <mark key="a" line="95" column="19" />
+        <mark key="'" line="95" column="19" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="55" column="31" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Venue.java" timestamp="1501516252727">
         <mark key="[" line="3" column="0" />
@@ -1077,12 +1077,12 @@
       <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" timestamp="1503603774768">
         <mark key="'" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/ProtocolDumper.java" timestamp="1503676501669">
-        <mark key="'" line="20" column="34" />
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="13" />
-        <mark key="." line="41" column="13" />
-        <mark key="^" line="41" column="13" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/ProtocolDumper.java" timestamp="1503678296252">
+        <mark key="'" line="24" column="75" />
+        <mark key="[" line="24" column="76" />
+        <mark key="]" line="24" column="76" />
+        <mark key="^" line="24" column="76" />
+        <mark key="." line="24" column="76" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/channel/EmptyTransport.java" timestamp="1503610973120">
         <mark key="[" line="6" column="0" />
@@ -1386,54 +1386,54 @@
       <jump line="35" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/CaptureFileSource.java" />
       <jump line="83" column="19" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripeFileSource.java" />
       <jump line="68" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
-      <jump line="24" column="4" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/ProtocolDumper.java" />
       <jump line="59" column="1" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/ProtocolDumper.java" />
       <jump line="35" column="44" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
       <jump line="17" column="34" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/ProtocolDumper.java" />
       <jump line="215" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
+      <jump line="24" column="75" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/ProtocolDumper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYnl0ZUJ1ZmZlci5jb21wYWN0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>venuecon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEpDb21tYW5kZXIgakNvbW1hbmRlciA9IEpDb21tYW5kZXIubmV3QnVpbGRlcigpLmFkZE9iamVjdChzdHJpcGVyKS5idWlsZCgpOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBWZW51ZSAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBCWVg6Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBYTkFTOgo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgYnl0ZUJ1ZmZlci5jb21wYWN0KCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCAoZHVtcGVyLnZlbnVlKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludEUK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gaWYgaXQncyBub3QgYSBkcnlydW4sIGNoZWNrIGlmIGZpbGUgZXhpc3RzIG9uIFMzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgTGlzdDxTdHJpbmc+IGtleXMgPSBuZXcgQXJyYXlMaXN0PD4oYWxsS2V5cyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYWxsS2V5cy5jbGVhcigpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1487,8 +1487,8 @@
         <entry>vsp</entry>
         <entry>%s/CaptureFileSource/StripedFileSource/g</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
