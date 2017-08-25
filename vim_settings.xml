@@ -652,7 +652,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1503678475392">
+      <file name="/fragment.java" timestamp="1503679149893">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -928,13 +928,13 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripeFileSource.java" timestamp="1503678417421">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripeFileSource.java" timestamp="1503679191674">
         <mark key="a" line="95" column="19" />
         <mark key="'" line="95" column="19" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="27" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="55" column="31" />
+        <mark key="[" line="77" column="47" />
+        <mark key="]" line="77" column="68" />
+        <mark key="." line="77" column="68" />
+        <mark key="^" line="77" column="68" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Venue.java" timestamp="1501516252727">
         <mark key="[" line="3" column="0" />
@@ -1394,7 +1394,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYnl0ZUJ1ZmZlci5jb21wYWN0KCk7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIC0tIGluZGljYXRlIGRvbmUK</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1406,34 +1406,34 @@
         <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYnl0ZUJ1ZmZlci5jb21wYWN0KCk7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIC0tIGluZGljYXRlIGRvbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYnl0ZUJ1ZmZlci5jb21wYWN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgaXQncyBub3QgYSBkcnlydW4sIGNoZWNrIGlmIGZpbGUgZXhpc3RzIG9uIFMzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxTdHJpbmc+IGtleXMgPSBuZXcgQXJyYXlMaXN0PD4oYWxsS2V5cyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWxsS2V5cy5jbGVhcigpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLy8gaWYgaXQncyBub3QgYSBkcnlydW4sIGNoZWNrIGlmIGZpbGUgZXhpc3RzIG9uIFMzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgTGlzdDxTdHJpbmc+IGtleXMgPSBuZXcgQXJyYXlMaXN0PD4oYWxsS2V5cyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYWxsS2V5cy5jbGVhcigpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1487,8 +1487,8 @@
         <entry>vsp</entry>
         <entry>%s/CaptureFileSource/StripedFileSource/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
