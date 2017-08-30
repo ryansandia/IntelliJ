@@ -92,8 +92,9 @@
         <mark key="^" line="38" column="10" />
         <mark key="." line="38" column="10" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" timestamp="1504129823896">
-        <mark key="'" line="706" column="20" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" timestamp="1504130613503">
+        <mark key="a" line="760" column="31" />
+        <mark key="'" line="676" column="34" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -145,6 +146,12 @@
         <mark key="]" line="2" column="54" />
         <mark key="^" line="2" column="54" />
         <mark key="." line="2" column="54" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/OrderBook.java" timestamp="1504130516555">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/BrokenTrade.java" timestamp="1501191899207">
         <mark key="[" line="14" column="0" />
@@ -482,6 +489,7 @@
         <mark key="." line="27" column="10" />
         <mark key="^" line="27" column="10" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/book/BookOrder.java" timestamp="1504130805228" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/grp/LoginResponse.java" timestamp="1501193549672">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="15" column="1" />
@@ -807,14 +815,14 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1504045456485">
+      <file name="/fragment.java" timestamp="1504131081186">
         <mark key="s" line="0" column="0" />
         <mark key="'" line="0" column="47" />
         <mark key="i" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="19" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CheckedS3FileOutputStream.java" timestamp="1501078173116">
         <mark key="[" line="18" column="0" />
@@ -1496,7 +1504,7 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/AddOrder.java" timestamp="1504039156201">
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/AddOrder.java" timestamp="1504130833591">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="5" column="24" />
         <mark key="^" line="5" column="24" />
@@ -1720,17 +1728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="9" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureFileSource.java" />
-      <jump line="91" column="25" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureFileSource.java" />
-      <jump line="92" column="11" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureFileSource.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/pitch/AddOrderMsgExpanded.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/pitch/ModifyOrderMsgLong.java" />
-      <jump line="179" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="183" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="187" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchEventHandler.java" />
-      <jump line="45" column="12" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
-      <jump line="80" column="24" filename="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/AllocatorTest.java" />
-      <jump line="102" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="103" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="60" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
       <jump line="61" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
@@ -1818,57 +1815,68 @@
       <jump line="793" column="4" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
       <jump line="563" column="10" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
       <jump line="647" column="8" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
-      <jump line="388" column="46" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
       <jump line="706" column="20" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="385" column="31" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="388" column="31" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="390" column="12" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="391" column="12" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="394" column="11" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="409" column="11" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/OrderBook.java" />
+      <jump line="357" column="48" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="760" column="25" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="669" column="34" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="676" column="34" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ib3VuY3ljYXN0bGUudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">bG9uZwo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc2tMZXZlbE1hcFw+</text>
+        <text encoding="base64">XDxnZXRFbXB0eVRvU3RyaW5nXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGFja2FnZSBjb20uc2FuZGlhY2FwLnJlYWx0aW1lLmNvbnRhaW5lcnM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ib3VuY3ljYXN0bGUudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">bG9uZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvbmdPYmplY3RNYXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ib3VuY3ljYXN0bGUudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLkJ5dGVPcmRlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLkJ5dGVPcmRlcjsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uc2FuZGlhY2FwLnNjcmF0Y2gucnlhbi5jb250YWluZXJzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2NhbCBqYXJmaWxlLSIuLyR7MX0iOyBzaGlmdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc2tMZXZlbE1hcFw+</last-search>
+      <last-search encoding="base64">XDxnZXRFbXB0eVRvU3RyaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc2tMZXZlbE1hcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRFbXB0eVRvU3RyaW5nXD4=</last-pattern>
       <last-replace>private final</last-replace>
       <last-substitute>final</last-substitute>
       <last-dir>1</last-dir>
@@ -1876,8 +1884,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sequence,</entry>
-        <entry>private</entry>
         <entry encoding="base64">XDx3cml0ZVRvU3ltYm9sTWFzdGVyXD4=</entry>
         <entry encoding="base64">XDxmaW5kU3RyZWFtXD4=</entry>
         <entry>getNewOrderRefNumber</entry>
@@ -1896,6 +1902,8 @@
         <entry encoding="base64">XDxzZlw+</entry>
         <entry>put(</entry>
         <entry encoding="base64">XDxhc2tMZXZlbE1hcFw+</entry>
+        <entry>booklevel</entry>
+        <entry encoding="base64">XDxnZXRFbXB0eVRvU3RyaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1909,13 +1917,13 @@
         <entry>%s/getMatchNumber/getExecId/g</entry>
         <entry>%s/getOrigOrderRefNumber/getOrigOrderId/g</entry>
         <entry>%s/getOrderRefNumber/getOrderId/g</entry>
-        <entry>vsp</entry>
         <entry>%s/\);//g</entry>
         <entry>%s/\)//g</entry>
         <entry>%s/\\)//g</entry>
         <entry>%s/final/private final/g</entry>
         <entry>q</entry>
         <entry>ewa</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
