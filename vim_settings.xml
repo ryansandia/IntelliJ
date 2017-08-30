@@ -1192,11 +1192,17 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/OffHeapMemory.java" timestamp="1504031155296">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="30" />
-        <mark key="." line="78" column="30" />
-        <mark key="^" line="78" column="30" />
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/OffHeapMemory.java" timestamp="1504134901397">
+        <mark key="[" line="90" column="18" />
+        <mark key="]" line="90" column="22" />
+        <mark key="." line="90" column="22" />
+        <mark key="^" line="90" column="22" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/Blah.java" timestamp="1504135836754">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="67" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/SequencedUnitHeader.java" timestamp="1500402684601">
         <mark key="[" line="20" column="33" />
@@ -1856,43 +1862,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Book</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRpbmFsUHJpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uc2FuZGlhY2FwLnJlYWx0aW1lLmNvbnRhaW5lcnM7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhLmdldE9yZGVySWQoKSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oYS5nZXRQcmljZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LnByaW50LkJvb2s7Cg==</text>
+        <text encoding="base64">Ly8gY291bGQgYWxzbyBoYXZlIHJlZ3VsYXIgb2JqZWN0IHRoYXQgaG9sZHMgZmx5d2VpZ2h0cyBhbmQgc2V0cyBpbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LnByaW50LkJvb2s7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBib29sZWFuCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhLmdldFByaWNlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9uZwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhLmdldE9yZGVySWQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvbmdPYmplY3RNYXAK</text>
+        <text encoding="base64">ICAgIGEuc2V0SQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ib3VuY3ljYXN0bGUudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+      <register name="9" type="4">
+        <text>class HackSupplier {
+  private final ao;
+
+  @FunctionalInterface
+  AddOrder get() {
+    return ao;
+  }
+}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
