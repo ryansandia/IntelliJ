@@ -507,12 +507,12 @@
         <mark key="^" line="23" column="8" />
         <mark key="." line="23" column="8" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/docker/batchJavaRunner/fetch_and_run.sh" timestamp="1504121341450">
+      <file name="$USER_HOME$/Source/cbceval/docker/batchJavaRunner/fetch_and_run.sh" timestamp="1504124900000">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="56" column="73" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="2" />
+        <mark key="." line="119" column="2" />
+        <mark key="^" line="119" column="4" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/transport/SHMQueue.java" timestamp="1503604206802">
         <mark key="[" line="9" column="36" />
@@ -919,7 +919,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1504033499179">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1504125067770">
+        <mark key="'" line="31" column="13" />
         <mark key="[" line="115" column="69" />
         <mark key="]" line="115" column="69" />
         <mark key="." line="115" column="69" />
@@ -1817,7 +1818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="40" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
       <jump line="60" column="9" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
       <jump line="30" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
       <jump line="46" column="9" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureFileSource.java" />
@@ -1917,13 +1917,14 @@
       <jump line="187" column="61" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
       <jump line="51" column="8" filename="$USER_HOME$/Source/cbceval/docker/batchJavaRunner/fetch_and_run.sh" />
       <jump line="44" column="0" filename="$USER_HOME$/Source/cbceval/docker/batchJavaRunner/fetch_and_run.sh" />
+      <jump line="31" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2NhbCBqYXJmaWxlLSIuLyR7MX0iOyBzaGlmdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>next();</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZlw+</text>
@@ -1932,31 +1933,31 @@
         <text encoding="base64">ICAjIENyZWF0ZSBhIHRlbXBvcmFyeSBmaWxlIGFuZCBkb3dubG9hZCB0aGUgc2NyaXB0CiAgYXdzIHMzIGNwICIke0JBVENIX0ZJTEVfUzNfVVJMfSIgLSA+ICIke1RNUEZJTEV9IiB8fCBlcnJvcl9leGl0ICJGYWlsZWQgdG8gZG93bmxvYWQgUzMgc2NyaXB0LiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2NhbCBqYXJmaWxlLSIuLyR7MX0iOyBzaGlmdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RU5EVVNBR0UK</text>
+        <text encoding="base64">ICBzaGlmdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJsYWguc2V0SW5kZXgoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5EVVNBR0UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGJsYWguc2V0SW5kZXgoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9zLndyaXRlKHNob3J0QnVmZmVyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNob3J0QnVmZmVyWzBdID0gYjsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCB3cml0ZShzaG9ydCBiKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
+        <text encoding="base64">ICAgIG9zLndyaXRlKHNob3J0QnVmZmVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNob3J0QnVmZmVyWzBdID0gYjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
