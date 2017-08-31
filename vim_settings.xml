@@ -1247,6 +1247,9 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/WTSHistoricalSources.java" timestamp="1504199497792">
+        <mark key="'" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/channel/StripedData.java" timestamp="1503609321118">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="20" />
@@ -1759,7 +1762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="68" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/dispatchers/Itch41Dispatcher.java" />
       <jump line="71" column="19" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/ProtocolDumper.java" />
       <jump line="36" column="19" filename="$USER_HOME$/Source/cbceval/nrt/src/docker/batchJavaRunner/fetch_and_run.sh" />
       <jump line="44" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/docker/batchJavaRunner/fetch_and_run.sh" />
@@ -1859,6 +1861,7 @@
       <jump line="43" column="14" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
       <jump line="44" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
       <jump line="58" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/HistoricalSources.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/WTSHistoricalSources.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1868,7 +1871,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>runner</text>
+        <text>HistoricalSources</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ID0gbmV3IFRyYWRlQWNjdW11bGF0b3IoKTs=</text>
@@ -1905,17 +1908,16 @@
       </register>
     </registers>
     <search>
-      <last-search>runner</last-search>
+      <last-search>HistoricalSources</last-search>
       <last-offset />
-      <last-pattern>runner</last-pattern>
-      <last-replace>order</last-replace>
-      <last-substitute>addOrder</last-substitute>
+      <last-pattern>HistoricalSources</last-pattern>
+      <last-replace>WTSHistoricalSources</last-replace>
+      <last-substitute>HistoricalSources</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRFbXB0eVRvU3RyaW5nXD4=</entry>
         <entry encoding="base64">XDxvcmRpbmFsUHJpY2VcPg==</entry>
         <entry>booklevelim</entry>
         <entry>getbestbi</entry>
@@ -1935,9 +1937,9 @@
         <entry encoding="base64">XDxkaXNwYXRjaFRyYWRlRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxkaXNwYXRjaENyb3NzRXZlbnRcPg==</entry>
         <entry>runner</entry>
+        <entry>HistoricalSources</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/getNewOrderRefNumber/getOrderId/g</entry>
         <entry>%s/Stock/Ticker/gc</entry>
         <entry>%s/Stock/Ticker/g</entry>
         <entry>%s/getStock/getTicker/g</entry>
@@ -1956,6 +1958,7 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>wa</entry>
+        <entry>%s/HistoricalSources/WTSHistoricalSources/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
