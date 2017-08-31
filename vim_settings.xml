@@ -87,9 +87,9 @@
         <mark key="^" line="38" column="10" />
         <mark key="." line="38" column="10" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" timestamp="1504191636779">
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" timestamp="1504193995459">
         <mark key="a" line="307" column="18" />
-        <mark key="'" line="743" column="4" />
+        <mark key="'" line="70" column="69" />
         <mark key="[" line="644" column="6" />
         <mark key="]" line="653" column="6" />
         <mark key="." line="31" column="0" />
@@ -1612,12 +1612,12 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" timestamp="1504193383520">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="131" column="3" />
-        <mark key="]" line="134" column="3" />
-        <mark key="." line="134" column="3" />
-        <mark key="^" line="134" column="3" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" timestamp="1504193872520">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="66" column="12" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/DeleteOrder.java" timestamp="1503695654429">
         <mark key="[" line="2" column="30" />
@@ -1765,15 +1765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="56" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/listeners/PitchListener.java" />
-      <jump line="70" column="2" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/listeners/PitchListener.java" />
-      <jump line="9" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchFileSource.java" />
-      <jump line="123" column="15" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="105" column="41" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchMessageWriter.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/AddOrderMsg.java" />
-      <jump line="147" column="48" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
-      <jump line="131" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
-      <jump line="186" column="8" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="165" column="10" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="166" column="10" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="28" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch40/CrossTradeMsg.java" />
@@ -1865,74 +1856,71 @@
       <jump line="42" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
       <jump line="555" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
       <jump line="743" column="4" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
+      <jump line="329" column="10" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="52" column="19" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="58" column="13" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="59" column="13" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="60" column="13" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="65" column="13" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="66" column="13" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="70" column="69" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgQENvbnRyYWN0KHB1cmUgPSB0cnVlKQogIHN0YXRpYyBpbnQgcHJpY2VUb09yZGluYWwobG9uZyBzYW5kaWFQcmljZSkgewogICAgbG9uZyBwcmljZSA9IHNhbmRpYVByaWNlIC8gMTBfMDAwTDsgLy8gY29udmVydCBiYWNrIHRvIDQgaW1wbGllZCBkZWNpbWFscwogICAgaWYgKHByaWNlIDwgMTBfMDAwTCkgewogICAgICByZXR1cm4gKGludCkgcHJpY2U7CiAgICB9IGVsc2UgewogICAgICBsb25nIHByaWNlQWJvdmVPbmVEb2xsYXIgPSBwcmljZSAtIDEwXzAwMEw7CiAgICAgIGxvbmcgcHJpY2VBYm92ZU9uZURvbGxhckluQ2VudHMgPSBwcmljZUFib3ZlT25lRG9sbGFyIC8gMTAwTDsKICAgICAgaWYgKHByaWNlQWJvdmVPbmVEb2xsYXJJbkNlbnRzICogMTAwICE9IHByaWNlQWJvdmVPbmVEb2xsYXIpIHsKICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiQmFkIG9yZGVyIHByaWNlICIgKyBwcmljZSk7CiAgICAgIH0KCiAgICAgIHJldHVybiAoaW50KSAoMTBfMDAwTCArIHByaWNlQWJvdmVPbmVEb2xsYXJJbkNlbnRzKTsKICAgIH0KICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8gLS0gZmluaXNoCg==</text>
       </register>
       <register name="-" type="4">
-        <text>order.getOrderId());</text>
+        <text>order</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmljZVRvT3JkaW5hbFw+</text>
+        <text encoding="base64">XDxRdWFudGl0eUF0UHJpY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>logger.trace(&quot;Removing level from book - {} {}&quot;, bookLevel.getPrice(), bookLevel.getIsSell());
-      if (bookLevel.getIsSell()) {
-        askLevelsPresent.clearSetBit(bookLevel.ordinalPrice);
-        askLevelMap.remove(bookLevel.ordinalPrice);
-        bestAskLevel = null;
-      } else {
-        bidLevelsPresent.clearSetBit(bookLevel.ordinalPrice);
-        bidLevelMap.remove(bookLevel.ordinalPrice);
-        bestBidLevel = null;
-      }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFkZE9yZGVyKGFkZE9yZGVyLmdldFNpZGUoKSA9PSBTaWRlLlNFTEwsIGFkZE9yZGVyLmdldFByaWNlKCksIGFkZE9yZGVyLmdldFF0eSgpLCBhZGRPcmRlci5nZXRPcmRlcklkKCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgQENvbnRyYWN0KHB1cmUgPSB0cnVlKQogIHN0YXRpYyBpbnQgcHJpY2VUb09yZGluYWwobG9uZyBzYW5kaWFQcmljZSkgewogICAgbG9uZyBwcmljZSA9IHNhbmRpYVByaWNlIC8gMTBfMDAwTDsgLy8gY29udmVydCBiYWNrIHRvIDQgaW1wbGllZCBkZWNpbWFscwogICAgaWYgKHByaWNlIDwgMTBfMDAwTCkgewogICAgICByZXR1cm4gKGludCkgcHJpY2U7CiAgICB9IGVsc2UgewogICAgICBsb25nIHByaWNlQWJvdmVPbmVEb2xsYXIgPSBwcmljZSAtIDEwXzAwMEw7CiAgICAgIGxvbmcgcHJpY2VBYm92ZU9uZURvbGxhckluQ2VudHMgPSBwcmljZUFib3ZlT25lRG9sbGFyIC8gMTAwTDsKICAgICAgaWYgKHByaWNlQWJvdmVPbmVEb2xsYXJJbkNlbnRzICogMTAwICE9IHByaWNlQWJvdmVPbmVEb2xsYXIpIHsKICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiQmFkIG9yZGVyIHByaWNlICIgKyBwcmljZSk7CiAgICAgIH0KCiAgICAgIHJldHVybiAoaW50KSAoMTBfMDAwTCArIHByaWNlQWJvdmVPbmVEb2xsYXJJbkNlbnRzKTsKICAgIH0KICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8gLS0gZmluaXNoCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IEJvb2tPcmRlckltcGwgYm9va09yZGVyID0gb3JkZXJNYXAuZ2V0KG9yZGVyLmdldE9yZGVySWQoKSk7CiAgICBpZiAoYm9va09yZGVyICE9IG51bGwpIHsKICAgICAgcmVtb3ZlT3JkZXIoYm9va09yZGVyKTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFkZE9yZGVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGJvb2xlYW4gaXNTZWxsID0gYWRkT3JkZXIuZ2V0U2lkZSgpID09IFNpZGUuU0VMTCA/IHRydWUgOiBmYWxzZTsK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEJvb2tMZXZlbEltcGwgYm9va0xldmVsOwogICAgYm9vbGVhbiBpc1NlbGwgPSBhZGRPcmRlci5nZXRTaWRlKCkgPT0gU2lkZS5TRUxMID8gdHJ1ZSA6IGZhbHNlOwogICAgaW50IG9yZGluYWxQcmljZSA9IHByaWNlVG9PcmRpbmFsKGFkZE9yZGVyLmdldFByaWNlKCkpOwoKICAgIGlmIChpc1NlbGwpIHsKICAgICAgYm9va0xldmVsID0gYXNrTGV2ZWxNYXAuZ2V0KG9yZGluYWxQcmljZSk7CiAgICAgIGlmIChib29rTGV2ZWwgPT0gbnVsbCkgewogICAgICAgIGJvb2tMZXZlbCA9IG5ldyBCb29rTGV2ZWxJbXBsKGFkZE9yZGVyLmdldFByaWNlKCksIGlzU2VsbCk7CiAgICAgICAgYXNrTGV2ZWxNYXAucHV0KG9yZGluYWxQcmljZSwgYm9va0xldmVsKTsKICAgICAgICBhc2tMZXZlbHNQcmVzZW50LnNldEJpdChvcmRpbmFsUHJpY2UpOwogICAgICAgIGJlc3RBc2tMZXZlbCA9IG51bGw7CiAgICAgIH0KICAgIH0gZWxzZSB7CiAgICAgIGJvb2tMZXZlbCA9IGJpZExldmVsTWFwLmdldChvcmRpbmFsUHJpY2UpOwogICAgICBpZiAoYm9va0xldmVsID09IG51bGwpIHsKICAgICAgICBib29rTGV2ZWwgPSBuZXcgQm9va0xldmVsSW1wbChhZGRPcmRlci5nZXRQcmljZSgpLCBpc1NlbGwpOwogICAgICAgIGJpZExldmVsTWFwLnB1dChvcmRpbmFsUHJpY2UsIGJvb2tMZXZlbCk7CiAgICAgICAgYmlkTGV2ZWxzUHJlc2VudC5zZXRCaXQob3JkaW5hbFByaWNlKTsKICAgICAgICBiZXN0QmlkTGV2ZWwgPSBudWxsOwogICAgICB9CiAgICB9CgogICAgQm9va09yZGVySW1wbCBib29rT3JkZXIgPSBuZXcgQm9va09yZGVySW1wbChpc1NlbGwsIGFkZE9yZGVyLmdldFF0eSgpLCAwLCBhZGRPcmRlci5nZXRPcmRlcklkKCksIGJvb2tMZXZlbCk7CiAgICBib29rTGV2ZWwuYWRkT3JkZXIoYm9va09yZGVyKTsKICAgIGJvb2tMZXZlbC5xdWFudGl0eSArPSBhZGRPcmRlci5nZXRRdHkoKTsKICAgIG9yZGVyTWFwLnB1dChhZGRPcmRlci5nZXRPcmRlcklkKCksIGJvb2tPcmRlcik7</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgQENvbnRyYWN0KHB1cmUgPSB0cnVlKQogIHN0YXRpYyBpbnQgcHJpY2VUb09yZGluYWwobG9uZyBzYW5kaWFQcmljZSkgewogICAgbG9uZyBwcmljZSA9IHNhbmRpYVByaWNlIC8gMTBfMDAwTDsgLy8gY29udmVydCBiYWNrIHRvIDQgaW1wbGllZCBkZWNpbWFscwogICAgaWYgKHByaWNlIDwgMTBfMDAwTCkgewogICAgICByZXR1cm4gKGludCkgcHJpY2U7CiAgICB9IGVsc2UgewogICAgICBsb25nIHByaWNlQWJvdmVPbmVEb2xsYXIgPSBwcmljZSAtIDEwXzAwMEw7CiAgICAgIGxvbmcgcHJpY2VBYm92ZU9uZURvbGxhckluQ2VudHMgPSBwcmljZUFib3ZlT25lRG9sbGFyIC8gMTAwTDsKICAgICAgaWYgKHByaWNlQWJvdmVPbmVEb2xsYXJJbkNlbnRzICogMTAwICE9IHByaWNlQWJvdmVPbmVEb2xsYXIpIHsKICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiQmFkIG9yZGVyIHByaWNlICIgKyBwcmljZSk7CiAgICAgIH0KCiAgICAgIHJldHVybiAoaW50KSAoMTBfMDAwTCArIHByaWNlQWJvdmVPbmVEb2xsYXJJbkNlbnRzKTsKICAgIH0KICB9</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IEJvb2tPcmRlckltcGwgYm9va09yZGVyID0gb3JkZXJNYXAuZ2V0KG9yZGVyLmdldE9yZGVySWQoKSk7CiAgICBpZiAoYm9va09yZGVyICE9IG51bGwpIHsKICAgICAgcmVtb3ZlT3JkZXIoYm9va09yZGVyKTsKICAgIH0=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG9yZGVyTWFwLnJlbW92ZShvcmRlci5nZXRPcmRlcklkKCkpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gd2FzTGFzdCA9IGJvb2tPCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldmVsLgo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEludE9iamVjdE1hcDxCb29rTGV2ZWxJbXBsPiBib29rU2lkZUxldmVsOwogICAgYm9vbGVhbiBpc1NlbGw7CiAgICBpZiAoYWRkT3JkZXIuZ2V0U2lkZSgpID09IFNpZGUuU0VMTCkgewogICAgICBib29rU2lkZUxldmVsID0gYXNrTGV2ZWxNYXA7CiAgICAgIGlzU2VsbCA9IHRydWU7CiAgICB9IGVsc2UgewogICAgICBib29rU2lkZUxldmVsID0gYmlkTGV2ZWxNYXA7CiAgICAgIGlzU2VsbCA9IGZhbHNlOwogICAgfQoKICAgIGludCBvcmRpbmFsUHJpY2UgPSBwcmljZVRvT3JkaW5hbChhZGRPcmRlci5nZXRQcmljZSgpKTsKICAgIEJvb2tMZXZlbEltcGwgYm9va0xldmVsID0gYm9va1NpZGVMZXZlbC5nZXQob3JkaW5hbFByaWNlKTsKICAgIGlmIChib29rTGV2ZWwgPT0gbnVsbCkgewogICAgICBib29rTGV2ZWwgPSBuZXcgQm9va0xldmVsSW1wbChhZGRPcmRlci5nZXRQcmljZSgpLCBpc1NlbGwpOwogICAgICBib29rU2lkZUxldmVsLnB1dChvcmRpbmFsUHJpY2UsIGJvb2tMZXZlbCk7CiAgICB9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvb2sK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV2ZWwgPSBsZXZlbDsK</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gd2FzTGFzdCA9IGJvb2tPCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmljZVRvT3JkaW5hbFw+</last-search>
+      <last-search encoding="base64">XDxRdWFudGl0eUF0UHJpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmljZVRvT3JkaW5hbFw+</last-pattern>
-      <last-replace>private final</last-replace>
-      <last-substitute>final</last-substitute>
+      <last-pattern encoding="base64">XDxRdWFudGl0eUF0UHJpY2VcPg==</last-pattern>
+      <last-replace>order</last-replace>
+      <last-substitute>addOrder</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\);</entry>
-        <entry>\)</entry>
-        <entry>\\)</entry>
         <entry>final</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>attachtoem</entry>
@@ -1950,9 +1938,11 @@
         <entry encoding="base64">XDxyZW1vdmVMZXZlbFw+</entry>
         <entry encoding="base64">XDxvcmRlclJlcGxhY2VcPg==</entry>
         <entry encoding="base64">XDxwcmljZVRvT3JkaW5hbFw+</entry>
+        <entry>addOrder</entry>
+        <entry encoding="base64">XDxkaXNwYXRjaFRyYWRlRXZlbnRcPg==</entry>
+        <entry encoding="base64">XDxRdWFudGl0eUF0UHJpY2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3NlcXVlbmNlLC9zZXF1ZW5jZSwgbG9uZyB0aW1lc3RhbXAsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJpdmF0ZSBmaW5hbC9n</entry>
         <entry encoding="base64">JzwsJz5zL1N0b2NrL1RpY2tlci9n</entry>
         <entry>%s/getNewOrderRefNumber/getOrderId/g</entry>
@@ -1970,6 +1960,7 @@
         <entry>vsp</entry>
         <entry>sp</entry>
         <entry>q</entry>
+        <entry>s/addOrder/order/g</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
