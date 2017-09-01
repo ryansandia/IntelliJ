@@ -9,7 +9,7 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" timestamp="1504284536874">
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" timestamp="1504285775201">
         <mark key="[" line="26" column="34" />
         <mark key="]" line="27" column="32" />
         <mark key="." line="27" column="32" />
@@ -2001,7 +2001,7 @@
         <text encoding="base64">Ly8gICAgICAgICAgICBidXlzLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2054,9 +2054,9 @@
         <entry encoding="base64">JXMvQ2hhbm5lbE1lc3NhZ2UvTGlzdDxDaGFubmVsTWVzc2FnZT4vZw==</entry>
         <entry>W</entry>
         <entry>%s/WTSOrderBookRead/OrderBookRead/g</entry>
-        <entry>wa</entry>
         <entry>Wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
