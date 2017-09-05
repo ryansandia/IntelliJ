@@ -9,12 +9,11 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" timestamp="1504624744766">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="63" column="42" />
-        <mark key="]" line="63" column="48" />
-        <mark key="^" line="63" column="48" />
-        <mark key="." line="63" column="48" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" timestamp="1504624921475">
+        <mark key="'" line="70" column="4" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/generator/offheap_classes/DerivedInterface.java" timestamp="1499965601885">
         <mark key="[" line="17" column="22" />
@@ -1226,7 +1225,7 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/ComponentToTimeSeries.java" timestamp="1504274046110">
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/ComponentToTimeSeries.java" timestamp="1504624937688">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -1988,11 +1987,11 @@
       <jump line="345" column="10" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>results.values().toArray().tol);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc3Vic2NyaWJlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>results.values().toArray().tol);</text>
+        <text encoding="base64">cmVzdWx0cyA=</text>
       </register>
       <register name="/" type="4">
         <text>executeor</text>
@@ -2001,31 +2000,31 @@
         <text encoding="base64">Ly8gICAgYmFkUnVubmVyLnN1YnNjcmliZShuZXcgV1RTUnVubmFibGVPcmRlckJvb2soc3ltYm9sLCBkYXRlKSwgbmV3IFdUU1J1bm5hYmxlT3JkZXJCb29rLkJvb2tLZXkoKSwKLy8gICAgICAgIG9yZGVyQm9va1JlYWQgLT4gU3lzdGVtLm91dC5wcmludGxuKG9yZGVyQm9va1JlYWQuZ2V0QmVzdEFza0xldmVsKCkgKyAiLS0iICsgb3JkZXJCb29rUmVhZC5nZXRCZXN0QmlkTGV2ZWwoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgc3Vic2NyaWJlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkYWlseVZvbHVtZS5hZGQocmVzdWx0LmdldCgpLikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzLnB1dChkYXRlLCByZXN1bHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPExvY2FsRGF0ZSwgUmVzdWx0PEdldExvbmc+PiByZXN1bHRzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBWb2x1bWVGb3JEYXRlKExvY2FsRGF0ZSBkYXRlLCBTeW1ib2xBbmRGZWVkIHNmKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExvY2FsRGF0ZSBkYXRlOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygidW5jaGVja2VkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFNwYXJzZUJpdFZlY3RvciBiaWRMZXZlbHNQcmVzZW50ID0gU3BhcnNlQml0VmVjdG9yLmNyZWF0ZShwcmljZVRvT3JkaW5hbChMRVZFTF9NQVNLX0VYVEVOVCkpOwogIHByaXZhdGUgZmluYWwgU3BhcnNlQml0VmVjdG9yIGFza0xldmVsc1ByZXNlbnQgPSBTcGFyc2VCaXRWZWN0b3IuY3JlYXRlKHByaWNlVG9PcmRpbmFsKExFVkVMX01BU0tfRVhURU5UKSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
