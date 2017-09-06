@@ -1808,13 +1808,13 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" timestamp="1504708380674">
-        <mark key="a" line="152" column="0" />
-        <mark key="'" line="114" column="0" />
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="0" />
-        <mark key="." line="277" column="0" />
-        <mark key="^" line="88" column="65" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" timestamp="1504739562086">
+        <mark key="a" line="179" column="5" />
+        <mark key="'" line="359" column="22" />
+        <mark key="[" line="176" column="5" />
+        <mark key="]" line="179" column="5" />
+        <mark key="." line="179" column="5" />
+        <mark key="^" line="179" column="5" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/DeleteOrder.java" timestamp="1503695654429">
         <mark key="[" line="2" column="30" />
@@ -1968,7 +1968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="35" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
       <jump line="204" column="11" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
       <jump line="67" column="14" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
       <jump line="75" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
@@ -2068,49 +2067,52 @@
       <jump line="9" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureDataInfo.java" />
       <jump line="25" column="18" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/StripeFileStream.java" />
       <jump line="38" column="9" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/StripeFileStream.java" />
+      <jump line="343" column="22" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>info.toString());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHRyYWRpbmdTdGF0ZSA9PSBUcmFkaW5nU3RhdGUuVFJBRElORykgeyBib29rVHJhZGluZyA9IHRydWU7IH0gZWxzZSB7IGJvb2tUcmFkaW5nID0gZmFsc2U7IH0K</text>
       </register>
       <register name="-" type="4">
-        <text>info.toString());</text>
+        <text>if (tradingState ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG9ydEJ1ZmZlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDYXB0dXJlRGF0YUluZm8gY2FwdHVyZURhdGFJbmZvID0gbmV3IENhcHR1cmVEYXRhSW5mbyhPcmlnaW4uUFVSQ0hBU0UsIExvY2F0aW9uLlVOS05PV04sIFZlbnVlLlhOQVMsICJ2ZW51ZS1jYXB0dXJlIiwgTklDLlVOS05PV04sIFRpbWVTb3VyY2UuVU5LTk9XTik7CiAgICAgICAgcHVzaENhcHR1cmVJbmZvKHZlbnVlLCBjYXB0dXJlRGF0YUluZm8pOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHRyYWRpbmdTdGF0ZSA9PSBUcmFkaW5nU3RhdGUuVFJBRElORykgeyBib29rVHJhZGluZyA9IHRydWU7IH0gZWxzZSB7IGJvb2tUcmFkaW5nID0gZmFsc2U7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQ2FwdHVyZURhdGFJbmZvIGNhcHR1cmVEYXRhSW5mbyA9IG5ldyBDYXB0dXJlRGF0YUluZm8oT3JpZ2luLlBVUkNIQVNFLCBMb2NhdGlvbi5VTktOT1dOLCAuWE5BUywgInZlbnVlLWNhcHR1cmUiLCBOSUMuVU5LTk9XTiwgVGltZVNvdXJjZS5VTktOT1dOKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldyBGaWxlKCkK</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTM1V0aWxzLnVwbG9hZElnbm9yZUV4aXN0aW5nRmFpbE1pc21hdGNoKFZlbnVlRGV0YWlsLlNUUklQRV9CVUNLRVQsIGNhcHR1cmVEYXRhSW5mb0tleSwK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FwdHVyZURhdGFJbmZvS2V5ID0gdmVudWUuZ2V0Q2FwdHVyZURhdGFJbmZvS2V5KCk7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8gLS0gYWRkIGNoZWNrIGZvciBoYWx0IG9yIHRoZSBsaWtlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>else if (msg instanceof BrokenTradeMsg) {
+      BrokenTradeMsg broken = (BrokenTradeMsg) msg;
+      // TODO -- need to save exec id for this...</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgQ2FwdHVyZURhdGFJbmZvKE9yaWdpbikK</text>
+        <text encoding="base64">ICAgICAgQ2FwdHVyZURhdGFJbmZvIGNhcHR1cmVEYXRhSW5mbyA9IG5ldyBDYXB0dXJlRGF0YUluZm8oT3JpZ2luLlBVUkNIQVNFLCBMb2NhdGlvbi5VTktOT1dOLCAuWE5BUywgInZlbnVlLWNhcHR1cmUiLCBOSUMuVU5LTk9XTiwgVGltZVNvdXJjZS5VTktOT1dOKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgT3JpZ2luIG9yaWdpbjsKICBwdWJsaWMgTG9jYXRpb24gbG9jYXRpb247Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBGaWxlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2161,11 +2163,11 @@
         <entry>wea</entry>
         <entry>vsp</entry>
         <entry>W</entry>
-        <entry>Wa</entry>
         <entry>q</entry>
         <entry>a</entry>
-        <entry>w</entry>
+        <entry>Wa</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
