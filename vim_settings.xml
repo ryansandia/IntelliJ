@@ -530,6 +530,12 @@
         <mark key="^" line="6" column="63" />
         <mark key="." line="13" column="15" />
       </file>
+      <file name="$USER_HOME$/mainframer/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/VenueDetail.java" timestamp="1504723071278">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="21" column="29" />
+        <mark key="^" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/OrderReplaceMsg.java" timestamp="1504036991496">
         <mark key="[" line="26" column="36" />
         <mark key="]" line="26" column="40" />
@@ -1003,7 +1009,7 @@
         <mark key="^" line="388" column="23" />
         <mark key="." line="388" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1504655295627">
+      <file name="/fragment.java" timestamp="1504722762506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2147,7 +2153,7 @@
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
