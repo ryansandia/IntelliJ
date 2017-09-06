@@ -494,12 +494,12 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1504731097291">
-        <mark key="'" line="95" column="31" />
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="48" column="28" />
-        <mark key="." line="48" column="28" />
-        <mark key="^" line="48" column="28" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1504734255312">
+        <mark key="'" line="57" column="85" />
+        <mark key="[" line="63" column="47" />
+        <mark key="]" line="63" column="48" />
+        <mark key="." line="63" column="48" />
+        <mark key="^" line="63" column="48" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/CrossTradeMsg.java" timestamp="1503964159729">
         <mark key="[" line="17" column="0" />
@@ -1958,21 +1958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="38" column="22" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="176" column="24" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="183" column="26" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="229" column="12" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="45" column="21" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="337" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="76" column="9" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="49" column="28" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="175" column="19" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="57" column="26" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="77" column="9" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="225" column="12" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="224" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
       <jump line="47" column="39" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/handlers/Itch40Handler.java" />
       <jump line="97" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/handlers/Itch50Handler.java" />
       <jump line="32" column="19" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/handlers/PitchHandler.java" />
@@ -2058,55 +2043,70 @@
       <jump line="238" column="23" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
       <jump line="39" column="74" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
       <jump line="40" column="74" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
+      <jump line="55" column="76" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="60" column="85" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="63" column="94" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="62" column="77" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="147" column="20" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="24" column="17" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="58" column="84" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="43" column="90" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="46" column="79" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="52" column="75" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="56" column="89" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="54" column="60" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="47" column="103" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="57" column="85" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGJzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2VyaWFsaXphYmxlIA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmljZVRvT3JkaW5hbFw+</text>
+        <text>osur</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiBsaWJzLmd1YXZhCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGJzKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTm90TnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAucmVzZWFyY2guY29tcG9uZW50LmNhdGFsb2cubWF0cml4Lk1hdHJpeEZyb21Db21wb25lbnRzLlJ1bnRpbWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGJzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgVmVudWVEZXRhaWwoKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvLyBmb3Igc2VyaWFsaXphdGlvbgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcm90ZWN0ZWQgVmVudWVEZXRhaWwoKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvLyBmb3Igc2VyaWFsaXphdGlvbgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgWE5BU0RldGFpbCgpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIHNlcmlhbFZlcnNpb25VSUQgPSAxTDsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmljZVRvT3JkaW5hbFw+</last-search>
+      <last-search>osur</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmljZVRvT3JkaW5hbFw+</last-pattern>
+      <last-pattern>osur</last-pattern>
       <last-replace>loadDate</last-replace>
       <last-substitute>date</last-substitute>
       <last-dir>1</last-dir>
@@ -2114,26 +2114,26 @@
     </search>
     <history>
       <history-search>
-        <entry>converttov</entry>
-        <entry encoding="base64">XDxkaXNwYXRjaENyb3NzRXZlbnRcPg==</entry>
-        <entry>exception</entry>
-        <entry>runnab</entry>
-        <entry>default</entry>
-        <entry>aaba</entry>
-        <entry>opx</entry>
-        <entry>mlco</entry>
-        <entry>veon</entry>
-        <entry>gov</entry>
-        <entry>rnvaz</entry>
-        <entry>linu</entry>
-        <entry>chfs</entry>
-        <entry>snh</entry>
-        <entry>hpt</entry>
-        <entry>println</entry>
-        <entry>upl</entry>
         <entry>historicalda</entry>
         <entry>qualify</entry>
         <entry encoding="base64">XDxwcmljZVRvT3JkaW5hbFw+</entry>
+        <entry>bzun</entry>
+        <entry>cake</entry>
+        <entry>arwr</entry>
+        <entry>achc</entry>
+        <entry>yy</entry>
+        <entry>cone</entry>
+        <entry>has</entry>
+        <entry>mchi</entry>
+        <entry>acgl</entry>
+        <entry>hmhc</entry>
+        <entry>snd</entry>
+        <entry>unxl</entry>
+        <entry>xbit</entry>
+        <entry>nuva</entry>
+        <entry>atsg</entry>
+        <entry>bofi</entry>
+        <entry>osur</entry>
       </history-search>
       <history-cmd>
         <entry>ewa</entry>
