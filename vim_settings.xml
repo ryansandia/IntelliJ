@@ -794,7 +794,6 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="70" column="2" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/sumstats/DailySfMetricLibrary.kt" timestamp="1504720720878" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/RegShoPriceTestRestricted.java" timestamp="1501191936876">
         <mark key="[" line="25" column="35" />
         <mark key="]" line="26" column="1" />
@@ -1716,12 +1715,11 @@
         <mark key="." line="33" column="34" />
         <mark key="^" line="31" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1504721260124">
-        <mark key="'" line="37" column="31" />
-        <mark key="[" line="32" column="124" />
-        <mark key="]" line="32" column="123" />
-        <mark key="." line="32" column="123" />
-        <mark key="^" line="32" column="123" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1504727379792">
+        <mark key="'" line="42" column="31" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/ExecutedOrder.java" timestamp="1503695728105">
         <mark key="[" line="3" column="21" />
@@ -2063,10 +2061,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhvdyBuZXcgCg==</text>
+        <text encoding="base64">ICAgICAgU3ltYm9sQW5kRmVlZCBzZiA9IHF1YWxpZnlUaWNrZXIoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Iiwg</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>historicalda</text>
@@ -2075,31 +2073,31 @@
         <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiBsaWJzLmd1YXZhCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhvdyBuZXcgCg==</text>
+        <text encoding="base64">ICAgICAgU3ltYm9sQW5kRmVlZCBzZiA9IHF1YWxpZnlUaWNrZXIoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgU3ltYm9sQW5kRmVlZChzYW5kaWFTeW1ib2wsIGZlZWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBzYW5kaWFTeW1ib2w7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc291cmNlLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAoSGlzdG9yaWNhbERhdGFTb3VyY2Ugc291cmNlIDogc291cmNlcykgewo=</text>
+        <text encoding="base64">ICAgIFRpY2tlciB0aWNrZXIgPSBuZXcgVGlja2VyKHN0cik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdGhvdyBuZXcgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoSGlzdG9yaWNhbERhdGFTb3VyY2Ugc291cmNlIDogc291cmNlcykgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcwo=</text>
+        <text encoding="base64">ICAgICAgc291cmNlLmNsb3NlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2155,8 +2153,8 @@
         <entry>W</entry>
         <entry>a</entry>
         <entry>Wa</entry>
-        <entry>wa</entry>
         <entry>q</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
