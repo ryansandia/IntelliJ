@@ -279,11 +279,6 @@
         <mark key="^" line="37" column="74" />
         <mark key="." line="37" column="74" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/handlers/PitchHandler.java" timestamp="1504709071950">
-        <mark key="]" line="29" column="58" />
-        <mark key="." line="29" column="58" />
-        <mark key="^" line="29" column="58" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1502374218985">
         <mark key="[" line="2" column="43" />
         <mark key="]" line="2" column="43" />
@@ -605,10 +600,10 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1504715255616">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1504740743994">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/MWCBDeclineLevelMsg.java" timestamp="1503962480993">
         <mark key="[" line="5" column="57" />
@@ -920,7 +915,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1504739972845">
+      <file name="/fragment.java" timestamp="1504740945424">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CheckedS3FileOutputStream.java" timestamp="1501078173116">
@@ -1258,6 +1253,7 @@
         <mark key="^" line="23" column="27" />
         <mark key="." line="23" column="27" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/utils/BuildUtils.java" timestamp="1504741052922" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/offheap/generator/OffHeapAbstractClassMethodOrder.java" timestamp="1498601807382">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="26" />
@@ -1424,6 +1420,7 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/utils/SerializationUtils.java" timestamp="1504741129275" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/CrossTrade.java" timestamp="1501530395054">
         <mark key="[" line="33" column="18" />
         <mark key="]" line="33" column="24" />
@@ -1808,7 +1805,7 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" timestamp="1504740281804">
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" timestamp="1504740548293">
         <mark key="a" line="177" column="5" />
         <mark key="'" line="56" column="18" />
         <mark key="[" line="174" column="4" />
@@ -2070,8 +2067,8 @@
       <jump line="56" column="18" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgd2hpbGUgKGJpZExldmVsc1ByZXNlbnQuZ2V0TG93ZXN0U2V0Qml0KCkgIT0gSW50ZWdlci5NQVhfVkFMVUUpIHsKICAgICAgICBiaWRMZXZlbHNQcmVzZW50LmNsZWFyU2V0Qml0KGJpZExldmVsc1ByZXNlbnQuZ2V0TG93ZXN0U2V0Qml0KCkpOwogICAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>if (tradingState ==</text>
@@ -2083,36 +2080,34 @@
         <text encoding="base64">ICAgICAgd2hpbGUgKGJpZExldmVsc1ByZXNlbnQuZ2V0TG93ZXN0U2V0Qml0KCkgIT0gSW50ZWdlci5NQVhfVkFMVUUpIHsKICAgICAgICBiaWRMZXZlbHNQcmVzZW50LmNsZWFyU2V0Qml0KGJpZExldmVsc1ByZXNlbnQuZ2V0TG93ZXN0U2V0Qml0KCkpOwogICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXNrTGV2ZWxzUHJlc2VudC4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBiYXNlTmFtZSAnaXRjaHN5bmMnCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICBkZXNjcmlwdGlvbiAnU3luYyBYTkFTIEZUUCB3aXRoIFMzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gLS0gYWRkIGNoZWNrIGZvciBoYWx0IG9yIHRoZSBsaWtlCg==</text>
+        <text encoding="base64">ICBncm91cCAnYXBwbGljYXRpb24nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBhcHBsaWNhdGlvbkNsYXNzICdjb20uc2FuZGlhY2FwLm1kLml0Y2guSXRjaEZ0cExvYWRlcicK</text>
       </register>
-      <register name="7" type="4">
-        <text>else if (msg instanceof BrokenTradeMsg) {
-      BrokenTradeMsg broken = (BrokenTradeMsg) msg;
-      // TODO -- need to save exec id for this...</text>
+      <register name="7" type="2">
+        <text encoding="base64">dGFzayBpdGNoU3luYyh0eXBlOiBGYXRDYXBzdWxlKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ2FwdHVyZURhdGFJbmZvIGNhcHR1cmVEYXRhSW5mbyA9IG5ldyBDYXB0dXJlRGF0YUluZm8oT3JpZ2luLlBVUkNIQVNFLCBMb2NhdGlvbi5VTktOT1dOLCAuWE5BUywgInZlbnVlLWNhcHR1cmUiLCBOSUMuVU5LTk9XTiwgVGltZVNvdXJjZS5VTktOT1dOKTsK</text>
+        <text encoding="base64">ICAgICAgYXNrTGV2ZWxzUHJlc2VudC4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2166,8 +2161,8 @@
         <entry>a</entry>
         <entry>Wa</entry>
         <entry encoding="base64">JzwsJz5zL2JpZC9hc2svZw==</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
