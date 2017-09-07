@@ -924,7 +924,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1504808603289">
+      <file name="/fragment.java" timestamp="1504811788061">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CheckedS3FileOutputStream.java" timestamp="1501078173116">
@@ -1556,12 +1556,12 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/StrictGeneralOrderBook.java" timestamp="1504808513524">
-        <mark key="'" line="122" column="27" />
-        <mark key="[" line="247" column="49" />
-        <mark key="]" line="249" column="7" />
-        <mark key="^" line="249" column="7" />
-        <mark key="." line="249" column="7" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/StrictGeneralOrderBook.java" timestamp="1504811887434">
+        <mark key="'" line="42" column="63" />
+        <mark key="[" line="248" column="27" />
+        <mark key="]" line="248" column="43" />
+        <mark key="^" line="248" column="43" />
+        <mark key="." line="248" column="43" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/ItchFileStream.java" timestamp="1498510134825">
         <mark key="[" line="32" column="5" />
@@ -2019,8 +2019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/handlers/Itch50Handler.java" />
-      <jump line="32" column="19" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/handlers/PitchHandler.java" />
       <jump line="29" column="13" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/handlers/Itch41Handler.java" />
       <jump line="69" column="9" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
       <jump line="121" column="4" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSStreamPlayer.java" />
@@ -2119,6 +2117,8 @@
       <jump line="138" column="6" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
       <jump line="190" column="27" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
       <jump line="122" column="27" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/StrictGeneralOrderBook.java" />
+      <jump line="40" column="13" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/StrictGeneralOrderBook.java" />
+      <jump line="42" column="63" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/StrictGeneralOrderBook.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2128,7 +2128,7 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>qualify</text>
+        <text encoding="base64">XDxTdHJpY3RHZW5lcmFsT3JkZXJCb29rXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBnZXRTU0hDbGllbnQoaG9zdE5hbWUsIFN5c3RlbS5nZXRQcm9wZXJ0eSgidXNlci5uYW1lIiksIGdldEtleSgpKTsK</text>
@@ -2165,9 +2165,9 @@
       </register>
     </registers>
     <search>
-      <last-search>qualify</last-search>
+      <last-search encoding="base64">XDxTdHJpY3RHZW5lcmFsT3JkZXJCb29rXD4=</last-search>
       <last-offset />
-      <last-pattern>qualify</last-pattern>
+      <last-pattern encoding="base64">XDxTdHJpY3RHZW5lcmFsT3JkZXJCb29rXD4=</last-pattern>
       <last-replace>main</last-replace>
       <last-substitute>ryanMain</last-substitute>
       <last-dir>1</last-dir>
@@ -2175,7 +2175,6 @@
     </search>
     <history>
       <history-search>
-        <entry>veon</entry>
         <entry>gov</entry>
         <entry>rnvaz</entry>
         <entry>linu</entry>
@@ -2195,6 +2194,7 @@
         <entry encoding="base64">XDxnZXRXcmFwcGVkQ29tbWFuZFRvUnVuQXNVc2VyXD4=</entry>
         <entry encoding="base64">XDxyZW1vdGVFeGVjXD4=</entry>
         <entry>qualify</entry>
+        <entry encoding="base64">XDxTdHJpY3RHZW5lcmFsT3JkZXJCb29rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/addOrder/order/g</entry>
