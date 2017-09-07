@@ -1443,11 +1443,11 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/StrictGeneralOrderBook.java" timestamp="1504795066198">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="38" column="72" />
-        <mark key="^" line="38" column="72" />
-        <mark key="." line="38" column="72" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/StrictGeneralOrderBook.java" timestamp="1504796054076">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="63" column="36" />
+        <mark key="^" line="63" column="36" />
+        <mark key="." line="63" column="36" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/ItchFileStream.java" timestamp="1498510134825">
         <mark key="[" line="32" column="5" />
@@ -2031,7 +2031,7 @@
         <text encoding="base64">ICAgKiBAcGFyYW0gc2VxdWVuY2UK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2085,8 +2085,8 @@
         <entry encoding="base64">JzwsJz5zL2JpZC9hc2svZw==</entry>
         <entry>q</entry>
         <entry>Wa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
