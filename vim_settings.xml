@@ -1754,11 +1754,11 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" timestamp="1504822679723">
-        <mark key="[" line="148" column="54" />
-        <mark key="]" line="148" column="61" />
-        <mark key="." line="148" column="61" />
-        <mark key="^" line="148" column="61" />
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" timestamp="1504878150370">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="^" line="188" column="42" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/OrderAddShortMsg.java" timestamp="1504645612609">
         <mark key="[" line="59" column="70" />
@@ -2132,11 +2132,11 @@
       <jump line="116" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>alphabetical</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWNsYXJlVG9TdHJpbmdcPg==</text>
@@ -2145,31 +2145,31 @@
         <text encoding="base64">ICAgIExvY2FsRGF0ZSBiZWdpbkRhdGUgPSBMb2NhbERhdGUub2YoMjAxNywgNiwgMSk7CiAgICBMb2NhbERhdGUgZW5kRGF0ZSA9IExvY2FsRGF0ZS5vZigyMDE3LCA2LCAyOSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG0xLmdldEFubm90YXRpb24oKSkK</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIGFsbEdldHRlcnM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29tcGFyYXRvci5jb21wYXJpbmcoTWV0aG9kOjpnZXROYW1lKTsK</text>
+        <text encoding="base64">Ly8gICAgYWxsR2V0dGVycy5zb3J0KENvbXBhcmF0b3IuY29tcGFyaW5nKE1ldGhvZDo6Z2V0TmFtZSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG0xLmdldEFubm90YXRpb24oRmllbGRPcmRlci5jbGFzcykgIT0gbnVsbCAmJiBtMi5nZXRBbm5vdGF0aW9uKEZpZWxkT3JkZXIuY2xhc3MpICE9IG51bGwpIHsK</text>
+        <text encoding="base64">Ly8gICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBtMS5nZXROYW1lKCkuY29tcGFyZVRvKG0yLmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGNtcDsK</text>
+        <text encoding="base64">Ly8gICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhbGxHZXR0ZXJzLnNvcnQoQ29tcGFyYXRvci5jb21wYXJpbmdTdHIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBtMS5nZXRBbm5vdGF0aW9uKEZpZWxkT3JkZXIuY2xhc3MpLnZhbHVlKCkgLSBtMi5nZXRBbm5vdGF0aW9uKEZpZWxkT3JkZXIuY2xhc3MpLnZhbHVlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2208,7 +2208,6 @@
         <entry encoding="base64">XDxkZWNsYXJlVG9TdHJpbmdcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>s/addOrder/order/g</entry>
         <entry>%s/HistoricalSources/WTSHistoricalSources/g</entry>
         <entry>%s/StreamPlayer/WTSStreamPlayer/g</entry>
         <entry>%s/OrderBookRead/WTSOrderBookRead/gc</entry>
@@ -2226,6 +2225,7 @@
         <entry>a</entry>
         <entry>vsp</entry>
         <entry>Wa</entry>
+        <entry>wsa</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
