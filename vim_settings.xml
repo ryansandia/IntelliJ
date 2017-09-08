@@ -174,11 +174,11 @@
         <mark key="^" line="2" column="54" />
         <mark key="." line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/ClusterStripe.java" timestamp="1504904802552">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="50" />
-        <mark key="^" line="47" column="5" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/ClusterStripe.java" timestamp="1504907409264">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="44" column="15" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="15" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/BrokenTrade.java" timestamp="1501191899207">
         <mark key="[" line="14" column="0" />
@@ -2167,7 +2167,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2221,8 +2221,8 @@
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5zL2JlZ2luRGF0ZS9iZWdpbi9n</entry>
         <entry encoding="base64">JzwsJz5zL2VuZERhdGUvZW5kL2c=</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
