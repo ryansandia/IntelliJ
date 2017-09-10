@@ -108,6 +108,13 @@
         <mark key="^" line="38" column="10" />
         <mark key="." line="38" column="10" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" timestamp="1505070744915">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="290" column="26" />
+        <mark key="^" line="290" column="26" />
+        <mark key="." line="290" column="26" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/Time.java" timestamp="1501262155253">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="15" column="15" />
@@ -922,7 +929,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1505068334473">
+      <file name="/fragment.java" timestamp="1505070433618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="20" />
@@ -1430,8 +1437,8 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/WTSHistoricalSources.java" timestamp="1504623607577">
-        <mark key="'" line="42" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/WTSHistoricalSources.java" timestamp="1505070121889">
+        <mark key="'" line="220" column="20" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="32" />
         <mark key="^" line="111" column="41" />
@@ -1775,12 +1782,12 @@
         <mark key="." line="33" column="34" />
         <mark key="^" line="31" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1505068678315">
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1505070567743">
+        <mark key="a" line="212" column="47" />
         <mark key="'" line="157" column="36" />
-        <mark key="[" line="92" column="46" />
-        <mark key="]" line="92" column="46" />
-        <mark key="." line="92" column="46" />
-        <mark key="^" line="92" column="46" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/ExecutedOrder.java" timestamp="1504794323596">
         <mark key="[" line="14" column="0" />
@@ -2032,15 +2039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="24" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventHandler.java" />
-      <jump line="526" column="11" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
-      <jump line="144" column="31" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
-      <jump line="23" column="2" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
-      <jump line="40" column="75" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
-      <jump line="210" column="1" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
-      <jump line="39" column="39" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
       <jump line="36" column="114" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
       <jump line="46" column="120" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
       <jump line="50" column="95" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
@@ -2132,55 +2130,64 @@
       <jump line="142" column="60" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
       <jump line="153" column="11" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
       <jump line="157" column="36" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="22" column="6" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/WTSHistoricalSources.java" />
+      <jump line="29" column="6" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/WTSHistoricalSources.java" />
+      <jump line="206" column="26" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/WTSHistoricalSources.java" />
+      <jump line="220" column="20" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/WTSHistoricalSources.java" />
+      <jump line="299" column="113" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="305" column="10" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="325" column="10" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="827" column="4" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/OrderBook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaGFzQm9va0V2ZW50ID0gdHJ1ZTsK</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>booksanityres</text>
+        <text>onbook.ru</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obXlyZXN1bHRzLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgaGFzQm9va0V2ZW50ID0gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY3VycmVudFJlc3VsdHMuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgbXlyZXN1bHRzLmVxdWFscygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obXlyZXN1bHRzLnNpemUoZGQpKTsK</text>
+        <text encoding="base64">ICAgICAgQ29sbGVjdGlvbnMuZXEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFzaGVyLnB1dFN0cmluZyhib29rTGV2ZWwudG9TdHJpbmcoKSwgQ2hhcnNldHMuQVNDSUlfQ0hBUlNFVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgbXlyZXN1bHRzLmZvckVhY2goKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFzaGVyLnB1dFN0cmluZyhib29rTGV2ZWwudG9TdHJpbmcoKSwgQ2hhcnNldHMuQVNDSUlfQ0hBUlNFVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY3VycmVudFJlc3VsdHMuc2l6ZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFzaGVyLnB1dFN0cmluZyhib29rTGV2ZWwudG9TdHJpbmcoKSwgQ2hhcnNldHMuQVNDSUlfQ0hBUlNFVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50UmVzdWx0cy5hZGQoaGFzaGVyLmhhc2goKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFzaGVyLnB1dFN0cmluZyhib29rTGV2ZWwudG9TdHJpbmcoKSwgQ2hhcnNldHMuQVNDSUlfQ0hBUlNFVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obXlyZXN1bHRzLnNpemUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFNhbml0eUZvckRhdGUgc2FuaXR5Rm9yRGF0ZSA9IG5ldyBTYW5pdHlGb3JEYXRlKGRhdGUsIHNmKTsK</text>
+        <text encoding="base64">ICAgICAgICBzb3UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBUT08K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY3VycmVudFJlc3VsdHMuc2l6ZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obXlyZXN1bHRzLnNpemUoZGQpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>booksanityres</last-search>
+      <last-search>onbook.ru</last-search>
       <last-offset />
-      <last-pattern>booksanityres</last-pattern>
+      <last-pattern>onbook.ru</last-pattern>
       <last-replace>end</last-replace>
       <last-substitute>endDate</last-substitute>
       <last-dir>1</last-dir>
@@ -2188,10 +2195,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addord</entry>
-        <entry encoding="base64">XDxkZWNsYXJlVG9TdHJpbmdcPg==</entry>
-        <entry>orderme</entry>
-        <entry>methods</entry>
         <entry>ordermethods</entry>
         <entry encoding="base64">XDx2YWxpZEdldHRlck1ldGhvZFw+</entry>
         <entry>validgett</entry>
@@ -2208,6 +2211,10 @@
         <entry>murmu</entry>
         <entry>quali</entry>
         <entry>booksanityres</entry>
+        <entry encoding="base64">XDxiYXRjaElcPg==</entry>
+        <entry>addorder</entry>
+        <entry>addorder(</entry>
+        <entry>onbook.ru</entry>
       </history-search>
       <history-cmd>
         <entry>%s/WTSOrderBookRead/OrderBookRead/g</entry>
@@ -2228,8 +2235,8 @@
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5zL2JlZ2luRGF0ZS9iZWdpbi9n</entry>
         <entry encoding="base64">JzwsJz5zL2VuZERhdGUvZW5kL2c=</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
