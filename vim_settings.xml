@@ -276,12 +276,6 @@
         <mark key="^" line="37" column="74" />
         <mark key="." line="37" column="74" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/handlers/PitchHandler.java" timestamp="1504962350144">
-        <mark key="[" line="112" column="64" />
-        <mark key="]" line="103" column="44" />
-        <mark key="." line="103" column="44" />
-        <mark key="^" line="103" column="48" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1502374218985">
         <mark key="[" line="2" column="43" />
         <mark key="]" line="2" column="43" />
@@ -928,7 +922,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1504962174002">
+      <file name="/fragment.java" timestamp="1505068334473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="20" />
@@ -1781,13 +1775,12 @@
         <mark key="." line="33" column="34" />
         <mark key="^" line="31" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1504901696528">
-        <mark key="a" line="102" column="33" />
-        <mark key="'" line="195" column="27" />
-        <mark key="[" line="196" column="53" />
-        <mark key="]" line="196" column="55" />
-        <mark key="." line="196" column="55" />
-        <mark key="^" line="196" column="55" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1505068678315">
+        <mark key="'" line="157" column="36" />
+        <mark key="[" line="92" column="46" />
+        <mark key="]" line="92" column="46" />
+        <mark key="." line="92" column="46" />
+        <mark key="^" line="92" column="46" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/ExecutedOrder.java" timestamp="1504794323596">
         <mark key="[" line="14" column="0" />
@@ -2028,6 +2021,9 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="6" column="65" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/grid/impl2/ComputationInfo.java" timestamp="1505066015886">
+        <mark key="'" line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/PitchMessage.java" timestamp="1502313261876">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="55" column="22" />
@@ -2036,17 +2032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="2" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
-      <jump line="60" column="25" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
-      <jump line="45" column="3" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
-      <jump line="194" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
-      <jump line="80" column="15" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSRunnableOrderBook.java" />
-      <jump line="93" column="42" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/WTSRunnableOrderBook.java" />
-      <jump line="58" column="22" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/OrderBook.java" />
-      <jump line="31" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventHandler.java" />
-      <jump line="34" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
-      <jump line="32" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
       <jump line="169" column="24" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventHandler.java" />
       <jump line="526" column="11" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
       <jump line="80" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/RyanMain.java" />
@@ -2136,55 +2121,66 @@
       <jump line="241" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
       <jump line="104" column="2" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
       <jump line="102" column="3" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/grid/impl2/ComputationInfo.java" />
+      <jump line="150" column="29" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="107" column="50" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="124" column="31" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="254" column="11" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="257" column="32" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="97" column="90" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="105" column="16" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="142" column="60" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="153" column="11" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="157" column="36" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>endDate</text>
+        <text>booksanityres</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUnVudGltZS5nZXRSdW50aW1lKCkuZXhpdCgtMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obXlyZXN1bHRzLnNpemUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2hvcnQgIiArICsrbnVtc2hvcnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY3VycmVudFJlc3VsdHMuc2l6ZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJSZXN1bHRPZk1ldGhvZENhbGxJZ25vcmVkIikK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obXlyZXN1bHRzLnNpemUoZGQpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRmlsZSBjYWNoZURpcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFzaGVyLnB1dFN0cmluZyhib29rTGV2ZWwudG9TdHJpbmcoKSwgQ2hhcnNldHMuQVNDSUlfQ0hBUlNFVCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jYWNoZURpciA9IG5ldyBGaWxlKCIvdG1wL3N0cmlwZSIpOwogICAgICBpZiAoIWNhY2hlRGlyLmV4aXN0cygpKSB7IGNhY2hlRGlyLm1rZGlycygpOyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFzaGVyLnB1dFN0cmluZyhib29rTGV2ZWwudG9TdHJpbmcoKSwgQ2hhcnNldHMuQVNDSUlfQ0hBUlNFVCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFzaGVyLnB1dFN0cmluZyhib29rTGV2ZWwudG9TdHJpbmcoKSwgQ2hhcnNldHMuQVNDSUlfQ0hBUlNFVCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFzaGVyLnB1dFN0cmluZyhib29rTGV2ZWwudG9TdHJpbmcoKSwgQ2hhcnNldHMuQVNDSUlfQ0hBUlNFVCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFNhbml0eUZvckRhdGUgc2FuaXR5Rm9yRGF0ZSA9IG5ldyBTYW5pdHlGb3JEYXRlKGRhdGUsIHNmKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgc3RyaXBlRm9yRGF0ZVJhbmdlKCkgewo=</text>
+        <text encoding="base64">ICAvLyBUT08K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>endDate</last-search>
+      <last-search>booksanityres</last-search>
       <last-offset />
-      <last-pattern>endDate</last-pattern>
+      <last-pattern>booksanityres</last-pattern>
       <last-replace>end</last-replace>
       <last-substitute>endDate</last-substitute>
       <last-dir>1</last-dir>
@@ -2192,10 +2188,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRXcmFwcGVkQ29tbWFuZFRvUnVuQXNVc2VyXD4=</entry>
-        <entry encoding="base64">XDxyZW1vdGVFeGVjXD4=</entry>
-        <entry>qualify</entry>
-        <entry encoding="base64">XDxTdHJpY3RHZW5lcmFsT3JkZXJCb29rXD4=</entry>
         <entry>addord</entry>
         <entry encoding="base64">XDxkZWNsYXJlVG9TdHJpbmdcPg==</entry>
         <entry>orderme</entry>
@@ -2212,6 +2204,10 @@
         <entry encoding="base64">XDxjYWxjdWxhdGVDdXJyZW50VGltZVw+</entry>
         <entry>beginDate</entry>
         <entry>endDate</entry>
+        <entry>mur</entry>
+        <entry>murmu</entry>
+        <entry>quali</entry>
+        <entry>booksanityres</entry>
       </history-search>
       <history-cmd>
         <entry>%s/WTSOrderBookRead/OrderBookRead/g</entry>
