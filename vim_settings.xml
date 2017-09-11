@@ -760,11 +760,6 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" timestamp="1505146452810">
-        <mark key="'" line="35" column="13" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="115" column="2" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/XNASDetail.java" timestamp="1504277520564">
         <mark key="[" line="12" column="43" />
         <mark key="]" line="12" column="66" />
@@ -1018,7 +1013,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1505143351344">
+      <file name="/fragment.java" timestamp="1505150944990">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1327,6 +1322,11 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/HistoricalSources.java" timestamp="1505150858782">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/refdata/EquityInstrument.java" timestamp="1503438974960">
         <mark key="[" line="36" column="40" />
         <mark key="]" line="36" column="41" />
@@ -1394,11 +1394,11 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/CrossVolume.java" timestamp="1505147458914">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="24" column="28" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/CrossVolume.java" timestamp="1505151115616">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/OrderBookNode.java" timestamp="1505147117685">
         <mark key="'" line="56" column="29" />
@@ -2309,28 +2309,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBtYXJrIG9uIDcvMTEvMTcuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuc2NoZWR1bGUobmV3IENvbXBvbmVudFRvVGltZVNlcmllcyhkYXRlLCAgbmV3IFRvdGFsVm9sdW1lKHNmKSwgY29udGV4dCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJlc3VsdDxUaW1lU2VyaWVzPiBjdW1Wb2x1bWVSID0gR3JpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAubWQuYm9vay5PcmRlckJvb2tSZWFkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29tcG9uZW50LmNhdGFsb2cuT3JkZXJCb29rLlF1YW50aXR5QXRQcmljZTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAuY29tcG9uZW50LmNhdGFsb2cuT3JkZXJCb29rLkNyb3NzZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuc2NoZWR1bGUobmV3IENvbXBvbmVudFRvVGltZVNlcmllcyhkYXRlLCAgbmV3IFRvdGFsVm9sdW1lKHNmKSwgY29udGV4dCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
