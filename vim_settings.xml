@@ -1206,11 +1206,11 @@
         <mark key="." line="38" column="23" />
         <mark key="^" line="38" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/sumstats/XnasSymbolsForDate.kt" timestamp="1505161241659">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="47" column="19" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/sumstats/XnasSymbolsForDate.kt" timestamp="1505161502463">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="19" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/refdata/InstrumentCache.java" timestamp="1503438251731">
         <mark key="[" line="23" column="11" />
@@ -1739,6 +1739,7 @@
         <mark key="." line="7" column="72" />
         <mark key="^" line="7" column="72" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/Itch50SymbolPlayer.java" timestamp="1505161708295" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/spin/SpinRequest.java" timestamp="1501193530526">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="13" />
@@ -2309,7 +2310,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludGxuKCJoZWxsbyIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHVibGljIA==</text>
@@ -2321,31 +2322,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5JT1V0aWxzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludGxuKCJoZWxsbyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigiaGVsbG8iKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMgcHVibGljIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRsbigiaGVsbG8iKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBKdm1TdGF0aWMgcHVibGljIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb21wYW5pb24gb2JqZWN0IHsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMgcHVibGljIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgICAgcHJpbnRsbigiaGVsbG8iKQogICAgfQo=</text>
+        <text encoding="base64">ICBjb21wYW5pb24gb2JqZWN0IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIEBKdm1TdGF0aWMgcHVibGljIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgICAgcHJpbnRsbigiaGVsbG8iKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
