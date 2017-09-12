@@ -213,11 +213,11 @@
         <mark key="^" line="2" column="54" />
         <mark key="." line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/ClusterStripe.java" timestamp="1505138661637">
-        <mark key="[" line="40" column="5" />
-        <mark key="]" line="44" column="15" />
-        <mark key="^" line="44" column="15" />
-        <mark key="." line="44" column="15" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/ClusterStripe.java" timestamp="1505234543411">
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="44" column="16" />
+        <mark key="^" line="44" column="16" />
+        <mark key="." line="44" column="16" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/BrokenTrade.java" timestamp="1501191899207">
         <mark key="[" line="14" column="0" />
@@ -2361,11 +2361,11 @@
       <jump line="146" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>30;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>30;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNvbHZlSW5wdXRGaWxlc1w+</text>
