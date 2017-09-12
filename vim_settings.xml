@@ -1137,13 +1137,12 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1505226285490">
-        <mark key="a" line="115" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1505232544865">
         <mark key="'" line="146" column="33" />
-        <mark key="[" line="216" column="17" />
-        <mark key="]" line="216" column="28" />
-        <mark key="^" line="216" column="28" />
-        <mark key="." line="216" column="28" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="^" line="122" column="5" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventListener.java" timestamp="1501185256158">
         <mark key="[" line="6" column="0" />
@@ -2362,8 +2361,8 @@
       <jump line="146" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -2375,34 +2374,34 @@
         <text encoding="base64">ICAgIFVuc2FmZUJ1ZmZlciBidWZmZXIgPSBuZXcgVW5zYWZlQnVmZmVyKCk7CiAgICBidWZmZXIud3JhcChuZXcgYnl0ZVszMl0sIDAsIDQ1KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYW5kaWFjYXAubnJ0LnN0cmlwZXIuU3RyaXBlUmVzdWx0LlN0YXR1czsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYXB0dXJlRGF0YUluZm8gY2FwdHVyZURhdGFJbmZvID0gbmV3IENhcHR1cmVEYXRhSW5mbyhPcmlnaW4uUFVSQ0hBU0UsIExvY2F0aW9uLlVOS05PV04sIHZlbnVlLmdldFZlbnVlKCksCiAgICAgICAgICAgICJ2ZW51ZS1jYXB0dXJlIiwgTklDLlVOS05PV04sIFRpbWVTb3VyY2UuVU5LTk9XTik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmZC5nZXROYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBoYW5kbGVyLnVwZGF0ZURlcGVuZGVuY2llcyhmcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldEZpbGVOYW1lKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBQaXRjaEZpbGVTb3VyY2UgZnMgPSBuZXcgUGl0Y2hGaWxlU291cmNlKGN1cnJlbnQuZ2V0VmFsdWUoKSwgIWRyeXJ1bik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChGaWxlIGZpbGUgOiBzcmNGaWxlcykgewo=</text>
+        <text encoding="base64">ICAgIENhcHR1cmVEYXRhSW5mbyBjYXB0dXJlRGF0YUluZm8gPSBuZXcgQ2FwdHVyZURhdGFJbmZvKE9yaWdpbi5QVVJDSEFTRSwgTG9jYXRpb24uVU5LTk9XTiwgdmVudWUuZ2V0VmVudWUoKSwKICAgICAgICAidmVudWUtY2FwdHVyZSIsIE5JQy5VTktOT1dOLCBUaW1lU291cmNlLlVOS05PV04pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChGaWxlIGN1cnJlbnRGaWxlIDogc3JjRmlsZXMpIHsK</text>
+        <text encoding="base64">ICAgICAgICBJdGNoTWVzc2FnZVdyaXRlciB3cml0ZXIgPSBuZXcgSXRjaE1lc3NhZ2VXcml0ZXIoY2FjaGVEaXIsIHZlbnVlLCAhZHJ5cnVuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3JjRmlsZXMuZm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2456,8 +2455,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>aw</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
