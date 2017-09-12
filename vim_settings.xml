@@ -164,6 +164,11 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/kotlin/com/sandiacap/core/utils/CollectionUtils.kt" timestamp="1505229206263">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/listeners/Itch40Listener.java" timestamp="1504043352677">
         <mark key="[" line="27" column="59" />
         <mark key="]" line="28" column="1" />
@@ -2349,7 +2354,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNvdW5kYmFuawo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb28K</text>
       </register>
       <register name="-" type="4">
         <text>attach(new UnsafeBuffer(new byte[64]));</text>
@@ -2361,31 +2366,31 @@
         <text encoding="base64">ICAgIFVuc2FmZUJ1ZmZlciBidWZmZXIgPSBuZXcgVW5zYWZlQnVmZmVyKCk7CiAgICBidWZmZXIud3JhcChuZXcgYnl0ZVszMl0sIDAsIDQ1KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNvdW5kYmFuawo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb28K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIFNvdW5kYmFuawo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBub0NoZWNrKCkgewogICAgVW5zYWZlQnVmZmVyIGJ1ZmZlciA9IG5ldyBVbnNhZmVCdWZmZXIoKTsKICAgIGJ1ZmZlci53cmFwKG5ldyBieXRlWzMyXSwgMCwgNDUpOwogIH0=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBub0NoZWNrKCkgewogICAgVW5zYWZlQnVmZmVyIGJ1ZmZlciA9IG5ldyBVbnNhZmVCdWZmZXIoKTsKICAgIGJ1ZmZlci53cmFwKG5ldyBieXRlWzMyXSwgMCwgNDUpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiZGlzYWJsZS51bnNhZmUuYm91bmRzLmNoZWNrIiwgU3RyaW5nLnZhbHVlT2YodHJ1ZSkpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGFzc2VydEVxCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEJpdFV0aWxzLlNJWkVfT0ZfQllURSk7IH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICQK</text>
+        <text encoding="base64">ICAgIEJpdFV0aWxzLlNJWkVfT0ZfQllURSk7IH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
