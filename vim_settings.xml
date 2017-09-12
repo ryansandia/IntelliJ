@@ -1041,13 +1041,13 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" timestamp="1505230087947">
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" timestamp="1505231554438">
         <mark key="a" line="389" column="36" />
         <mark key="'" line="40" column="32" />
-        <mark key="[" line="20" column="75" />
-        <mark key="]" line="20" column="81" />
-        <mark key="." line="20" column="81" />
-        <mark key="^" line="20" column="81" />
+        <mark key="[" line="439" column="85" />
+        <mark key="]" line="439" column="85" />
+        <mark key="." line="439" column="85" />
+        <mark key="^" line="439" column="85" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/people/ryan/build.gradle" timestamp="1504715531637">
         <mark key="[" line="4" column="0" />
@@ -2363,10 +2363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>key</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNvbHZlSW5wdXRGaWxlc1w+</text>
@@ -2402,7 +2402,7 @@
         <text encoding="base64">ICAgICAgc3JjRmlsZXMuZm9yCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2456,8 +2456,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>aw</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
