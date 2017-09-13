@@ -1395,6 +1395,9 @@
         <mark key="^" line="120" column="71" />
         <mark key="." line="120" column="71" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" timestamp="1505336265737">
+        <mark key="'" line="34" column="13" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/VenueDetailFactory.java" timestamp="1504648202574">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1997,6 +2000,9 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" timestamp="1505336263873">
+        <mark key="'" line="112" column="23" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/OrderExecutedAtPrice.java" timestamp="1502317061650">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="27" column="27" />
@@ -2349,9 +2355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="357" column="39" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="195" column="32" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="325" column="32" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="350" column="7" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="380" column="2" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
@@ -2449,6 +2452,9 @@
       <jump line="18" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/dedge/TradeLongMsg.java" />
       <jump line="19" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/dedge/TradeLongMsg.java" />
       <jump line="2" column="38" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="112" column="23" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" />
+      <jump line="34" column="13" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2458,7 +2464,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Stock</text>
+        <text>TIME</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVOU0FGRS5jb3B5TWVtb3J5KHNyYywgQVJSQVlfQkFTRV9PRkZTRVQgKyBzcmNPZmZzZXQsIGJ5dGVBcnJheSwgYWRkcmVzcyArIG9mZnNldCwgbGVuZ3RoKTsK</text>
@@ -2491,13 +2497,13 @@
         <text encoding="base64">ZGVmYXVsdCBTdHJpbmcgZ2V0U3RvY2soKSB7CiAgICByZXR1cm4gU3RyaW5nQnl0ZVV0aWxzLmluZmxhdGVBbmRGbGlwU3RyaW5nKGdldFN0b2NrVG9wMkJ5dGVzKCksIGdldFN0b2NrQm90dG9tNEJ5dGVzKCkpOwogIH0KCiAgZGVmYXVsdCBsb25nIGdldFN0b2NrVmFsdWUoKSB7CiAgICByZXR1cm4gU3RyaW5nQnl0ZVV0aWxzLmluZmxhdGVBbmRGbGlwQnl0ZXNUb0xvbmcoZ2V0U3RvY2tUb3AyQnl0ZXMoKSwgZ2V0U3RvY2tCb3R0b200Qnl0ZXMoKSk7CiAgfQoKICBkZWZhdWx0IHZvaWQgc2V0U3RvY2soZmluYWwgU3RyaW5nIHZhbHVlKSB7CiAgICBTaXhCeXRlcyByZXR2YWwgPSBTdHJpbmdCeXRlVXRpbHMuZGVmbGF0ZVN0cmluZyh2YWx1ZSk7CiAgICBzZXRTdG9ja1RvcDJCeXRlcyhyZXR2YWwudG9wKTsKICAgIHNldFN0b2NrQm90dG9tNEJ5dGVzKHJldHZhbC5ib3R0b20pOwogIH0KCiAgZGVmYXVsdCB2b2lkIHNldFN0b2NrVmFsdWUobG9uZyB2YWx1ZSkgewogICAgU2l4Qnl0ZXMgcmV0dmFsID0gU3RyaW5nQnl0ZVV0aWxzLmRlZmxhdGVMb25nKHZhbHVlKTsKICAgIHNldFN0b2NrVG9wMkJ5dGVzKHJldHZhbC50b3ApOwogICAgc2V0U3RvY2tCb3R0b200Qnl0ZXMocmV0dmFsLmJvdHRvbSk7CiAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Stock</last-search>
+      <last-search>TIME</last-search>
       <last-offset />
-      <last-pattern>Stock</last-pattern>
+      <last-pattern>TIME</last-pattern>
       <last-replace>Ticker</last-replace>
       <last-substitute>Stock</last-substitute>
       <last-dir>1</last-dir>
@@ -2505,7 +2511,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNvbHZlSW5wdXRGaWxlc1w+</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>system</entry>
         <entry>print</entry>
@@ -2525,6 +2530,7 @@
         <entry>4</entry>
         <entry>int</entry>
         <entry>Stock</entry>
+        <entry>TIME</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2VuZERhdGUvZW5kL2c=</entry>
@@ -2545,8 +2551,8 @@
         <entry encoding="base64">JzwsJz5zL2ludC9zaG9ydC9n</entry>
         <entry>%s/Stock/Ticker/g</entry>
         <entry>wa</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
