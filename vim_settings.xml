@@ -941,12 +941,12 @@
         <mark key="]" line="138" column="57" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/OrderAddShortMsg.java" timestamp="1505326518746">
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/OrderAddShortMsg.java" timestamp="1505328500219">
         <mark key="'" line="38" column="2" />
-        <mark key="[" line="53" column="61" />
-        <mark key="]" line="54" column="45" />
-        <mark key="^" line="54" column="45" />
-        <mark key="." line="54" column="45" />
+        <mark key="[" line="54" column="51" />
+        <mark key="]" line="54" column="51" />
+        <mark key="^" line="54" column="51" />
+        <mark key="." line="54" column="51" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/AuctionSummaryMsg.java" timestamp="1504707282071">
         <mark key="[" line="33" column="34" />
@@ -2402,10 +2402,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KGJvdHRvbSAmIDB4RkZGRkZGRkZMKTs=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGJvdHRvbSAmIDB4RkZGRkZGRkZMKTs=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>4</text>
@@ -2441,7 +2441,7 @@
         <text encoding="base64">ICAgIGJiLm1hcmsoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2495,8 +2495,8 @@
         <entry encoding="base64">JzwsJz5zL2ludC9zaG9ydA==</entry>
         <entry encoding="base64">JzwsJz5zLzIvNC9n</entry>
         <entry encoding="base64">JzwsJz5zLzQvMi9n</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
