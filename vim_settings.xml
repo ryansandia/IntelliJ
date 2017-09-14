@@ -1956,11 +1956,11 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/StrictGeneralOrderBook.java" timestamp="1505419313894">
-        <mark key="[" line="91" column="70" />
-        <mark key="]" line="92" column="12" />
-        <mark key="^" line="92" column="12" />
-        <mark key="." line="92" column="12" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/StrictGeneralOrderBook.java" timestamp="1505420698807">
+        <mark key="[" line="91" column="43" />
+        <mark key="]" line="91" column="79" />
+        <mark key="^" line="91" column="79" />
+        <mark key="." line="91" column="79" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/SequencedUnitHeader.java" timestamp="1500402684601">
         <mark key="[" line="20" column="33" />
@@ -2440,7 +2440,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1wqXC8vL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2492,10 +2492,10 @@
         <entry>a</entry>
         <entry>%s/byteBuffer/bb/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zL1wvXCovL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1wqXC8vL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
