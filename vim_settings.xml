@@ -742,6 +742,11 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/math/qp/QuadProgNative.kt" timestamp="1505421403822">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/OrderCancel.java" timestamp="1501191915482">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="13" />
@@ -2243,7 +2248,6 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/StrictGeneralOrderBook.java" timestamp="1505399637637" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/MarketParticipantPositionMsg.java" timestamp="1505343929741">
         <mark key="[" line="48" column="88" />
         <mark key="]" line="49" column="1" />
@@ -2682,31 +2686,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFVzRXFTT0QgZXh0ZW5kcyBPZmZIZWFwU3RydWN0IHsKCiAgICBARmllbGRPcmRlcigwKQogICAgbG9uZyBnZXRTZWNvbmRzKCk7CiAgICB2b2lkIHNldFNlY29uZHMobG9uZyB2YWx1ZSk7CgogICAgZGVmYXVsdCBMb2NhbERhdGUgZ2V0RGF0ZSgpIHsgcmV0dXJuIExvY2FsRGF0ZS5vZkVwb2NoRGF5KGdldFNlY29uZHMoKSk7IH0KICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIFVzRXFTT0QgZXh0ZW5kcyBPZmZIZWFwU3RydWN0IHsKCiAgICBARmllbGRPcmRlcigwKQogICAgbG9uZyBnZXRTZWNvbmRzKCk7CiAgICB2b2lkIHNldFNlY29uZHMobG9uZyB2YWx1ZSk7CgogICAgZGVmYXVsdCBMb2NhbERhdGUgZ2V0RGF0ZSgpIHsgcmV0dXJuIExvY2FsRGF0ZS5vZkVwb2NoRGF5KGdldFNlY29uZHMoKSk7IH0KICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2760,8 +2764,8 @@
         <entry encoding="base64">JzwsJz5zL2ludC9zaG9ydC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIvNC9n</entry>
         <entry encoding="base64">JzwsJz5zLzQvMi9n</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
