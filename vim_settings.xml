@@ -1175,6 +1175,12 @@
         <mark key="." line="21" column="7" />
         <mark key="^" line="21" column="7" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/refdata/reuters/ongoing/SandiaSymbolInfoStorage.kt" timestamp="1505404140952">
+        <mark key="'" line="49" column="62" />
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/resources/log4j.properties" timestamp="1504713172923">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="30" />
@@ -2537,7 +2543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="20" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapReader.java" />
       <jump line="53" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapReader.java" />
       <jump line="26" column="39" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapFileSource.java" />
       <jump line="41" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapReader.java" />
@@ -2637,6 +2642,7 @@
       <jump line="50" column="36" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/HistoricalSources.java" />
       <jump line="46" column="28" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" />
       <jump line="20" column="21" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" />
+      <jump line="49" column="62" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/refdata/reuters/ongoing/SandiaSymbolInfoStorage.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2649,7 +2655,7 @@
         <text encoding="base64">ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7</text>
       </register>
       <register name="/" type="4">
-        <text>refda</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiBGb3JjZSBub24tcHJpbWl0aXZlIGxlbmd0aCBzdHJpbmcgaW50byA4IGJ5dGVzLCByaWdodCBwYWRkZWQgZm9ybWF0LgogICAqIFRoaXMgd2lsbCBtYWtlIGVxdWl2YWxlbnQgdG8gWE5BUy4KICAgKiBAaW1wbE5vdGUgTGl0dGxlIGVuZGlhbiBzcGVjaWZpYwo=</text>
@@ -2686,9 +2692,9 @@
       </register>
     </registers>
     <search>
-      <last-search>refda</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>refda</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>4</last-substitute>
       <last-dir>1</last-dir>
@@ -2696,7 +2702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Value</entry>
         <entry>gettick</entry>
         <entry>setticker</entry>
         <entry>getticker</entry>
@@ -2716,6 +2721,7 @@
         <entry encoding="base64">XDxIYW5kbGVyXD4=</entry>
         <entry>channelmes</entry>
         <entry>refda</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53YQ==</entry>
