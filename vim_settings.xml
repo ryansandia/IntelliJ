@@ -1635,8 +1635,8 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" timestamp="1505400755151">
-        <mark key="'" line="20" column="21" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" timestamp="1505483738731">
+        <mark key="'" line="295" column="14" />
         <mark key="[" line="266" column="0" />
         <mark key="]" line="266" column="0" />
         <mark key="^" line="254" column="63" />
@@ -2496,7 +2496,6 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/grid/GridResourceServer.kt" timestamp="1505424953952" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/OrderExecutedMsgWithPrice.java" timestamp="1503693921674">
         <mark key="[" line="13" column="44" />
         <mark key="]" line="13" column="78" />
@@ -2566,8 +2565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="39" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapFileSource.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapReader.java" />
       <jump line="53" column="44" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripedFile.java" />
       <jump line="65" column="30" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripedFile.java" />
       <jump line="64" column="9" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/player/StripedFile.java" />
@@ -2666,6 +2663,8 @@
       <jump line="20" column="21" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" />
       <jump line="49" column="62" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/refdata/reuters/ongoing/SandiaSymbolInfoStorage.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/Source/cbceval/people/will/src/main/java/com/sandiacap/backoffice/ledger/BackOfficeEventBufferExample.java" />
+      <jump line="270" column="70" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" />
+      <jump line="295" column="14" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2678,7 +2677,7 @@
         <text>setNetPriceAsDouble</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>bytesfroms3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiBGb3JjZSBub24tcHJpbWl0aXZlIGxlbmd0aCBzdHJpbmcgaW50byA4IGJ5dGVzLCByaWdodCBwYWRkZWQgZm9ybWF0LgogICAqIFRoaXMgd2lsbCBtYWtlIGVxdWl2YWxlbnQgdG8gWE5BUy4KICAgKiBAaW1wbE5vdGUgTGl0dGxlIGVuZGlhbiBzcGVjaWZpYwo=</text>
@@ -2715,9 +2714,9 @@
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>bytesfroms3</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>bytesfroms3</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>4</last-substitute>
       <last-dir>1</last-dir>
@@ -2725,7 +2724,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gettick</entry>
         <entry>setticker</entry>
         <entry>getticker</entry>
         <entry>Stock</entry>
@@ -2745,6 +2743,7 @@
         <entry>channelmes</entry>
         <entry>refda</entry>
         <entry>version</entry>
+        <entry>bytesfroms3</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53YQ==</entry>
