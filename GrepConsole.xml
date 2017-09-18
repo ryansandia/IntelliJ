@@ -95,31 +95,6 @@
                 </option>
                 <option name="name" value="default" />
               </GrepExpressionGroup>
-              <GrepExpressionGroup>
-                <option name="grepExpressionItems">
-                  <list>
-                    <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="AddOrderLongMsg" />
-                      <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="e773717a-007d-4597-8ae5-273dba504b24" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-16742007" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="529e5e4d-80be-4110-93c8-25b8440e04db" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                  </list>
-                </option>
-                <option name="name" value="new" />
-              </GrepExpressionGroup>
             </list>
           </option>
           <option name="id" value="1503410674666" />
