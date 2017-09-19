@@ -45,6 +45,12 @@
         <mark key="." line="58" column="49" />
         <mark key="^" line="58" column="49" />
       </file>
+      <file name="$USER_HOME$/Source/test/build.gradle" timestamp="1505837514073">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="29" column="4" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/TotalNotional.java" timestamp="1505145414525">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="13" />
@@ -533,7 +539,7 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/test/other/src/main/java/com/sandiacap/aws/EC2InstanceType.java" timestamp="1505835936627">
+      <file name="$USER_HOME$/Source/test/other/src/main/java/com/sandiacap/aws/EC2InstanceType.java" timestamp="1505837850850">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="11" />
         <mark key="." line="22" column="11" />
@@ -2693,34 +2699,34 @@
         <text encoding="base64">ICAvKioKICAgKiBGb3JjZSBub24tcHJpbWl0aXZlIGxlbmd0aCBzdHJpbmcgaW50byA4IGJ5dGVzLCByaWdodCBwYWRkZWQgZm9ybWF0LgogICAqIFRoaXMgd2lsbCBtYWtlIGVxdWl2YWxlbnQgdG8gWE5BUy4KICAgKiBAaW1wbE5vdGUgTGl0dGxlIGVuZGlhbiBzcGVjaWZpYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uZmlndXJlQW5ub3RhdGlvblByb2Nlc3NpbmcgPSB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
+        <text encoding="base64">ICAgIHByb2plY3Qgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRHZW5lcmF0ZWRTb3VyY2VzRGlyID0gdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFVzRXFTT0QgZXh0ZW5kcyBPZmZIZWFwU3RydWN0IHsKCiAgICBARmllbGRPcmRlcigwKQogICAgbG9uZyBnZXRTZWNvbmRzKCk7CiAgICB2b2lkIHNldFNlY29uZHMobG9uZyB2YWx1ZSk7CgogICAgZGVmYXVsdCBMb2NhbERhdGUgZ2V0RGF0ZSgpIHsgcmV0dXJuIExvY2FsRGF0ZS5vZkVwb2NoRGF5KGdldFNlY29uZHMoKSk7IH0KICAK</text>
+        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2774,8 +2780,8 @@
         <entry encoding="base64">JzwsJz5zL2ludC9zaG9ydC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIvNC9n</entry>
         <entry encoding="base64">JzwsJz5zLzQvMi9n</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
