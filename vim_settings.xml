@@ -2471,6 +2471,7 @@
         <mark key="^" line="31" column="1" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/aws/EC2InstanceType.java" timestamp="1505841407659" />
       <file name="$USER_HOME$/Source/cbceval/core/build.gradle" timestamp="1504715512111">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="27" />
