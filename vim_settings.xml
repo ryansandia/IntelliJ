@@ -1873,6 +1873,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch50EventHandler.java" timestamp="1505858931242">
+        <mark key="[" line="141" column="29" />
+        <mark key="]" line="141" column="29" />
+        <mark key="^" line="141" column="29" />
+        <mark key="." line="141" column="29" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/Common.java" timestamp="1504655490223">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="35" />
@@ -2408,6 +2414,9 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1505859061425">
+        <mark key="'" line="119" column="31" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/ExecutedOrder.java" timestamp="1505345040833">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -2584,10 +2593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/OrderAddLongMsg.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/OrderAddLongMsg.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/TradeLongMsg.java" />
-      <jump line="70" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/TradeLongMsg.java" />
       <jump line="43" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/OrderAddLongMsg.java" />
       <jump line="30" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/TradeShortMsg.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/TradeShortMsg.java" />
@@ -2684,6 +2689,10 @@
       <jump line="125" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="223" column="5" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch41EventHandler.java" />
+      <jump line="260" column="11" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="263" column="32" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="98" column="29" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="119" column="31" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2696,7 +2705,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>invalid_l</text>
+        <text encoding="base64">XDxxdWFsaWZ5VGlja2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIm1pc3NpbmcgbWF0Y2ggdmFsdWUiKTsK</text>
@@ -2729,13 +2738,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>invalid_l</last-search>
+      <last-search encoding="base64">XDxxdWFsaWZ5VGlja2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>invalid_l</last-pattern>
+      <last-pattern encoding="base64">XDxxdWFsaWZ5VGlja2VyXD4=</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>4</last-substitute>
       <last-dir>1</last-dir>
@@ -2743,7 +2752,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getticker</entry>
         <entry>Stock</entry>
         <entry>TIME</entry>
         <entry>Venue</entry>
@@ -2763,6 +2771,7 @@
         <entry>version</entry>
         <entry>bytesfroms3</entry>
         <entry>invalid_l</entry>
+        <entry encoding="base64">XDxxdWFsaWZ5VGlja2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53YQ==</entry>
@@ -2778,13 +2787,13 @@
         <entry encoding="base64">JzwsJz5zL2VkZ2EvZWRneC9n</entry>
         <entry encoding="base64">JzwsJz5zL0VER0EvRURHWC9n</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL3Nob3J0L2ludC9n</entry>
         <entry encoding="base64">JzwsJz5zL2ludC9zaG9ydC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIvNC9n</entry>
         <entry encoding="base64">JzwsJz5zLzQvMi9n</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
