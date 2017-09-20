@@ -74,6 +74,13 @@
         <mark key="^" line="62" column="76" />
         <mark key="." line="62" column="76" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/NullFileInspector.java" timestamp="1505931885104">
+        <mark key="'" line="8" column="46" />
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="28" column="98" />
+        <mark key="." line="28" column="98" />
+        <mark key="^" line="28" column="98" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/AddOrderLong.java" timestamp="1502317686177">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="37" column="3" />
@@ -2322,8 +2329,10 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1505859810608">
-        <mark key="'" line="119" column="31" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1505931785648">
+        <mark key="'" line="34" column="44" />
+        <mark key="[" line="365" column="0" />
+        <mark key="]" line="371" column="2" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/VenueSpecific.java" timestamp="1504795022371">
         <mark key="[" line="6" column="20" />
@@ -2496,9 +2505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/dedge/AddOrderLongMsg.java" />
-      <jump line="49" column="15" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/OrderAddLongMsg.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/dedge/AddOrderShortMsg.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/dedge/AddOrderShortMsg.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/dedge/AddOrderShortMsg.java" />
       <jump line="19" column="2" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/dedge/AddOrderShortMsg.java" />
@@ -2596,58 +2602,61 @@
       <jump line="242" column="35" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
       <jump line="56" column="4" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/md/ItchSymbolPlayer.java" />
       <jump line="25" column="19" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/md/XNASDetail.java" />
+      <jump line="249" column="4" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="34" column="44" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" />
+      <jump line="7" column="46" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/NullFileInspector.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text>Venue</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wdXRlVmVyc2lvbkZvckRhdGVcPg==</text>
+        <text>venuecon</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgRmVlZEhhbmRsZXIgY3JlYXRlRmVlZEhhbmRsZXIoZmluYWwgRmVlZExpc3RlbmVyIGxpc3RlbmVyKSB7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBjbGFzcyBWZW51ZUNvbnZlcnRlciBpbXBsZW1lbnRzIElTdHJpbmdDb252ZXJ0ZXI8RmVlZD4gewoKICAgIEBPdmVycmlkZQogICAgcHVibGljIEZlZWQgY29udmVydChTdHJpbmcgcykgewogICAgICByZXR1cm4gRW51bS52YWx1ZU9mKEZlZWQuY2xhc3MsIHMudHJpbSgpLnRvVXBwZXJDYXNlKCkpOwogICAgfQogIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHIgPSB4bmFzVGlja2Vycy5jb250YWlucyh0aWNrZXIpCg==</text>
+        <text encoding="base64">Ly8gbmVlZHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFhOQVNEZXRhaWwgZGV0YWlsID0gbmV3IFhOQVNEZXRhaWwoZGF0ZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBGZWUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAUGFyYW1ldGVyCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEl0Y2hTeW1ib2xQbGF5ZXIuZ2V0VGlja2VyVW5pcXVlU3RvY2tNZXNzYWdlcyhkKS5tYXAoeyBpdC50aWNrZXIgfSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHhuYXNUaWNrZXJzID0gSW1tdXRhYmxlU2V0LmNvcHlPZigK</text>
+        <text encoding="base64">ICAgICAgcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHIgPSB4bmFzVGlja2Vycy5jb250YWlucyh0aWNrZXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wdXRlVmVyc2lvbkZvckRhdGVcPg==</last-search>
+      <last-search>venuecon</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wdXRlVmVyc2lvbkZvckRhdGVcPg==</last-pattern>
+      <last-pattern>venuecon</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>4</last-substitute>
       <last-dir>1</last-dir>
@@ -2655,7 +2664,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bzx</entry>
         <entry>Z</entry>
         <entry>edga</entry>
         <entry>EDGA</entry>
@@ -2675,6 +2683,7 @@
         <entry>stripefil</entry>
         <entry>createe</entry>
         <entry encoding="base64">XDxjb21wdXRlVmVyc2lvbkZvckRhdGVcPg==</entry>
+        <entry>venuecon</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vcy80LzIvZw==</entry>
