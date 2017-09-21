@@ -15,7 +15,7 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1506021398408">
+      <file name="/a.dummy" timestamp="1506024044525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="49" />
@@ -527,9 +527,6 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505862558073">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/AddOrderWithMPID.java" timestamp="1501191902837">
         <mark key="[" line="10" column="98" />
         <mark key="]" line="11" column="1" />
@@ -994,12 +991,12 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1506023305224">
-        <mark key="'" line="300" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="118" column="4" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1506025088326">
+        <mark key="'" line="320" column="0" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="209" column="3" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3FileOutputStream.java" timestamp="1501078018501">
         <mark key="[" line="65" column="0" />
@@ -2634,43 +2631,43 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text encoding="base64">SU9FeGNlcHRpb24g</text>
       </register>
       <register name="/" type="4">
         <text>modifyOrder</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFMzT2JqZWN0IG9iamVjdCA9IFMzVXRpbHMuZ2V0UzNDbGllbnQoKS5nZXRPYmplY3QoRmVlZERldGFpbC5TVFJJUEVfQlVDS0VULCBuZXcgWE5BU0RldGFpbChkYXRlKS5nZXROdWxsU3ltYm9sS2V5KCkpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGJvb2xlYW4gdmFsaWQgPSBwcmljZVRvT3JkaW5hbChwcmljZSk7CiAgICAgICAgaWYgKCF2YWxpZCkgewogICAgICAgICAgYmFkRW50cmllcy5hZGQobmV3IFN0cmlwZUVycm9yKGRhdGUsIHRpbWVzdGFtcCwgZXhlY3V0ZWRPcmRlci50b1N0cmluZygpLCBzZi5nZXRTeW1ib2woKS50b1N0cmluZygpKSk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBkZCAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSBzdGF0aWMgdm9pZCB3cml0ZUVudHJ5KEJ1ZmZlcmVkV3JpdGVyIHdyaXRlciwgTGlzdDxTdHJpcGVFcnJvcj4gZXJyb3JzKSB7CiAgICBmb3IgKFN0cmlwZUVycm9yIGVycm9yIDogZXJyb3JzKSB7CiAgICAgIHRyeSB7CiAgICAgICAgd3JpdGVyLndyaXRlKGVycm9yLnRvU3RyaW5nKCkpOwogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgfSBmaW5hbGx5IHsKICAgICAgICB0cnkgewogICAgICAgICAgd3JpdGVyLmNsb3NlKCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZmluYWxseSB7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgcHJpdmF0ZSBzdGF0aWMgdm9pZCB3cml0ZUVudHJ5KEJ1ZmZlcmVkV3JpdGVyIHdyaXRlciwgTGlzdDxTdHJpcGVFcnJvcj4gZXJyb3JzKSB7CiAgICBmb3IgKFN0cmlwZUVycm9yIGVycm9yIDogZXJyb3JzKSB7CiAgICAgIHRyeSB7CiAgICAgICAgd3JpdGVyLndyaXRlKGVycm9yLnRvU3RyaW5nKCkpOwogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgfSBmaW5hbGx5IHsKICAgICAgICB0cnkgewogICAgICAgICAgd3JpdGVyLmNsb3NlKCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewogICAgICBmb3IgKFJlc3VsdDxMaXN0PFN0cmlwZUVycm9yPj4gam9iIDogam9icykgewogICAgICAgIExpc3Q8U3RyaXBlRXJyb3I+IGVudHJpZXMgPSBqb2IuZ2V0KCk7CiAgICAgICAgZm9yIChTdHJpcGVFcnJvciBlbnRyeSA6IGVudHJpZXMpIHsKICAgICAgICAgIHdyaXRlci53cml0ZShlbnRyeS50b1N0cmluZygpKTsKICAgICAgICB9CiAgICAgIH0KICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBpZ25vcmVkKSA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0gZmluYWxseSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2724,8 +2721,8 @@
         <entry encoding="base64">JzwsJz5zL21vZGlmeS9leGVjdXRlZC9n</entry>
         <entry encoding="base64">JzwsJz5zL21vZGlmeU9yZGVyL3RyYWRlL2c=</entry>
         <entry>Wa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
