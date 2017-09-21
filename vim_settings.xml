@@ -1001,12 +1001,12 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1506034413995">
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1506035246756">
         <mark key="'" line="82" column="67" />
-        <mark key="[" line="145" column="84" />
-        <mark key="]" line="145" column="84" />
-        <mark key="." line="145" column="84" />
-        <mark key="^" line="145" column="84" />
+        <mark key="[" line="201" column="74" />
+        <mark key="]" line="201" column="76" />
+        <mark key="." line="201" column="76" />
+        <mark key="^" line="201" column="76" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3FileOutputStream.java" timestamp="1501078018501">
         <mark key="[" line="65" column="0" />
@@ -2650,34 +2650,34 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mZWVkID0gZmVlZDsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5ID0gVGlja2VyLmZyb20oc2YuZ2V0U3ltYm9sKCkudG9TdHJpbmcoKSkudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZiA9IHNmOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIFN5bWJvbEFuZEZlZWQgc2Y7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGZlZWQgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mZWVkID0gZmVlZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzeW1ib2wucwo=</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgaWYgKGZlZWQgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIHByaXZhdGUgRmVlZCB2ZW51ZTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gIEBQYXJhbWV0ZXIobmFtZXMgPSAiLS1mZWVkIiwgY29udmVydGVyID0gRmVlZENvbnZlcnRlci5jbGFzcywgcmVxdWlyZWQgPSB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzeW1ib2wucwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2731,8 +2731,8 @@
         <entry encoding="base64">JzwsJz5zL21vZGlmeS9leGVjdXRlZC9n</entry>
         <entry encoding="base64">JzwsJz5zL21vZGlmeU9yZGVyL3RyYWRlL2c=</entry>
         <entry>Wa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
