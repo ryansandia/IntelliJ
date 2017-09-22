@@ -1001,8 +1001,8 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1506036208318">
-        <mark key="'" line="82" column="67" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1506088277089">
+        <mark key="'" line="280" column="78" />
         <mark key="[" line="201" column="74" />
         <mark key="]" line="201" column="76" />
         <mark key="." line="201" column="76" />
@@ -2532,10 +2532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="49" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchDetail.java" />
-      <jump line="14" column="2" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchDetail.java" />
-      <jump line="31" column="18" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/XNASDetail.java" />
-      <jump line="10" column="28" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureDataInfo.java" />
       <jump line="59" column="2" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureDataInfo.java" />
       <jump line="10" column="9" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/FeedDetailFactory.java" />
       <jump line="11" column="2" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/FeedDetailFactory.java" />
@@ -2632,6 +2628,10 @@
       <jump line="184" column="58" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="62" column="83" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="81" column="67" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
+      <jump line="100" column="30" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
+      <jump line="72" column="89" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
+      <jump line="255" column="84" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
+      <jump line="280" column="78" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2644,7 +2644,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>xnas</text>
+        <text>gettick</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fQo=</text>
@@ -2681,9 +2681,9 @@
       </register>
     </registers>
     <search>
-      <last-search>xnas</last-search>
+      <last-search>gettick</last-search>
       <last-offset />
-      <last-pattern>xnas</last-pattern>
+      <last-pattern>gettick</last-pattern>
       <last-replace>trade</last-replace>
       <last-substitute>modifyOrder</last-substitute>
       <last-dir>1</last-dir>
@@ -2691,7 +2691,6 @@
     </search>
     <history>
       <history-search>
-        <entry>refda</entry>
         <entry>version</entry>
         <entry>bytesfroms3</entry>
         <entry>invalid_l</entry>
@@ -2711,6 +2710,7 @@
         <entry>modify</entry>
         <entry>modifyOrder</entry>
         <entry>xnas</entry>
+        <entry>gettick</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2J6eC9ieXgvZw==</entry>
