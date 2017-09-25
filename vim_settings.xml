@@ -1004,12 +1004,12 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1506349702689">
-        <mark key="'" line="223" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="90" column="3" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1506351122995">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="93" column="3" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3FileOutputStream.java" timestamp="1501078018501">
         <mark key="[" line="65" column="0" />
@@ -2535,7 +2535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/OrderExecutedMsg.java" />
       <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/OrderExecutedWithPriceMsg.java" />
       <jump line="6" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/StockDirectoryMsg.java" />
       <jump line="229" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/StockDirectoryMsg.java" />
@@ -2635,6 +2634,7 @@
       <jump line="117" column="81" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="122" column="67" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="228" column="0" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2647,7 +2647,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>bytesfrom</text>
+        <text>supplier</text>
       </register>
       <register name="0" type="4">
         <text>'1.1.50-release-IJ2017.2-1'</text>
@@ -2684,9 +2684,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bytesfrom</last-search>
+      <last-search>supplier</last-search>
       <last-offset />
-      <last-pattern>bytesfrom</last-pattern>
+      <last-pattern>supplier</last-pattern>
       <last-replace>trade</last-replace>
       <last-substitute>modifyOrder</last-substitute>
       <last-dir>1</last-dir>
@@ -2694,7 +2694,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdHJpcGVNZXNzYWdlV3JpdGVyXD4=</entry>
         <entry>stripefil</entry>
         <entry>createe</entry>
         <entry encoding="base64">XDxjb21wdXRlVmVyc2lvbkZvckRhdGVcPg==</entry>
@@ -2714,6 +2713,7 @@
         <entry encoding="base64">XDwxMlw+</entry>
         <entry>schedule</entry>
         <entry>bytesfrom</entry>
+        <entry>supplier</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2J6eC9ieXgvZw==</entry>
