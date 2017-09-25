@@ -62,11 +62,11 @@
         <mark key="." line="37" column="74" />
         <mark key="^" line="37" column="74" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1504219608309">
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="78" column="3" />
-        <mark key="^" line="76" column="3" />
-        <mark key="." line="76" column="4" />
+      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1506347787266">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="66" />
+        <mark key="^" line="2" column="66" />
+        <mark key="." line="2" column="67" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/WTSItch50SymbolPlayer.java" timestamp="1505154635758">
         <mark key="[" line="62" column="76" />
@@ -182,11 +182,11 @@
         <mark key="^" line="37" column="74" />
         <mark key="." line="37" column="74" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1502374218985">
-        <mark key="[" line="2" column="43" />
-        <mark key="]" line="2" column="43" />
-        <mark key="^" line="2" column="43" />
-        <mark key="." line="2" column="43" />
+      <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1506347814163">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+        <mark key="." line="2" column="45" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/OrderReplaceMsg.java" timestamp="1505344359917">
         <mark key="[" line="35" column="95" />
@@ -2641,16 +2641,16 @@
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>1.1.4-3',</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>1.1.4-3',</text>
       </register>
       <register name="/" type="4">
         <text>bytesfrom</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgYnl0ZVtdIGJ5dGVzID0gbmV3IEJ5dGVzRnJvbVMzKGRhdGUsIGZlZWREZXRhaWwuZ2V0TnVsbFN5bWJvbEtleSgpKS5jYWxsKCk7CiAgICAgIFN0cmlwZUZpbGVEYXRhU291cmNlIGRhdGFTb3VyY2UgPSBuZXcgU3RyaXBlRmlsZURhdGFTb3VyY2UoZGF0ZSwgZmVlZERldGFpbC5jcmVhdGVGZWVkSGFuZGxlcih0aGlzKSwgbmV3IEJ5dGVBcnJheUlucHV0U3RyZWFtKGJ5dGVzKSk7CiAgICAgIHdoaWxlIChkYXRhU291cmNlLmdldE5leHRUaW1lKCkgIT0gSU5WQUxJRF9ORVhUX1RJTUUpIHsKICAgICAgICBkYXRhU291cmNlLnByb2Nlc3NNZXNzYWdlKCk7CiAgICAgIH0K</text>
+        <text>'1.1.50-release-IJ2017.2-1'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2680,7 +2680,7 @@
         <text encoding="base64">ICAgICAgbmV3IFN0cmlwZUZpbGVEYXRhU291cmNlKGRhdGUsIGZlZWREZXRhaWwuY3JlYXRlRmVlZEhhbmRsZXIodGhpcyksIG5ldyBCeXRlQXJyYXlJbnB1dFN0cmVhbShuZXcgQnl0ZXNGcm9tUzNkYSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2734,8 +2734,8 @@
         <entry encoding="base64">JzwsJz5zL21vZGlmeS9leGVjdXRlZC9n</entry>
         <entry encoding="base64">JzwsJz5zL21vZGlmeU9yZGVyL3RyYWRlL2c=</entry>
         <entry>Wa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
