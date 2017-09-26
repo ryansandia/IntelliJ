@@ -182,6 +182,7 @@
         <mark key="^" line="37" column="74" />
         <mark key="." line="37" column="74" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/handlers/PitchHandler.java" timestamp="1506461765334" />
       <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1506347814163">
         <mark key="[" line="2" column="45" />
         <mark key="]" line="2" column="45" />
@@ -1373,14 +1374,6 @@
         <mark key="^" line="61" column="57" />
         <mark key="." line="61" column="57" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/md/XNASDetail.java" timestamp="1506010840265">
-        <mark key="a" line="97" column="40" />
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="116" column="9" />
-        <mark key="]" line="116" column="9" />
-        <mark key="^" line="115" column="10" />
-        <mark key="." line="116" column="9" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/ExecutedOrderMsg.java" timestamp="1503963447441">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="20" column="34" />
@@ -1453,11 +1446,11 @@
         <mark key="." line="27" column="10" />
         <mark key="^" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapFileSource.java" timestamp="1506459017347">
-        <mark key="[" line="89" column="20" />
-        <mark key="]" line="89" column="27" />
-        <mark key="." line="89" column="27" />
-        <mark key="^" line="89" column="27" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapFileSource.java" timestamp="1506462617498">
+        <mark key="[" line="63" column="34" />
+        <mark key="]" line="63" column="42" />
+        <mark key="." line="63" column="42" />
+        <mark key="^" line="63" column="42" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/people/mark/src/main/java/Main.java" timestamp="1504219369220">
         <mark key="[" line="10" column="0" />
@@ -1567,11 +1560,11 @@
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapEnvelope.java" timestamp="1505324880071">
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-        <mark key="^" line="16" column="17" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapEnvelope.java" timestamp="1506462526334">
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="22" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/SequencedUnitHeader.java" timestamp="1505324749443">
         <mark key="[" line="22" column="13" />
@@ -1692,7 +1685,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1506457132471">
+      <file name="/fragment.java" timestamp="1506461242006">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2483,44 +2476,44 @@
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW5wdXRTdHJlYW0gYnVmZmVyZWRJbnB1dFN0cmVhbSA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGhlYWRlci5nZXRIZHJMZW5ndGgoKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>new BufferedInputStream(stream, BUFFER_SIZE);</text>
+        <text encoding="base64">IGhlYWRlci5nZXRIZHJMZW5ndGgoKTs=</text>
       </register>
       <register name="/" type="4">
         <text>println</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IFN0cmlwZVJlc3VsdCByZXN1bHQgPSBuZXcgU3RyaXBlUmVzdWx0KCk7CiAgICB0cnkgewogICAgICB3aGlsZSAoZnMucmVhZE1lc3NhZ2UoKSAhPSBDYXB0dXJlRmlsZVNvdXJjZS5ET05FKSB7CiAgICAgICAgaWYgKCsrcmVzdWx0Lm1lc3NhZ2VDb3VudCAlIDFfMDAwXzAwMCA9PSAwKSB7IGxvZ2dlci5kZWJ1ZygicHJvY2Vzc2VkIHt9IiwgcmVzdWx0Lm1lc3NhZ2VDb3VudCk7IH0KICAgICAgICBldmVudEhhbmRsZXIucHJvY2Vzc0V2ZW50KCk7CiAgICAgIH0KCiAgICAgIHJlc3VsdC51cGxvYWRlZENvdW50ID0gd3JpdGVyLmdldFVwbG9hZGVkRmlsZXMoKTsKICAgICAgcmVzdWx0LmV4cGVjdGVkRmlsZXMgPSB3cml0ZXIuZ2V0RXhwZWN0ZWRGaWxlcygpOwogICAgICByZXN1bHQuZXhjZXB0aW9uID0gbnVsbDsKICAgICAgcmVzdWx0LmRhdGUgPSBkYXRlOwogICAgICByZXN1bHQuc3RhdHVzID0gU3RhdHVzLkNvbXBsZXRlZDsKICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgcmVzdWx0LmRhdGUgPSBkYXRlOwogICAgICByZXN1bHQuZXhjZXB0aW9uID0gZTsKICAgICAgcmVzdWx0LnN0YXR1cyA9IFN0YXR1cy5GYWlsZWQ7CiAgICAgIHJlc3VsdC51cGxvYWRlZENvdW50ID0gMDsKICAgICAgcmVzdWx0LmV4cGVjdGVkRmlsZXMgPSAwOwoKICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KCiAgICByZXR1cm4gcmVzdWx0Ow==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICBiYi5wb3NpdGlvbihib20gKyBtc2dzaXplKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW5wdXRTdHJlYW0gYnVmZmVyZWRJbnB1dFN0cmVhbSA9IAo=</text>
+        <text encoding="base64">ICAgICAgYmIucG9zaXRpb24oYm9tICsgbXNnc2l6ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJiLnBvc2l0aW9uKGJvbSArIG1zZ3NpemUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgR1pJUElucHV0U3RyZWFtKGJ1ZmZlcmVkSW5wdXRTdHJlYW0pOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlcmVkSW5wdXRTdHJlYW0uc2tpcCgpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXR2YWw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJiLgo=</text>
+        <text encoding="base64">ICAgIHJldHZhbC5za2lwKDI0KTsgLy8gVE9ETwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2hhbm5lbC5nZXRFbnZlbG9wZSgpLmdldE1zZ1NpemUoKQo=</text>
+        <text encoding="base64">ICAgIEdaSVBJbnB1dFN0cmVhbSByZXR2YWwgPSBuZXcgR1pJUElucHV0U3RyZWFtKG5ldyBCdWZmZXJlZElucHV0U3RyZWFtKHN0cmVhbSwgQlVGRkVSX1NJWkUpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXJyb3IudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW5wdXRTdHJlYW0gYnVmZmVyZWRJbnB1dFN0cmVhbSA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVU5BQkxFIE9QRU46ICIgKyBrZXkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
