@@ -1446,11 +1446,11 @@
         <mark key="." line="27" column="10" />
         <mark key="^" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapFileSource.java" timestamp="1506464679891">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="64" column="35" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapFileSource.java" timestamp="1506465978769">
+        <mark key="[" line="52" column="43" />
+        <mark key="]" line="52" column="47" />
+        <mark key="." line="52" column="47" />
+        <mark key="^" line="52" column="47" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/people/mark/src/main/java/Main.java" timestamp="1504219369220">
         <mark key="[" line="10" column="0" />
@@ -2477,10 +2477,10 @@
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>allocate(1);</text>
+        <text>20</text>
       </register>
       <register name="-" type="4">
-        <text>allocate(1);</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text>println</text>
@@ -2489,34 +2489,34 @@
         <text encoding="base64">Ly8gICAgICBiYi5wb3NpdGlvbihib20gKyBtc2dzaXplKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWRlci5jb3B5KCgpKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihtc2dzaXplKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgYmIucG9zaXRpb24oKGludCkgb2Zmc2V0KTsK</text>
+        <text encoding="base64">ICAgIGludCBuZXh0QmVnaW4gPSBCaXRVdGlscy5hbGlnbihtc2dzaXplIC0gNDYsIDY0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlYWRlci5jb3B5KCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+        <text encoding="base64">Ly8gICAgYmIucG9zaXRpb24oKGludCkgb2Zmc2V0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgYmIucG9zaXRpb24oMjQpOyAvLyBvZmZzZXQgcGFzdCBoZWFkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcmVhZENodW5rKCk7Cg==</text>
+        <text encoding="base64">Ly8gIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgdGhpcy5jaGFubmVsID0gbmV3IFBjYXBDaGFubmVsKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgYmIucG9zaXRpb24oMjQpOyAvLyBvZmZzZXQgcGFzdCBoZWFkZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Ly8gICAgcmVhZENodW5rKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgdGhpcy5idWZmZXIgPSBuZXcgVW5zYWZlQnVmZmVyKHRoaXMuYmIpOwo=</text>
+        <text encoding="base64">Ly8gICAgdGhpcy5jaGFubmVsID0gbmV3IFBjYXBDaGFubmVsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2570,8 +2570,8 @@
         <entry encoding="base64">JzwsJz5zL21vZGlmeS9leGVjdXRlZC9n</entry>
         <entry encoding="base64">JzwsJz5zL21vZGlmeU9yZGVyL3RyYWRlL2c=</entry>
         <entry>Wa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
