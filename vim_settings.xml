@@ -248,13 +248,6 @@
         <mark key="^" line="65" column="39" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/OrderExecutedWithPriceMsg.java" timestamp="1505343975224">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="34" column="2" />
-        <mark key="]" line="35" column="46" />
-        <mark key="^" line="33" column="1" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/LastTradedNotional.java" timestamp="1505147325280">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -314,13 +307,6 @@
         <mark key="]" line="48" column="75" />
         <mark key="^" line="48" column="75" />
         <mark key="." line="48" column="75" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/AllocatorTest.java" timestamp="1505240444248">
-        <mark key="'" line="20" column="13" />
-        <mark key="[" line="28" column="53" />
-        <mark key="]" line="28" column="58" />
-        <mark key="^" line="28" column="58" />
-        <mark key="." line="28" column="58" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/Feed.java" timestamp="1502740051045">
         <mark key="[" line="10" column="0" />
@@ -411,13 +397,6 @@
         <mark key="]" line="16" column="33" />
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/OrderExecutedMsg.java" timestamp="1505343970610">
-        <mark key="'" line="6" column="17" />
-        <mark key="[" line="23" column="2" />
-        <mark key="]" line="24" column="46" />
-        <mark key="^" line="22" column="1" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/ModifyOrderLong.java" timestamp="1502317231221">
         <mark key="[" line="13" column="14" />
@@ -566,13 +545,6 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="63" column="47" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/sync/FTPSync.java" timestamp="1505863096701">
-        <mark key="'" line="355" column="0" />
-        <mark key="[" line="356" column="2" />
-        <mark key="]" line="356" column="16" />
-        <mark key="^" line="356" column="16" />
-        <mark key="." line="356" column="16" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapProtocol.java" timestamp="1505250606766">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="11" />
@@ -584,13 +556,6 @@
         <mark key="]" line="11" column="63" />
         <mark key="." line="11" column="63" />
         <mark key="^" line="11" column="63" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" timestamp="1505335599816">
-        <mark key="'" line="2" column="38" />
-        <mark key="[" line="462" column="0" />
-        <mark key="]" line="462" column="0" />
-        <mark key="." line="462" column="0" />
-        <mark key="^" line="461" column="36" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/md/ResearchTradeUtils.kt" timestamp="1505152195363">
         <mark key="[" line="62" column="26" />
@@ -628,12 +593,12 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1505936030604">
-        <mark key="'" line="164" column="18" />
-        <mark key="[" line="200" column="79" />
-        <mark key="]" line="200" column="100" />
-        <mark key="^" line="200" column="100" />
-        <mark key="." line="200" column="100" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1506436890376">
+        <mark key="'" line="167" column="18" />
+        <mark key="[" line="268" column="13" />
+        <mark key="]" line="268" column="22" />
+        <mark key="^" line="268" column="22" />
+        <mark key="." line="268" column="22" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch41FileStream.java" timestamp="1498747848967">
         <mark key="[" line="14" column="0" />
@@ -695,13 +660,6 @@
         <mark key="." line="42" column="1" />
         <mark key="^" line="42" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/TradeShortMsg.java" timestamp="1505345202128">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="40" column="39" />
-        <mark key="]" line="40" column="49" />
-        <mark key="^" line="40" column="49" />
-        <mark key="." line="40" column="49" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/Venue.java" timestamp="1502910435946">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="6" />
@@ -732,13 +690,6 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchDetail.java" timestamp="1505341490637">
-        <mark key="'" line="14" column="2" />
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="67" />
-        <mark key="." line="11" column="67" />
-        <mark key="^" line="11" column="67" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventListener.java" timestamp="1499696531292">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -756,13 +707,6 @@
         <mark key="]" line="18" column="13" />
         <mark key="^" line="17" column="1" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/HistoricalSources.java" timestamp="1505400274160">
-        <mark key="'" line="50" column="36" />
-        <mark key="[" line="172" column="39" />
-        <mark key="]" line="172" column="39" />
-        <mark key="." line="172" column="39" />
-        <mark key="^" line="172" column="39" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/refdata/EquityInstrument.java" timestamp="1503438974960">
         <mark key="[" line="36" column="40" />
@@ -821,13 +765,6 @@
         <mark key="]" line="5" column="58" />
         <mark key="^" line="5" column="58" />
         <mark key="." line="5" column="58" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/se/layout/GraphLayout.java" timestamp="1505248386357">
-        <mark key="'" line="454" column="9" />
-        <mark key="[" line="462" column="62" />
-        <mark key="]" line="462" column="75" />
-        <mark key="." line="462" column="75" />
-        <mark key="^" line="462" column="75" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/ModifyShort.java" timestamp="1500305474952">
         <mark key="[" line="2" column="29" />
@@ -973,13 +910,6 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/SymbolAndFeed.java" timestamp="1505399910110">
-        <mark key="'" line="74" column="2" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="94" column="37" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch40/SystemEventMsg.java" timestamp="1505344807873">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="29" column="1" />
@@ -1004,11 +934,12 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1506370456727">
-        <mark key="'" line="152" column="51" />
-        <mark key="[" line="104" column="41" />
-        <mark key="]" line="104" column="42" />
-        <mark key="." line="104" column="42" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1506436289088">
+        <mark key="'" line="119" column="35" />
+        <mark key="[" line="175" column="54" />
+        <mark key="]" line="176" column="12" />
+        <mark key="." line="176" column="12" />
+        <mark key="^" line="176" column="12" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3FileOutputStream.java" timestamp="1501078018501">
         <mark key="[" line="65" column="0" />
@@ -1045,13 +976,6 @@
         <mark key="]" line="14" column="8" />
         <mark key="." line="14" column="8" />
         <mark key="^" line="14" column="8" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/OrderAddShortMsg.java" timestamp="1505396944137">
-        <mark key="'" line="38" column="2" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="56" column="3" />
-        <mark key="." line="44" column="49" />
-        <mark key="^" line="44" column="49" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/TotalVolume.java" timestamp="1505145135240">
         <mark key="[" line="25" column="13" />
@@ -1148,13 +1072,6 @@
         <mark key="]" line="10" column="13" />
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/StockDirectoryMsg.java" timestamp="1505344032572">
-        <mark key="'" line="234" column="0" />
-        <mark key="[" line="14" column="98" />
-        <mark key="]" line="14" column="99" />
-        <mark key="^" line="14" column="99" />
-        <mark key="." line="14" column="99" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/Bid.java" timestamp="1505147579288">
         <mark key="[" line="5" column="0" />
@@ -1391,11 +1308,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/md/StripeFileDataSource.java" timestamp="1505863697088">
-        <mark key="[" line="51" column="5" />
-        <mark key="]" line="52" column="3" />
-        <mark key="^" line="52" column="3" />
-        <mark key="." line="52" column="3" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/md/StripeFileDataSource.java" timestamp="1506436177065">
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="17" />
+        <mark key="." line="45" column="17" />
+        <mark key="^" line="45" column="17" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/NOII.java" timestamp="1501530417969">
         <mark key="[" line="64" column="18" />
@@ -1537,12 +1454,11 @@
         <mark key="." line="27" column="10" />
         <mark key="^" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapFileSource.java" timestamp="1505325559346">
-        <mark key="'" line="25" column="39" />
-        <mark key="[" line="54" column="61" />
-        <mark key="]" line="54" column="62" />
-        <mark key="^" line="54" column="10" />
-        <mark key="." line="54" column="62" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapFileSource.java" timestamp="1506437624709">
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+        <mark key="^" line="66" column="25" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/people/mark/src/main/java/Main.java" timestamp="1504219369220">
         <mark key="[" line="10" column="0" />
@@ -1622,16 +1538,6 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" timestamp="1505943928904">
-        <mark key="'" line="295" column="14" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/XNASDetail.java" timestamp="1505341524743">
-        <mark key="'" line="31" column="18" />
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="66" />
-        <mark key="." line="12" column="66" />
-        <mark key="^" line="12" column="66" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/offheap_classes/MyOffHeapAbstractClass.java" timestamp="1499804959278">
         <mark key="[" line="22" column="15" />
         <mark key="]" line="22" column="17" />
@@ -1650,18 +1556,17 @@
         <mark key="^" line="45" column="27" />
         <mark key="." line="45" column="27" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/md/ChannelMessageSource.java" timestamp="1506435989473">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="5" column="54" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/ds/ToCsv.java" timestamp="1505342224076">
         <mark key="[" line="38" column="20" />
         <mark key="]" line="38" column="20" />
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/md/ItchSymbolPlayer.java" timestamp="1505943130688">
-        <mark key="'" line="56" column="4" />
-        <mark key="[" line="69" column="11" />
-        <mark key="]" line="69" column="5" />
-        <mark key="." line="69" column="5" />
-        <mark key="^" line="69" column="5" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapEnvelope.java" timestamp="1505324880071">
         <mark key="[" line="16" column="11" />
@@ -1788,7 +1693,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1506021817694">
+      <file name="/fragment.java" timestamp="1506437399649">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="48" />
@@ -1836,25 +1741,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/NOIIMsg.java" timestamp="1505343947730">
-        <mark key="'" line="15" column="17" />
-        <mark key="[" line="87" column="2" />
-        <mark key="]" line="88" column="46" />
-        <mark key="^" line="86" column="1" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/g2/dependencies.gradle" timestamp="1501614046865">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/dedge/AddOrderLongMsg.java" timestamp="1505332024609">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="20" column="76" />
-        <mark key="]" line="21" column="1" />
-        <mark key="^" line="21" column="1" />
-        <mark key="." line="21" column="1" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/se/BigStrategy.java" timestamp="1505145902690">
         <mark key="[" line="539" column="6" />
@@ -2138,13 +2029,6 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40EventHandler.java" timestamp="1505846671508">
-        <mark key="'" line="113" column="23" />
-        <mark key="[" line="199" column="70" />
-        <mark key="]" line="199" column="70" />
-        <mark key="." line="199" column="70" />
-        <mark key="^" line="199" column="70" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/md/FeedDetail.java" timestamp="1506021853095">
         <mark key="[" line="80" column="52" />
         <mark key="]" line="80" column="52" />
@@ -2295,20 +2179,6 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/OrderAddLongMsg.java" timestamp="1505345159636">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="44" column="39" />
-        <mark key="]" line="44" column="49" />
-        <mark key="." line="44" column="49" />
-        <mark key="^" line="44" column="49" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/bats/pitch/TradeLongMsg.java" timestamp="1505345220242">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="34" column="49" />
-        <mark key="^" line="34" column="49" />
-        <mark key="." line="34" column="49" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch50/EventHandler.java" timestamp="1498486403395">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="15" />
@@ -2321,25 +2191,11 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/StockDirectoryMsg.java" timestamp="1505344431917">
-        <mark key="'" line="9" column="17" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="60" column="46" />
-        <mark key="." line="40" column="37" />
-        <mark key="^" line="40" column="37" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/containers/LongComparator.java" timestamp="1504128726223">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch40/OrderAddMsg.java" timestamp="1505397437354">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="50" column="53" />
-        <mark key="^" line="50" column="50" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/OrderReplaceMsg.java" timestamp="1503693894471">
         <mark key="[" line="20" column="32" />
@@ -2358,11 +2214,6 @@
         <mark key="]" line="7" column="31" />
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1505942983183">
-        <mark key="'" line="322" column="12" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="91" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/VenueSpecific.java" timestamp="1504795022371">
         <mark key="[" line="6" column="20" />
@@ -2514,13 +2365,6 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/SystemEventMsg.java" timestamp="1505344456607">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="28" column="30" />
-        <mark key="]" line="29" column="1" />
-        <mark key="^" line="29" column="1" />
-        <mark key="." line="29" column="1" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/PitchMessage.java" timestamp="1502313261876">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="55" column="22" />
@@ -2603,7 +2447,6 @@
       <jump line="300" column="0" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="30" column="42" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="31" column="39" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
-      <jump line="119" column="59" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="176" column="77" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="178" column="49" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="183" column="77" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
@@ -2635,58 +2478,59 @@
       <jump line="150" column="66" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="153" column="18" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="154" column="51" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
+      <jump line="119" column="35" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc291dAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZWVkXD4=</text>
+        <text>datasour</text>
       </register>
       <register name="0" type="4">
-        <text>'1.1.50-release-IJ2017.2-1'</text>
+        <text encoding="base64">IFN0cmlwZVJlc3VsdCByZXN1bHQgPSBuZXcgU3RyaXBlUmVzdWx0KCk7CiAgICB0cnkgewogICAgICB3aGlsZSAoZnMucmVhZE1lc3NhZ2UoKSAhPSBDYXB0dXJlRmlsZVNvdXJjZS5ET05FKSB7CiAgICAgICAgaWYgKCsrcmVzdWx0Lm1lc3NhZ2VDb3VudCAlIDFfMDAwXzAwMCA9PSAwKSB7IGxvZ2dlci5kZWJ1ZygicHJvY2Vzc2VkIHt9IiwgcmVzdWx0Lm1lc3NhZ2VDb3VudCk7IH0KICAgICAgICBldmVudEhhbmRsZXIucHJvY2Vzc0V2ZW50KCk7CiAgICAgIH0KCiAgICAgIHJlc3VsdC51cGxvYWRlZENvdW50ID0gd3JpdGVyLmdldFVwbG9hZGVkRmlsZXMoKTsKICAgICAgcmVzdWx0LmV4cGVjdGVkRmlsZXMgPSB3cml0ZXIuZ2V0RXhwZWN0ZWRGaWxlcygpOwogICAgICByZXN1bHQuZXhjZXB0aW9uID0gbnVsbDsKICAgICAgcmVzdWx0LmRhdGUgPSBkYXRlOwogICAgICByZXN1bHQuc3RhdHVzID0gU3RhdHVzLkNvbXBsZXRlZDsKICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgcmVzdWx0LmRhdGUgPSBkYXRlOwogICAgICByZXN1bHQuZXhjZXB0aW9uID0gZTsKICAgICAgcmVzdWx0LnN0YXR1cyA9IFN0YXR1cy5GYWlsZWQ7CiAgICAgIHJlc3VsdC51cGxvYWRlZENvdW50ID0gMDsKICAgICAgcmVzdWx0LmV4cGVjdGVkRmlsZXMgPSAwOwoKICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KCiAgICByZXR1cm4gcmVzdWx0Ow==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc291dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gICAgICBTdXBwbGllcjxTdHJpcGVEYXRhU291cmNlPiBkcyA9IFN1cHBsaWVycy5tZW1vaXplKCgpIC0+IHsKLy8gICAgICAgIFJlc3VsdDxieXRlW10+IHNjaGVkdWxlID0gbmV3IEJ5dGVzRnJvbVMzKGRhdGUsIGZlZWREZXRhaWwuZ2V0U3RyaXBlS2V5KGtleSkpLnNjaGVkdWxlKCk7Ci8vICAgICAgICByZXR1cm4gRXhjZXB0aW9uVXRpbHMKLy8gICAgICAgICAgICAuY2FsbCgoKSAtPiAoU3RyaXBlRGF0YVNvdXJjZSkgbmV3IFN0cmlwZUZpbGVEYXRhU291cmNlKGRhdGUsIGZlZWREZXRhaWwuY3JlYXRlRmVlZEhhbmRsZXIodGhpcyksIG5ldyBCeXRlQXJyYXlJbnB1dFN0cmVhbShzY2hlZHVsZS5nZXQoKSkpKTsKLy8gICAgICB9KTsKLy8gICAgICBTdHJpcGVEYXRhU291cmNlIGRhdGFTb3VyY2UgPSBkcy5nZXQoKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBldmVudEhhbmRsZXIucHJvY2Vzc0V2ZW50KCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mZWVkID0gZmVlZDsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHRoaXMuaXMgPSB3cmFwKG5ldyBGaWxlSW5wdXRTdHJlYW0oZmlsZW5hbWUpKTsKICAgIHRoaXMuYmIgPSBCeXRlQnVmZmVyLndyYXAobmV3IGJ5dGVbQlVGRkVSX1NJWkVdKTsKICAgIHRoaXMuYnVmZmVyID0gbmV3IFVuc2FmZUJ1ZmZlcih0aGlzLmJiKTsKCiAgICB0aGlzLmNoYW5uZWwgPSBuZXcgUGNhcENoYW5uZWwoKTsKICAgIHJlYWRDaHVuaygpOwogICAgYmIucG9zaXRpb24oMjQpOyAvLyBvZmZzZXQgcGFzdCBoZWFkZXI=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIEZlZWQgZmVlZDsK</text>
+        <text encoding="base64">ICAgIHRoaXMudGltZU9mZnNldCA9IFpvbmVkTG9jYWxUaW1lLmdldE5hbm9zQXRNaWRuaWdodE5ld1lvcmsoZGF0ZSk7CiAgICB0aGlzLmhhbmRsZXIgPSBoYW5kbGVyOwogICAgdGhpcy5mcyA9IG5ldyBTdHJpcGVkRmlsZShpcyk7CiAgICB0aGlzLm5leHRNZXNzYWdlID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxSZXN1bHQ8TGlzdDxTdHJpcGVFcnJvcj4+PiBqb2JzID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHRpbWUuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxSZXN1bHQ8TGlzdDxTdHJpcGVFcnJvcj4+PiBqb2JzID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KCIlLThzIiwgdGlja2VyLnRvVXBwZXJDYXNlKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aWNrZXI7Cg==</text>
+        <text encoding="base64">ICBDaGFubmVsTWVzc2FnZVNvdXJjZShmaW5hbCBJbnB1dFN0cmVhbSBpcyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZWVkXD4=</last-search>
+      <last-search>datasour</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZWVkXD4=</last-pattern>
+      <last-pattern>datasour</last-pattern>
       <last-replace>trade</last-replace>
       <last-substitute>modifyOrder</last-substitute>
       <last-dir>1</last-dir>
@@ -2694,7 +2538,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wdXRlVmVyc2lvbkZvckRhdGVcPg==</entry>
         <entry>venuecon</entry>
         <entry>symbol</entry>
         <entry>list</entry>
@@ -2714,6 +2557,7 @@
         <entry>toupp</entry>
         <entry encoding="base64">XDxGZWVkXD4=</entry>
         <entry encoding="base64">XDxmZWVkXD4=</entry>
+        <entry>datasour</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2J6eC9ieXgvZw==</entry>
@@ -2734,8 +2578,8 @@
         <entry encoding="base64">JzwsJz5zL21vZGlmeS9leGVjdXRlZC9n</entry>
         <entry encoding="base64">JzwsJz5zL21vZGlmeU9yZGVyL3RyYWRlL2c=</entry>
         <entry>Wa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
