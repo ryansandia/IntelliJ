@@ -411,12 +411,12 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/OffHeapMethod.java" timestamp="1506552496140">
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/OffHeapMethod.java" timestamp="1506553205401">
         <mark key="'" line="5" column="21" />
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="40" column="21" />
-        <mark key="^" line="40" column="21" />
-        <mark key="." line="40" column="21" />
+        <mark key="[" line="49" column="3" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="52" column="31" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/time/TimeRange.java" timestamp="1505139687337">
         <mark key="[" line="8" column="42" />
@@ -1971,13 +1971,13 @@
         <mark key="." line="54" column="62" />
         <mark key="^" line="54" column="62" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" timestamp="1506552114160">
-        <mark key="a" line="108" column="21" />
-        <mark key="'" line="108" column="15" />
-        <mark key="[" line="109" column="5" />
-        <mark key="]" line="109" column="12" />
-        <mark key="." line="109" column="12" />
-        <mark key="^" line="109" column="12" />
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" timestamp="1506553213996">
+        <mark key="a" line="243" column="90" />
+        <mark key="'" line="248" column="6" />
+        <mark key="[" line="274" column="17" />
+        <mark key="]" line="274" column="45" />
+        <mark key="^" line="274" column="45" />
+        <mark key="." line="274" column="45" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/io/UnsafeBufferNoChecks.java" timestamp="1505170849297">
         <mark key="[" line="6" column="35" />
@@ -2401,12 +2401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="40" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
-      <jump line="194" column="6" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
-      <jump line="163" column="4" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
-      <jump line="159" column="0" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
-      <jump line="198" column="84" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
-      <jump line="142" column="103" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="300" column="0" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="30" column="42" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
@@ -2500,59 +2494,65 @@
       <jump line="94" column="56" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
       <jump line="260" column="24" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
       <jump line="124" column="18" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
+      <jump line="239" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
+      <jump line="240" column="14" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="108" column="15" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
+      <jump line="258" column="66" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
+      <jump line="242" column="20" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
+      <jump line="245" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
+      <jump line="248" column="6" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>apiType</text>
+        <text>ge.returnOpcode);</text>
       </register>
       <register name="-" type="4">
-        <text>apiType</text>
+        <text>ge.returnOpcode);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWNsYXJlRmllbGRcPg==</text>
+        <text encoding="base64">XDxkZWNsYXJlU2V0dGVyQm9keVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBhdGggcGF0aCA9IFBhdGhzLmdldChTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIuaG9tZSIpLCAic3RyaXBlX3ZlcmlmaWVyIiwgInByaWNlX3Jlc3VsdHMudHh0Iik7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB3cml0ZXIudmlzaXRNZXRob2QoT3Bjb2Rlcy5BQ0NfUFVCTElDLCBuYW1lLCBkZXNjcmlwdG9yLCBudWxsLCBudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFByaW1pdGl2ZU1hcHBlciBtYXBwZWRUeXBlID0gUHJpbWl0aXZlTWFwcGVyLm9mKGdldHRlci5nZXRSZXR1cm5UeXBlKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vZmZoZWFwVHlwZSA9IGFwaVR5cGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIC8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vZmZoZWFwVHlwZSA9IChhbm5vdGF0aW9uLnVwY2FzdCgpKSA/IGFwaVR5cGUuZG93bmNhc3QoKSA6IGFwaVR5cGU7Cg==</text>
+        <text encoding="base64">ICAgIFByaW1pdGl2ZU1hcHBlciBtYXBwZWRUeXBlID0gUHJpbWl0aXZlTWFwcGVyLm9mKGdldHRlci5nZXRSZXR1cm5UeXBlKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChhbm5vdGF0aW9uICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB3cml0ZXIudmlzaXRNZXRob2QoT3Bjb2Rlcy5BQ0NfUFVCTElDLCBuYW1lLCBkZXNjcmlwdG9yLCBudWxsLCBudWxsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZpZWxkT3JkZXIgYW5ub3RhdGlvbiA9IG1ldGhvZC5nZXRBbm5vdGF0aW9uKEZpZWxkT3JkZXIuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBkZXNjcmlwdG9yID0gVHlwZS5nZXRNZXRob2REZXNjcmlwdG9yKG1ldGhvZC5nZXRNZXRob2QoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yYW5rID0gMDsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBuYW1lID0gbWV0aG9kLmdldE5hbWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yYW5rID0gYW5ub3RhdGlvbi52YWx1ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWNsYXJlRmllbGRcPg==</last-search>
+      <last-search encoding="base64">XDxkZWNsYXJlU2V0dGVyQm9keVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWNsYXJlRmllbGRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWNsYXJlU2V0dGVyQm9keVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -2560,13 +2560,10 @@
     </search>
     <history>
       <history-search>
-        <entry>getlong</entry>
-        <entry>getsho</entry>
         <entry encoding="base64">XDxvZmZoZWFwR2V0dGVyc1w+</entry>
         <entry>getreturnty</entry>
         <entry>matching</entry>
         <entry encoding="base64">XDx2YWxpZFNldHRlck1ldGhvZFw+</entry>
-        <entry encoding="base64">XDxkZWNsYXJlU2V0dGVyQm9keVw+</entry>
         <entry>primitivemapper</entry>
         <entry encoding="base64">XDxmaW5kU2V0dGVyc1w+</entry>
         <entry encoding="base64">XDxoYXNNYXRjaGluZ0dldHRlclw+</entry>
@@ -2580,6 +2577,9 @@
         <entry>getreturntype</entry>
         <entry>todo</entry>
         <entry encoding="base64">XDxkZWNsYXJlRmllbGRcPg==</entry>
+        <entry encoding="base64">XDxtYXBwZWRUeXBlXD4=</entry>
+        <entry encoding="base64">XDxkZWNsYXJlR2V0dGVyQm9keVw+</entry>
+        <entry encoding="base64">XDxkZWNsYXJlU2V0dGVyQm9keVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Nob3J0L2ludC9n</entry>
@@ -2598,10 +2598,10 @@
         <entry>vps</entry>
         <entry>q</entry>
         <entry>vsp</entry>
-        <entry>Wa</entry>
         <entry>%s/public //g</entry>
-        <entry>w</entry>
+        <entry>Wa</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
