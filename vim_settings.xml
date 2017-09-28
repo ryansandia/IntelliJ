@@ -632,11 +632,11 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1506436890376">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="22" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1506640374437">
+        <mark key="[" line="8" column="100" />
+        <mark key="]" line="8" column="117" />
+        <mark key="." line="8" column="117" />
+        <mark key="^" line="8" column="117" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch41FileStream.java" timestamp="1498747848967">
         <mark key="[" line="14" column="0" />
@@ -988,7 +988,6 @@
         <mark key="." line="83" column="101" />
         <mark key="^" line="83" column="101" />
       </file>
-      <file name="$USER_HOME$/DirectMemoryOrderAddShortMsg.class" timestamp="1506621736578" />
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3FileOutputStream.java" timestamp="1501078018501">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -2563,11 +2562,11 @@
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>stock</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>stock</text>
+        <text>All</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</text>
@@ -2576,34 +2575,34 @@
         <text encoding="base64">ICAgIFByaW1pdGl2ZU1hcHBlci5vZihkb3VibGUuY2xhc3MpLmRvd25jYXN0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGFkZE9yZGVyLmdldFRpY2tlcigpLmVxdWFscyhUaWNrZXIuZnJvbSgiVFNMQSIpKSkK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2b2lkIHNldFF0eShzaG9ydCB2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGFkZE9yZGVyLmdldFRpY2tlcigpLmVxdWFscyhUaWNrZXIuZnJvbSgiVFNMQSIpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2b2lkIHNldFF0eShzaG9ydCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgUHJpbWl0aXZlTWFwcGVyIG1hcHBlZFR5cGUgPSBQcmltaXRpdmVNYXBwZXIub2YobWV0aG9kLmdldFJldHVyblR5cGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgUHJpbWl0aXZlTWFwcGVyIG1hcHBlZFR5cGUgPSBQcmltaXRpdmVNYXBwZXIub2YobWV0aG9kLmdldFJldHVyblR5cGUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIGlmIChtYXBwZWRUeXBlID09IFByaW1pdGl2ZU1hcHBlci5CT09MRUFOKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2657,8 +2656,8 @@
         <entry>Wa</entry>
         <entry>%s/CheckClassAdapter/ClassWriter/g</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
