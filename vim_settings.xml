@@ -183,11 +183,11 @@
         <mark key="]" line="34" column="83" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1506606886373">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1506607069612">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="43" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/OrderReplaceMsg.java" timestamp="1505344359917">
         <mark key="[" line="35" column="95" />
@@ -2600,8 +2600,8 @@
         <entry>vsp</entry>
         <entry>%s/public //g</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>Wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
