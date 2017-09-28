@@ -387,6 +387,11 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="63" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1506608211830">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/Trade.java" timestamp="1502381884593">
         <mark key="[" line="17" column="57" />
         <mark key="]" line="18" column="39" />
@@ -519,9 +524,6 @@
         <mark key="]" line="26" column="1" />
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1506454731447">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/AddOrderWithMPID.java" timestamp="1501191902837">
         <mark key="[" line="10" column="98" />
@@ -1697,6 +1699,11 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/build.gradle" timestamp="1506608164644">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/event/Publisher.java" timestamp="1498511689346">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -1913,9 +1920,6 @@
         <mark key="]" line="27" column="15" />
         <mark key="." line="27" column="15" />
         <mark key="^" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/channel/ChannelMessage.java" timestamp="1506522911162">
-        <mark key="[" line="60" column="3" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/PriceForLevel.java" timestamp="1505143186347">
         <mark key="[" line="38" column="0" />
@@ -2507,7 +2511,7 @@
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICBrb3RsaW4gICAgOiAnMS4xLjQtMycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.1.1.4-3'</text>
@@ -2519,31 +2523,31 @@
         <text encoding="base64">ICAgIHJldHVybiB3cml0ZXIudmlzaXRNZXRob2QoT3Bjb2Rlcy5BQ0NfUFVCTElDLCBuYW1lLCBkZXNjcmlwdG9yLCBudWxsLCBudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBrb3RsaW4gICAgOiAnMS4xLjQtMycsCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFByaW1pdGl2ZU1hcHBlciBtYXBwZWRUeXBlID0gUHJpbWl0aXZlTWFwcGVyLm9mKGdldHRlci5nZXRSZXR1cm5UeXBlKCkpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIC8vCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluJwpyZXBvc2l0b3JpZXMgewogIG1hdmVuQ2VudHJhbCgpCn0KY29tcGlsZUtvdGxpbiB7CiAga290bGluT3B0aW9ucyB7CiAgICBqdm1UYXJnZXQgPSAiMS44IgogIH0KfQpjb21waWxlVGVzdEtvdGxpbiB7CiAga290bGluT3B0aW9ucyB7CiAgICBqdm1UYXJnZXQgPSAiMS44IgogIH0KfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICBrb3RsaW4gICAgOiAnMS4xLjQtMycsCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIFByaW1pdGl2ZU1hcHBlciBtYXBwZWRUeXBlID0gUHJpbWl0aXZlTWFwcGVyLm9mKGdldHRlci5nZXRSZXR1cm5UeXBlKCkpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3cml0ZXIudmlzaXRNZXRob2QoT3Bjb2Rlcy5BQ0NfUFVCTElDLCBuYW1lLCBkZXNjcmlwdG9yLCBudWxsLCBudWxsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBkZXNjcmlwdG9yID0gVHlwZS5nZXRNZXRob2REZXNjcmlwdG9yKG1ldGhvZC5nZXRNZXRob2QoKSk7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuYW1lID0gbWV0aG9kLmdldE5hbWUoKTsK</text>
+        <text encoding="base64">ICAgIFByaW1pdGl2ZU1hcHBlciBtYXBwZWRUeXBlID0gUHJpbWl0aXZlTWFwcGVyLm9mKGdldHRlci5nZXRSZXR1cm5UeXBlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
