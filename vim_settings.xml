@@ -632,11 +632,12 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1506640374437">
-        <mark key="[" line="8" column="100" />
-        <mark key="]" line="8" column="117" />
-        <mark key="." line="8" column="117" />
-        <mark key="^" line="8" column="117" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1506642319468">
+        <mark key="a" line="124" column="78" />
+        <mark key="[" line="124" column="77" />
+        <mark key="]" line="124" column="76" />
+        <mark key="." line="124" column="76" />
+        <mark key="^" line="124" column="76" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch41FileStream.java" timestamp="1498747848967">
         <mark key="[" line="14" column="0" />
@@ -824,6 +825,9 @@
         <mark key="]" line="18" column="88" />
         <mark key="." line="18" column="88" />
         <mark key="^" line="18" column="88" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-all/5.2/ed60d4287d18996bc940f26656c570532b20d863/asm-all-5.2-sources.jar!/org/objectweb/asm/MethodVisitor.java" timestamp="1506621707192">
+        <mark key="'" line="592" column="16" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/MarketParticipantPositionMsg.java" timestamp="1505344222089">
         <mark key="[" line="55" column="0" />
@@ -1158,6 +1162,7 @@
         <mark key="." line="13" column="60" />
         <mark key="^" line="13" column="64" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/aws/MachineConfigurer.java" timestamp="1506642591007" />
       <file name="$USER_HOME$/Source/cbceval/other/src/main/resources/log4j.properties" timestamp="1504713172923">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="30" />
@@ -1415,6 +1420,9 @@
         <mark key="]" line="51" column="18" />
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/aws/MachineCreator.java" timestamp="1506642552418">
+        <mark key="'" line="225" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/Trigger.kt" timestamp="1500906545619">
         <mark key="[" line="5" column="31" />
@@ -2269,11 +2277,7 @@
         <mark key="." line="7" column="31" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" timestamp="1506636764529">
-        <mark key="'" line="306" column="0" />
-        <mark key="[" line="243" column="150" />
-        <mark key="]" line="243" column="175" />
-        <mark key="." line="243" column="175" />
-        <mark key="^" line="243" column="175" />
+        <mark key="'" line="295" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/VenueSpecific.java" timestamp="1504795022371">
         <mark key="[" line="6" column="20" />
@@ -2457,8 +2461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="15" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
-      <jump line="150" column="66" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="153" column="18" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="154" column="51" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="119" column="35" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
@@ -2557,16 +2559,18 @@
       <jump line="172" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="101" column="66" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="305" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="56" column="61" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/aws/MachineCreator.java" />
+      <jump line="225" column="0" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/aws/MachineCreator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLgo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>All</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</text>
