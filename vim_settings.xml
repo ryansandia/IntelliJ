@@ -238,9 +238,6 @@
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureFileSource.java" timestamp="1506698778731">
         <mark key="[" line="31" column="24" />
-        <mark key="]" line="34" column="23" />
-        <mark key="^" line="34" column="23" />
-        <mark key="." line="34" column="23" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/OrderExecutedWithPriceMsg.java" timestamp="1506628117030">
         <mark key="'" line="0" column="0" />
@@ -2271,13 +2268,13 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" timestamp="1506702248689">
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" timestamp="1506715277248">
         <mark key="a" line="270" column="94" />
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="273" column="97" />
-        <mark key="]" line="273" column="142" />
+        <mark key="'" line="270" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
         <mark key="^" line="273" column="142" />
-        <mark key="." line="273" column="142" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/VenueSpecific.java" timestamp="1504795022371">
         <mark key="[" line="6" column="20" />
@@ -2555,19 +2552,19 @@
       <jump line="74" column="21" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
       <jump line="232" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.172/6f816f54af6cff4c0c453a49366e3e4888fa3c69/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/ClientConfiguration.java" />
       <jump line="85" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.172/6f816f54af6cff4c0c453a49366e3e4888fa3c69/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/ClientConfiguration.java" />
-      <jump line="270" column="94" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="292" column="2" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="289" column="135" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="35" column="13" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" />
+      <jump line="270" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">OiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5hZGQoImZpbGUiLCBmaWxlKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">OiA=</text>
@@ -2579,31 +2576,31 @@
         <text encoding="base64">ICAgIFByaW1pdGl2ZU1hcHBlci5vZihkb3VibGUuY2xhc3MpLmRvd25jYXN0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoInNpZGUiLCBzaWRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5hZGQoImZpbGUiLCBmaWxlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zaWRlID0gc2lkZTsK</text>
+        <text encoding="base64">ICAgIGZpbmFsIFN0cmluZyBmaWxlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGNoYXIgc2lkZTsK</text>
+        <text encoding="base64">ICAgICAgZmlsZSA9IGZzLmdldEZpbGVuYW1lKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgcmV0dXJuIE1vcmVPYmplY3RzLnRvU3RyaW5nSGVscGVyKHRoaXMpCiAgICAgICAgICAuYWRkKCJleGVjSWQiLCBleGVjSWQpCiAgICAgICAgICAuYWRkKCJvcmRlcklkIiwgb3JkZXJJZCkKICAgICAgICAgIC5hZGQoInN0b2NrIiwgc3RvY2spCiAgICAgICAgICAuYWRkKCJ0aW1lc3RhbXAiLCB0aW1lc3RhbXApCiAgICAgICAgICAuYWRkKCJzZXFudW0iLCBzZXFudW0pCiAgICAgICAgICAuYWRkKCJ1bml0IiwgdW5pdCkKICAgICAgICAgIC5hZGQoImZpbGUiLCBmaWxlKQogICAgICAgICAgLnRvU3RyaW5nKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5hZGQoInNpZGUiLCBzaWRlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zaWRlID0gc2lkZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGkgZihldmUpCg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIGNoYXIgc2lkZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQ2xpZW50Q29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgcmV0dXJuIE1vcmVPYmplY3RzLnRvU3RyaW5nSGVscGVyKHRoaXMpCiAgICAgICAgICAuYWRkKCJleGVjSWQiLCBleGVjSWQpCiAgICAgICAgICAuYWRkKCJvcmRlcklkIiwgb3JkZXJJZCkKICAgICAgICAgIC5hZGQoInN0b2NrIiwgc3RvY2spCiAgICAgICAgICAuYWRkKCJ0aW1lc3RhbXAiLCB0aW1lc3RhbXApCiAgICAgICAgICAuYWRkKCJzZXFudW0iLCBzZXFudW0pCiAgICAgICAgICAuYWRkKCJ1bml0IiwgdW5pdCkKICAgICAgICAgIC5hZGQoImZpbGUiLCBmaWxlKQogICAgICAgICAgLnRvU3RyaW5nKCk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oImR1cGxpY2F0ZSBleGVjdXRpb25JZCAiICsgZXhlY0lkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgIGkgZihldmUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
