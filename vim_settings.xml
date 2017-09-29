@@ -1589,6 +1589,9 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" timestamp="1506708595375">
+        <mark key="'" line="35" column="13" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/offheap_classes/MyOffHeapAbstractClass.java" timestamp="1499804959278">
         <mark key="[" line="22" column="15" />
         <mark key="]" line="22" column="17" />
@@ -2458,7 +2461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="148" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="49" column="29" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
       <jump line="268" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
@@ -2558,6 +2560,7 @@
       <jump line="292" column="2" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="289" column="135" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="35" column="13" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2570,7 +2573,7 @@
         <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxERUZBVUxUX1VTRV9HWklQXD4=</text>
+        <text>s3util</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFByaW1pdGl2ZU1hcHBlci5vZihkb3VibGUuY2xhc3MpLmRvd25jYXN0KCk7Cg==</text>
@@ -2607,9 +2610,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxERUZBVUxUX1VTRV9HWklQXD4=</last-search>
+      <last-search>s3util</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxERUZBVUxUX1VTRV9HWklQXD4=</last-pattern>
+      <last-pattern>s3util</last-pattern>
       <last-replace>ClassWriter</last-replace>
       <last-substitute>CheckClassAdapter</last-substitute>
       <last-dir>1</last-dir>
@@ -2617,7 +2620,6 @@
     </search>
     <history>
       <history-search>
-        <entry>todo</entry>
         <entry encoding="base64">XDxkZWNsYXJlRmllbGRcPg==</entry>
         <entry encoding="base64">XDxtYXBwZWRUeXBlXD4=</entry>
         <entry encoding="base64">XDxkZWNsYXJlR2V0dGVyQm9keVw+</entry>
@@ -2637,6 +2639,7 @@
         <entry encoding="base64">XDxERUZBVUxUX1JFUVVFU1RfVElNRU9VVFw+</entry>
         <entry>retries</entry>
         <entry encoding="base64">XDxERUZBVUxUX1VTRV9HWklQXD4=</entry>
+        <entry>s3util</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ludC9zaG9ydC9n</entry>
