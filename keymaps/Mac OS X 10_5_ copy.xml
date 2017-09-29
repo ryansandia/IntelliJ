@@ -1,4 +1,5 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ChooseRunConfiguration" />
   <action id="Debug" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -8,12 +9,14 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
+  <action id="Run" />
   <action id="RunClass" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
