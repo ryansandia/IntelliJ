@@ -15,7 +15,7 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1506552026705">
+      <file name="/a.dummy" timestamp="1506700730466">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1083,8 +1083,8 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.172/6f816f54af6cff4c0c453a49366e3e4888fa3c69/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/ClientConfiguration.java" timestamp="1506695392852">
-        <mark key="'" line="110" column="49" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.172/6f816f54af6cff4c0c453a49366e3e4888fa3c69/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/ClientConfiguration.java" timestamp="1506700567442">
+        <mark key="'" line="85" column="32" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MarkableFileInputStream.java" timestamp="1499796083888">
         <mark key="[" line="28" column="22" />
@@ -1129,12 +1129,12 @@
         <mark key="." line="49" column="8" />
         <mark key="^" line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" timestamp="1506695495114">
-        <mark key="'" line="103" column="29" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="55" column="4" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" timestamp="1506700520991">
+        <mark key="'" line="79" column="21" />
+        <mark key="[" line="58" column="53" />
+        <mark key="]" line="59" column="58" />
+        <mark key="." line="59" column="58" />
+        <mark key="^" line="59" column="58" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/md/itch50/SystemEventTest.java" timestamp="1498142256080">
         <mark key="[" line="10" column="13" />
@@ -2268,13 +2268,13 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" timestamp="1506699122405">
-        <mark key="a" line="264" column="0" />
-        <mark key="'" line="62" column="17" />
-        <mark key="[" line="264" column="76" />
-        <mark key="]" line="264" column="97" />
-        <mark key="^" line="264" column="97" />
-        <mark key="." line="264" column="97" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" timestamp="1506701290458">
+        <mark key="a" line="270" column="94" />
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="309" column="113" />
+        <mark key="]" line="309" column="146" />
+        <mark key="^" line="309" column="146" />
+        <mark key="." line="309" column="146" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/VenueSpecific.java" timestamp="1504795022371">
         <mark key="[" line="6" column="20" />
@@ -2458,13 +2458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="21" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
-      <jump line="71" column="28" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapReader.java" />
-      <jump line="180" column="16" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/handlers/PitchHandler.java" />
-      <jump line="96" column="10" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/handlers/PitchHandler.java" />
-      <jump line="118" column="57" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapReader.java" />
-      <jump line="128" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapReader.java" />
-      <jump line="52" column="46" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/pcap/PcapReader.java" />
       <jump line="228" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="148" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="49" column="29" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
@@ -2553,63 +2546,70 @@
       <jump line="108" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.172/6f816f54af6cff4c0c453a49366e3e4888fa3c69/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/ClientConfiguration.java" />
       <jump line="110" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.172/6f816f54af6cff4c0c453a49366e3e4888fa3c69/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/ClientConfiguration.java" />
       <jump line="235" column="7" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="255" column="45" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="194" column="10" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="251" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="62" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="74" column="21" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
+      <jump line="232" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.172/6f816f54af6cff4c0c453a49366e3e4888fa3c69/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/ClientConfiguration.java" />
+      <jump line="85" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.172/6f816f54af6cff4c0c453a49366e3e4888fa3c69/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/ClientConfiguration.java" />
+      <jump line="270" column="94" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="292" column="2" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="289" column="135" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5hZGQoInNpZGUiLCBzaWRlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>retries</text>
+        <text encoding="base64">XDxERUZBVUxUX1VTRV9HWklQXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFByaW1pdGl2ZU1hcHBlci5vZihkb3VibGUuY2xhc3MpLmRvd25jYXN0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5hZGQoInNpZGUiLCBzaWRlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50Q29uZmlndXJhdGlvbi5zZXQK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zaWRlID0gc2lkZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQW1hem9uUzNDbGllbnRCdWlsZGVyLnN0YW5kYXJkKCkud2l0aENsaWVudENvbmZpZ3VyYXRpb24oKQo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIGNoYXIgc2lkZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2xpCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgcmV0dXJuIE1vcmVPYmplY3RzLnRvU3RyaW5nSGVscGVyKHRoaXMpCiAgICAgICAgICAuYWRkKCJleGVjSWQiLCBleGVjSWQpCiAgICAgICAgICAuYWRkKCJvcmRlcklkIiwgb3JkZXJJZCkKICAgICAgICAgIC5hZGQoInN0b2NrIiwgc3RvY2spCiAgICAgICAgICAuYWRkKCJ0aW1lc3RhbXAiLCB0aW1lc3RhbXApCiAgICAgICAgICAuYWRkKCJzZXFudW0iLCBzZXFudW0pCiAgICAgICAgICAuYWRkKCJ1bml0IiwgdW5pdCkKICAgICAgICAgIC5hZGQoImZpbGUiLCBmaWxlKQogICAgICAgICAgLnRvU3RyaW5nKCk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQ2xpZW50Q29uZmlndXJhdGlvbiBjbGllbnRDb25maWd1cmF0aW9uID0gbmV3IENsaWVudENvbmZpZ3VyYXRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQW1hem9uUzNDbGllbnRCdWlsZGVyLmRlZmF1bHRDbGllbnQoKS4K</text>
+        <text encoding="base64">ICAgIGkgZihldmUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgczNDbGllbnRQcml2YXRlLnNldFMzQ2xpZW50T3B0aW9ucygpOwo=</text>
+        <text encoding="base64">ICAgICAgQ2xpZW50Q29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQW1hem9uUzNDbGllbnRCdWlsZGVyLmRlZmF1bHRDbGllbnQoKS5zZXRTM0NsaWVudE9wdGlvbnMoKTsK</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oImR1cGxpY2F0ZSBleGVjdXRpb25JZCAiICsgZXhlY0lkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUzNDbGllbnRPcHRpb25zLmJ1aWxkZXIoKS5zZXRBY2NlbGVyYXRlTW9kZUVuYWJsZWQoKQo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>retries</last-search>
+      <last-search encoding="base64">XDxERUZBVUxUX1VTRV9HWklQXD4=</last-search>
       <last-offset />
-      <last-pattern>retries</last-pattern>
+      <last-pattern encoding="base64">XDxERUZBVUxUX1VTRV9HWklQXD4=</last-pattern>
       <last-replace>ClassWriter</last-replace>
       <last-substitute>CheckClassAdapter</last-substitute>
       <last-dir>1</last-dir>
@@ -2617,7 +2617,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getreturntype</entry>
         <entry>todo</entry>
         <entry encoding="base64">XDxkZWNsYXJlRmllbGRcPg==</entry>
         <entry encoding="base64">XDxtYXBwZWRUeXBlXD4=</entry>
@@ -2637,6 +2636,7 @@
         <entry encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</entry>
         <entry encoding="base64">XDxERUZBVUxUX1JFUVVFU1RfVElNRU9VVFw+</entry>
         <entry>retries</entry>
+        <entry encoding="base64">XDxERUZBVUxUX1VTRV9HWklQXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ludC9zaG9ydC9n</entry>
