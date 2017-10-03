@@ -1061,6 +1061,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/user/tasks/main.yml" timestamp="1507071006756">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/OrderBookNode.java" timestamp="1505155244223">
         <mark key="[" line="201" column="11" />
         <mark key="]" line="201" column="11" />
@@ -1098,6 +1104,12 @@
         <mark key="]" line="12" column="58" />
         <mark key="^" line="12" column="58" />
         <mark key="." line="12" column="58" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/hosts" timestamp="1507071909412">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/BookLevel.java" timestamp="1504794636287">
         <mark key="[" line="21" column="0" />
@@ -1243,6 +1255,11 @@
         <mark key="]" line="52" column="4" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="184" column="3" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/setup.yml" timestamp="1507071650460">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/pitch/AddOrderMsgShort.java" timestamp="1503947221332">
         <mark key="[" line="41" column="48" />
@@ -1555,6 +1572,11 @@
         <mark key="]" line="6" column="41" />
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/packages.yml" timestamp="1507072718837">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/ReplaceOrderMsg.java" timestamp="1503699847688">
         <mark key="[" line="25" column="32" />
@@ -2029,10 +2051,11 @@
         <mark key="^" line="29" column="35" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507070246701">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507071301287">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/offheap/generator/OffHeapAbstractClassMethodOrder.java" timestamp="1498601807382">
         <mark key="[" line="10" column="25" />
@@ -2385,6 +2408,13 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="40" column="14" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" timestamp="1507073603850">
+        <mark key="'" line="8" column="85" />
+        <mark key="[" line="8" column="200" />
+        <mark key="]" line="8" column="200" />
+        <mark key="." line="8" column="200" />
+        <mark key="^" line="8" column="200" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/TradeExtended.java" timestamp="1502318001639">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="83" />
@@ -2544,8 +2574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-all/5.2/ed60d4287d18996bc940f26656c570532b20d863/asm-all-5.2-sources.jar!/org/objectweb/asm/MethodVisitor.java" />
-      <jump line="594" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-all/5.2/ed60d4287d18996bc940f26656c570532b20d863/asm-all-5.2-sources.jar!/org/objectweb/asm/MethodVisitor.java" />
       <jump line="592" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-all/5.2/ed60d4287d18996bc940f26656c570532b20d863/asm-all-5.2-sources.jar!/org/objectweb/asm/MethodVisitor.java" />
       <jump line="93" column="22" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="297" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
@@ -2644,46 +2672,48 @@
       <jump line="12" column="14" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" />
       <jump line="19" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" />
       <jump line="25" column="39" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/exablaze.yml" />
+      <jump line="2" column="4" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" />
+      <jump line="8" column="85" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB7e2lufX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>20170530</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>exanic_date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGg6IC9ob21lL3NhbmRpYS9leGFuaWNfeDEwXzIwMTcwNTMwLmZ3Cg==</text>
+      <register name="0" type="4">
+        <text>GRUB_CMDLINE_LINUX_DEFAULT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7e2lufX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7eyBpbnZlfX0K</text>
+        <text encoding="base64">LSBuYW1lOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsb2MK</text>
+        <text encoding="base64">ICAgIC0gbGludXgtbG93bGF0ZW5jeSAjIFRPRE8gLS0gcGVuZGluZyBjdXN0b20ga2VybmVsLi4uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICBwYXRoOiAvaG9tZS9zYW5kaWEvZXhhbmljX3gxMF8yMDE3MDUzMC5mdwo=</text>
+        <text encoding="base64">ICAgIGluc2VydGFmdGVyOiAnXiNHUlVCX0NNRExJTkVfTElOVVhfREVGQVVMVD0nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBUT0RPIC0tIHZhcmlhYmxlIGZvciBmaWxlbmFtZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBUT0RPIC0tIGNoZWNrIGRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMtIG5hbWU6IFdhaXQgZm9yIHNlcnZlciBjb21lIGJhY2sKIyAgd2FpdF9mb3I6ID4KIyAgICBob3N0PSJ7eyBpbnZlbnRvcnlfaG9zdG5hbWUgfX0iCiMgICAgcG9ydD0yMgojICAgIGRlbGF5PTE1CiMgICAgdGltZW91dD02MAojICBkZWxlZ2F0ZV90bzogbG9jYWxob3N0CiMgIHRhZ3M6IGZpbmFsaXplCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAtIHNldF9mYWN0OiAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
@@ -2732,17 +2762,17 @@
         <entry encoding="base64">JzwsJz5zL21vZGlmeU9yZGVyL3RyYWRlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlcW51bS9zZXFudW0gKyAxL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlcW51bS9zZXFudW0gKyBpL2c=</entry>
-        <entry>W</entry>
         <entry>vps</entry>
         <entry>%s/public //g</entry>
         <entry>Wa</entry>
         <entry>%s/CheckClassAdapter/ClassWriter/g</entry>
         <entry encoding="base64">JzwsJz5zL2Rlc3Qvc3JjL2c=</entry>
         <entry>wqa</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
-        <entry>vsp</entry>
         <entry>%s/exanic_date/exanic_fw_rev/g</entry>
+        <entry>vsp</entry>
+        <entry>W</entry>
+        <entry>q</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
