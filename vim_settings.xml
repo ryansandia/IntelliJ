@@ -249,7 +249,6 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/docker/exablaze/Dockerfile" timestamp="1507069075311" />
       <file name="$USER_HOME$/Source/cbceval/people/will/build.gradle" timestamp="1504219842705">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="25" />
@@ -573,6 +572,9 @@
         <mark key="]" line="26" column="1" />
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1507069335074">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/AddOrderWithMPID.java" timestamp="1501191902837">
         <mark key="[" line="10" column="98" />
@@ -1816,7 +1818,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1506723781292">
+      <file name="/fragment.java" timestamp="1507069335101">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -2026,6 +2028,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="^" line="29" column="35" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507069409087">
+        <mark key="[" line="18" column="97" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="7" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/offheap/generator/OffHeapAbstractClassMethodOrder.java" timestamp="1498601807382">
         <mark key="[" line="10" column="25" />
@@ -2642,8 +2650,8 @@
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>20170530</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsb2MK</text>
       </register>
       <register name="-" type="4">
         <text>20170530</text>
@@ -2655,34 +2663,34 @@
         <text encoding="base64">ICAgIHBhdGg6IC9ob21lL3NhbmRpYS9leGFuaWNfeDEwXzIwMTcwNTMwLmZ3Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICBwYXRoOiAvaG9tZS9zYW5kaWEvZXhhbmljX3gxMF8yMDE3MDUzMC5mdwo=</text>
+        <text encoding="base64">ICBsb2MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUT0RPIC0tIHZhcmlhYmxlIGZvciBmaWxlbmFtZQo=</text>
+        <text encoding="base64">IyAgICBwYXRoOiAvaG9tZS9zYW5kaWEvZXhhbmljX3gxMF8yMDE3MDUzMC5mdwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUT0RPIC0tIGNoZWNrIGRhCg==</text>
+        <text encoding="base64">IyBUT0RPIC0tIHZhcmlhYmxlIGZvciBmaWxlbmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMtIG5hbWU6IFdhaXQgZm9yIHNlcnZlciBjb21lIGJhY2sKIyAgd2FpdF9mb3I6ID4KIyAgICBob3N0PSJ7eyBpbnZlbnRvcnlfaG9zdG5hbWUgfX0iCiMgICAgcG9ydD0yMgojICAgIGRlbGF5PTE1CiMgICAgdGltZW91dD02MAojICBkZWxlZ2F0ZV90bzogbG9jYWxob3N0CiMgIHRhZ3M6IGZpbmFsaXplCg==</text>
+        <text encoding="base64">IyBUT0RPIC0tIGNoZWNrIGRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiMtIG5hbWU6IFdhaXQgZm9yIHNlcnZlciBjb21lIGJhY2sKIyAgd2FpdF9mb3I6ID4KIyAgICBob3N0PSJ7eyBpbnZlbnRvcnlfaG9zdG5hbWUgfX0iCiMgICAgcG9ydD0yMgojICAgIGRlbGF5PTE1CiMgICAgdGltZW91dD02MAojICBkZWxlZ2F0ZV90bzogbG9jYWxob3N0CiMgIHRhZ3M6IGZpbmFsaXplCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0YWdzOiBmaW5hbGl6ZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiZWNvbWU6IGZhbHNlCg==</text>
+        <text encoding="base64">ICB0YWdzOiBmaW5hbGl6ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2NhbF9hY3Rpb246IHdhaXRfZm9yIGhvc3Q9e3sgYW5zaWJsZV9kZWZhdWx0X2lwdjQuYWRkcmVzcyB9fSBwb3J0PTIyIHN0YXRlPXN0YXJ0ZWQgZGVsYXk9MzAgdGltZW91dD02MAo=</text>
+        <text encoding="base64">ICBiZWNvbWU6IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2735,9 +2743,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>%s/exanic_date/exanic_fw_rev/g</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
