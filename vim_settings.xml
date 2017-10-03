@@ -236,9 +236,6 @@
         <mark key="." line="61" column="98" />
         <mark key="^" line="61" column="98" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CaptureFileSource.java" timestamp="1506698778731">
-        <mark key="[" line="31" column="24" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/OrderExecutedWithPriceMsg.java" timestamp="1506628117030">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="7" />
@@ -275,6 +272,12 @@
         <mark key="]" line="39" column="46" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="1" />
+      </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/setup.yml" timestamp="1507059283598">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/TimestampMsg.java" timestamp="1505344465232">
         <mark key="[" line="11" column="29" />
@@ -424,6 +427,12 @@
         <mark key="]" line="9" column="8" />
         <mark key="." line="9" column="8" />
       </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/common_packages.yml" timestamp="1507056757461">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/ModifyOrderLong.java" timestamp="1502317231221">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="15" />
@@ -443,11 +452,24 @@
         <mark key="^" line="13" column="116" />
         <mark key="." line="13" column="63" />
       </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/rt/tasks/disable_services.yml" timestamp="1507056284711">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/time/TimeRange.java" timestamp="1505139687337">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/rt/tasks/apparmor.yml" timestamp="1507056006372">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/offheap_classes/MyOffHeapInterface.java" timestamp="1500058403264">
         <mark key="[" line="62" column="35" />
@@ -746,6 +768,11 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/rt/tasks/irqbalance.yml" timestamp="1507056003693">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch50EventListener.java" timestamp="1499696531292">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -824,14 +851,16 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/packages.yml" timestamp="1507057801397">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/ChannelInputStream.java" timestamp="1505156342537">
         <mark key="[" line="18" column="70" />
         <mark key="]" line="18" column="88" />
         <mark key="." line="18" column="88" />
         <mark key="^" line="18" column="88" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-all/5.2/ed60d4287d18996bc940f26656c570532b20d863/asm-all-5.2-sources.jar!/org/objectweb/asm/MethodVisitor.java" timestamp="1506621707192">
-        <mark key="'" line="592" column="16" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/MarketParticipantPositionMsg.java" timestamp="1505344222089">
         <mark key="[" line="55" column="0" />
@@ -892,6 +921,12 @@
         <mark key="]" line="10" column="9" />
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/rt/tasks/appport.yml" timestamp="1507055851822">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/itch50/Itch50EventHandler.java" timestamp="1501186876281">
         <mark key="[" line="166" column="55" />
@@ -958,6 +993,12 @@
         <mark key="]" line="10" column="13" />
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/services.yml" timestamp="1507057809790">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/channel/EmptyTransport.java" timestamp="1503610973120">
         <mark key="[" line="6" column="0" />
@@ -1069,6 +1110,12 @@
         <mark key="^" line="18" column="78" />
         <mark key="." line="13" column="15" />
       </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/ssh/tasks/main.yml" timestamp="1507059009635">
+        <mark key="[" line="5" column="81" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/people/will/src/main/kotlin/com/sandiacap/scratch/will/ResearchBasics.kt" timestamp="1500908825348">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1086,9 +1133,6 @@
         <mark key="]" line="17" column="46" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.172/6f816f54af6cff4c0c453a49366e3e4888fa3c69/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/ClientConfiguration.java" timestamp="1506700567442">
-        <mark key="'" line="85" column="32" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MarkableFileInputStream.java" timestamp="1499796083888">
         <mark key="[" line="28" column="22" />
@@ -1157,6 +1201,12 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/hosts" timestamp="1507056895859">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/resources/log4j.properties" timestamp="1504713172923">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="30" />
@@ -1186,9 +1236,6 @@
         <mark key="]" line="42" column="1" />
         <mark key="^" line="42" column="1" />
         <mark key="." line="42" column="1" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/grid/impl2/node/DataStore.java" timestamp="1506718723409">
-        <mark key="'" line="30" column="6" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/IPOQuotingPeriodUpdateMsg.java" timestamp="1505343924818">
         <mark key="[" line="35" column="0" />
@@ -1418,9 +1465,6 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/aws/MachineCreator.java" timestamp="1506642552418">
-        <mark key="'" line="225" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/Trigger.kt" timestamp="1500906545619">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="38" />
@@ -1588,8 +1632,11 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" timestamp="1506708595375">
-        <mark key="'" line="35" column="13" />
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/sudo.yml" timestamp="1507057826943">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/offheap_classes/MyOffHeapAbstractClass.java" timestamp="1499804959278">
         <mark key="[" line="22" column="15" />
@@ -1698,6 +1745,12 @@
         <mark key="]" line="2" column="6" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/ssh/tasks/ssh.yml" timestamp="1507057110410">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="120" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/Source/g2/build.gradle" timestamp="1501620253607">
         <mark key="[" line="12" column="30" />
@@ -1975,6 +2028,13 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/main.yml" timestamp="1507059003019">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="31" column="1" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/ComponentToTimeSeries.java" timestamp="1505145611138">
         <mark key="[" line="40" column="40" />
         <mark key="]" line="40" column="6" />
@@ -2028,6 +2088,11 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="67" />
+      </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" timestamp="1507059052792">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/sumstats/Blah.kt" timestamp="1505159749187">
         <mark key="[" line="3" column="0" />
@@ -2451,12 +2516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="248" column="6" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="51" column="60" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/PrimitiveMapper.java" />
-      <jump line="149" column="0" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/Main.java" />
-      <jump line="0" column="12" filename="/fragment.java" />
-      <jump line="310" column="24" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="311" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="334" column="12" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="366" column="12" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
@@ -2551,52 +2610,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
       <jump line="161" column="21" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
       <jump line="192" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/rt/tasks/disable_services.yml" />
+      <jump line="20" column="16" filename="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/services.yml" />
+      <jump line="8" column="9" filename="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/main.yml" />
+      <jump line="7" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/main.yml" />
+      <jump line="59" column="15" filename="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/main.yml" />
+      <jump line="44" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5lcnJvcigiZG93bmxvYWQgZXJyb3I6IHt9IiwgaWdub3JlZC50b1N0cmluZygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>tasks</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tasks</text>
       </register>
       <register name="/" type="4">
         <text>ignored</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBjYXBhY2l0eSA+PSBkYXRhLmxlbmd0aDsKICAgIFVuc2FmZUFjY2Vzcy5VTlNBRkUuY29weU1lbW9yeShkYXRhLCBCdWZmZXJVdGlscy5BUlJBWV9CQVNFX09GRlNFVCwgbnVsbCwgYWRkcmVzcyArIHBvcywgZGF0YS5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgdGFnczogc2VydmljZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5lcnJvcigiZG93bmxvYWQgZXJyb3I6IHt9IiwgaWdub3JlZC50b1N0cmluZygpKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>- name: give sandia user sudo
+  lineinfile:
+    dest: /etc/sudoers
+    state: present
+    regexp: '^sandia'
+    line: 'sandia ALL=(ALL) NOPASSWD:ALL'
+  tags: user</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgVW5zYWZlQnVmZmVyIAo=</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkOiAkNiQ5SFFOaFJlSWs2QzhHWENMJDFQREZERTVpWk1YR1ouYzhuOUZLdDRQbFFoYjl0bHVjaXBKQmpTdzFPT3Y4QXc4cXVMd3pDS2hKQnBwVVNkSFh0S2RtamwwcS9UdlNMVVlocHN6elAuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZjLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICBzZXJ2aWNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhY2tpbmdGaWxlLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tpbmdGaWxlLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tpbmdGaWxlLmdldEZEKCkuZ2V0Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBkaXNhYmxlIGlycWJhbGFuY2UKICBzZXJ2aWNlOgogICAgbmFtZSA9IGlycWJhbGFuY2UKICAgIHN0YXRlID0gc3RvcHBlZAogICAgZW5hYmxlZCA9IG5vCgotIG5hbWU6IGRpc2FibGUgYXBwYXJtb3IKICBzZXJ2aWNlOgogICAgbmFtZSA9IGFwcGFybW9yCiAgICBzdGF0ZSA9IHN0b3BwZWQKICAgIGVuYWJsZWQgPSBubwoKLSBuYW1lOiBkaXNhYmxlIG9uZGVtYW5kCiAgc2VydmljZToKICAgIG5hbWUgPSBvbmRlbWFuZAogICAgc3RhdGUgPSBzdG9wcGVkCiAgICBlbmFibGVkID0gbm8KCi0gbmFtZTogZGlzYWJsZSBhcHBvcnQKICBzZXJ2aWNlOgogICAgbmFtZSA9IGFwcG9ydAogICAgc3RhdGUgPSBzdG9wcGVkCiAgICBlbmFibGVkID0gbm8KCi0gbmFtZTogZGlzYWJsZSBseGMKICBzZXJ2aWNlOgogICAgbmFtZSA9IGx4Y2ZzCiAgICBzdGF0ZSA9IHN0b3BwZWQKICAgIGVuYWJsZWQgPSBubwoKLSBuYW1lOiBkaXNhYmxlIGFjcGlkCiAgc2VydmljZToKICAgIG5hbWUgPSBhY3BpZAogICAgc3RhdGUgPSBzdG9wcGVkCiAgICBlbmFibGVkID0gbm8K</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2632,7 +2703,6 @@
         <entry>ignored</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzIvNC9n</entry>
         <entry encoding="base64">JzwsJz5zLzQvMi9n</entry>
         <entry>a</entry>
         <entry>%s/Immutable//g</entry>
@@ -2648,10 +2718,11 @@
         <entry>%s/public //g</entry>
         <entry>Wa</entry>
         <entry>%s/CheckClassAdapter/ClassWriter/g</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2Rlc3Qvc3JjL2c=</entry>
-        <entry>w</entry>
+        <entry>wqa</entry>
+        <entry>q</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
