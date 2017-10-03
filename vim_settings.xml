@@ -274,11 +274,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/provision/hp_server/setup.yml" timestamp="1507061942585">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
+      <file name="$USER_HOME$/Source/provision/hp_server/setup.yml" timestamp="1507068668702">
+        <mark key="[" line="7" column="120" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/TimestampMsg.java" timestamp="1505344465232">
         <mark key="[" line="11" column="29" />
@@ -662,14 +662,6 @@
         <mark key="]" line="44" column="4" />
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1507051976778">
-        <mark key="a" line="124" column="78" />
-        <mark key="'" line="192" column="0" />
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="0" />
-        <mark key="." line="212" column="0" />
-        <mark key="^" line="211" column="28" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch41FileStream.java" timestamp="1498747848967">
         <mark key="[" line="14" column="0" />
@@ -1086,6 +1078,13 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="344" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/exablaze.yml" timestamp="1507069017089">
+        <mark key="'" line="25" column="39" />
+        <mark key="[" line="48" column="60" />
+        <mark key="]" line="48" column="76" />
+        <mark key="." line="48" column="76" />
+        <mark key="^" line="48" column="76" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/component/catalog/TotalVolume.java" timestamp="1505145135240">
         <mark key="[" line="25" column="13" />
         <mark key="]" line="25" column="13" />
@@ -1207,17 +1206,17 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/provision/hp_server/hosts" timestamp="1507056895859">
+      <file name="$USER_HOME$/Source/provision/hp_server/hosts" timestamp="1507067360366">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/provision/hp_server/roles/exablaze/tasks/main.yml" timestamp="1507064623345">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="35" />
-        <mark key="^" line="44" column="35" />
-        <mark key="." line="44" column="35" />
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/exablaze/tasks/main.yml" timestamp="1507066062238">
+        <mark key="[" line="43" column="23" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/resources/log4j.properties" timestamp="1504713172923">
         <mark key="[" line="2" column="27" />
@@ -2101,11 +2100,12 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="67" />
       </file>
-      <file name="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" timestamp="1507061102304">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="63" column="15" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" timestamp="1507068546082">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="18" column="94" />
+        <mark key="]" line="18" column="96" />
+        <mark key="^" line="18" column="96" />
+        <mark key="." line="18" column="96" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/sumstats/Blah.kt" timestamp="1505159749187">
         <mark key="[" line="3" column="0" />
@@ -2275,12 +2275,6 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" timestamp="1507048582692">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/OrderAddMsg.java" timestamp="1505343677235">
         <mark key="[" line="49" column="24" />
         <mark key="]" line="49" column="44" />
@@ -2328,6 +2322,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/services.yml" timestamp="1507066413274">
+        <mark key="'" line="41" column="15" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/OrderReplaceMsg.java" timestamp="1503693894471">
         <mark key="[" line="20" column="32" />
@@ -2400,6 +2401,13 @@
         <mark key="]" line="33" column="46" />
         <mark key="^" line="31" column="1" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/packages.yml" timestamp="1507066485536">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/build.gradle" timestamp="1504715512111">
         <mark key="[" line="4" column="0" />
@@ -2529,11 +2537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="13" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="315" column="18" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="282" column="13" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="284" column="24" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="293" column="13" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="55" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-all/5.2/ed60d4287d18996bc940f26656c570532b20d863/asm-all-5.2-sources.jar!/org/objectweb/asm/MethodVisitor.java" />
       <jump line="594" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-all/5.2/ed60d4287d18996bc940f26656c570532b20d863/asm-all-5.2-sources.jar!/org/objectweb/asm/MethodVisitor.java" />
       <jump line="592" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-all/5.2/ed60d4287d18996bc940f26656c570532b20d863/asm-all-5.2-sources.jar!/org/objectweb/asm/MethodVisitor.java" />
@@ -2629,66 +2632,70 @@
       <jump line="33" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/exablaze/tasks/main.yml" />
       <jump line="35" column="2" filename="$USER_HOME$/Source/provision/hp_server/roles/exablaze/tasks/main.yml" />
       <jump line="38" column="47" filename="$USER_HOME$/Source/provision/hp_server/roles/exablaze/tasks/main.yml" />
+      <jump line="46" column="15" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/services.yml" />
+      <jump line="0" column="2" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/packages.yml" />
+      <jump line="12" column="14" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" />
+      <jump line="19" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" />
+      <jump line="25" column="39" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/exablaze.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>exanic_x10_20170530.fw.gz</text>
+        <text>20170530</text>
       </register>
       <register name="-" type="4">
-        <text>usr</text>
+        <text>20170530</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ID0=</text>
+        <text>exanic_date</text>
       </register>
-      <register name="0" type="4">
-        <text>exanic_x10_20170530.fw.gz</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBhdGg6IC9ob21lL3NhbmRpYS9leGFuaWNfeDEwXzIwMTcwNTMwLmZ3Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICBwYXRoOiAvaG9tZS9zYW5kaWEvZXhhbmljX3gxMF8yMDE3MDUzMC5mdwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0YWdzOiBleGFibGF6ZQo=</text>
+        <text encoding="base64">IyBUT0RPIC0tIHZhcmlhYmxlIGZvciBmaWxlbmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWdpc3RlcjogZmlybXdhcmVfcmVzdWx0Cg==</text>
+        <text encoding="base64">IyBUT0RPIC0tIGNoZWNrIGRhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlbW90ZV9zcmM6IHllcwo=</text>
+        <text encoding="base64">CiMtIG5hbWU6IFdhaXQgZm9yIHNlcnZlciBjb21lIGJhY2sKIyAgd2FpdF9mb3I6ID4KIyAgICBob3N0PSJ7eyBpbnZlbnRvcnlfaG9zdG5hbWUgfX0iCiMgICAgcG9ydD0yMgojICAgIGRlbGF5PTE1CiMgICAgdGltZW91dD02MAojICBkZWxlZ2F0ZV90bzogbG9jYWxob3N0CiMgIHRhZ3M6IGZpbmFsaXplCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlc3Q6IC9ob21lL3NhbmRpYQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNyYzogaHR0cHM6Ly9leGFibGF6ZS5jb20vZG93bmxvYWRzL2V4YW5pYy9leGFuaWNfeDEwXzIwMTcwNTMwLmZ3Lmd6Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1bmFyY2hpdmU6Cg==</text>
+        <text encoding="base64">ICB0YWdzOiBmaW5hbGl6ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBuYW1lOiBkb3dubG9hZCBmaXJtd2FyZQo=</text>
+        <text encoding="base64">ICBiZWNvbWU6IGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aGVuOiAK</text>
+        <text encoding="base64">ICBsb2NhbF9hY3Rpb246IHdhaXRfZm9yIGhvc3Q9e3sgYW5zaWJsZV9kZWZhdWx0X2lwdjQuYWRkcmVzcyB9fSBwb3J0PTIyIHN0YXRlPXN0YXJ0ZWQgZGVsYXk9MzAgdGltZW91dD02MAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ID0=</last-search>
+      <last-search>exanic_date</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ID0=</last-pattern>
-      <last-replace>:</last-replace>
-      <last-substitute encoding="base64">ID0=</last-substitute>
+      <last-pattern>exanic_date</last-pattern>
+      <last-replace>exanic_fw_rev</last-replace>
+      <last-substitute>exanic_date</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>xnas</entry>
         <entry>getord</entry>
         <entry>validset</entry>
         <entry>duplicate e</entry>
@@ -2708,9 +2715,9 @@
         <entry>filename</entry>
         <entry>ignored</entry>
         <entry encoding="base64">ID0=</entry>
+        <entry>exanic_date</entry>
       </history-search>
       <history-cmd>
-        <entry>a</entry>
         <entry>%s/Immutable//g</entry>
         <entry>s</entry>
         <entry>s/addOrder/modifyOrder/g</entry>
@@ -2729,6 +2736,7 @@
         <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>%s/exanic_date/exanic_fw_rev/g</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
