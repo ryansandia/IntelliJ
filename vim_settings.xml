@@ -1126,12 +1126,13 @@
         <mark key="." line="49" column="8" />
         <mark key="^" line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" timestamp="1506700520991">
-        <mark key="'" line="79" column="21" />
-        <mark key="[" line="58" column="53" />
-        <mark key="]" line="59" column="58" />
-        <mark key="." line="59" column="58" />
-        <mark key="^" line="59" column="58" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" timestamp="1507038669896">
+        <mark key="a" line="273" column="18" />
+        <mark key="'" line="271" column="6" />
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="68" />
+        <mark key="." line="322" column="0" />
+        <mark key="^" line="273" column="67" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/md/itch50/SystemEventTest.java" timestamp="1498142256080">
         <mark key="[" line="10" column="13" />
@@ -2460,14 +2461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="29" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
-      <jump line="268" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="110" column="15" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="219" column="25" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
-      <jump line="231" column="56" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
-      <jump line="255" column="24" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
-      <jump line="338" column="41" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
-      <jump line="247" column="18" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
       <jump line="239" column="10" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
       <jump line="263" column="51" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
@@ -2560,22 +2553,30 @@
       <jump line="35" column="13" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" />
       <jump line="270" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="30" column="6" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/grid/impl2/node/DataStore.java" />
+      <jump line="80" column="34" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
+      <jump line="47" column="27" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
+      <jump line="272" column="18" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
+      <jump line="231" column="21" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
+      <jump line="277" column="21" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
+      <jump line="175" column="4" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
+      <jump line="270" column="6" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKCJmYWlsZWQgbXVsdGlwYXJ0TG93TGV2ZWxBUEk6IHt9IiwgZS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
-        <text>s3util</text>
+        <text>catch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFByaW1pdGl2ZU1hcHBlci5vZihkb3VibGUuY2xhc3MpLmRvd25jYXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKCJmYWlsZWQgbXVsdGlwYXJ0TG93TGV2ZWxBUEk6IHt9IiwgZS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2605,13 +2606,13 @@
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>s3util</last-search>
+      <last-search>catch</last-search>
       <last-offset />
-      <last-pattern>s3util</last-pattern>
+      <last-pattern>catch</last-pattern>
       <last-replace>ClassWriter</last-replace>
       <last-substitute>CheckClassAdapter</last-substitute>
       <last-dir>1</last-dir>
@@ -2619,10 +2620,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWNsYXJlRmllbGRcPg==</entry>
-        <entry encoding="base64">XDxtYXBwZWRUeXBlXD4=</entry>
-        <entry encoding="base64">XDxkZWNsYXJlR2V0dGVyQm9keVw+</entry>
-        <entry encoding="base64">XDxkZWNsYXJlU2V0dGVyQm9keVw+</entry>
         <entry>primitivemapp</entry>
         <entry>ldcinsn</entry>
         <entry>getshort</entry>
@@ -2639,6 +2636,10 @@
         <entry>retries</entry>
         <entry encoding="base64">XDxERUZBVUxUX1VTRV9HWklQXD4=</entry>
         <entry>s3util</entry>
+        <entry>ignoreex</entry>
+        <entry encoding="base64">XDxNQVhfU0lOR0xFX1BBUlRfU0laRVw+</entry>
+        <entry encoding="base64">XDx1cGxvYWRNdWx0aXBhcnRMb3dMZXZlbEFQSVw+</entry>
+        <entry>catch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ludC9zaG9ydC9n</entry>
@@ -2659,8 +2660,8 @@
         <entry>Wa</entry>
         <entry>%s/CheckClassAdapter/ClassWriter/g</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
