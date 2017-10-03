@@ -249,6 +249,7 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/docker/exablaze/Dockerfile" timestamp="1507061798475" />
       <file name="$USER_HOME$/Source/cbceval/people/will/build.gradle" timestamp="1504219842705">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="25" />
@@ -273,11 +274,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/provision/hp_server/setup.yml" timestamp="1507059283598">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="3" column="1" />
-        <mark key="." line="3" column="1" />
-        <mark key="^" line="3" column="1" />
+      <file name="$USER_HOME$/Source/provision/hp_server/setup.yml" timestamp="1507061942585">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/TimestampMsg.java" timestamp="1505344465232">
         <mark key="[" line="11" column="29" />
@@ -608,6 +609,11 @@
         <mark key="]" line="9" column="11" />
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/user/tasks/main.yml" timestamp="1507060463414">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/refdata/sandia/Ticker.java" timestamp="1505342241561">
         <mark key="[" line="11" column="63" />
@@ -1206,6 +1212,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/exablaze/tasks/main.yml" timestamp="1507064623345">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="35" />
+        <mark key="^" line="44" column="35" />
+        <mark key="." line="44" column="35" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/resources/log4j.properties" timestamp="1504713172923">
         <mark key="[" line="2" column="27" />
@@ -2089,10 +2101,11 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="67" />
       </file>
-      <file name="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" timestamp="1507059052792">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" timestamp="1507061102304">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="63" column="15" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/sumstats/Blah.kt" timestamp="1505159749187">
         <mark key="[" line="3" column="0" />
@@ -2516,13 +2529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="334" column="12" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="366" column="12" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="170" column="12" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="194" column="12" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="469" column="39" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="295" column="18" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="313" column="13" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="315" column="18" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="282" column="13" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
@@ -2616,72 +2622,72 @@
       <jump line="7" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/main.yml" />
       <jump line="59" column="15" filename="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/main.yml" />
       <jump line="44" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/boxsetup/tasks/main.yml" />
+      <jump line="7" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" />
+      <jump line="47" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" />
+      <jump line="67" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/main.yml" />
+      <jump line="0" column="27" filename="$USER_HOME$/Source/provision/hp_server/roles/exablaze/tasks/main.yml" />
+      <jump line="33" column="0" filename="$USER_HOME$/Source/provision/hp_server/roles/exablaze/tasks/main.yml" />
+      <jump line="35" column="2" filename="$USER_HOME$/Source/provision/hp_server/roles/exablaze/tasks/main.yml" />
+      <jump line="38" column="47" filename="$USER_HOME$/Source/provision/hp_server/roles/exablaze/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>tasks</text>
+        <text>exanic_x10_20170530.fw.gz</text>
       </register>
       <register name="-" type="4">
-        <text>tasks</text>
+        <text>usr</text>
       </register>
       <register name="/" type="4">
-        <text>ignored</text>
+        <text encoding="base64">ID0=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgdGFnczogc2VydmljZXMK</text>
+      <register name="0" type="4">
+        <text>exanic_x10_20170530.fw.gz</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>- name: give sandia user sudo
-  lineinfile:
-    dest: /etc/sudoers
-    state: present
-    regexp: '^sandia'
-    line: 'sandia ALL=(ALL) NOPASSWD:ALL'
-  tags: user</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0YWdzOiBleGFibGF6ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiAkNiQ5SFFOaFJlSWs2QzhHWENMJDFQREZERTVpWk1YR1ouYzhuOUZLdDRQbFFoYjl0bHVjaXBKQmpTdzFPT3Y4QXc4cXVMd3pDS2hKQnBwVVNkSFh0S2RtamwwcS9UdlNMVVlocHN6elAuCg==</text>
+        <text encoding="base64">ICByZWdpc3RlcjogZmlybXdhcmVfcmVzdWx0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlbW90ZV9zcmM6IHllcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlOgo=</text>
+        <text encoding="base64">ICAgIGRlc3Q6IC9ob21lL3NhbmRpYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNyYzogaHR0cHM6Ly9leGFibGF6ZS5jb20vZG93bmxvYWRzL2V4YW5pYy9leGFuaWNfeDEwXzIwMTcwNTMwLmZ3Lmd6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1bmFyY2hpdmU6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBkb3dubG9hZCBmaXJtd2FyZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiBkaXNhYmxlIGlycWJhbGFuY2UKICBzZXJ2aWNlOgogICAgbmFtZSA9IGlycWJhbGFuY2UKICAgIHN0YXRlID0gc3RvcHBlZAogICAgZW5hYmxlZCA9IG5vCgotIG5hbWU6IGRpc2FibGUgYXBwYXJtb3IKICBzZXJ2aWNlOgogICAgbmFtZSA9IGFwcGFybW9yCiAgICBzdGF0ZSA9IHN0b3BwZWQKICAgIGVuYWJsZWQgPSBubwoKLSBuYW1lOiBkaXNhYmxlIG9uZGVtYW5kCiAgc2VydmljZToKICAgIG5hbWUgPSBvbmRlbWFuZAogICAgc3RhdGUgPSBzdG9wcGVkCiAgICBlbmFibGVkID0gbm8KCi0gbmFtZTogZGlzYWJsZSBhcHBvcnQKICBzZXJ2aWNlOgogICAgbmFtZSA9IGFwcG9ydAogICAgc3RhdGUgPSBzdG9wcGVkCiAgICBlbmFibGVkID0gbm8KCi0gbmFtZTogZGlzYWJsZSBseGMKICBzZXJ2aWNlOgogICAgbmFtZSA9IGx4Y2ZzCiAgICBzdGF0ZSA9IHN0b3BwZWQKICAgIGVuYWJsZWQgPSBubwoKLSBuYW1lOiBkaXNhYmxlIGFjcGlkCiAgc2VydmljZToKICAgIG5hbWUgPSBhY3BpZAogICAgc3RhdGUgPSBzdG9wcGVkCiAgICBlbmFibGVkID0gbm8K</text>
+        <text encoding="base64">ICB3aGVuOiAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>ignored</last-search>
+      <last-search encoding="base64">ID0=</last-search>
       <last-offset />
-      <last-pattern>ignored</last-pattern>
-      <last-replace>src</last-replace>
-      <last-substitute>dest</last-substitute>
+      <last-pattern encoding="base64">ID0=</last-pattern>
+      <last-replace>:</last-replace>
+      <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>primitivemap</entry>
         <entry>xnas</entry>
         <entry>getord</entry>
         <entry>validset</entry>
@@ -2701,9 +2707,9 @@
         <entry>offset</entry>
         <entry>filename</entry>
         <entry>ignored</entry>
+        <entry encoding="base64">ID0=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzQvMi9n</entry>
         <entry>a</entry>
         <entry>%s/Immutable//g</entry>
         <entry>s</entry>
@@ -2714,15 +2720,16 @@
         <entry encoding="base64">JzwsJz5zL3NlcW51bS9zZXFudW0gKyBpL2c=</entry>
         <entry>W</entry>
         <entry>vps</entry>
-        <entry>vsp</entry>
         <entry>%s/public //g</entry>
         <entry>Wa</entry>
         <entry>%s/CheckClassAdapter/ClassWriter/g</entry>
         <entry encoding="base64">JzwsJz5zL2Rlc3Qvc3JjL2c=</entry>
         <entry>wqa</entry>
         <entry>q</entry>
-        <entry>wa</entry>
+        <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
