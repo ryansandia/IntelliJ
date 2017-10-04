@@ -2057,11 +2057,11 @@
         <mark key="^" line="29" column="35" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507150010887">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="14" column="50" />
-        <mark key="^" line="14" column="50" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507155196195">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/offheap/generator/OffHeapAbstractClassMethodOrder.java" timestamp="1498601807382">
         <mark key="[" line="10" column="25" />
@@ -2124,10 +2124,11 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/exablaze.yml" timestamp="1507150057781">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/exablaze.yml" timestamp="1507155155106">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+        <mark key="^" line="26" column="17" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/BookOrder.java" timestamp="1504189219615">
         <mark key="[" line="6" column="10" />
@@ -2698,43 +2699,43 @@
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>{{ masked_cores }}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJjX2xvY2FsX2tlcm5lbF9jb25maWc6ICJ7eyBsb29rdXAoJ3RlbXBsYXRlJywgJ3RlbXBsYXRlcy9yYy5sb2NhbC5qMicpIH19Igo=</text>
+        <text encoding="base64">IyBUT0RPIC0tIG5lZWQgdG8gdXAgdGhlIGludGVyZmFjZSBvciB3YWl0IGZvciByZWJvb3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZXNlbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICBtYXNrZWRfY29yZV9yYW5nZTogInt7IGZpcnN0X21hc2tlZF9jb3JlIH19LXt7IGxhc3RfbWFza2VkX2NvcmUgfX0iCg==</text>
+        <text encoding="base64">IyBUT0RPIC0tIG1vZHByb2JlIGV4YW5pYwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBkZWJ1ZzogdmFyPXJjX2xvY2FsX2tlcm5lbF9jb25maWcK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hc2tlZF9jb3JlX3JhbmdlOiAie3sgZmlyc3RfbWFza2VkX2NvcmUgfX0uLnt7IGxhc3RfbWFza2VkX2NvcmUgfX0iCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgICBwYXNzd29yZDogJDYkOUhRTmhSZUlrNkM4R1hDTCQxUERGREU1aVpNWEdaLmM4bjlGS3Q0UGxRaGI5dGx1Y2lwSkJqU3cxT092OEF3OHF1THd6Q0toSkJwcFVTZEhYdEtkbWpsMHEvVHZTTFVZaHBzenpQLgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyAgICB1c2VybmFtZTogc2FuZGlhCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyAgICBtYXNrZWRfY29yZV9yYW5nZTogInt7IGZpcnN0X21hc2tlZF9jb3JlIH19LXt7IGxhc3RfbWFza2VkX2NvcmUgfX0iCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LSBkZWJ1ZzogdmFyPXJjX2xvY2FsX2tlcm5lbF9jb25maWcK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1hc2tlZF9jb3JlX3JhbmdlOiAie3sgZmlyc3RfbWFza2VkX2NvcmUgfX0uLnt7IGxhc3RfbWFza2VkX2NvcmUgfX0iCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyczoK</text>
+        <text encoding="base64">IyAgICBwYXNzd29yZDogJDYkOUhRTmhSZUlrNkM4R1hDTCQxUERGREU1aVpNWEdaLmM4bjlGS3Q0UGxRaGI5dGx1Y2lwSkJqU3cxT092OEF3OHF1THd6Q0toSkJwcFVTZEhYdEtkbWpsMHEvVHZTTFVZaHBzenpQLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
