@@ -689,6 +689,7 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/services.yml" timestamp="1507148159984" />
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/AddOrderLong.java" timestamp="1502316041161">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="18" column="39" />
@@ -767,6 +768,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/files/rt_settings.sh" timestamp="1507143679688">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Source/provision/hp_server/roles/rt/tasks/irqbalance.yml" timestamp="1507056003693">
         <mark key="[" line="0" column="0" />
@@ -1256,7 +1263,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="184" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/setup.yml" timestamp="1507071650460">
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/setup.yml" timestamp="1507149898469">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -2051,11 +2058,11 @@
         <mark key="^" line="29" column="35" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507071301287">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-        <mark key="^" line="7" column="13" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507150010887">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="50" />
+        <mark key="." line="14" column="50" />
+        <mark key="^" line="14" column="50" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/offheap/generator/OffHeapAbstractClassMethodOrder.java" timestamp="1498601807382">
         <mark key="[" line="10" column="25" />
@@ -2117,6 +2124,11 @@
         <mark key="]" line="5" column="59" />
         <mark key="^" line="5" column="59" />
         <mark key="." line="5" column="59" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/exablaze.yml" timestamp="1507150057781">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/BookOrder.java" timestamp="1504189219615">
         <mark key="[" line="6" column="10" />
@@ -2408,12 +2420,19 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="40" column="14" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" timestamp="1507073603850">
-        <mark key="'" line="8" column="85" />
-        <mark key="[" line="8" column="200" />
-        <mark key="]" line="8" column="200" />
-        <mark key="." line="8" column="200" />
-        <mark key="^" line="8" column="200" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/templates/rc.local.j2" timestamp="1507149762070">
+        <mark key="'" line="1" column="4" />
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="80" />
+        <mark key="." line="10" column="80" />
+        <mark key="^" line="10" column="80" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" timestamp="1507149895316">
+        <mark key="'" line="9" column="39" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="1" column="3" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/TradeExtended.java" timestamp="1502318001639">
         <mark key="[" line="14" column="0" />
@@ -2574,14 +2593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="592" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-all/5.2/ed60d4287d18996bc940f26656c570532b20d863/asm-all-5.2-sources.jar!/org/objectweb/asm/MethodVisitor.java" />
-      <jump line="93" column="22" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="297" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="149" column="24" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="151" column="31" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="153" column="31" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="148" column="6" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
-      <jump line="106" column="24" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="116" column="56" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/OrderExecutedWithPriceMsg.java" />
       <jump line="90" column="2" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
@@ -2674,6 +2685,14 @@
       <jump line="25" column="39" filename="$USER_HOME$/Source/provision/hp_server/roles/box/tasks/exablaze.yml" />
       <jump line="2" column="4" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" />
       <jump line="8" column="85" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" />
+      <jump line="1" column="16" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" />
+      <jump line="31" column="6" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/templates/rc.local.j2" />
+      <jump line="12" column="6" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/templates/rc.local.j2" />
+      <jump line="1" column="4" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/templates/rc.local.j2" />
+      <jump line="39" column="14" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" />
+      <jump line="16" column="0" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" />
+      <jump line="9" column="39" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2683,59 +2702,56 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>exanic_date</text>
+        <text>{{ masked_cores }}</text>
       </register>
-      <register name="0" type="4">
-        <text>GRUB_CMDLINE_LINUX_DEFAULT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJjX2xvY2FsX2tlcm5lbF9jb25maWc6ICJ7eyBsb29rdXAoJ3RlbXBsYXRlJywgJ3RlbXBsYXRlcy9yYy5sb2NhbC5qMicpIH19Igo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBuYW1lOiAK</text>
+        <text encoding="base64">IyAgICBtYXNrZWRfY29yZV9yYW5nZTogInt7IGZpcnN0X21hc2tlZF9jb3JlIH19LXt7IGxhc3RfbWFza2VkX2NvcmUgfX0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gbGludXgtbG93bGF0ZW5jeSAjIFRPRE8gLS0gcGVuZGluZyBjdXN0b20ga2VybmVsLi4uCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGluc2VydGFmdGVyOiAnXiNHUlVCX0NNRExJTkVfTElOVVhfREVGQVVMVD0nCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LSBkZWJ1ZzogdmFyPXJjX2xvY2FsX2tlcm5lbF9jb25maWcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1hc2tlZF9jb3JlX3JhbmdlOiAie3sgZmlyc3RfbWFza2VkX2NvcmUgfX0uLnt7IGxhc3RfbWFza2VkX2NvcmUgfX0iCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyAgICBwYXNzd29yZDogJDYkOUhRTmhSZUlrNkM4R1hDTCQxUERGREU1aVpNWEdaLmM4bjlGS3Q0UGxRaGI5dGx1Y2lwSkJqU3cxT092OEF3OHF1THd6Q0toSkJwcFVTZEhYdEtkbWpsMHEvVHZTTFVZaHBzenpQLgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">IyAgICB1c2VybmFtZTogc2FuZGlhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIHNldF9mYWN0OiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dmFyczoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>exanic_date</last-search>
+      <last-search>{{ masked_cores }}</last-search>
       <last-offset />
-      <last-pattern>exanic_date</last-pattern>
-      <last-replace>exanic_fw_rev</last-replace>
-      <last-substitute>exanic_date</last-substitute>
+      <last-pattern>{{ masked_cores }}</last-pattern>
+      <last-replace>{{ first_masked_core }}-{{ last_masked_core }}</last-replace>
+      <last-substitute>{{ masked_cores }}</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getord</entry>
-        <entry>validset</entry>
-        <entry>duplicate e</entry>
         <entry encoding="base64">XDxhZGRFeGVjdXRpb25JZFw+</entry>
         <entry encoding="base64">XDxERUZBVUxUX1JFUVVFU1RfVElNRU9VVFw+</entry>
         <entry>retries</entry>
@@ -2753,10 +2769,11 @@
         <entry>ignored</entry>
         <entry encoding="base64">ID0=</entry>
         <entry>exanic_date</entry>
+        <entry>core_range</entry>
+        <entry>lsat_un</entry>
+        <entry>{{ masked_cores }}</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Immutable//g</entry>
-        <entry>s</entry>
         <entry>s/addOrder/modifyOrder/g</entry>
         <entry encoding="base64">JzwsJz5zL21vZGlmeS9leGVjdXRlZC9n</entry>
         <entry encoding="base64">JzwsJz5zL21vZGlmeU9yZGVyL3RyYWRlL2c=</entry>
@@ -2773,6 +2790,8 @@
         <entry>vsp</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>%s/core_range/masked_cores/g</entry>
+        <entry>%s/{{ masked_cores }}/{{ first_masked_core }}-{{ last_masked_core }}/g</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
