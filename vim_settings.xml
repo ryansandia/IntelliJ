@@ -182,11 +182,11 @@
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/docker/rtkernel/Dockerfile" timestamp="1507213953216">
-        <mark key="[" line="8" column="96" />
-        <mark key="]" line="8" column="109" />
-        <mark key="^" line="8" column="109" />
-        <mark key="." line="8" column="109" />
+      <file name="$USER_HOME$/Source/cbceval/docker/rtkernel/Dockerfile" timestamp="1507214923326">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="72" />
+        <mark key="^" line="8" column="72" />
+        <mark key="." line="8" column="72" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/OrderReplaceMsg.java" timestamp="1505344359917">
         <mark key="[" line="35" column="95" />
@@ -2705,10 +2705,10 @@
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2NhY2hlIA==</text>
+        <text encoding="base64">ZXNzZW50aWFsIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2NhY2hlIA==</text>
+        <text encoding="base64">ZXNzZW50aWFsIA==</text>
       </register>
       <register name="/" type="4">
         <text>{{ masked_cores }}</text>
