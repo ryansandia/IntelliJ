@@ -182,12 +182,12 @@
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/docker/rtkernel/Dockerfile" timestamp="1507217269012">
+      <file name="$USER_HOME$/Source/cbceval/docker/rtkernel/Dockerfile" timestamp="1507227982447">
         <mark key="'" line="8" column="144" />
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="46" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="8" column="143" />
-        <mark key="." line="13" column="46" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/OrderReplaceMsg.java" timestamp="1505344359917">
         <mark key="[" line="35" column="95" />
@@ -696,6 +696,12 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/services.yml" timestamp="1507227928441">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/AddOrderLong.java" timestamp="1502316041161">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="18" column="39" />
@@ -1118,11 +1124,11 @@
         <mark key="^" line="12" column="58" />
         <mark key="." line="12" column="58" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/hosts" timestamp="1507154311949">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="11" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/hosts" timestamp="1507226112151">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/BookLevel.java" timestamp="1504794636287">
         <mark key="[" line="21" column="0" />
@@ -1568,6 +1574,12 @@
         <mark key="^" line="120" column="71" />
         <mark key="." line="120" column="71" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/docker/rtkernel/build.sh" timestamp="1507228041458">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/VenueDetailFactory.java" timestamp="1504648202574">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1586,11 +1598,10 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/packages.yml" timestamp="1507223588626">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="24" column="45" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/packages.yml" timestamp="1507226700034">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/ReplaceOrderMsg.java" timestamp="1503699847688">
         <mark key="[" line="25" column="32" />
@@ -2065,8 +2076,8 @@
         <mark key="^" line="29" column="35" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507155196195">
-        <mark key="[" line="19" column="16" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507228325583">
+        <mark key="[" line="23" column="0" />
         <mark key="]" line="19" column="17" />
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
@@ -2707,40 +2718,37 @@
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1vZGU6IDA3NTUK</text>
+        <text encoding="base64">bWFrZSBjbGVhbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>uboo</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cGF0Y2gtNC45LjQ3LXJ0MzcucGF0Y2guZ3og</text>
+        <text>make -j `getconf _NPROCESSORS_ONLN` deb-pkg LOCALVERSION=-custom</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGU6IDA3NTUK</text>
+        <text encoding="base64">bWFrZSBjbGVhbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QVJHIEtFUk5FTF9NSU5PUiA9IC40Nwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1JVTiBtYWtlIG9sZGNvbmZpZyAmJiBtYWtlIC1qIGBnZXRjb25mIF9OUFJPQ0VTU09SU19PTkxOYCBkZWItcGtnIExPQ0FMVkVSU0lPTj0tY3VzdG9tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4aXQgLQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>- name: ensure exanic module loaded
-  modprobe:
-    name: exanic
-    state: present</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb21tYW5kOiAvYmluL2d1bnppcCAtZiAvdXNyL3NiaW4vaHBvbmNmZy5neiAmJiBjaG1vZCAreCAvdXNyL3NiaW4vaHBvbmNmZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByZXNlbnQK</text>
+        <text encoding="base64">ICAgIG1vZGU6IDA3NTUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBUT0RPIC0tIG1vZHByb2JlIGV4YW5pYwo=</text>
+        <text encoding="base64">QVJHIEtFUk5FTF9NSU5PUiA9IC40Nwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -2802,8 +2810,8 @@
         <entry>%s/{{ masked_cores }}/{{ first_masked_core }}-{{ last_masked_core }}/g</entry>
         <entry>vsp</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>q</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
