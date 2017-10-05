@@ -440,6 +440,12 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/ansible.cfg" timestamp="1507231006103">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/ModifyOrderLong.java" timestamp="1502317231221">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="15" />
@@ -579,9 +585,6 @@
         <mark key="]" line="26" column="1" />
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1507069335074">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/AddOrderWithMPID.java" timestamp="1501191902837">
         <mark key="[" line="10" column="98" />
@@ -804,6 +807,12 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/user.yml" timestamp="1507229975154">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/OrderCancel.java" timestamp="1501191915482">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="13" />
@@ -815,6 +824,11 @@
         <mark key="]" line="36" column="41" />
         <mark key="^" line="36" column="41" />
         <mark key="." line="36" column="41" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/box.yml" timestamp="1507229934503">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/pitch/ReduceSizeLongMsg.java" timestamp="1504024430606">
         <mark key="[" line="14" column="38" />
@@ -1124,11 +1138,11 @@
         <mark key="^" line="12" column="58" />
         <mark key="." line="12" column="58" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/hosts" timestamp="1507226112151">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/hosts" timestamp="1507229857191">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="11" column="12" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/BookLevel.java" timestamp="1504794636287">
         <mark key="[" line="21" column="0" />
@@ -1244,6 +1258,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/core_switch/tasks/vlans.yml" timestamp="1507231812985">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
       </file>
       <file name="$USER_HOME$/Source/provision/hp_server/roles/exablaze/tasks/main.yml" timestamp="1507066062238">
         <mark key="[" line="43" column="23" />
@@ -1574,11 +1594,11 @@
         <mark key="^" line="120" column="71" />
         <mark key="." line="120" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/docker/rtkernel/build.sh" timestamp="1507228041458">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="10" column="8" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/docker/rtkernel/build.sh" timestamp="1507230524599">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="14" column="25" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/VenueDetailFactory.java" timestamp="1504648202574">
         <mark key="[" line="20" column="0" />
@@ -1673,6 +1693,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/switch.yml" timestamp="1507232190947">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/VenueFeedEvent.java" timestamp="1503439956705">
         <mark key="[" line="22" column="36" />
@@ -2076,11 +2102,11 @@
         <mark key="^" line="29" column="35" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507228325583">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507232801838">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/offheap/generator/OffHeapAbstractClassMethodOrder.java" timestamp="1498601807382">
         <mark key="[" line="10" column="25" />
@@ -2143,11 +2169,11 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/exablaze.yml" timestamp="1507211772838">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="31" column="1" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/exablaze.yml" timestamp="1507232783640">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="36" column="13" />
+        <mark key="^" line="36" column="13" />
+        <mark key="." line="36" column="13" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/book/BookOrder.java" timestamp="1504189219615">
         <mark key="[" line="6" column="10" />
@@ -2179,6 +2205,12 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/core_switch/tasks/main.yml" timestamp="1507232337042">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1504047903380">
         <mark key="[" line="33" column="8" />
@@ -2342,6 +2374,11 @@
         <mark key="^" line="49" column="44" />
         <mark key="." line="49" column="44" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/hosts.cfg" timestamp="1507232544942">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/CheckedS3FileOutputStream.java" timestamp="1499796120557">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="21" column="8" />
@@ -2496,6 +2533,12 @@
         <mark key="^" line="25" column="60" />
         <mark key="." line="25" column="60" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/core_switch/vars/main.yml" timestamp="1507232230894">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/channel/StripeEnvelope.java" timestamp="1506620744484">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="21" />
@@ -2612,7 +2655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/OrderExecutedWithPriceMsg.java" />
       <jump line="90" column="2" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
       <jump line="244" column="10" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/ClassParser.java" />
       <jump line="8" column="17" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/TradeMsg.java" />
@@ -2712,52 +2754,53 @@
       <jump line="16" column="0" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" />
       <jump line="9" column="39" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/kernel.yml" />
       <jump line="8" column="144" filename="$USER_HOME$/Source/cbceval/docker/rtkernel/Dockerfile" />
+      <jump line="8" column="0" filename="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/core_switch/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWFrZSBjbGVhbgo=</text>
+      <register name="&quot;" type="4">
+        <text>blaze</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>blaze</text>
       </register>
       <register name="/" type="4">
         <text>uboo</text>
       </register>
-      <register name="0" type="4">
-        <text>make -j `getconf _NPROCESSORS_ONLN` deb-pkg LOCALVERSION=-custom</text>
+      <register name="0" type="2">
+        <text encoding="base64">LS0tCi0gaG9zdHM6IHNlcnZlcnMKICB1c2VyOiBzYW5kaWEKICBnYXRoZXJfZmFjdHM6IHRydWUKCiAgdmFyczoKICAgIGV4YW5pY19md19yZXY6IDIwMTcwNTMwCiAgICBsYXN0X3VubWFza2VkX2NvcmU6IDEKICAgIGZpcnN0X21hc2tlZF9jb3JlOiAie3sgbGFzdF91bm1hc2tlZF9jb3JlIHwgaW50ICsgMSB9fSIKICAgIGxhc3RfbWFza2VkX2NvcmU6ICJ7eyBhbnNpYmxlX3Byb2Nlc3Nvcl92Y3B1cyB8IGludCAtIDEgfX0iCgogIHJvbGVzOgogICAgLSB1c2VyCiAgICAtIGJveAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFrZSBjbGVhbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I1JVTiBtYWtlIG9sZGNvbmZpZyAmJiBtYWtlIC1qIGBnZXRjb25mIF9OUFJPQ0VTU09SU19PTkxOYCBkZWItcGtnIExPQ0FMVkVSU0lPTj0tY3VzdG9tCg==</text>
+        <text encoding="base64">LSBpbXBvcnRfdGFza3M6IGZlYXR1cmVzLnltbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4aXQgLQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb21tYW5kOiAvYmluL2d1bnppcCAtZiAvdXNyL3NiaW4vaHBvbmNmZy5neiAmJiBjaG1vZCAreCAvdXNyL3NiaW4vaHBvbmNmZwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">LSBpbXBvcnRfdGFza3M6IHZsYW5zLnltbAogIHRhZ3M6IHZsYW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGU6IDA3NTUK</text>
+        <text encoding="base64">dmxhbnM6CiAgLSBpZDogMTAKICAgIG5hbWU6IG1kCgogIC0gaWQ6IDIwCiAgICBuYW1lOiBzYW5kaWEKCiAgLSBpZDogMzAKICAgIG5hbWU6IG9lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QVJHIEtFUk5FTF9NSU5PUiA9IC40Nwo=</text>
+        <text encoding="base64">ICAtIHsgZmVhdHVyZTogIm52IG92ZXJsYXkiIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICB2bGFuczoKICAgIC0gaWQ6IDEwCiAgICAgIG5hbWU6IG1kCgogICAgLSBpZDogMjAKICAgICAgbmFtZTogc2FuZGlhCgogICAgLSBpZDogMzAKICAgICAgbmFtZTogb2UK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2811,8 +2854,8 @@
         <entry>vsp</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
