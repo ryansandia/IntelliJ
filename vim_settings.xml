@@ -760,6 +760,12 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/exanic.yml" timestamp="1507235935753">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="38" column="12" />
+      </file>
       <file name="$USER_HOME$/Source/g2/nrt/build.gradle" timestamp="1501601867575">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="70" />
@@ -825,10 +831,11 @@
         <mark key="^" line="36" column="41" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/box.yml" timestamp="1507229934503">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/box.yml" timestamp="1507236158271">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/pitch/ReduceSizeLongMsg.java" timestamp="1504024430606">
         <mark key="[" line="14" column="38" />
@@ -1618,10 +1625,11 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/packages.yml" timestamp="1507226700034">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/packages.yml" timestamp="1507236443340">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/ReplaceOrderMsg.java" timestamp="1503699847688">
         <mark key="[" line="25" column="32" />
@@ -2101,12 +2109,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="^" line="29" column="35" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/box/tasks/main.yml" timestamp="1507232801838">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/offheap/generator/OffHeapAbstractClassMethodOrder.java" timestamp="1498601807382">
         <mark key="[" line="10" column="25" />
@@ -2760,44 +2762,44 @@
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>blaze</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>blaze</text>
+        <text>update all packages</text>
       </register>
       <register name="/" type="4">
         <text>uboo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0tCi0gaG9zdHM6IHNlcnZlcnMKICB1c2VyOiBzYW5kaWEKICBnYXRoZXJfZmFjdHM6IHRydWUKCiAgdmFyczoKICAgIGV4YW5pY19md19yZXY6IDIwMTcwNTMwCiAgICBsYXN0X3VubWFza2VkX2NvcmU6IDEKICAgIGZpcnN0X21hc2tlZF9jb3JlOiAie3sgbGFzdF91bm1hc2tlZF9jb3JlIHwgaW50ICsgMSB9fSIKICAgIGxhc3RfbWFza2VkX2NvcmU6ICJ7eyBhbnNpYmxlX3Byb2Nlc3Nvcl92Y3B1cyB8IGludCAtIDEgfX0iCgogIHJvbGVzOgogICAgLSB1c2VyCiAgICAtIGJveAo=</text>
+        <text encoding="base64">ICAgICAgdXBncmFkZTogZGlzdAogICAgICBhdXRvcmVtb3ZlOiB5ZXMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Iy0gbmFtZTogaW5zdGFsbCBiYXNpYyBwYWNrYWdlcwojICBhcHQ6CiMgICAgbmFtZTogInt7IGl0ZW0gfX0iCiMgIGJlY29tZTogdHJ1ZQojICB3aXRoX2l0ZW1zOgojICAgIC0gb3Blbmpkay04LWpkay1oZWFkbGVzcwojICAgIC0gbGludXgtdG9vbHMtY29tbW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBpbXBvcnRfdGFza3M6IGZlYXR1cmVzLnltbAo=</text>
+        <text encoding="base64">ICAgICAgYXV0b3JlbW92ZTogeWVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXBncmFkZTogZGlzdAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LSBpbXBvcnRfdGFza3M6IHZsYW5zLnltbAogIHRhZ3M6IHZsYW4K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB1cGRhdGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmxhbnM6CiAgLSBpZDogMTAKICAgIG5hbWU6IG1kCgogIC0gaWQ6IDIwCiAgICBuYW1lOiBzYW5kaWEKCiAgLSBpZDogMzAKICAgIG5hbWU6IG9lCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIHsgZmVhdHVyZTogIm52IG92ZXJsYXkiIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB2bGFuczoKICAgIC0gaWQ6IDEwCiAgICAgIG5hbWU6IG1kCgogICAgLSBpZDogMjAKICAgICAgbmFtZTogc2FuZGlhCgogICAgLSBpZDogMzAKICAgICAgbmFtZTogb2UK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB3aQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNhY2hlX3ZhbGlkX3RpbWU6IDM2MDAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2851,9 +2853,9 @@
         <entry>%s/exanic_date/exanic_fw_rev/g</entry>
         <entry>%s/core_range/masked_cores/g</entry>
         <entry>%s/{{ masked_cores }}/{{ first_masked_core }}-{{ last_masked_core }}/g</entry>
-        <entry>vsp</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
