@@ -586,7 +586,7 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507733510156">
+      <file name="/Dummy.txt" timestamp="1507734125537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/AddOrderWithMPID.java" timestamp="1501191902837">
@@ -1907,7 +1907,7 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1507733510161">
+      <file name="/fragment.java" timestamp="1507734125540">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -2456,11 +2456,13 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" timestamp="1507733619809">
-        <mark key="'" line="218" column="17" />
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" timestamp="1507734634092">
+        <mark key="a" line="240" column="17" />
+        <mark key="'" line="312" column="51" />
+        <mark key="[" line="268" column="31" />
+        <mark key="]" line="268" column="37" />
+        <mark key="^" line="268" column="37" />
+        <mark key="." line="268" column="37" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/event/VenueSpecific.java" timestamp="1504795022371">
         <mark key="[" line="6" column="20" />
@@ -2671,16 +2673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
-      <jump line="62" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
-      <jump line="74" column="21" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
-      <jump line="232" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.172/6f816f54af6cff4c0c453a49366e3e4888fa3c69/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/ClientConfiguration.java" />
-      <jump line="85" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.172/6f816f54af6cff4c0c453a49366e3e4888fa3c69/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/ClientConfiguration.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
-      <jump line="292" column="2" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
-      <jump line="289" column="135" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
-      <jump line="270" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="30" column="6" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/grid/impl2/node/DataStore.java" />
       <jump line="80" column="34" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
       <jump line="47" column="27" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3Utils.java" />
@@ -2771,70 +2763,68 @@
       <jump line="248" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="178" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="218" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="311" column="50" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="123" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="127" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="131" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="275" column="16" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="243" column="69" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="330" column="0" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="301" column="23" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="239" column="27" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="308" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>stock</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>stock</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</text>
+        <text>addorderid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50aWNrZXIgPSB0aWNrZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgVW5zYWZlQnVmZmVyIGJ1ZmZlciA9ICgoT2ZmSGVhcE1lbW9yeSkgb3JkZXIpLmJ1ZmZlcigpOwogICAgICBidWZmZXIuZ2V0Qnl0ZXMob3JkZXIuZ2V0SW5kZXgoKSwgZGF0YSwgMCwgb3JkZXIuc2l6ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDp3Cg==</text>
+        <text encoding="base64">ICAgICAgVW5zYWZlQnVmZmVyIGJ1ZmZlciA9ICgoT2ZmSGVhcE1lbW9yeSkgb3JkZXIpLmJ1ZmZlcigpOwogICAgICBidWZmZXIuZ2V0Qnl0ZXMob3JkZXIuZ2V0SW5kZXgoKSwgZGF0YSwgMCwgb3JkZXIuc2l6ZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYnVmZmVyLmdldEJ5dGVzKG9yZGVyLmdldEluZGV4KCksIGRhdGEsIDAsIG9yZGVyLnNpemUoKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>//    IDTracker(Ticker ticker, Trade trade) {
-//      this.ticker = ticker;
-////      UnsafeBuffer buffer = ((OffHeapMemory) trade).buffer();
-////      buffer.putBytes(((OffHeapMemory) trade).getIndex(), data, 0, trade.get);
-//    }
-//
-//    IDTracker(Ticker ticker, OrderExecutedMsg order) {
-//      this.ticker = ticker;
-//    }
-//
-//    IDTracker(Ticker ticker, OrderExecutedAtPriceMsg order) {
-//      this.ticker = ticker;
-//    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgVW5zYWZlQnVmZmVyIGJ1ZmZlciA9ICgoT2ZmSGVhcE1lbW9yeSkgb3JkZXIpLmJ1ZmZlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdHJhZGUuZ2V0YnUK</text>
+        <text encoding="base64">ICAgICAgYnVmZmVyLmdldEJ5dGVzKCgoT2ZmSGVhcE1lbW9yeSkgdHJhZGUpLmdldEluZGV4KCksIGRhdGEsIDAsIGJ5dGVzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgVW5zYWZlQnVmZmVyIGJ1ZmZlciA9ICgoT2ZmSGVhcE1lbW9yeSkgdHJhZGUpLmJ1ZmZlcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ5dGVbXSBkYXRhID0gbmV3IGJ5dGVbNjRdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYnVmZmVyLnB1dEJ5dGVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBpdGNoTWVzc2FnZS5nZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</last-search>
+      <last-search>addorderid</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</last-pattern>
+      <last-pattern>addorderid</last-pattern>
       <last-replace>{{ first_masked_core }}-{{ last_masked_core }}</last-replace>
       <last-substitute>{{ masked_cores }}</last-substitute>
       <last-dir>1</last-dir>
@@ -2842,7 +2832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>catch</entry>
         <entry encoding="base64">XDx1cGxvYWRNdWx0aXBhcnRMb3dMZXZlbEFQSVw+</entry>
         <entry encoding="base64">XDxnZXREZWZhdWx0UGFydFNpemVcPg==</entry>
         <entry encoding="base64">XDx1cGxvYWRGaWxlVG9TM1w+</entry>
@@ -2862,6 +2851,7 @@
         <entry>exist</entry>
         <entry>executionidmap</entry>
         <entry encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</entry>
+        <entry>addorderid</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21vZGlmeS9leGVjdXRlZC9n</entry>
