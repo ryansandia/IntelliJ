@@ -695,12 +695,12 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1507760480434">
-        <mark key="'" line="75" column="72" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="74" column="67" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1507826192997">
+        <mark key="'" line="77" column="72" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="76" column="67" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch41FileStream.java" timestamp="1498747848967">
         <mark key="[" line="14" column="0" />
@@ -2856,7 +2856,7 @@
         <text encoding="base64">ICAgICAgTG9jYWxEYXRlLm9mKDIwMTcsIDQsIDcpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2909,9 +2909,9 @@
         <entry>vsp</entry>
         <entry>sp</entry>
         <entry>q</entry>
+        <entry>wa</entry>
         <entry>W</entry>
         <entry>w</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
