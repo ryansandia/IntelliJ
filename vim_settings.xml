@@ -54,11 +54,11 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/time/DateUtils.kt" timestamp="1507925545622">
-        <mark key="'" line="32" column="97" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/time/DateUtils.kt" timestamp="1507928688619">
+        <mark key="'" line="30" column="97" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/component/VolumeForDay.kt" timestamp="1505151705234">
         <mark key="[" line="37" column="46" />
@@ -2488,11 +2488,12 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" timestamp="1507905899014">
-        <mark key="[" line="274" column="42" />
-        <mark key="]" line="275" column="60" />
-        <mark key="." line="275" column="60" />
-        <mark key="^" line="275" column="60" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" timestamp="1507928426342">
+        <mark key="'" line="179" column="51" />
+        <mark key="[" line="224" column="22" />
+        <mark key="]" line="224" column="32" />
+        <mark key="." line="224" column="32" />
+        <mark key="^" line="224" column="32" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1507912284676">
         <mark key="[" line="287" column="0" />
@@ -2707,9 +2708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="22" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" />
-      <jump line="253" column="11" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" />
-      <jump line="310" column="14" filename="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/StreamPlayer.java" />
       <jump line="115" column="0" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="434" column="50" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="436" column="47" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
@@ -2807,6 +2805,9 @@
       <jump line="131" column="42" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="549" column="22" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="32" column="97" filename="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/time/DateUtils.kt" />
+      <jump line="219" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="224" column="22" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="179" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2816,10 +2817,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">ZmluZFN0b2NrQnlFeGVjdXRpb25JZCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxXD4=</text>
+        <text encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICghcGF0aC5nZXRQYXJlbnQoKS50b0ZpbGUoKS5leGlzdHMoKSkgeyBwYXRoLmdldFBhcmVudCgpLnRvRmlsZSgpLm1rZGlycygpOyB9CiAgICBCdWZmZXJlZFdyaXRlciB3cml0ZXIgPSBGaWxlcy5uZXdCdWZmZXJlZFdyaXRlcihwYXRoKTsK</text>
@@ -2828,35 +2829,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgbWlzc2luZ0JZWERhdGVzID0gbGlzdE9mKExvY2FsRGF0ZS5vZigyMDE3LCA5LCAxOSkpIC8vIHVua25vd24gbWVzc2FnZSB0eXBlCg==</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcmludGxuKFVzZXFFeGNsdWRlRGF0ZXMubWlzc2luZ0JaWERhdGVzLnNpemUpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgbWlzc2luZ0JZWERhdGVzID0gbGlzdE9mKExvY2FsRGF0ZS5vZigyMDE0LCApKQo=</text>
+        <text encoding="base64">ICB2YWwgbWlzc2luZ0JaWERhdGVzID0gbGlzdE9mKExvY2FsRGF0ZS5vZigyMDA4LCAxMiwgMzApKSAvLyBudWxsIHBvaW50ZXIgaW4gc3RyaXBpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBGZWVkLkJaCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>, LocalDate.of(2009, 1, 27),
-      LocalDate.of(2010, 7, 22), LocalDate.of(2011, 1, 19),
-      LocalDate.of(2011, 2, 7), LocalDate.of(2011, 3, 15),
-      LocalDate.of(2012, 2, 1), LocalDate.of(2012, 2, 17),
-      LocalDate.of(2012, 4, 16),
-      LocalDate.of(2014, 12, 5), LocalDate.of(2015, 5, 14),
-      LocalDate.of(2015, 11, 30), LocalDate.of(2015, 12, 8),
-      LocalDate.of(2015, 12, 10), LocalDate.of(2016, 1, 29),
-      LocalDate.of(2016, 2, 3), LocalDate.of(2016, 2, 5),
-      LocalDate.of(2016, 2, 25), LocalDate.of(2016, 3, 7),
-      LocalDate.of(2016, 9, 16))</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB2YWwgbWlzc2luZ0JZWERhdGVzID0gbGlzdE9mKExvY2FsRGF0ZS5vZigyMDE3LCA5LCAxOSkpIC8vIHVua25vd24gbWVzc2FnZSB0eXBlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -2866,9 +2857,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxXD4=</last-search>
+      <last-search encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</last-pattern>
       <last-replace>{{ first_masked_core }}-{{ last_masked_core }}</last-replace>
       <last-substitute>{{ masked_cores }}</last-substitute>
       <last-dir>1</last-dir>
@@ -2876,7 +2867,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mac_hi</entry>
         <entry>hid</entry>
         <entry>aes</entry>
         <entry>ghash</entry>
@@ -2896,6 +2886,7 @@
         <entry>uploaded</entry>
         <entry encoding="base64">XDxCeXRlc0Zyb21TM1w+</entry>
         <entry encoding="base64">XDwxXD4=</entry>
+        <entry encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21vZGlmeS9leGVjdXRlZC9n</entry>
