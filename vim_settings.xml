@@ -637,9 +637,9 @@
         <mark key="." line="11" column="63" />
         <mark key="^" line="11" column="63" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" timestamp="1507837552944">
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" timestamp="1507931901411">
         <mark key="a" line="209" column="21" />
-        <mark key="'" line="189" column="0" />
+        <mark key="'" line="495" column="0" />
         <mark key="[" line="495" column="0" />
         <mark key="]" line="495" column="0" />
         <mark key="." line="495" column="0" />
@@ -2708,7 +2708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="434" column="50" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="436" column="47" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="437" column="50" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
@@ -2808,6 +2807,7 @@
       <jump line="219" column="17" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="224" column="22" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="179" column="51" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
+      <jump line="495" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2820,7 +2820,7 @@
         <text encoding="base64">ZmluZFN0b2NrQnlFeGVjdXRpb25JZCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</text>
+        <text>getandad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICghcGF0aC5nZXRQYXJlbnQoKS50b0ZpbGUoKS5leGlzdHMoKSkgeyBwYXRoLmdldFBhcmVudCgpLnRvRmlsZSgpLm1rZGlycygpOyB9CiAgICBCdWZmZXJlZFdyaXRlciB3cml0ZXIgPSBGaWxlcy5uZXdCdWZmZXJlZFdyaXRlcihwYXRoKTsK</text>
@@ -2857,9 +2857,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</last-search>
+      <last-search>getandad</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</last-pattern>
+      <last-pattern>getandad</last-pattern>
       <last-replace>{{ first_masked_core }}-{{ last_masked_core }}</last-replace>
       <last-substitute>{{ masked_cores }}</last-substitute>
       <last-dir>1</last-dir>
@@ -2867,7 +2867,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hid</entry>
         <entry>aes</entry>
         <entry>ghash</entry>
         <entry>lrw</entry>
@@ -2887,6 +2886,7 @@
         <entry encoding="base64">XDxCeXRlc0Zyb21TM1w+</entry>
         <entry encoding="base64">XDwxXD4=</entry>
         <entry encoding="base64">XDxmaW5kU3RvY2tCeUV4ZWN1dGlvbklkXD4=</entry>
+        <entry>getandad</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21vZGlmeS9leGVjdXRlZC9n</entry>
