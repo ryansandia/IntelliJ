@@ -54,11 +54,10 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/time/DateUtils.kt" timestamp="1507922794551">
-        <mark key="[" line="26" column="76" />
-        <mark key="]" line="26" column="80" />
-        <mark key="." line="26" column="80" />
-        <mark key="^" line="26" column="80" />
+      <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/time/DateUtils.kt" timestamp="1507924889809">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/component/VolumeForDay.kt" timestamp="1505151705234">
         <mark key="[" line="37" column="46" />
@@ -2828,18 +2827,24 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2YWwgbWlzc2luZ0JZWERhdGVzID0gbGlzdE9mKExvY2FsRGF0ZS5vZigyMDE3LCA5LCAxOSkpIC8vIHVua25vd24gbWVzc2FnZSB0eXBlCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgbWlzc2luZ0JZWERhdGVzID0gbGlzdE9mKExvY2FsRGF0ZS5vZigyMDE0LCApKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB2YWwgbWlzc2luZ0JZWERhdGVzID0gbGlzdE9mKExvY2FsRGF0ZS5vZigyMDE0LCApKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBGZWVkLkJaCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>, LocalDate.of(2009, 1, 27),
       LocalDate.of(2010, 7, 22), LocalDate.of(2011, 1, 19),
       LocalDate.of(2011, 2, 7), LocalDate.of(2011, 3, 15),
@@ -2852,17 +2857,11 @@
       LocalDate.of(2016, 2, 25), LocalDate.of(2016, 3, 7),
       LocalDate.of(2016, 9, 16))</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSBzdGF0aWMgTGlzdDxTeW1ib2xBbmRGZWVkPiBhbGxTeW1ib2xBbmRGZWVkRm9yRGF0ZShMb2NhbERhdGUgZGF0ZSwgRmVlZCBmZWVkKSB7CiAgICBJbW11dGFibGVNYXA8VGlja2VyLCBTYW5kaWFTeW1ib2w+IHN5bWJvbE1hcCA9IFNhbmRpYVN5bWJvbERhdGFJbnRlcmZhY2UuSU5TVEFOQ0UuZ2V0VGlja2VyVG9TYW5kaWFTeW1ib2xNYXAoZGF0ZSk7CgogICAgTGlzdDxTeW1ib2xBbmRGZWVkPiByZXR2YWwgPSBMaXN0cy5uZXdBcnJheUxpc3QoKTsKICAgIHN5bWJvbE1hcC5mb3JFYWNoKCh0aWNrZXIsIHN5bWJvbCkgLT4gcmV0dmFsLmFkZChTeW1ib2xBbmRGZWVkLm9mKHN5bWJvbCwgZmVlZCkpKTsKICAgIHJldHVybiByZXR2YWw7CiAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgam9icy5mb3JFYWNoKGpvYiAtPiB3cml0ZUVudHJ5KHdyaXRlciwgam9iLmdldCgpKSk7Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2916,8 +2915,8 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
