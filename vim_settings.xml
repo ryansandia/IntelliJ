@@ -1079,10 +1079,11 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1507911056156">
-        <mark key="[" line="354" column="3" />
-        <mark key="]" line="436" column="3" />
-        <mark key="." line="354" column="3" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" timestamp="1507912335732">
+        <mark key="[" line="156" column="13" />
+        <mark key="]" line="156" column="18" />
+        <mark key="." line="156" column="18" />
+        <mark key="^" line="156" column="18" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/aws/S3FileOutputStream.java" timestamp="1501078018501">
         <mark key="[" line="65" column="0" />
@@ -2492,7 +2493,7 @@
         <mark key="." line="275" column="60" />
         <mark key="^" line="275" column="60" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1507910894176">
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/RyanMain.java" timestamp="1507912284676">
         <mark key="[" line="287" column="0" />
         <mark key="]" line="311" column="2" />
       </file>
@@ -2811,10 +2812,10 @@
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSBzdGF0aWMgPFQ+IHZvaWQgd3JpdGVFbnRyeShCdWZmZXJlZFdyaXRlciB3cml0ZXIsIExpc3Q8VD4gZXJyb3JzKSB7CiAgICB0cnkgewogICAgICBmb3IgKFQgZXJyb3IgOiBlcnJvcnMpIHsKICAgICAgICB3cml0ZXIud3JpdGUoZXJyb3IudG9TdHJpbmcoKSk7CiAgICAgICAgd3JpdGVyLm5ld0xpbmUoKTsKICAgICAgfQoKICAgICAgd3JpdGVyLmZsdXNoKCk7CiAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgfQoKICBwcml2YXRlIHN0YXRpYyA8VD4gdm9pZCB3cml0ZUVudHJ5KEJ1ZmZlcmVkV3JpdGVyIHdyaXRlciwgVCBlcnJvcikgewogICAgaWYgKGVycm9yICE9IG51bGwpIHsKICAgICAgdHJ5IHsKICAgICAgICB3cml0ZXIud3JpdGUoZXJyb3IudG9TdHJpbmcoKSk7CiAgICAgICAgd3JpdGVyLm5ld0xpbmUoKTsKCiAgICAgICAgd3JpdGVyLmZsdXNoKCk7CiAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICB9CiAgICB9CiAgfQ==</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>key);</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCeXRlc0Zyb21TM1w+</text>
@@ -2902,9 +2903,9 @@
         <entry>%s/{{ masked_cores }}/{{ first_masked_core }}-{{ last_masked_core }}/g</entry>
         <entry>sp</entry>
         <entry>W</entry>
-        <entry>vsp</entry>
         <entry>q</entry>
         <entry>wa</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
