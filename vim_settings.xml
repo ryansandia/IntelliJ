@@ -680,12 +680,12 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1507910218315">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="75" column="16" />
-        <mark key="]" line="75" column="19" />
-        <mark key="." line="75" column="19" />
-        <mark key="^" line="75" column="19" />
+      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" timestamp="1508170498574">
+        <mark key="'" line="151" column="33" />
+        <mark key="[" line="199" column="40" />
+        <mark key="]" line="199" column="63" />
+        <mark key="." line="199" column="63" />
+        <mark key="^" line="199" column="63" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/historical/itchStriper/Itch41FileStream.java" timestamp="1498747848967">
         <mark key="[" line="14" column="0" />
@@ -2715,10 +2715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="776" column="28" filename="$USER_HOME$/Source/cbceval/docker/rtkernel/kernel_config" />
-      <jump line="6931" column="8" filename="$USER_HOME$/Source/cbceval/docker/rtkernel/kernel_config" />
-      <jump line="6930" column="29" filename="$USER_HOME$/Source/cbceval/docker/rtkernel/kernel_config" />
-      <jump line="6015" column="20" filename="$USER_HOME$/Source/cbceval/docker/rtkernel/kernel_config" />
       <jump line="266" column="39" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/bats/PitchCaptureEventHandler.java" />
       <jump line="55" column="65" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
       <jump line="84" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
@@ -2815,37 +2811,41 @@
       <jump line="85" column="24" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="99" column="24" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
       <jump line="112" column="24" filename="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/StripeVerifier.java" />
+      <jump line="54" column="32" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
+      <jump line="194" column="28" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
+      <jump line="119" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
+      <jump line="152" column="33" filename="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/Striper.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyeSB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>file exists on S3</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>file exists on S3</text>
       </register>
       <register name="/" type="4">
-        <text>writeen</text>
+        <text encoding="base64">XDxyZXNvbHZlSW5wdXRGaWxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSBmaW5hbCBsb25nIGJpZFNlcXVlbmNlOwogICAgICBwcml2YXRlIGZpbmFsIGxvbmcgYmlkVGltZXN0YW1wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiY2hlY2tpbmcgczM6Ly97fS97fSBmb3IgcHJlc2VuY2UiLCBGZWVkRGV0YWlsLlNUUklQRV9CVUNLRVQsIGZlZWREZXRhaWwuZ2V0Q2FwdHVyZVByb3ZpZGVuY2VLZXkoKSk7CiAgICAgICAgICBpZiAoIVMzVXRpbHMuZG9lc09iamVjdEV4aXN0KEZlZWREZXRhaWwuU1RSSVBFX0JVQ0tFVCwgZmVlZERldGFpbC5nZXRDYXB0dXJlUHJvdmlkZW5jZUtleSgpKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEV4Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ewogICAgICBmb3IgKFQgZXJyb3IgOiBlcnJvcnMpIHsKICAgICAgICB3cml0ZXIud3JpdGUoZXJyb3IudG9TdHJpbmcoKSk7CiAgICAgICAgd3JpdGVyLm5ld0xpbmUoKTsKICAgICAgfQoKICAgICAgd3JpdGVyLmZsdXNoKCk7CiAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5uZWdhdGl2ZVF0eSsrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5sb2NrZWRNYXJrZXRzKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsS2V5cy5hZGQoa2V5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5jcm9zc2VkTWFya2V0cysrOyAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2985,25 +2985,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsS2V5cy5hZGQoa2V5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZCgidGltZXN0YW1wIiwgdGltZXN0YW1wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICghUzNVdGlscy5kb2VzT2JqZWN0RXhpc3QoRmVlZERldGFpbC5TVFJJUEVfQlVDS0VULCBmZWVkRGV0YWlsLmdldENhcHR1cmVQcm92aWRlbmNlS2V5KCkpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>writeen</last-search>
+      <last-search encoding="base64">XDxyZXNvbHZlSW5wdXRGaWxlc1w+</last-search>
       <last-offset />
-      <last-pattern>writeen</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNvbHZlSW5wdXRGaWxlc1w+</last-pattern>
       <last-replace>{{ first_masked_core }}-{{ last_masked_core }}</last-replace>
       <last-substitute>{{ masked_cores }}</last-substitute>
       <last-dir>1</last-dir>
@@ -3011,7 +3011,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addorder</entry>
         <entry encoding="base64">XDxhZGRPcmRlclw+</entry>
         <entry encoding="base64">XDxBZGRPcmRlclw+</entry>
         <entry>addOrdeR(</entry>
@@ -3031,6 +3030,7 @@
         <entry>hasiss</entry>
         <entry>neg</entry>
         <entry>writeen</entry>
+        <entry encoding="base64">XDxyZXNvbHZlSW5wdXRGaWxlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21vZGlmeS9leGVjdXRlZC9n</entry>
