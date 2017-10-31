@@ -118,6 +118,9 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/internal/WaitPolicy.java" timestamp="1509463561576">
+        <mark key="[" line="3" column="81" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/HistoricalItchData.java" timestamp="1503515348471">
         <mark key="[" line="11" column="47" />
         <mark key="]" line="11" column="56" />
@@ -148,9 +151,6 @@
         <mark key="]" line="2" column="54" />
         <mark key="^" line="2" column="54" />
         <mark key="." line="2" column="54" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/itch/Itch40CaptureEventHandler.java" timestamp="1509395174674">
-        <mark key="'" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/kotlin/com/sandiacap/nrt/striper/InvalidDates.kt" timestamp="1508178372026">
         <mark key="[" line="4" column="7" />
@@ -188,10 +188,11 @@
         <mark key="." line="83" column="59" />
         <mark key="^" line="83" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/SpinWaitPolicy.java" timestamp="1509397343150">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/SpinWaitPolicy.java" timestamp="1509463654006">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="15" column="66" />
+        <mark key="." line="15" column="66" />
+        <mark key="^" line="15" column="66" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch40/BrokenTrade.java" timestamp="1501529550660">
         <mark key="[" line="12" column="34" />
@@ -1510,6 +1511,12 @@
         <mark key="^" line="58" column="49" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/internal/SequenceGroup.java" timestamp="1509463637221">
+        <mark key="[" line="41" column="3" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+        <mark key="^" line="44" column="24" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/pitch/TimeMsg.java" timestamp="1504023121780">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="61" />
@@ -1671,6 +1678,12 @@
         <mark key="]" line="8" column="42" />
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/test/com/sandiacap/realtime/rb/SpinWaitTest.java" timestamp="1509464028090">
+        <mark key="[" line="26" column="75" />
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="27" column="27" />
+        <mark key="." line="27" column="27" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/md/ResearchLevelBookHelpers.kt" timestamp="1505143324627">
         <mark key="[" line="3" column="0" />
@@ -2992,11 +3005,11 @@
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new SEq)</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>new SEq)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbGlnbmVkQnl0ZXNcPg==</text>
@@ -3005,19 +3018,19 @@
         <text encoding="base64">ICAgIGludCBhbGlnbmVkQnl0ZXMgPSBCaXRVdGlscy5hbGlnbih0b3RhbFJlcXVlc3RlZEJ5dGVzLCBCaXRVdGlscy5TSVpFX09GX0NBQ0hFX0xJTkUpOyAvLyBhbGlnbiBvbiBwYWdlIGluc3RlYWQ/Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNwaW5XYWl0UG9saWN5IHNwaW5XYWl0UG9saWN5ID0gbmV3IFNwaW5XYWl0UG9saWN5KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9tCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJiLmdldEJ1ZmZlcigpLmNhcGFjaXR5KCkgLSBCaXRVdGlscy5TSVpFX09GX0NBQ0hFX0xJTkUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgVW5zYWZlQnVmZmVyIHVuc2FmZUJ1ZmZlciA9IG5ldyBVbnNhZmVCdWZmZXIocmIuZ2V0QnVmZmVyKCkuYWRkcmVzcygpICsgQml0VXRpbHMuU0laRV9PRl9DQUNIRV9MSU5FLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3157,19 +3170,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIC0tIHNvbWUgc29ydCBvZiBtZW1vcnkgYWxsb2NhdGlvbiBmYWN0b3J5Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJiLmdldEJ1ZmZlcigpLmNhcGFjaXR5KCkgLSBCaXRVdGlscy5TSVpFX09GX0NBQ0hFX0xJTkUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgVW5zYWZlQnVmZmVyIHVuc2FmZUJ1ZmZlciA9IG5ldyBVbnNhZmVCdWZmZXIocmIuZ2V0QnVmZmVyKCkuYWRkcmVzcygpICsgQml0VXRpbHMuU0laRV9PRl9DQUNIRV9MSU5FLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgdGhpcy5ldmVudCA9IGFsbG9jYXRvci5hdHRhY2godGhpcy5idWZmZXIpOwo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIC0tIHNvbWUgc29ydCBvZiBtZW1vcnkgYWxsb2NhdGlvbiBmYWN0b3J5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgdGhpcy5ldmVudCA9IGFsbG9jYXRvci5hdHRhY2gobmV3IFVuc2FmZUJ1ZmZlcihiZWdpbkV2ZW50QXJlYSwgZXZlbnRDYXBhY2l0eSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -3223,8 +3236,8 @@
         <entry>s/\, 1//g</entry>
         <entry encoding="base64">JzwsJz5zLywgMS8vZw==</entry>
         <entry>vsp</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
