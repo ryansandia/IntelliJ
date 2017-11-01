@@ -1316,7 +1316,7 @@
         <mark key="^" line="77" column="71" />
         <mark key="." line="77" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/internal/SingleProducerSequencer.java" timestamp="1509563234017">
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/internal/SingleProducerSequencer.java" timestamp="1509563325505">
         <mark key="[" line="45" column="60" />
         <mark key="]" line="45" column="76" />
         <mark key="." line="45" column="76" />
@@ -1742,6 +1742,12 @@
         <mark key="]" line="14" column="25" />
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/rb/MultiProducerTest.java" timestamp="1509563530713">
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="23" column="47" />
+        <mark key="." line="23" column="47" />
+        <mark key="^" line="22" column="20" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/VenueDetailFactory.java" timestamp="1504648202574">
         <mark key="[" line="20" column="0" />
@@ -2179,13 +2185,13 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/internal/MultiProducerSequencer.java" timestamp="1509563212545">
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/internal/MultiProducerSequencer.java" timestamp="1509563445842">
         <mark key="a" line="64" column="20" />
         <mark key="'" line="64" column="20" />
-        <mark key="[" line="108" column="19" />
-        <mark key="]" line="110" column="15" />
-        <mark key="." line="110" column="15" />
-        <mark key="^" line="110" column="15" />
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="13" column="8" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/PitchMessage.java" timestamp="1503697469560">
         <mark key="[" line="72" column="13" />
@@ -2932,32 +2938,32 @@
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>next</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhmYWxzZSwgc2VxdWVuY2VyLmlzQXZhaWxhYmxlKDQpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>next</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnYXRpbmdTZXF1ZW5jZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdhaXRQb2xpY3kuc2lnbmFsQWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhmYWxzZSwgc2VxdWVuY2VyLmlzQXZhaWxhYmxlKDQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1Ymxpcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBNdWx0aVByb2R1Y2VyVGVzdCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdhaXRQb2xpY3kuc2lnbmFsQWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG1pbiA9IGdhdGluZ1NlcXVlbmNlcy5nZXQoY3VycmVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdhaXRQb2xpY3kuc2lnbmFsQWxsKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3097,19 +3103,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgd2FpdFBvbGljeS53YWl0Rm9yU2VxdWVuY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAod3JhcFBvaW50ID4gbWluKSB7ZGQK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIG1pbiA9IGdhdGluZ1NlcXVlbmNlcy5nZXQoY3VycmVudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2FpdFBvbGljeS5zaWduYWxBbGwoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgd2FpdFBvbGljeS53YWl0Rm9yU2VxdWVuY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd2hpIGxlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAod3JhcFBvaW50ID4gbWluKSB7ZGQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -3162,9 +3168,9 @@
         <entry encoding="base64">JzwsJz5zL0RvdWJsZXMvTG9uZ3MvZw==</entry>
         <entry>vsp</entry>
         <entry>&quot;w</entry>
-        <entry>wa</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
