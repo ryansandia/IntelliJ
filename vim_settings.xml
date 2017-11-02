@@ -63,12 +63,12 @@
         <mark key="." line="37" column="74" />
         <mark key="^" line="37" column="74" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1509572746160">
-        <mark key="'" line="74" column="39" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1509629768480">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="132" column="3" />
+        <mark key="]" line="134" column="26" />
+        <mark key="." line="134" column="26" />
+        <mark key="^" line="134" column="26" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/WTSItch50SymbolPlayer.java" timestamp="1505154635758">
         <mark key="[" line="62" column="76" />
@@ -208,11 +208,11 @@
         <mark key="^" line="37" column="74" />
         <mark key="." line="37" column="74" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1509570938457">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="25" column="89" />
+      <file name="$USER_HOME$/Source/cbceval/dependencies.gradle" timestamp="1509628838630">
+        <mark key="[" line="27" column="90" />
+        <mark key="]" line="27" column="90" />
+        <mark key="." line="27" column="90" />
+        <mark key="^" line="27" column="73" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch41/OrderReplaceMsg.java" timestamp="1505344359917">
         <mark key="[" line="35" column="95" />
@@ -454,11 +454,11 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1509572366253">
-        <mark key="[" line="48" column="34" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/other/build.gradle" timestamp="1509629777145">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/Trade.java" timestamp="1502381884593">
         <mark key="[" line="17" column="57" />
@@ -622,6 +622,9 @@
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509628907298">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/AddOrderWithMPID.java" timestamp="1501191902837">
         <mark key="[" line="10" column="98" />
@@ -2840,7 +2843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="9" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/OffHeapMemory.java" />
       <jump line="58" column="22" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="74" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="81" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
@@ -2940,6 +2942,7 @@
       <jump line="67" column="20" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/internal/MultiProducerSequencer.java" />
       <jump line="18" column="48" filename="$USER_HOME$/Source/cbceval/build.gradle" />
       <jump line="66" column="39" filename="$USER_HOME$/Source/cbceval/build.gradle" />
+      <jump line="102" column="0" filename="$USER_HOME$/Source/cbceval/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2949,28 +2952,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>IllegalArgumentException</text>
+        <text>Platform</text>
       </register>
       <register name="/" type="4">
         <text>buildsc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0ZXN0UnVudGltZSBsaWJzLmp1bml0TGF1bmNoZXIKICB0ZXN0UnVudGltZSBsaWJzLmp1bml0UnVubmVyCg==</text>
+        <text encoding="base64">ICB0ZXN0Q29tcGlsZSBsaWJzLmp1bml0CiAgdGVzdFJ1bnRpbWUgbGlicy5qdW5pdExhdW5jaGVyCiAgdGVzdFJ1bnRpbWUgbGlicy5qdW5pdEVuZ2luZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICBtYXZlbkNlbnRyYWwoKQp9Cg==</text>
+        <text encoding="base64">ICB0ZXN0UnVudGltZSBsaWJzLmp1bml0RW5naW5lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdvcmcuanVuaXQucGxhdGZvcm0uZ3JhZGxlLnBsdWdpbicK</text>
+        <text encoding="base64">ICB0ZXN0UnVudGltZSBsaWJzLmp1bml0TGF1bmNoZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZUNsYXNzTmFtZVBhdHRlcm4gJy4qVGVzdCcK</text>
+        <text encoding="base64">ICB0ZXN0Q29tcGlsZSBsaWJzLmp1bml0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluJyAvKiBWZXJzaW9ucyBhbmQgYWxpYXNlcyBmb3IgYWxsIGxpYnJhcmllcyAqLwo=</text>
+        <text encoding="base64">ICAgIGFyCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3110,16 +3113,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnb3JnLmp1bml0LnBsYXRmb3JtLmdyYWRsZS5wbHVnaW4nCg==</text>
+        <text encoding="base64">ICAgIGxpYnMuanVuaXQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">anVuaXRQbGF0Zm9ybSB7CiAgLy8gcGxhdGZvcm1WZXJzaW9uICcxLjAuMScKICBmaWx0ZXJzIHsKICAgIGVuZ2luZXMgewogICAgICBpbmNsdWRlICdqdW5pdC1qdXBpdGVyJwogICAgICAvLyBpbmNsdWRlICdqdW5pdC1qdXBpdGVyJywgJ2p1bml0LXZpbnRhZ2UnCiAgICAgIC8vIGV4Y2x1ZGUgJ2N1c3RvbS1lbmdpbmUnCiAgICB9CiAgICB0YWdzIHsKICAgICAgLy8gaW5jbHVkZSAnZmFzdCcKLy8gICAgICBleGNsdWRlICdzbG93JwogICAgfQogICAgaW5jbHVkZUNsYXNzTmFtZVBhdHRlcm4gJy4qVGVzdCcKICB9CiAgLy8gZW5hYmxlU3RhbmRhcmRUZXN0VGFzayB0cnVlCiAgLy8gcmVwb3J0c0RpciBmaWxlKCdidWlsZC90ZXN0LXJlc3VsdHMvanVuaXQtcGxhdGZvcm0nKSAvLyB0aGlzIGlzIHRoZSBkZWZhdWx0CiAgbG9nTWFuYWdlciAnb3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqLmp1bC5Mb2dNYW5hZ2VyJwp9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvcmcuanVuaXQucGxhdGZvcm06anVuaXQtcGxhdGZvcm0tZ3JhZGxlLXBsdWdpbjoxLjAuMScK</text>
+        <text encoding="base64">ICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3162,7 +3165,6 @@
         <entry>ew</entry>
         <entry>action Back</entry>
         <entry>s</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>a</entry>
         <entry encoding="base64">JzwsJz5zL3VwZGF0ZXIvU0VRVUVOQ0VfVVBEQVRFUi9n</entry>
@@ -3175,8 +3177,9 @@
         <entry encoding="base64">JzwsJz5zL0RvdWJsZXMvTG9uZ3MvZw==</entry>
         <entry>vsp</entry>
         <entry>&quot;w</entry>
-        <entry>wa</entry>
         <entry>q</entry>
+        <entry>wa</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
