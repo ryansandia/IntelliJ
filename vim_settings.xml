@@ -610,9 +610,6 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509628907298">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/itch41/AddOrderWithMPID.java" timestamp="1501191902837">
         <mark key="[" line="10" column="98" />
         <mark key="]" line="11" column="1" />
@@ -905,6 +902,12 @@
         <mark key="]" line="2" column="50" />
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/settings.gradle" timestamp="1509640994570">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="66" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/SystemEventMsg.java" timestamp="1503695932278">
         <mark key="[" line="5" column="52" />
@@ -2005,9 +2008,6 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1509560256827">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/dedge/ModifyOrderShort.java" timestamp="1502317304140">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="15" column="27" />
@@ -2867,8 +2867,8 @@
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly9wcm9qZWN0KCc6cGVvcGxlJykucHJvamVjdERpciA9ICIkcm9vdERpci9wZW9wbGUiIGFzIEZpbGUK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -2880,16 +2880,16 @@
         <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoImRlcHJlY2F0aW9uIikK</text>
+        <text encoding="base64">Ly9wcm9qZWN0KCc6cGVvcGxlJykucHJvamVjdERpciA9ICIkcm9vdERpci9wZW9wbGUiIGFzIEZpbGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
+        <text encoding="base64">Ly9pbmNsdWRlICc6cGVvcGxlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoImRlcHJlY2F0aW9uIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -3032,16 +3032,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXBlbmRlbmNpZXMgewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGxpYnMuanVuaXQKICAgIHRlc3RDb21waWxlIGxpYnMua290bGluVGVzdAogICAgdGVzdENvbXBpbGUgbGlicy5rb3RsaW5UZXN0SnVuaXQKICAgIHRlc3RDb21waWxlICJvcmcuYXBpZ3VhcmRpYW46YXBpZ3VhcmRpYW4tYXBpOjEuMC4wIiAvLyByZW1vdmUgcGVuZGluZyB1cGRhdGUgdG8ganVuaXQ1LCBzaWxlbmNlcyB1bmtub3duIGVudW0gZXJyb3JzCiAgICB0ZXN0UnVudGltZSBsaWJzLmp1bml0Q29uc29sZQogICAgdGVzdFJ1bnRpbWUgbGlicy5qdW5pdExhdW5jaGVyCiAgICB0ZXN0UnVudGltZSBsaWJzLmp1bml0RW5naW5l</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkZXBlbmRlbmNpZXMgewo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGxpYnMuanVuaXQKICAgIHRlc3RDb21waWxlIGxpYnMua290bGluVGVzdAogICAgdGVzdENvbXBpbGUgbGlicy5rb3RsaW5UZXN0SnVuaXQKICAgIHRlc3RDb21waWxlICJvcmcuYXBpZ3VhcmRpYW46YXBpZ3VhcmRpYW4tYXBpOjEuMC4wIiAvLyByZW1vdmUgcGVuZGluZyB1cGRhdGUgdG8ganVuaXQ1LCBzaWxlbmNlcyB1bmtub3duIGVudW0gZXJyb3JzCiAgICB0ZXN0UnVudGltZSBsaWJzLmp1bml0Q29uc29sZQogICAgdGVzdFJ1bnRpbWUgbGlicy5qdW5pdExhdW5jaGVyCiAgICB0ZXN0UnVudGltZSBsaWJzLmp1bml0RW5naW5l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3098,8 +3098,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Lw</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>Wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
