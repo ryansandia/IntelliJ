@@ -236,7 +236,7 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/internal/AbstractSequencer.java" timestamp="1509658110270">
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/internal/AbstractSequencer.java" timestamp="1509659551448">
         <mark key="[" line="55" column="2" />
         <mark key="]" line="55" column="8" />
         <mark key="." line="55" column="8" />
@@ -290,7 +290,7 @@
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/rb/RingBufferTest.java" timestamp="1509658481452">
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/rb/RingBufferTest.java" timestamp="1509659417342">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -2707,11 +2707,12 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/RingBuffer.java" timestamp="1509658727836">
-        <mark key="'" line="24" column="33" />
-        <mark key="[" line="47" column="89" />
-        <mark key="]" line="47" column="89" />
-        <mark key="." line="47" column="89" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/RingBuffer.java" timestamp="1509659381874">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+        <mark key="^" line="25" column="46" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/offheap_classes/UpcastedInterface.java" timestamp="1506625295794">
         <mark key="[" line="12" column="30" />
@@ -2775,8 +2776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/rb/SingleProducerTest.java" />
-      <jump line="68" column="18" filename="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/rb/SingleProducerTest.java" />
       <jump line="22" column="10" filename="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/rb/EventPollerTest.java" />
       <jump line="4" column="42" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/EventPoller.java" />
       <jump line="10" column="26" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/EventPoller.java" />
@@ -2875,16 +2874,18 @@
       <jump line="173" column="6" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/RingBuffer.java" />
       <jump line="23" column="33" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/RingBuffer.java" />
+      <jump line="76" column="42" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/RingBuffer.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/RingBuffer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>// align on page instead?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>// align on page instead?</text>
+        <text>new UnsafeBuffer(sequencer.getBuffer(), BitUtils.SIZE_OF_CACHE_LINE)); // offset from cursor</text>
       </register>
       <register name="/" type="4">
         <text>bytearray</text>
@@ -2896,16 +2897,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFVuc2FmZUJ1ZmZlciBjYWxjdWxhdGVBbmRDcmVhdGVCdWZmZXIoaW50IGVsZW1lbnRzLCBmaW5hbCBBbGxvY2F0b3IgYWxsb2NhdG9yKSB7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gIHByaXZhdGUgY2xhc3MgRXZlbnRHZXRGdXR1cmUgaW1wbGVtZW50cyBDYWxsYWJsZTxFeGFtcGxlRXZlbnQ+IHsKLy8KLy8gICAgcHJpdmF0ZSBmaW5hbCBFeGFtcGxlRXZlbnQgZXZlbnRzOwovLyAgICBwcml2YXRlIGZpbmFsIFJpbmdCdWZmZXI8RXhhbXBsZUV2ZW50PiByYjsKLy8KLy8gICAgRXZlbnRHZXRGdXR1cmUoUmluZ0J1ZmZlcjxFeGFtcGxlRXZlbnQ+IHJiKSB7Ci8vICAgICAgdGhpcy5yYiA9IHJiOwovLyAgICAgIHRoaXMuZXZlbnRzID0gQWxsb2NhdG9yLm9mKEV4YW1wbGVFdmVudC5jbGFzcykuYWxsb2NhdGUoMzIpOwovLyAgICB9Ci8vCi8vICAgIEBPdmVycmlkZQovLyAgICBwdWJsaWMgRXhhbXBsZUV2ZW50IGNhbGwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8KLy8gICAgICB3aGlsZSAocmIuZ2V0Q3Vyc29yKCkgPT0gU2VxdWVuY2UuSU5JVElBTF9WQUxVRSkgeyB9Ci8vCi8vICAgICAgaW50IGF2YWlsYWJsZSA9IHJiLmdldEF2YWlsYWJsZSgpOwovLyAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IGF2YWlsYWJsZTsgaSsrKSB7Ci8vICAgICAgICBldmVudHMuc2V0SW5kZXgoaSk7Ci8vICAgICAgICBldmVudHMuY29weShyYi5nZXQoaSkpOwovLyAgICAgIH0KLy8KLy8gICAgICByZXR1cm4gZXZlbnRzOwovLyAgICB9Ci8vICB9</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGludCBwYWRkZWRFbGVtZW50cyA9IEJpdFV0aWxzLmZpbmROZXh0UG93ZXJPZlR3byhlbGVtZW50cyk7CiAgICBpbnQgdG90YWxSZXF1ZXN0ZWRCeXRlcyA9IGFsbG9jYXRvci5zaXplb2YoKSAqIHBhZGRlZEVsZW1lbnRzICsgQml0VXRpbHMuU0laRV9PRl9DQUNIRV9MSU5FOwogICAgaW50IGFsaWduZWRCeXRlcyA9IEJpdFV0aWxzLmFsaWduKHRvdGFsUmVxdWVzdGVkQnl0ZXMsIEJpdFV0aWxzLlNJWkVfT0ZfQ0FDSEVfTElORSk7IC8vIGFsaWduIG9uIHBhZ2UgaW5zdGVhZD8KCiAgICBVbnNhZmVCdWZmZXIgYnVmZmVyID0gbmV3IFVuc2FmZUJ1ZmZlcihuZXcgYnl0ZVthbGlnbmVkQnl0ZXNdKTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3048,16 +3049,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9vcEJvdW5kID0gc2VxdWVuY2VyLmdldENhcGFjaXR5KCkgLSAxOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFVuc2FmZUJ1ZmZlciBjYWxjdWxhdGVBbmRDcmVhdGVCdWZmZXIoaW50IGVsZW1lbnRzLCBmaW5hbCBBbGxvY2F0b3IgYWxsb2NhdG9yKSB7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZXF1ZW5jZXIuZ2V0QnVmZmVyKCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGludCBwYWRkZWRFbGVtZW50cyA9IEJpdFV0aWxzLmZpbmROZXh0UG93ZXJPZlR3byhlbGVtZW50cyk7CiAgICBpbnQgdG90YWxSZXF1ZXN0ZWRCeXRlcyA9IGFsbG9jYXRvci5zaXplb2YoKSAqIHBhZGRlZEVsZW1lbnRzICsgQml0VXRpbHMuU0laRV9PRl9DQUNIRV9MSU5FOwogICAgaW50IGFsaWduZWRCeXRlcyA9IEJpdFV0aWxzLmFsaWduKHRvdGFsUmVxdWVzdGVkQnl0ZXMsIEJpdFV0aWxzLlNJWkVfT0ZfQ0FDSEVfTElORSk7IC8vIGFsaWduIG9uIHBhZ2UgaW5zdGVhZD8KCiAgICBVbnNhZmVCdWZmZXIgYnVmZmVyID0gbmV3IFVuc2FmZUJ1ZmZlcihuZXcgYnl0ZVthbGlnbmVkQnl0ZXNdKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBidWZmZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3111,8 +3112,8 @@
         <entry>Wa</entry>
         <entry>vsp</entry>
         <entry>wea</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
