@@ -63,11 +63,11 @@
         <mark key="." line="37" column="74" />
         <mark key="^" line="37" column="74" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1509632599175">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="^" line="106" column="1" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1509634749152">
+        <mark key="[" line="53" column="50" />
+        <mark key="]" line="53" column="50" />
+        <mark key="." line="53" column="50" />
+        <mark key="^" line="53" column="60" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/WTSItch50SymbolPlayer.java" timestamp="1505154635758">
         <mark key="[" line="62" column="76" />
@@ -182,6 +182,11 @@
         <mark key="]" line="83" column="59" />
         <mark key="." line="83" column="59" />
         <mark key="^" line="83" column="59" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/utils/UnsafeAccess.java" timestamp="1509634740735">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/SpinWaitPolicy.java" timestamp="1509562068991">
         <mark key="[" line="23" column="0" />
@@ -2946,29 +2951,29 @@
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>$targetCompatibility&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>buildsc</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KCkgLT4gewogICAgICAgICAgICBpZiAoZmFsc2UpIHsKICAgICAgICAgICAgICByZXR1cm4gNzsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJjaGVja2VkIik7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoImRlcHJlY2F0aW9uIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1heFBhcmFsbGVsRm9ya3MgPSBSdW50aW1lLnJ1bnRpbWUuYXZhaWxhYmxlUHJvY2Vzc29ycygpLmludFZhbHVlKCkgLyAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0YXNrcy53aXRoVHlwZShUZXN0KSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -3110,17 +3115,17 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBkZXBlbmRlbmN5TWFuYWdlbWVudCB7CiAgICBpbXBvcnRzIHsKICAgICAgbWF2ZW5Cb20gYm9tcy5hd3MKICAgICAgbWF2ZW5Cb20gYm9tcy5qYWNrc29uCiAgICAgIG1hdmVuQm9tIGJvbXMuc2xmNGoKICAgIH0KICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkZXBlbmRlbmNpZXMgewo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGxpYnMuanVuaXQKICAgIHRlc3RDb21waWxlIGxpYnMua290bGluVGVzdAogICAgdGVzdENvbXBpbGUgbGlicy5rb3RsaW5UZXN0SnVuaXQKICAgIHRlc3RDb21waWxlICJvcmcuYXBpZ3VhcmRpYW46YXBpZ3VhcmRpYW4tYXBpOjEuMC4wIiAvLyByZW1vdmUgcGVuZGluZyB1cGRhdGUgdG8ganVuaXQ1LCBzaWxlbmNlcyB1bmtub3duIGVudW0gZXJyb3JzCiAgICB0ZXN0UnVudGltZSBsaWJzLmp1bml0Q29uc29sZQogICAgdGVzdFJ1bnRpbWUgbGlicy5qdW5pdExhdW5jaGVyCiAgICB0ZXN0UnVudGltZSBsaWJzLmp1bml0RW5naW5l</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3175,10 +3180,10 @@
         <entry>&quot;w</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>Wa</entry>
         <entry>Lw</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>Wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
