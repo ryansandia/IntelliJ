@@ -21,7 +21,7 @@
         <mark key="." line="113" column="15" />
         <mark key="^" line="113" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1509724041093">
+      <file name="/a.dummy" timestamp="1509725112539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="82" />
@@ -663,13 +663,13 @@
         <mark key="." line="11" column="63" />
         <mark key="^" line="11" column="63" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" timestamp="1509724364978">
-        <mark key="a" line="171" column="22" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="354" column="30" />
-        <mark key="]" line="354" column="30" />
-        <mark key="." line="354" column="30" />
-        <mark key="^" line="354" column="30" />
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" timestamp="1509725005237">
+        <mark key="a" line="524" column="32" />
+        <mark key="'" line="402" column="29" />
+        <mark key="[" line="528" column="12" />
+        <mark key="]" line="528" column="35" />
+        <mark key="." line="528" column="35" />
+        <mark key="^" line="528" column="35" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/md/ResearchTradeUtils.kt" timestamp="1505152195363">
         <mark key="[" line="62" column="26" />
@@ -2781,9 +2781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="67" filename="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/RingBuffer.java" />
-      <jump line="87" column="16" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="517" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="61" column="64" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="162" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="226" column="29" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
@@ -2881,37 +2878,40 @@
       <jump line="85" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="171" column="22" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
+      <jump line="524" column="32" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
+      <jump line="530" column="17" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
+      <jump line="402" column="29" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>instruction.</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>instruction.</text>
       </register>
       <register name="/" type="4">
-        <text>owner</text>
+        <text>CAS</text>
       </register>
       <register name="0" type="4">
         <text>l</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLy8gTG9uZyAvLy8K</text>
+        <text encoding="base64">ICAvLy8gSW50IC8vLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICAvLy8gTG9uZyAvLy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWRkcmVzcyA9IDA7Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgYWRkcmVzcyA9IDA7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3051,25 +3051,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvd25lcjsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>owner</last-search>
+      <last-search>CAS</last-search>
       <last-offset />
-      <last-pattern>owner</last-pattern>
+      <last-pattern>CAS</last-pattern>
       <last-replace>Longs</last-replace>
       <last-substitute>Doubles</last-substitute>
       <last-dir>1</last-dir>
@@ -3077,7 +3077,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sampleStat</entry>
         <entry>\, 1</entry>
         <entry>, 1</entry>
         <entry encoding="base64">XDxhbGlnbmVkQnl0ZXNcPg==</entry>
@@ -3097,6 +3096,7 @@
         <entry>numslo</entry>
         <entry>throw</entry>
         <entry>owner</entry>
+        <entry>CAS</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
