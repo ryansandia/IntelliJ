@@ -663,13 +663,13 @@
         <mark key="." line="11" column="63" />
         <mark key="^" line="11" column="63" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" timestamp="1509725939912">
-        <mark key="a" line="524" column="32" />
-        <mark key="'" line="402" column="29" />
-        <mark key="[" line="854" column="12" />
-        <mark key="]" line="853" column="38" />
-        <mark key="." line="853" column="38" />
-        <mark key="^" line="853" column="38" />
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" timestamp="1509727786486">
+        <mark key="a" line="527" column="32" />
+        <mark key="'" line="405" column="29" />
+        <mark key="[" line="243" column="12" />
+        <mark key="]" line="243" column="37" />
+        <mark key="." line="243" column="37" />
+        <mark key="^" line="243" column="37" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/kotlin/com/sandiacap/research/md/ResearchTradeUtils.kt" timestamp="1505152195363">
         <mark key="[" line="62" column="26" />
@@ -2886,11 +2886,11 @@
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Endian to get as (does nothing).</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBTdHJpbmcK</text>
       </register>
       <register name="-" type="4">
-        <text>Endian to get as (does nothing).</text>
+        <text>in source</text>
       </register>
       <register name="/" type="4">
         <text>CAS</text>
@@ -2899,19 +2899,19 @@
         <text>l</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLy8gQnl0ZSAvLy8K</text>
+        <text encoding="base64">ICAvLyBTdHJpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAvLy8gQnl0ZSAvLy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLy8gQ2hhciAvLy8K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3051,16 +3051,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgLy8vIERvdWJsZSAvLy8K</text>
+        <text encoding="base64">ICAvLy8gQ2hhciAvLy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLy8gRmxvYXQgLy8vCg==</text>
+        <text encoding="base64">CiAgLy8vIERvdWJsZSAvLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLy8gU2hvcnQgLy8vCg==</text>
+        <text encoding="base64">ICAvLy8gRmxvYXQgLy8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLy8gSW50IC8vLwo=</text>
+        <text encoding="base64">ICAvLy8gU2hvcnQgLy8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
