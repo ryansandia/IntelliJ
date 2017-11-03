@@ -63,11 +63,11 @@
         <mark key="." line="37" column="74" />
         <mark key="^" line="37" column="74" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1509652865562">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
+      <file name="$USER_HOME$/Source/cbceval/build.gradle" timestamp="1509661263182">
+        <mark key="[" line="102" column="3" />
+        <mark key="]" line="102" column="2" />
+        <mark key="." line="102" column="2" />
+        <mark key="^" line="102" column="2" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/md/itch/WTSItch50SymbolPlayer.java" timestamp="1505154635758">
         <mark key="[" line="62" column="76" />
@@ -290,10 +290,10 @@
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/rb/RingBufferTest.java" timestamp="1509659417342">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/rb/RingBufferTest.java" timestamp="1509661094386">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/other/src/main/java/com/sandiacap/historical/itchStriper/Main.java" timestamp="1499975425506">
         <mark key="[" line="92" column="32" />
@@ -2899,14 +2899,14 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gIHByaXZhdGUgY2xhc3MgRXZlbnRHZXRGdXR1cmUgaW1wbGVtZW50cyBDYWxsYWJsZTxFeGFtcGxlRXZlbnQ+IHsKLy8KLy8gICAgcHJpdmF0ZSBmaW5hbCBFeGFtcGxlRXZlbnQgZXZlbnRzOwovLyAgICBwcml2YXRlIGZpbmFsIFJpbmdCdWZmZXI8RXhhbXBsZUV2ZW50PiByYjsKLy8KLy8gICAgRXZlbnRHZXRGdXR1cmUoUmluZ0J1ZmZlcjxFeGFtcGxlRXZlbnQ+IHJiKSB7Ci8vICAgICAgdGhpcy5yYiA9IHJiOwovLyAgICAgIHRoaXMuZXZlbnRzID0gQWxsb2NhdG9yLm9mKEV4YW1wbGVFdmVudC5jbGFzcykuYWxsb2NhdGUoMzIpOwovLyAgICB9Ci8vCi8vICAgIEBPdmVycmlkZQovLyAgICBwdWJsaWMgRXhhbXBsZUV2ZW50IGNhbGwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8KLy8gICAgICB3aGlsZSAocmIuZ2V0Q3Vyc29yKCkgPT0gU2VxdWVuY2UuSU5JVElBTF9WQUxVRSkgeyB9Ci8vCi8vICAgICAgaW50IGF2YWlsYWJsZSA9IHJiLmdldEF2YWlsYWJsZSgpOwovLyAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IGF2YWlsYWJsZTsgaSsrKSB7Ci8vICAgICAgICBldmVudHMuc2V0SW5kZXgoaSk7Ci8vICAgICAgICBldmVudHMuY29weShyYi5nZXQoaSkpOwovLyAgICAgIH0KLy8KLy8gICAgICByZXR1cm4gZXZlbnRzOwovLyAgICB9Ci8vICB9</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gIHByaXZhdGUgY2xhc3MgRXZlbnRHZXRGdXR1cmUgaW1wbGVtZW50cyBDYWxsYWJsZTxFeGFtcGxlRXZlbnQ+IHsKLy8KLy8gICAgcHJpdmF0ZSBmaW5hbCBFeGFtcGxlRXZlbnQgZXZlbnRzOwovLyAgICBwcml2YXRlIGZpbmFsIFJpbmdCdWZmZXI8RXhhbXBsZUV2ZW50PiByYjsKLy8KLy8gICAgRXZlbnRHZXRGdXR1cmUoUmluZ0J1ZmZlcjxFeGFtcGxlRXZlbnQ+IHJiKSB7Ci8vICAgICAgdGhpcy5yYiA9IHJiOwovLyAgICAgIHRoaXMuZXZlbnRzID0gQWxsb2NhdG9yLm9mKEV4YW1wbGVFdmVudC5jbGFzcykuYWxsb2NhdGUoMzIpOwovLyAgICB9Ci8vCi8vICAgIEBPdmVycmlkZQovLyAgICBwdWJsaWMgRXhhbXBsZUV2ZW50IGNhbGwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8KLy8gICAgICB3aGlsZSAocmIuZ2V0Q3Vyc29yKCkgPT0gU2VxdWVuY2UuSU5JVElBTF9WQUxVRSkgeyB9Ci8vCi8vICAgICAgaW50IGF2YWlsYWJsZSA9IHJiLmdldEF2YWlsYWJsZSgpOwovLyAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IGF2YWlsYWJsZTsgaSsrKSB7Ci8vICAgICAgICBldmVudHMuc2V0SW5kZXgoaSk7Ci8vICAgICAgICBldmVudHMuY29weShyYi5nZXQoaSkpOwovLyAgICAgIH0KLy8KLy8gICAgICByZXR1cm4gZXZlbnRzOwovLyAgICB9Ci8vICB9</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3046,19 +3046,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFVuc2FmZUJ1ZmZlciBjYWxjdWxhdGVBbmRDcmVhdGVCdWZmZXIoaW50IGVsZW1lbnRzLCBmaW5hbCBBbGxvY2F0b3IgYWxsb2NhdG9yKSB7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGludCBwYWRkZWRFbGVtZW50cyA9IEJpdFV0aWxzLmZpbmROZXh0UG93ZXJPZlR3byhlbGVtZW50cyk7CiAgICBpbnQgdG90YWxSZXF1ZXN0ZWRCeXRlcyA9IGFsbG9jYXRvci5zaXplb2YoKSAqIHBhZGRlZEVsZW1lbnRzICsgQml0VXRpbHMuU0laRV9PRl9DQUNIRV9MSU5FOwogICAgaW50IGFsaWduZWRCeXRlcyA9IEJpdFV0aWxzLmFsaWduKHRvdGFsUmVxdWVzdGVkQnl0ZXMsIEJpdFV0aWxzLlNJWkVfT0ZfQ0FDSEVfTElORSk7IC8vIGFsaWduIG9uIHBhZ2UgaW5zdGVhZD8KCiAgICBVbnNhZmVCdWZmZXIgYnVmZmVyID0gbmV3IFVuc2FmZUJ1ZmZlcihuZXcgYnl0ZVthbGlnbmVkQnl0ZXNdKTs=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFVuc2FmZUJ1ZmZlciBjYWxjdWxhdGVBbmRDcmVhdGVCdWZmZXIoaW50IGVsZW1lbnRzLCBmaW5hbCBBbGxvY2F0b3IgYWxsb2NhdG9yKSB7Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGludCBwYWRkZWRFbGVtZW50cyA9IEJpdFV0aWxzLmZpbmROZXh0UG93ZXJPZlR3byhlbGVtZW50cyk7CiAgICBpbnQgdG90YWxSZXF1ZXN0ZWRCeXRlcyA9IGFsbG9jYXRvci5zaXplb2YoKSAqIHBhZGRlZEVsZW1lbnRzICsgQml0VXRpbHMuU0laRV9PRl9DQUNIRV9MSU5FOwogICAgaW50IGFsaWduZWRCeXRlcyA9IEJpdFV0aWxzLmFsaWduKHRvdGFsUmVxdWVzdGVkQnl0ZXMsIEJpdFV0aWxzLlNJWkVfT0ZfQ0FDSEVfTElORSk7IC8vIGFsaWduIG9uIHBhZ2UgaW5zdGVhZD8KCiAgICBVbnNhZmVCdWZmZXIgYnVmZmVyID0gbmV3IFVuc2FmZUJ1ZmZlcihuZXcgYnl0ZVthbGlnbmVkQnl0ZXNdKTs=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -3112,8 +3112,8 @@
         <entry>Wa</entry>
         <entry>vsp</entry>
         <entry>wea</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
