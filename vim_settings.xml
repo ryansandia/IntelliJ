@@ -237,11 +237,11 @@
         <mark key="." line="63" column="18" />
         <mark key="^" line="63" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/Subscriber.java" timestamp="1509734008070">
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="27" column="6" />
-        <mark key="." line="27" column="6" />
-        <mark key="^" line="27" column="6" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/Subscriber.java" timestamp="1509738152606">
+        <mark key="[" line="46" column="66" />
+        <mark key="]" line="46" column="66" />
+        <mark key="." line="46" column="66" />
+        <mark key="^" line="46" column="66" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/offheap/OffHeapStruct.java" timestamp="1498605751687">
         <mark key="[" line="10" column="0" />
@@ -1995,6 +1995,13 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/build.gradle" timestamp="1509735107323">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="17" column="52" />
+        <mark key="." line="17" column="52" />
+        <mark key="^" line="17" column="52" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/event/Publisher.java" timestamp="1498511689346">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -2318,11 +2325,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/TestEvent.java" timestamp="1509733448161">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="8" column="26" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/TestEvent.java" timestamp="1509738299187">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="25" column="1" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="25" column="1" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/ansible/trading_setup/roles/core_switch/tasks/main.yml" timestamp="1507232337042">
         <mark key="[" line="9" column="0" />
@@ -2330,7 +2337,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1509630764254">
+      <file name="$USER_HOME$/Source/cbceval/nrt/build.gradle" timestamp="1509735017211">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="24" column="33" />
@@ -2548,11 +2555,11 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/Publisher.java" timestamp="1509734137854">
-        <mark key="[" line="16" column="101" />
-        <mark key="]" line="16" column="131" />
-        <mark key="." line="16" column="131" />
-        <mark key="^" line="16" column="131" />
+      <file name="$USER_HOME$/Source/cbceval/people/ryan/src/main/java/com/sandiacap/scratch/ryan/Publisher.java" timestamp="1509739012089">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="34" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/containers/LongComparator.java" timestamp="1504128726223">
         <mark key="[" line="0" column="42" />
@@ -2797,7 +2804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="226" column="29" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="293" column="29" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="303" column="47" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
@@ -2897,37 +2903,38 @@
       <jump line="530" column="17" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="402" column="29" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="139" column="19" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/offheap/generator/BytecodeGenerator.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Source/cbceval/people/ryan/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1024</text>
+        <text>next);</text>
       </register>
       <register name="-" type="4">
-        <text>1024</text>
+        <text>next);</text>
       </register>
       <register name="/" type="4">
         <text>CAS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJpbmdCdWZmZXI8VGVzdEV2ZW50PiByYiA9IFJpbmdCdWZmZXIubmV3U2luZ2xlUHJvZHVjZXIoMTAyNCwgbW1maWxlLm5ld1Vuc2FmZUJ1ZmZlcigpLCBUZXN0RXZlbnQuY2xhc3MsIG5ldyBTcGluV2FpdFBvbGljeSgpKTsK</text>
+        <text encoding="base64">ICAgICAgdGVzdEV2ZW50LnNldFZhbHVlKCsrdmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgZm9yIChsb25nIGkgPSAwOyBpIDwgMTAwMDAwMDAwMEw7IGkrKykgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">Ly8gICAgICB0ZXN0RXZlbnQuc2V0VGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb25nIGdldEZpZWxkMigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFVuc2FmZUJ1ZmZlciBidWZmZXIgPSBtbWZpbGUubmV3VW5zYWZlQnVmZmVyKCk7Cg==</text>
+        <text encoding="base64">ICBARmllbGRPcmRlcigyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldyAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3067,16 +3074,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBTdHJpbmcK</text>
+        <text encoding="base64">ICAgIFRocmVhZC5zbGVlcCgxMDAwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLy8gQnl0ZSAvLy8K</text>
+        <text encoding="base64">ICAgICAgVGhyZWFkLnNsZWVwKDEwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICBncm91cCAnYXBwbGljYXRpb24nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
