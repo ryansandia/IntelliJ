@@ -21,7 +21,7 @@
         <mark key="." line="97" column="22" />
         <mark key="^" line="97" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1509982111475">
+      <file name="/a.dummy" timestamp="1509984225436">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="82" />
@@ -346,12 +346,12 @@
         <mark key="^" line="22" column="90" />
         <mark key="." line="22" column="90" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/io/MemoryMappedFileTest.java" timestamp="1509982354445">
+      <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/io/MemoryMappedFileTest.java" timestamp="1509984128161">
         <mark key="'" line="79" column="19" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="88" column="6" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="81" column="19" />
+        <mark key="]" line="81" column="22" />
+        <mark key="^" line="81" column="22" />
+        <mark key="." line="81" column="22" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/common/Ticker.java" timestamp="1507760185335">
         <mark key="[" line="12" column="13" />
@@ -2488,13 +2488,13 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" timestamp="1509983409300">
-        <mark key="a" line="171" column="29" />
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="213" column="26" />
-        <mark key="]" line="213" column="42" />
-        <mark key="." line="213" column="42" />
-        <mark key="^" line="213" column="42" />
+      <file name="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" timestamp="1509984289369">
+        <mark key="a" line="173" column="29" />
+        <mark key="'" line="165" column="4" />
+        <mark key="[" line="118" column="54" />
+        <mark key="]" line="118" column="53" />
+        <mark key="." line="118" column="53" />
+        <mark key="^" line="118" column="53" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/xnas/itch50/OrderAddMsg.java" timestamp="1505343677235">
         <mark key="[" line="49" column="24" />
@@ -2800,13 +2800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="34" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="214" column="27" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="220" column="26" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="227" column="34" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="228" column="38" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="229" column="26" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
-      <jump line="236" column="37" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="241" column="32" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="247" column="29" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
       <jump line="258" column="25" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/UnsafeBuffer.java" />
@@ -2900,22 +2893,29 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
       <jump line="171" column="29" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
+      <jump line="115" column="9" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
+      <jump line="118" column="54" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
+      <jump line="124" column="42" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
+      <jump line="133" column="12" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
+      <jump line="136" column="17" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
+      <jump line="157" column="34" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
+      <jump line="165" column="4" filename="$USER_HOME$/Source/cbceval/core/src/main/java/com/sandiacap/core/io/MemoryMappedFile.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>is only valid for opening existing file, optional parameter.</text>
+        <text>4096</text>
       </register>
       <register name="-" type="4">
-        <text>is only valid for opening existing file, optional parameter.</text>
+        <text>4096</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBGaWxlXD4=</text>
+        <text>capac</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBhZGRyZXNzICE9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKDQwOTYsIG1hcHBlZEZpbGUuZ2V0Q2FwYWNpdHkoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYmFja2luZ0ZpbGUuCg==</text>
@@ -3086,9 +3086,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBGaWxlXD4=</last-search>
+      <last-search>capac</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBGaWxlXD4=</last-pattern>
+      <last-pattern>capac</last-pattern>
       <last-replace>mappedFile</last-replace>
       <last-substitute>mmfile</last-substitute>
       <last-dir>1</last-dir>
@@ -3096,7 +3096,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGlnbmVkQnl0ZXNcPg==</entry>
         <entry>newpoll</entry>
         <entry>cursor</entry>
         <entry>sequencer</entry>
@@ -3116,6 +3115,7 @@
         <entry>CAS</entry>
         <entry>mmfile</entry>
         <entry encoding="base64">XDxtYXBGaWxlXD4=</entry>
+        <entry>capac</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VwZGF0ZXIvU0VRVUVOQ0VfVVBEQVRFUi9n</entry>
