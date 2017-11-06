@@ -21,7 +21,7 @@
         <mark key="." line="97" column="22" />
         <mark key="^" line="97" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1509984225436">
+      <file name="/a.dummy" timestamp="1509991856797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="82" />
@@ -1302,12 +1302,12 @@
         <mark key="^" line="21" column="99" />
         <mark key="." line="21" column="99" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/internal/SingleProducerSequencer.java" timestamp="1509987402057">
-        <mark key="'" line="87" column="11" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="106" column="10" />
-        <mark key="." line="106" column="10" />
-        <mark key="^" line="106" column="10" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/internal/SingleProducerSequencer.java" timestamp="1509992040638">
+        <mark key="'" line="86" column="11" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="46" column="31" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/test/java/com/sandiacap/realtime/md/itch50/SystemEventTest.java" timestamp="1498142256080">
         <mark key="[" line="10" column="13" />
@@ -2742,13 +2742,13 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/RingBuffer.java" timestamp="1509988986316">
-        <mark key="a" line="152" column="4" />
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="37" column="24" />
-        <mark key="." line="37" column="24" />
-        <mark key="^" line="37" column="24" />
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/rb/RingBuffer.java" timestamp="1509991585577">
+        <mark key="a" line="151" column="4" />
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="35" />
+        <mark key="." line="38" column="35" />
+        <mark key="^" line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/core/src/test/java/com/sandiacap/core/offheap/offheap_classes/UpcastedInterface.java" timestamp="1506625295794">
         <mark key="[" line="12" column="30" />
@@ -2917,32 +2917,32 @@
       <register name="a" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWxlbWVudHMgaW4g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxlbWVudHMgaW4g</text>
+        <text>(minSequence = gatingSequences.get(next))) {</text>
       </register>
       <register name="/" type="4">
-        <text>getnext</text>
+        <text>signal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhQb2xsU3RhdGUuUFJPQ0VTU0lORywgcG9sbGVyLnBvbGwoaGFuZGxlcikpOyAvLyB3YWl0aW5nIG9uIGhhbmRsZXIgdG8gY2F0Y2h1cAo=</text>
+        <text encoding="base64">ICAgICAgd2hpbGUgKHdyYXBQb2ludCA+IChtaW5TZXF1ZW5jZSA9IGdhdGluZ1NlcXVlbmNlcy5nZXQobmV4dCkpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZXF1ZW5jZS5nZXQoKSArIDFMOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIC0tIHdhaXRGb3IgYmFzZWQgb24gd2FpdFBvbGljeS4uLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxvbmcgZ2V0TmV4dFNlcXVlbmNlKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB3YWl0UG9saWN5LnNpZ25hbEJsb2NrZWQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICAgICAgd2hpbGUgKHdyYXBQb2ludCA+IChtaW5TZXF1ZW5jZSA9IGdhdGluZ1NlcXVlbmNlcy5nZXQobmV4dCkpKSB7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3082,25 +3082,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgd2hpbGUgKHdyYXBQb2ludCA+IG1pblNlcXVlbmNlKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gPFQ+IFR5cGUgCg==</text>
+        <text encoding="base64">ICAgICAgbG9uZyBtaW5TZXF1ZW5jZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIC0tIHNwaW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHZvaWQgZ2F0ZWRQb2xsKCkgewogICAgU2VxdWVuY2UgZGVwZW5kZW50U2VxID0gbmV3IFNlcXVlbmNlKCk7CiAgICByYi5hZGRHYXRpbmdTZXF1ZW5jZShkZXBlbmRlbnRTZXEpOwogICAgcG9sbGVyID0gcmIubmV3UG9sbGVyKGRlcGVuZGVudFNlcSk7CgogICAgcmIucHVibGlzaChyYi5uZXh0KCkpOwogICAgYXNzZXJ0RXF1YWxzKFBvbGxTdGF0ZS5QUk9DRVNTSU5HLCBwb2xsZXIucG9sbChoYW5kbGVyKSk7IC8vIHdhaXRpbmcgb24gaGFuZGxlciB0byBjYXRjaHVwCiAgfQo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gPFQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getnext</last-search>
+      <last-search>signal</last-search>
       <last-offset />
-      <last-pattern>getnext</last-pattern>
+      <last-pattern>signal</last-pattern>
       <last-replace>mappedFile</last-replace>
       <last-substitute>mmfile</last-substitute>
       <last-dir>1</last-dir>
@@ -3108,7 +3108,6 @@
     </search>
     <history>
       <history-search>
-        <entry>putdou</entry>
         <entry>getlong</entry>
         <entry>Doubles</entry>
         <entry>mapped</entry>
@@ -3128,6 +3127,7 @@
         <entry encoding="base64">XDxhdmFpbGFibGVTZXF1ZW5jZVw+</entry>
         <entry>addta</entry>
         <entry>getnext</entry>
+        <entry>signal</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VwZGF0ZXIvU0VRVUVOQ0VfVVBEQVRFUi9n</entry>
