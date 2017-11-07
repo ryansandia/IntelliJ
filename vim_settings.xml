@@ -690,6 +690,12 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/cpp/build.gradle" timestamp="1510079423391">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+      </file>
       <file name="$USER_HOME$/Source/cbceval/nrt/src/main/java/com/sandiacap/nrt/striper/CheckedS3FileOutputStream.java" timestamp="1501078173116">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -917,12 +923,6 @@
         <mark key="]" line="2" column="50" />
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
-      </file>
-      <file name="$USER_HOME$/Source/cbceval/settings.gradle" timestamp="1509640994570">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="20" column="66" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/protocol/itch50/SystemEventMsg.java" timestamp="1503695932278">
         <mark key="[" line="5" column="52" />
@@ -1404,6 +1404,12 @@
         <mark key="]" line="4" column="14" />
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/Source/cbceval/realtime/src/main/cpp/exanic/build.gradle" timestamp="1510079758622">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
       </file>
       <file name="$USER_HOME$/Source/cbceval/realtime/src/main/java/com/sandiacap/realtime/md/pitch/Time.java" timestamp="1501262155253">
         <mark key="[" line="15" column="14" />
@@ -2918,10 +2924,10 @@
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWZhdWx0IFRpY2tlciBnZXRUaWNrZXIoKSB7IHJldHVybiBUaWNrZXIuZnJvbShTdHJpbmdVdGlscy5mcm9tKGdldFRpY2tlckFzTG9uZygpKSk7IH0KCiAgZGVmYXVsdCB2b2lkIHNldFRpY2tlcihmaW5hbCBUaWNrZXIgc3RyKSB7CiAgICBsb25nIHZhbHVlID0gU3RyaW5nVXRpbHMudG9Mb25nKHN0ci50b1N0cmluZygpKTsKICAgIHNldFRpY2tlclRvcDRCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZUludEZyb21Mb25nKHZhbHVlKSk7CiAgICBzZXRUaWNrZXJCb3R0b20yQnl0ZXMoVGlja2VyQnl0ZVV0aWxzLmRlZmxhdGVTaG9ydEZyb21Mb25nKHZhbHVlKSk7CiAgfQoKICBkZWZhdWx0IGxvbmcgZ2V0VGlja2VyQXNMb25nKCkgewogICAgcmV0dXJuIFRpY2tlckJ5dGVVdGlscy5pbmZsYXRlU3RyaW5nQnl0ZXNUb0xvbmcoZ2V0VGlja2VyVG9wNEJ5dGVzKCksIGdldFRpY2tlckJvdHRvbTJCeXRlcygpKTsKICB9CgogIGRlZmF1bHQgdm9pZCBzZXRUaWNrZXJBc0xvbmcobG9uZyB2YWx1ZSkgewogICAgc2V0VGlja2VyVG9wNEJ5dGVzKFRpY2tlckJ5dGVVdGlscy5kZWZsYXRlSW50RnJvbUxvbmcodmFsdWUpKTsKICAgIHNldFRpY2tlckJvdHRvbTJCeXRlcyhUaWNrZXJCeXRlVXRpbHMuZGVmbGF0ZVNob3J0RnJvbUxvbmcodmFsdWUpKTsKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0530</text>
+        <text>nic</text>
       </register>
       <register name="-" type="4">
-        <text>0530</text>
+        <text>nic</text>
       </register>
       <register name="/" type="4">
         <text>signal</text>
@@ -3094,7 +3100,7 @@
         <text encoding="base64">ICAgIEFsbG9jYXRvciBhbGxvY2F0b3IgPSBBbGxvY2F0b3Iub2Yoa2xhc3MpOwoKICAgIGlmICghQml0VXRpbHMuaXNQb3dlck9mVHdvKGVsZW1lbnRzKSkgewogICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKGVsZW1lbnRzICsgIiBpcyBub3QgcG93ZXItb2YtdHdvIGNvdW50Iik7CiAgICB9CgogICAgaW50IHRvdGFsUmVxdWVzdGVkQnl0ZXMgPSAoYWxsb2NhdG9yLnNpemVvZigpICogZWxlbWVudHMpICsgQml0VXRpbHMuU0laRV9PRl9DQUNIRV9MSU5FOwogICAgTWVtb3J5TWFwcGVkRmlsZSBtYXBwZWRGaWxlID0gbmV3IEJ1aWxkZXIoKS5maWxlbmFtZShmaWxlbmFtZSkuY2FwYWNpdHkodG90YWxSZXF1ZXN0ZWRCeXRlcykuYnVpbGQoKTsKICAgIFVuc2FmZUJ1ZmZlciBidWZmZXIgPSBtYXBwZWRGaWxlLm5ld1Vuc2FmZUJ1ZmZlcigpOwoKICAgIFNpbmdsZVByb2R1Y2VyU2VxdWVuY2VyIHNlcXVlbmNlciA9IG5ldyBTaW5nbGVQcm9kdWNlclNlcXVlbmNlcihlbGVtZW50cywgYnVmZmVyLCB3YWl0UG9saWN5KTsKICAgIHJldHVybiBuZXcgUmluZ0J1ZmZlcjw+KHNlcXVlbmNlciwgYWxsb2NhdG9yLCBtYXBwZWRGaWxlKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wqa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3148,8 +3154,8 @@
         <entry>%s/mmfile/mappedFile/g</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>wqa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
